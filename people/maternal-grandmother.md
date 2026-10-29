@@ -57,3 +57,4 @@ A calming presence (details to be completed).
 - Is she Papouche's wife and Béatrice's mother?
 - What was her day-to-day role when the family was housed in 1985?
 - Lillian's memories with her: the words, gestures and places that soothed her?
+- Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.

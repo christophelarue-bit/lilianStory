@@ -87,3 +87,5 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Her other childhood memories with Mark, including the first one?
 - Where did she go after leaving Syracuse, and to what extent does it match her New York City period and/or meeting Mohamed?
 - Other examples of the 15 years "on pause" with her father?
+- Dates: the return to the United States is told as after 15 years apart (around 2000, age about 21), but the files say around 1997 and 18. Which is right, and does it change the end of this period/era?
+- Sensitive subject (Clara's ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.

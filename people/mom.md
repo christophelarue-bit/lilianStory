@@ -69,3 +69,5 @@
 - How did she experience the decision to stay in France in 1985? Did she see Mark again afterward?
 - Mark's alcohol and debts: her version.
 - What ties with Lillian over the years?
+- Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.
+- Is Mamouche her mother and Papouche's wife (to be confirmed)? First names of both?

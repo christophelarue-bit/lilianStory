@@ -86,3 +86,6 @@
 - What is their relationship like today? When did they last see each other?
 - Did he start another family? Other children?
 - Question to ask Béatrice: the 1975-1980 period, the meeting, the first years as a couple.
+- Dates: the return to the United States is told as after 15 years apart (around 2000, age about 21), but the files say around 1997 and 18. Which is right, and does it change the end of this period/era?
+- Sensitive subject (Clara's ultimatum, his silence): validate with Lillian the wording and any use in a book.
+- Was Clara really Mark's partner (compagne), or something else? Nature of their relationship.

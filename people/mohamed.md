@@ -60,3 +60,4 @@ Husband for 15 years.
 - Origin, family, religion: what place does religion have in their life?
 - Alcohol: who exactly is this about?
 - Marriage: date, place, end of the marriage?
+- After leaving Syracuse, did Lillian go to New York City? To what extent does that departure connect to meeting Mohamed?

@@ -59,3 +59,5 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 - His relationship with Mark before 1985? How did Mark react when he was asked to settle his debts?
 - Where exactly was the family housed, and for how long?
 - Lillian's memories with him: the scenes, places and words that made him an anchor?
+- Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.
+- Is Mamouche his wife and Béatrice's mother (to be confirmed)?

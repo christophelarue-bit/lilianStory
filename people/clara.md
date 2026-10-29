@@ -57,3 +57,6 @@ She views unfavourably the closeness between Lillian and Mark. One day she asks 
 - Is she still with Mark today?
 - How did Lillian feel about her at first? What did Clara reproach her for, exactly?
 - Did Lillian and Clara ever speak again?
+- Confirm that Clara was Mark's partner (compagne): nature and length of their relationship.
+- How long after Lillian arrived did Mark meet her? The account mentions time passing before she entered his life.
+- Sensitive subject (ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.
