@@ -12,8 +12,8 @@ A period is a stretch of Lillian's life with its own place and dates. Each one b
 | [03-01 — Syracuse: finding Dad](03-01-syracuse-finding-dad.md) | Arrival on 11 September 1998, life with Mark, Clara's ultimatum, leaving Syracuse. |
 | [03-02 — New York City](03-02-new-york-city.md) | David, Walter, meeting Mohamed. |
 | [04-01 — Married life with Mohamed](04-01-married-life-with-mohamed.md) | 15 years of marriage (sensitive). |
-| [05-01 — Flight attendant](05-01-flight-attendant.md) | Starter. |
-| [05-02 — Nurse in Hawaii](05-02-nurse-in-hawaii.md) | Starter. |
+| [05-01 — Flight attendant](05-01-flight-attendant.md) | 2014-2016, Omni Air; the call of Hawaii. |
+| [05-02 — Nurse in Hawaii](05-02-nurse-in-hawaii.md) | Maui, from 2016, welcomed by David. |
 | [05-03 — Nurse in Alaska](05-03-nurse-in-alaska.md) | Starter. |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](06-01-daniel-brittany-ferries.md) | 2021, Rennes (sensitive). |
 | [06-02 — Apartment in Rennes](06-02-apartment-in-rennes.md) | A calmer period, close to family. |

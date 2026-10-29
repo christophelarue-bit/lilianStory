@@ -20,11 +20,12 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Clara](clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [Mohamed](mohamed.md) | Lillian's husband for 15 years (sensitive). |
 | [David (New York)](david-ny.md) | Brief Chinese flirt in New York. |
-| [David (friend)](david-friend.md) | Friend from era 05, with Adriana. |
+| [David (Hawaii)](david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [Walter](walter.md) | From Bangladesh, met in New York. |
 | [Yacine](yacine.md) | Met during the marriage, role to clarify. |
 | [Adriana](adriana.md) | Friend from era 05. |
 | [José](jose.md) | A love from era 05. |
+| [Kim](kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [Daniel](daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
 | [Christophe (Chris)](christophe.md) | Chris, minimal draft file. |
 
