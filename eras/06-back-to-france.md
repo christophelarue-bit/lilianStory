@@ -10,7 +10,7 @@
 
 ## Era summary
 
-In 2021, Lillian comes back to France. A romantic encounter that goes wrong, with the Rennes man, takes her to Rennes, where she goes through a second abortion, alone again, because the man does not take responsibility.
+In 2021, Lillian comes back to France. A romantic encounter that goes wrong, with Daniel, takes her to Rennes, where she goes through a second abortion, alone again, because the man does not take responsibility.
 
 There is also the Brittany Ferries experience (to clarify), and she hides her suffering from her family. Gwen asks her to come and look after her children right after the abortion, without taking any interest in her distress.
 
@@ -20,7 +20,7 @@ Then comes a calmer period, with her own apartment in Rennes, near her brother (
 
 | Period | Dates | Place |
 |---|---|---|
-| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](../periods/06-01-the-rennes-man-brittany-ferries.md) | 2021 | Rennes |
+| [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | 2021 | Rennes |
 | [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | to clarify | Rennes |
 
 ## Common thread and stakes
@@ -31,7 +31,7 @@ Getting closer to her family, hiding her pain, abandonment repeating itself, lon
 
 | Theme | Status |
 |---|---|
-| Lillian: the Rennes man, Rennes, the second abortion | to do |
+| Lillian: Daniel, Rennes, the second abortion | to do |
 | Lillian: Brittany Ferries, the family, Gwen | to do |
 | Lillian: the Rennes apartment, the calmer life | to do |
 
