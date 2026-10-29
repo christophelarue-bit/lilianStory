@@ -77,6 +77,7 @@ people/
   gwen.md
   xavier.md
   maternal-grandfather.md
+  maternal-grandmother.md
   clara.md
   mohamed.md
   david-ny.md
@@ -121,7 +122,8 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [mom](people/mom.md) | Béatrice, former au pair, lives in Saint-Brieuc, France. |
 | [gwen](people/gwen.md) | Younger sister, born in 1982, lives in Vendôme. |
 | [xavier](people/xavier.md) | Younger brother, born after summer 1985, lives in Nantes. |
-| [maternal-grandfather](people/maternal-grandfather.md) | Béatrice's father, suggested she stay in France in 1985. |
+| [maternal-grandfather](people/maternal-grandfather.md) | Papouche, Béatrice's father and a notable of Saint-Brevin. An anchor and a symbol of fatherhood for Lillian; took Béatrice and her children in in 1985. |
+| [maternal-grandmother](people/maternal-grandmother.md) | Mamouche, Papouche's wife. A soothing relationship, in listening and kindness toward the family; took Béatrice and her children in in 1985. |
 | [clara](people/clara.md) | Role to clarify, linked to a wound involving Mark. |
 | [mohamed](people/mohamed.md) | Lillian's husband for 15 years (sensitive). |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
