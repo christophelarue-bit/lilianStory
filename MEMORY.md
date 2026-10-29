@@ -62,9 +62,13 @@ MEMORY.md              ← ce fichier : objectif, méthode, index
 README.md              ← pitch du projet
 epoques/
   _modele.md           ← modèle de fiche époque
-  01-origines-et-enfance.md
-  02-annees-americaines.md
-  03-vie-adulte.md
+  01-origines-et-petite-enfance.md
+  02-enfance-adolescence-france.md
+  03-retour-etats-unis.md
+  04-mariage-mohamed.md
+  05-hotesse-hawai-alaska.md
+  06-retour-en-france.md
+  07-chris-et-nice-brouillon.md
 personnes/
   _modele.md           ← modèle de fiche personne
   lillian.md
@@ -106,9 +110,13 @@ Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
 
 | Fiche | Résumé |
 |---|---|
-| [01 — Origines et enfance](epoques/01-origines-et-enfance.md) | De la rencontre des parents (1976) aux 18 ans de Lillian. |
-| [02 — Années américaines](epoques/02-annees-americaines.md) | Amorce : Lillian rejoint son père aux États-Unis. |
-| [03 — Vie d'adulte](epoques/03-vie-adulte.md) | Amorce : jusqu'à Nice. Titre provisoire. |
+| [01 — Origines et petite enfance](epoques/01-origines-et-petite-enfance.md) | De la rencontre des parents (1976) à l'été 1985. |
+| [02 — Enfance et adolescence en France](epoques/02-enfance-adolescence-france.md) | Amorce : 1985 à environ 1997. |
+| [03 — Retour aux États-Unis](epoques/03-retour-etats-unis.md) | Retrouver son père, déception Clara, New York, rencontre de Mohamed. |
+| [04 — Mariage avec Mohamed](epoques/04-mariage-mohamed.md) | 15 ans de mariage (sensible). |
+| [05 — Hôtesse de l'air, Hawaï, Alaska](epoques/05-hotesse-hawai-alaska.md) | Trois périodes de travail et de rencontres. |
+| [06 — Retour en France](epoques/06-retour-en-france.md) | 2021 : Rennes, Brittany Ferries, rapprochement de la famille. |
+| [07 — Chris et Nice (brouillon)](epoques/07-chris-et-nice-brouillon.md) | Après le 01/01/2023, brouillon. |
 
 ### Périodes
 
