@@ -92,6 +92,14 @@ people/
   david-hawaii.md
   walter.md
   yacine.md
+  julien.md
+  geaniie.md
+  april.md
+  brahim.md
+  mohamed-mother.md
+  youssef.md
+  zachzria.md
+  zouria.md
   adriana.md
   jose.md
   kim.md
@@ -141,11 +149,19 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [maternal-grandfather](people/maternal-grandfather.md) | Papouche, Béatrice's father and a notable of Saint-Brevin. An anchor and a symbol of fatherhood for Lillian; took Béatrice and her children in in 1985. |
 | [maternal-grandmother](people/maternal-grandmother.md) | Mamouche, Papouche's wife. A soothing relationship, in listening and kindness toward the family; took Béatrice and her children in in 1985. |
 | [clara](people/clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
-| [mohamed](people/mohamed.md) | Lillian's husband for 15 years (sensitive). |
+| [mohamed](people/mohamed.md) | Lillian's husband for 15 years, wedding in March 2003 (sensitive). |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
 | [david-hawaii](people/david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [walter](people/walter.md) | From Bangladesh, met in New York. |
-| [yacine](people/yacine.md) | Met during the marriage, role to clarify. |
+| [yacine](people/yacine.md) | Mohamed's childhood friend who became Lillian's friend; now in Japan. |
+| [julien](people/julien.md) | Married man Lillian dated after the second separation from Mohamed (sensitive). |
+| [geaniie](people/geaniie.md) | Flatmate for 6 months during the first separation; a Black woman of about 60 who became a close friend. |
+| [april](people/april.md) | Met at the hairdressing school in Albany. |
+| [brahim](people/brahim.md) | Mohamed's friend, married to an American woman. |
+| [mohamed-mother](people/mohamed-mother.md) | An adorable woman, Lillian's mother-in-law. |
+| [youssef](people/youssef.md) | Mohamed's brother, never met. |
+| [zachzria](people/zachzria.md) | Mohamed's brother, never met. |
+| [zouria](people/zouria.md) | Mohamed's sister; visited pregnant two weeks after Lillian's abortion in 2006 (sensitive). |
 | [adriana](people/adriana.md) | Friend from era 05. |
 | [jose](people/jose.md) | A love from era 05. |
 | [kim](people/kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |

@@ -22,7 +22,15 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [David (New York)](david-ny.md) | Brief Chinese flirt in New York. |
 | [David (Hawaii)](david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [Walter](walter.md) | From Bangladesh, met in New York. |
-| [Yacine](yacine.md) | Met during the marriage, role to clarify. |
+| [Yacine](yacine.md) | Mohamed's childhood friend who became Lillian's friend; now in Japan. |
+| [Julien](julien.md) | Married man Lillian dated after the second separation from Mohamed (sensitive). |
+| [Geaniie](geaniie.md) | Flatmate for 6 months during the first separation; a Black woman of about 60 who became a close friend. |
+| [April](april.md) | Met at the hairdressing school in Albany. |
+| [Brahim](brahim.md) | Mohamed's friend, married to an American woman. |
+| [Mohamed's mother](mohamed-mother.md) | An adorable woman, Lillian's mother-in-law. |
+| [Youssef](youssef.md) | Mohamed's brother, never met. |
+| [Zachzria](zachzria.md) | Mohamed's brother, never met. |
+| [Zouria](zouria.md) | Mohamed's sister; visited pregnant two weeks after Lillian's abortion in 2006 (sensitive). |
 | [Adriana](adriana.md) | Friend from era 05. |
 | [José](jose.md) | A love from era 05. |
 | [Kim](kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
