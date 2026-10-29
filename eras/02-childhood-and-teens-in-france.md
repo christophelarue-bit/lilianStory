@@ -5,7 +5,7 @@
 ## Dates
 
 - **Start**: summer 1985
-- **End**: around 1997, when Lillian is 18 and goes back to the United States (to be confirmed)
+- **End**: September 1998, when Lillian is 18 and goes to the United States
 - **Lillian's age**: from 6 to 18
 
 ## Era summary
@@ -18,7 +18,7 @@ The content of this era (places, school, friends, adolescence, long-distance bon
 
 | Period | Dates | Place |
 |---|---|---|
-| [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | 1985-around 1997 | France |
+| [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | 1985-September 1998 | France |
 
 ## Common thread and stakes
 
@@ -34,4 +34,4 @@ To explore: missing her father, life between two cultures, leaving for the Unite
 
 - Where did they live after Saint-Brevin? When does Saint-Brieuc come in?
 - Should this era be split into several periods?
-- Dates: the return to the United States is told as after 15 years apart (around 2000, age about 21), but the files say around 1997 and 18. Which is right, and does it change the end of this period/era?
+- Her boarding school in La Baule: which years and why? Around 1995, at 16, she goes on holiday to New York with Gwen to see her father.

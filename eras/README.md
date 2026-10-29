@@ -5,7 +5,7 @@ An era is a large part of Lillian's life, which can become a book in the collect
 | Name | Description |
 |---|---|
 | [01 — Origins and early childhood](01-origins-and-early-childhood.md) | From the parents' meeting (1976) to summer 1985. |
-| [02 — Childhood and adolescence in France](02-childhood-and-teens-in-france.md) | Starter: 1985 to around 1997. |
+| [02 — Childhood and adolescence in France](02-childhood-and-teens-in-france.md) | Starter: 1985 to September 1998. |
 | [03 — Back to the United States](03-back-to-the-united-states.md) | Finding her father, the Clara disappointment, New York, meeting Mohamed. |
 | [04 — Marriage to Mohamed](04-marriage-to-mohamed.md) | 15 years of marriage (sensitive). |
 | [05 — Flight attendant, Hawaii, Alaska](05-flight-attendant-hawaii-alaska.md) | Three periods of work and encounters. |
