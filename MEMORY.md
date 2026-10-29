@@ -77,6 +77,12 @@ people/
   dad.md
   mom.md
   gwen.md
+  eliot.md
+  alexandre.md
+  julia.md
+  clement.md
+  aymeric.md
+  thomas.md
   xavier.md
   maternal-grandfather.md
   maternal-grandmother.md
@@ -123,11 +129,17 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [lillian](people/lillian.md) | The main character. Has lived in Nice for about 1 year. |
 | [dad](people/dad.md) | Mark, American, soldier (GI, Iraq), lives in Syracuse (New York State). |
 | [mom](people/mom.md) | Béatrice, former au pair, lives in Saint-Brieuc, France. |
-| [gwen](people/gwen.md) | Younger sister, born in 1982, lives in Vendôme. |
+| [gwen](people/gwen.md) | Younger sister, born in 1982, lives in Vendôme. Four children; a hard, chaotic life that has always affected the family, and above all Lillian (sensitive). |
+| [eliot](people/eliot.md) | Gwen's first son, with Aymeric; raised by his father after a court ruling (sensitive). |
+| [alexandre](people/alexandre.md) | Child of Gwen and Thomas. |
+| [julia](people/julia.md) | Child of Gwen and Thomas. |
+| [clement](people/clement.md) | Child of Gwen and Thomas. |
+| [aymeric](people/aymeric.md) | Florist, Gwen's first husband and Eliot's father; forced marriage (sensitive). |
+| [thomas](people/thomas.md) | Petty officer, Gwen's partner and father of Alexandre, Julia and Clément; never married. |
 | [xavier](people/xavier.md) | Younger brother, born after summer 1985, lives in Nantes. |
 | [maternal-grandfather](people/maternal-grandfather.md) | Papouche, Béatrice's father and a notable of Saint-Brevin. An anchor and a symbol of fatherhood for Lillian; took Béatrice and her children in in 1985. |
 | [maternal-grandmother](people/maternal-grandmother.md) | Mamouche, Papouche's wife. A soothing relationship, in listening and kindness toward the family; took Béatrice and her children in in 1985. |
-| [clara](people/clara.md) | Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
+| [clara](people/clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [mohamed](people/mohamed.md) | Lillian's husband for 15 years (sensitive). |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
 | [david-friend](people/david-friend.md) | Friend from era 05, with Adriana. |
@@ -143,7 +155,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | File | Summary |
 |---|---|
 | [01 — Origins and early childhood](eras/01-origins-and-early-childhood.md) | From the parents' meeting (1976) to summer 1985. |
-| [02 — Childhood and adolescence in France](eras/02-childhood-and-teens-in-france.md) | Starter: 1985 to around 1997. |
+| [02 — Childhood and adolescence in France](eras/02-childhood-and-teens-in-france.md) | Starter: 1985 to September 1998. |
 | [03 — Back to the United States](eras/03-back-to-the-united-states.md) | Finding her father, the Clara disappointment, New York, meeting Mohamed. |
 | [04 — Marriage to Mohamed](eras/04-marriage-to-mohamed.md) | 15 years of marriage (sensitive). |
 | [05 — Flight attendant, Hawaii, Alaska](eras/05-flight-attendant-hawaii-alaska.md) | Three periods of work and encounters. |
@@ -158,8 +170,8 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [01-02 — Birth in Heidelberg](periods/01-02-birth-in-heidelberg.md) | 1979, birth at the military hospital. |
 | [01-03 — Early childhood with family](periods/01-03-early-childhood-with-family.md) | 1979-1985, life with Mark, Gwen's birth. |
 | [01-04 — Summer 1985 in Saint-Brevin](periods/01-04-summer-1985-saint-brevin.md) | The holiday that becomes a permanent return to France. |
-| [02-01 — Childhood and adolescence in France](periods/02-01-childhood-and-teens-in-france.md) | Starter: 1985 to around 1997. |
-| [03-01 — Syracuse: finding Dad](periods/03-01-syracuse-finding-dad.md) | Reunion with Mark after 15 years, Clara's ultimatum, leaving Syracuse. |
+| [02-01 — Childhood and adolescence in France](periods/02-01-childhood-and-teens-in-france.md) | Starter: 1985 to September 1998. |
+| [03-01 — Syracuse: finding Dad](periods/03-01-syracuse-finding-dad.md) | Arrival on 11 September 1998, life with Mark, Clara's ultimatum, leaving Syracuse. |
 | [03-02 — New York City](periods/03-02-new-york-city.md) | David, Walter, meeting Mohamed. |
 | [04-01 — Married life with Mohamed](periods/04-01-married-life-with-mohamed.md) | 15 years of marriage (sensitive). |
 | [05-01 — Flight attendant](periods/05-01-flight-attendant.md) | Starter. |

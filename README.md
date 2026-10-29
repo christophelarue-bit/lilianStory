@@ -8,7 +8,7 @@ A series of books telling the story of **Lillian**, a woman from the late Genera
 |---|---|
 | [Eras](eras/README.md) | The 7 large parts of Lillian's life, each a candidate for a book in the collection. |
 | [Periods](periods/README.md) | The 14 periods that make up the eras, the chapters of each book. |
-| [People](people/README.md) | The 17 people who are part of Lillian's life, Lillian herself being the main character. |
+| [People](people/README.md) | The 23 people who are part of Lillian's life, Lillian herself being the main character. |
 
 ## Working rules and index
 
