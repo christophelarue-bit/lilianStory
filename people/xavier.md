@@ -1,61 +1,61 @@
 # Xavier
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [01-04 — Été 1985 à Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md) | France | Pas encore né : Béatrice est enceinte de lui quand elle reste en France |
-| [02-01 — Enfance et adolescence en France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Enfance et adolescence en France](../eras/02-childhood-and-teens-in-france.md) | France | Enfance et adolescence avec Lillian |
-| [06-02 — Appartement à Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Retour en France](../eras/06-back-to-france.md) | Rennes, France | Vit à Nantes, proche de Lillian installée à Rennes |
+| [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | Not yet born: Béatrice is pregnant with him when she stays in France |
+| [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Childhood and adolescence with Lillian |
+| [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Lives in Nantes, close to Lillian who has settled in Rennes |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : frère
-- **Nationalité / origine** : à préciser
-- **Lieu de vie** : Nantes, France
-- **Dates** : né après l'été 1985 (Béatrice était enceinte à ce moment-là), date et lieu de naissance à préciser
+- **Role in Lillian's life**: brother
+- **Nationality / origin**: to clarify
+- **Place of residence**: Nantes, France
+- **Dates**: born after summer 1985 (Béatrice was pregnant at that time), date and place of birth to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [maman](mom.md) (Béatrice) : sa mère
-- [papa](dad.md) (Mark) : son père
-- [Gwen](gwen.md) : sa sœur
-- [Lillian](lillian.md) : sa sœur aînée
+- [Mom](mom.md) (Béatrice): his mother
+- [Dad](dad.md) (Mark): his father
+- [Gwen](gwen.md): his sister
+- [Lillian](lillian.md): his older sister
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
-
--
-
-### Douleurs
+### Joys
 
 -
 
-## Anecdotes et histoires
+### Pains
 
-*(à compléter)*
+-
 
-## À préciser
+## Anecdotes and stories
 
-- Date et lieu de naissance (France ou ailleurs) ?
-- A-t-il connu Mark ? Quand, comment, combien de fois ?
-- A-t-il parlé anglais enfant ? (Lillian est la seule de la fratrie à avoir parlé anglais d'abord.)
-- Métier ?
-- Comment sont ses liens avec Lillian ?
+*(to be completed)*
+
+## To clarify
+
+- Date and place of birth (France or elsewhere)?
+- Did he know Mark? When, how, how many times?
+- Did he speak English as a child? (Lillian is the only one of the siblings to have spoken English first.)
+- Occupation?
+- What are his ties with Lillian like?

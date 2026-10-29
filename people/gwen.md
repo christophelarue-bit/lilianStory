@@ -1,63 +1,63 @@
 # Gwen
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [01-03 — Petite enfance en famille](../periods/01-03-early-childhood-with-family.md) | [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md) | Allemagne (à confirmer) | Naissance en 1982, vie avec Mark et Béatrice |
-| [01-04 — Été 1985 à Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md) | France | Vacances d'été, puis installation en France |
-| [02-01 — Enfance et adolescence en France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Enfance et adolescence en France](../eras/02-childhood-and-teens-in-france.md) | France | Enfance et adolescence avec Lillian |
-| [06-01 — Le Rennais, Brittany Ferries, 2e avortement](../periods/06-01-the-rennes-man-brittany-ferries.md) | [06 — Retour en France](../eras/06-back-to-france.md) | Rennes, France | Demande à Lillian de garder ses enfants juste après son avortement |
-| [06-02 — Appartement à Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Retour en France](../eras/06-back-to-france.md) | Rennes, France | Vit à Vendôme, proche de Lillian installée à Rennes |
+| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany (to be confirmed) | Born in 1982, life with Mark and Béatrice |
+| [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | Summer holiday, then settling in France |
+| [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Childhood and adolescence with Lillian |
+| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](../periods/06-01-the-rennes-man-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Asks Lillian to look after her children right after her abortion |
+| [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Lives in Vendôme, close to Lillian who has settled in Rennes |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : sœur cadette (même père et même mère, à confirmer)
-- **Nationalité / origine** : à préciser
-- **Lieu de vie** : Vendôme, France
-- **Dates** : née en 1982 (date exacte à préciser)
+- **Role in Lillian's life**: younger sister (same father and same mother, to be confirmed)
+- **Nationality / origin**: to clarify
+- **Place of residence**: Vendôme, France
+- **Dates**: born in 1982 (exact date to clarify)
 
-## Relations entre les personnes
+## Relationships between people
 
-- [maman](mom.md) (Béatrice) : sa mère
-- [papa](dad.md) (Mark) : son père
-- [Xavier](xavier.md) : son frère
-- [Lillian](lillian.md) : sa sœur aînée de trois ans environ. En 2021, elle lui demande de garder ses enfants juste après son avortement, sans s'intéresser à sa détresse (voir [06-01](../periods/06-01-the-rennes-man-brittany-ferries.md)).
+- [Mom](mom.md) (Béatrice): her mother
+- [Dad](dad.md) (Mark): her father
+- [Xavier](xavier.md): her brother
+- [Lillian](lillian.md): her older sister by about three years. In 2021, she asks her to look after her children right after her abortion, without taking any interest in her distress (see [06-01](../periods/06-01-the-rennes-man-brittany-ferries.md)).
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
+### Joys
 
 -
 
-### Douleurs
+### Pains
 
-- Ne s'est pas intéressée à la détresse de Lillian en 2021 (ressenti de Lillian, à confirmer avec elle).
+- Took no interest in Lillian's distress in 2021 (Lillian's feeling, to be confirmed with her).
 
-## Anecdotes et histoires
+## Anecdotes and stories
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Où est-elle née (hôpital, ville) ?
-- A-t-elle parlé anglais enfant ? (Lillian est la seule de la fratrie à avoir parlé anglais d'abord, puis français.)
-- Quelle relation a-t-elle gardée avec Mark ?
-- Métier ? Combien d'enfants, prénoms, âges ?
-- Comment sont ses liens avec Lillian ?
+- Where was she born (hospital, town)?
+- Did she speak English as a child? (Lillian is the only one of the siblings to have spoken English first, then French.)
+- What relationship has she kept with Mark?
+- Occupation? How many children, first names, ages?
+- What are her ties with Lillian like?

@@ -1,54 +1,54 @@
 # David (New York)
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Retour aux États-Unis](../eras/03-back-to-the-united-states.md) | New York City, États-Unis | Petit flirt de Lillian |
+| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | A little flirtation of Lillian's |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : petit flirt
-- **Nationalité / origine** : chinois
-- **Lieu de vie** : New York City
-- **Dates** : à préciser
+- **Role in Lillian's life**: a little flirtation
+- **Nationality / origin**: Chinese
+- **Place of residence**: New York City
+- **Dates**: to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [Lillian](lillian.md) : flirt à New York
-- À ne pas confondre avec [David (ami)](david-friend.md), rencontré à l'époque 05.
+- [Lillian](lillian.md): flirtation in New York
+- Not to be confused with [David (friend)](david-friend.md), met in era 05.
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
-
--
-
-### Douleurs
+### Joys
 
 -
 
-## Anecdotes et histoires
+### Pains
 
-*(à compléter)*
+-
 
-## À préciser
+## Anecdotes and stories
 
-- Nom de famille ou surnom pour le distinguer de l'autre David ?
-- Comment l'a-t-elle rencontré, combien de temps cela a-t-il duré ?
+*(to be completed)*
+
+## To clarify
+
+- Surname or nickname to distinguish him from the other David?
+- How did she meet him, how long did it last?

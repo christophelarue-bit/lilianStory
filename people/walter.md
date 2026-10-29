@@ -1,53 +1,53 @@
 # Walter
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Retour aux États-Unis](../eras/03-back-to-the-united-states.md) | New York City, États-Unis | Rencontre à New York |
+| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | Met in New York |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : à préciser
-- **Nationalité / origine** : Bangladesh
-- **Lieu de vie** : à préciser (New York ?)
-- **Dates** : à préciser
+- **Role in Lillian's life**: to clarify
+- **Nationality / origin**: Bangladesh
+- **Place of residence**: to clarify (New York?)
+- **Dates**: to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [Lillian](lillian.md) : lien à préciser
+- [Lillian](lillian.md): connection to clarify
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
-
--
-
-### Douleurs
+### Joys
 
 -
 
-## Anecdotes et histoires
+### Pains
 
-*(à compléter)*
+-
 
-## À préciser
+## Anecdotes and stories
 
-- Quel lien avec Lillian : ami, amoureux, autre ?
-- Comment et où l'a-t-elle rencontré ?
+*(to be completed)*
+
+## To clarify
+
+- What connection with Lillian: friend, lover, other?
+- How and where did she meet him?

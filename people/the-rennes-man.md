@@ -1,56 +1,56 @@
-# Le Rennais
+# The Rennes man
 
-**Sensible : à valider avec Lillian avant tout usage dans un livre** (second avortement vécu seule).
+**Sensitive: to confirm with Lillian before any use in a book** (second abortion gone through alone).
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [06-01 — Le Rennais, Brittany Ferries, 2e avortement](../periods/06-01-the-rennes-man-brittany-ferries.md) | [06 — Retour en France](../eras/06-back-to-france.md) | Rennes, France | Rencontre amoureuse de 2021 qui mène Lillian à Rennes |
+| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](../periods/06-01-the-rennes-man-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Romantic encounter in 2021 that brings Lillian to Rennes |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : rencontre amoureuse de 2021
-- **Nationalité / origine** : à préciser (le Rennais : rennais ?)
-- **Lieu de vie** : Rennes
-- **Dates** : à préciser
+- **Role in Lillian's life**: romantic encounter in 2021
+- **Nationality / origin**: to clarify (the Rennes man: from Rennes?)
+- **Place of residence**: Rennes
+- **Dates**: to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [Lillian](lillian.md) : rencontre amoureuse « foireuse ». Il n'assume pas.
+- [Lillian](lillian.md): a « foireuse » [botched] romantic encounter. He does not face up to it.
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-Elle s'installe à Rennes à cause de lui. Il n'assume pas la situation, et elle vit un second avortement, de nouveau seule.
+She settles in Rennes because of him. He does not face up to the situation, and she goes through a second abortion, alone once again.
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
+### Joys
 
 -
 
-### Douleurs
+### Pains
 
-- Un second avortement vécu seule, car il n'assume pas (sensible).
+- A second abortion gone through alone, because he does not face up to it (sensitive).
 
-## Anecdotes et histoires
+## Anecdotes and stories
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Prénom ou surnom à utiliser ?
-- Comment, quand, où ont-ils fait connaissance ?
-- Durée de la relation, comment s'est-elle terminée ?
+- First name or nickname to use?
+- How, when, where did they get to know each other?
+- Length of the relationship, how did it end?

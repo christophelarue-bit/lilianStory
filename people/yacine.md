@@ -1,55 +1,55 @@
 # Yacine
 
-**Sensible : à valider avec Lillian avant tout usage dans un livre** (rencontré pendant le mariage).
+**Sensitive: to confirm with Lillian before any use in a book** (met during the marriage).
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [04-01 — Vie conjugale avec Mohamed](../periods/04-01-married-life-with-mohamed.md) | [04 — Mariage avec Mohamed](../eras/04-marriage-to-mohamed.md) | Albany, Raleigh et autres, États-Unis | Rencontré pendant le mariage |
+| [04-01 — Married life with Mohamed](../periods/04-01-married-life-with-mohamed.md) | [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md) | Albany, Raleigh and elsewhere, United States | Met during the marriage |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : à préciser
-- **Nationalité / origine** : à préciser
-- **Lieu de vie** : à préciser
-- **Dates** : à préciser
+- **Role in Lillian's life**: to clarify
+- **Nationality / origin**: to clarify
+- **Place of residence**: to clarify
+- **Dates**: to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [Lillian](lillian.md) : rencontré pendant son mariage avec [Mohamed](mohamed.md)
+- [Lillian](lillian.md): met during her marriage to [Mohamed](mohamed.md)
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
-
--
-
-### Douleurs
+### Joys
 
 -
 
-## Anecdotes et histoires
+### Pains
 
-*(à compléter)*
+-
 
-## À préciser
+## Anecdotes and stories
 
-- Qui est Yacine, quel lien avec Lillian ?
-- Où et quand l'a-t-elle rencontré ?
+*(to be completed)*
+
+## To clarify
+
+- Who is Yacine, what connection with Lillian?
+- Where and when did she meet him?

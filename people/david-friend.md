@@ -1,56 +1,56 @@
-# David (ami)
+# David (friend)
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [05-01 — Hôtesse de l'air](../periods/05-01-flight-attendant.md) | [05 — Hôtesse de l'air, Hawaï, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | à préciser | Rencontré durant l'époque 05 (période exacte à préciser) |
-| [05-02 — Infirmière à Hawaï](../periods/05-02-nurse-in-hawaii.md) | [05 — Hôtesse de l'air, Hawaï, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Hawaï, États-Unis | Rencontré durant l'époque 05 (période exacte à préciser) |
-| [05-03 — Infirmière en Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Hôtesse de l'air, Hawaï, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Alaska, États-Unis | Rencontré durant l'époque 05 (période exacte à préciser) |
+| [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | to clarify | Met during era 05 (exact period to clarify) |
+| [05-02 — Nurse in Hawaii](../periods/05-02-nurse-in-hawaii.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Hawaii, United States | Met during era 05 (exact period to clarify) |
+| [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Alaska, United States | Met during era 05 (exact period to clarify) |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : ami
-- **Nationalité / origine** : à préciser
-- **Lieu de vie** : à préciser
-- **Dates** : à préciser
+- **Role in Lillian's life**: friend
+- **Nationality / origin**: to clarify
+- **Place of residence**: to clarify
+- **Dates**: to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [Lillian](lillian.md) : ami
-- À ne pas confondre avec [David (New York)](david-ny.md), le flirt de l'époque 03. Ami rencontré avec [Adriana](adriana.md).
+- [Lillian](lillian.md): friend
+- Not to be confused with [David (New York)](david-ny.md), the flirtation from era 03. Friend met along with [Adriana](adriana.md).
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
-
--
-
-### Douleurs
+### Joys
 
 -
 
-## Anecdotes et histoires
+### Pains
 
-*(à compléter)*
+-
 
-## À préciser
+## Anecdotes and stories
 
-- Dans laquelle des trois périodes (hôtesse, Hawaï, Alaska) a-t-elle rencontré David (ami) ?
-- Qui est David (ami) : nom de famille, origine, lien précis avec Lillian ?
+*(to be completed)*
+
+## To clarify
+
+- In which of the three periods (flight attendant, Hawaii, Alaska) did she meet David (friend)?
+- Who is David (friend): surname, origin, exact connection with Lillian?

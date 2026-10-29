@@ -1,54 +1,54 @@
 # Clara
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-01 — Syracuse : retrouver papa](../periods/03-01-syracuse-finding-dad.md) | [03 — Retour aux États-Unis](../eras/03-back-to-the-united-states.md) | Syracuse, États-Unis | L'histoire de Clara, déception pour Lillian |
+| [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | The story of Clara, a disappointment for Lillian |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : à préciser
-- **Nationalité / origine** : à préciser
-- **Lieu de vie** : à préciser
-- **Dates** : à préciser
+- **Role in Lillian's life**: to clarify
+- **Nationality / origin**: to clarify
+- **Place of residence**: to clarify
+- **Dates**: to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [papa](dad.md) (Mark) : lien à préciser. Évoquée comme une « autre blessure » liée à Mark.
+- [Dad](dad.md) (Mark): connection to clarify. Mentioned as an « autre blessure » [another wound] linked to Mark.
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
+### Joys
 
 -
 
-### Douleurs
+### Pains
 
-- L'« histoire de Clara », source de blessure pour Lillian (à raconter par Lillian).
+- The « histoire de Clara » [Clara's story], a source of hurt for Lillian (to be told by Lillian).
 
-## Anecdotes et histoires
+## Anecdotes and stories
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Qui est Clara (compagne de Mark ? demi-sœur de Lillian ? autre) ?
-- Quelle est l'histoire, quand s'est-elle passée, en quoi blesse-t-elle Lillian ?
-- Dans quelle période de la vie de Lillian se situe-t-elle (avant, pendant ou après le [retour aux États-Unis à 18 ans](../periods/03-01-syracuse-finding-dad.md)) ?
+- Who is Clara (Mark's partner? Lillian's half-sister? someone else)?
+- What is the story, when did it happen, how does it hurt Lillian?
+- In which period of Lillian's life does it take place (before, during or after the [return to the United States at 18](../periods/03-01-syracuse-finding-dad.md))?

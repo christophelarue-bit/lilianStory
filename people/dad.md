@@ -1,84 +1,84 @@
-# Papa (Mark)
+# Dad (Mark)
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [01-01 — Rencontre à Francfort](../periods/01-01-meeting-in-frankfurt.md) | [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md) | Francfort, Allemagne | Rencontre avec Béatrice dans un bar de GI en 1976 |
-| [01-02 — Naissance à Heidelberg](../periods/01-02-birth-in-heidelberg.md) | [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md) | Heidelberg, Allemagne | Naissance de Lillian en 1979 à l'hôpital militaire |
-| [01-03 — Petite enfance en famille](../periods/01-03-early-childhood-with-family.md) | [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md) | Allemagne (à confirmer) | Vie de famille jusqu'en 1985 ; comptines pour s'endormir |
-| [01-04 — Été 1985 à Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md) | France | La famille part en vacances en France, Mark n'y est plus ; la séparation s'installe |
-| [02-01 — Enfance et adolescence en France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Enfance et adolescence en France](../eras/02-childhood-and-teens-in-france.md) | France | Père absent, à distance (à préciser) |
-| [03-01 — Syracuse : retrouver papa](../periods/03-01-syracuse-finding-dad.md) | [03 — Retour aux États-Unis](../eras/03-back-to-the-united-states.md) | Syracuse, États-Unis | Lillian repart le retrouver à 18 ans |
+| [01-01 — Meeting in Frankfurt](../periods/01-01-meeting-in-frankfurt.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Frankfurt, Germany | Meets Béatrice in a GI bar in 1976 |
+| [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Heidelberg, Germany | Lillian's birth in 1979 at the military hospital |
+| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany (to be confirmed) | Family life until 1985; nursery rhymes to fall asleep |
+| [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | The family goes on holiday to France, Mark is no longer there; the separation sets in |
+| [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Absent father, at a distance (to clarify) |
+| [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | Lillian goes back to find him at 18 |
 
-## Identité
+## Identity
 
-- **Prénom** : Mark. Lillian l'appelle « Papa ».
-- **Rôle dans la vie de Lillian** : père
-- **Nationalité / origine** : américain, né à Syracuse (État de New York)
-- **Âge** : environ 70 ans (date de naissance à demander)
-- **Métier** : militaire de l'armée américaine (un GI), notamment engagé en Irak (dates et grade à préciser)
-- **Lieu de vie** : Syracuse, État de New York, États-Unis. Toujours en vie.
-- **Lieux liés à son parcours** : base militaire de Francfort, Allemagne (1976) ; hôpital militaire d'Heidelberg (naissance de Lillian, 1979)
+- **First name**: Mark. Lillian calls him « Papa » [Dad].
+- **Role in Lillian's life**: father
+- **Nationality / origin**: American, born in Syracuse (New York State)
+- **Age**: about 70 (date of birth to ask)
+- **Occupation**: soldier in the US Army (a GI), notably deployed in Iraq (dates and rank to clarify)
+- **Place of residence**: Syracuse, New York State, United States. Still alive.
+- **Places linked to his life path**: military base in Frankfurt, Germany (1976); military hospital in Heidelberg (Lillian's birth, 1979)
 
-## Relations entre les personnes
+## Relationships between people
 
-- [maman](mom.md) (Béatrice) : rencontre en 1976 dans un bar de GI à Francfort, coup de foudre de sa part à lui. Couple, trois enfants, puis séparation de fait à partir de l'été 1985, quand elle reste en France avec les enfants.
-- [Gwen](gwen.md) : fille, née en 1982.
-- [Xavier](xavier.md) : fils, né après l'été 1985 (Béatrice était enceinte au moment du retour en France).
-- [Clara](clara.md) : une « histoire » douloureuse pour Lillian liée à elle, à préciser avec Lillian.
-- [Le grand-père maternel](maternal-grandfather.md) : père de Béatrice, il a suggéré qu'elle reste en France tant que la situation financière de Mark ne s'améliorait pas.
+- [Mom](mom.md) (Béatrice): they met in 1976 in a GI bar in Frankfurt, love at first sight on his side. A couple, three children, then a de facto separation from summer 1985 onward, when she stays in France with the children.
+- [Gwen](gwen.md): daughter, born in 1982.
+- [Xavier](xavier.md): son, born after summer 1985 (Béatrice was pregnant at the time of the return to France).
+- [Clara](clara.md): a painful « histoire » [story] for Lillian connected to her, to clarify with Lillian.
+- [The maternal grandfather](maternal-grandfather.md): Béatrice's father, he suggested she stay in France as long as Mark's financial situation did not improve.
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-- Présent dans sa vie jusqu'en 1985, c'est-à-dire pendant ses six premières années.
-- Après le départ de la famille en France, la relation passe à distance. Les détails (appels, lettres, visites) sont à demander.
-- À 18 ans, Lillian repart aux États-Unis pour se rapprocher de lui. C'est l'objet d'une période à part : [03-01 — Syracuse : retrouver papa](../periods/03-01-syracuse-finding-dad.md).
+- Present in her life until 1985, that is, during her first six years.
+- After the family leaves for France, the relationship becomes a long-distance one. The details (calls, letters, visits) are to be asked.
+- At 18, Lillian goes back to the United States to be closer to him. This is the subject of a separate period: [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md).
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-- C'est à cause de lui, de ses dettes et de ses problèmes financiers, que la famille ne peut pas tenir en Allemagne et que Béatrice rentre en France en 1985. Lillian grandit donc en France, loin de son père.
-- Lillian est la seule de la fratrie à avoir parlé anglais avant le français. Il lui en reste un léger accent américain, qu'on trouve charmant.
-- Elle a une double appartenance, franco-américaine, par lui.
-- Le retour à 18 ans vers Syracuse est un choix de vie majeur, né du besoin de se rapprocher de lui.
+- It is because of him, his debts and his financial problems, that the family cannot hold on in Germany and that Béatrice returns to France in 1985. Lillian therefore grows up in France, far from her father.
+- Lillian is the only one of the siblings to have spoken English before French. She still has a slight American accent from it, which people find charming.
+- Through him, she has a dual Franco-American identity.
+- The return to Syracuse at 18 is a major life choice, born of the need to be closer to him.
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter avec Lillian. Elle a très mal vécu la séparation d'avec son père.)*
+*(to be completed with Lillian. She took the separation from her father very hard.)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-- Ce que Lillian tient de lui : à demander à Lillian.
-- Ressenti d'abandon, à explorer avec elle : il ne s'est pas battu pour se rapprocher de ses enfants, ni en réglant ses dettes, ni en venant en France.
+- What Lillian gets from him: to ask Lillian.
+- Feeling of abandonment, to explore with her: he did not fight to be closer to his children, either by settling his debts or by coming to France.
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
+### Joys
 
-- Les soirs où il lui lisait des histoires et lui chantait des comptines pour s'endormir (premier souvenir cité par Lillian, d'autres à demander).
+- The evenings when he read her stories and sang her nursery rhymes to fall asleep (first memory mentioned by Lillian, others to ask).
 
-### Douleurs
+### Pains
 
-- La séparation d'avec son père, très mal vécue par Lillian enfant.
-- L'impression d'abandon : il ne s'est pas battu pour se rapprocher d'eux, en réglant ses dettes et ses problèmes financiers ou en venant en France. Lillian regrette qu'il ne se soit pas battu pour ses enfants et son couple. Béatrice aurait sans doute préféré qu'il le fasse, et les enfants en auraient sans doute été plus heureux (à confirmer avec elles).
-- L'histoire de [Clara](clara.md), autre blessure, à compléter avec Lillian.
+- The separation from her father, which Lillian took very hard as a child.
+- The feeling of abandonment: he did not fight to be closer to them, by settling his debts and financial problems or by coming to France. Lillian regrets that he did not fight for his children and his relationship. Béatrice would no doubt have preferred him to do so, and the children would no doubt have been happier for it (to be confirmed with them).
+- The story of [Clara](clara.md), another wound, to complete with Lillian.
 
-## Anecdotes et histoires
+## Anecdotes and stories
 
-- **Le bar de GI à Francfort (1976)** : Mark a le coup de foudre pour Béatrice, jeune fille au pair. Elle, de son côté, voulait vivre une histoire d'amour avec un GI.
-- **Les comptines** : il lui lisait des histoires et chantait des comptines pour l'endormir. Lesquelles ? En quelle langue ? À demander.
+- **The GI bar in Frankfurt (1976)**: Mark falls in love at first sight with Béatrice, a young au pair. She, for her part, wanted to have a love story with a GI.
+- **The nursery rhymes**: he read her stories and sang nursery rhymes to put her to sleep. Which ones? In which language? To ask.
 
-## À préciser
+## To clarify
 
-- Date de naissance exacte. Quel âge avait-il en 1976 ?
-- Missions en Irak : quelles années ? Autres affectations ? Grade, dates de service ? Quand a-t-il quitté l'armée ? Métier ensuite ?
-- Où la famille a-t-elle vécu entre 1979 et 1985 (base, ville, logement) ? Où était Mark à l'été 1985 ?
-- Problème d'alcool : à confirmer auprès de Béatrice et de Lillian, et avec quelle intensité.
-- Dettes et problèmes financiers : nature, ampleur, cause. A-t-il réglé ses dettes depuis ?
-- Après 1985 : y a-t-il eu des visites, des appels, des lettres, de l'argent envoyé ? A-t-il revu Béatrice ?
-- Qui est [Clara](clara.md) et quelle est l'histoire qui blesse Lillian ?
-- Autres souvenirs d'enfance avec lui ? Quelles comptines ? Lequel est le plus fort ?
-- Ce que Lillian tient de lui (trait de caractère, goût, façon de voir le monde).
-- Comment est leur relation aujourd'hui ? Quand se sont-ils vus pour la dernière fois ?
-- A-t-il fondé une autre famille ? Autres enfants ?
-- Question à poser à Béatrice : période 1975-1980, rencontre, premières années de couple.
+- Exact date of birth. How old was he in 1976?
+- Missions in Iraq: which years? Other postings? Rank, dates of service? When did he leave the army? Occupation afterward?
+- Where did the family live between 1979 and 1985 (base, town, housing)? Where was Mark in summer 1985?
+- Alcohol problem: to confirm with Béatrice and Lillian, and how severe.
+- Debts and financial problems: nature, scale, cause. Has he settled his debts since?
+- After 1985: were there visits, calls, letters, money sent? Did he see Béatrice again?
+- Who is [Clara](clara.md) and what is the story that hurts Lillian?
+- Other childhood memories with him? Which nursery rhymes? Which one is the strongest?
+- What Lillian gets from him (character trait, taste, way of seeing the world).
+- What is their relationship like today? When did they last see each other?
+- Did he start another family? Other children?
+- Question to ask Béatrice: the 1975-1980 period, the meeting, the first years as a couple.

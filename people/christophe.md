@@ -1,56 +1,56 @@
 # Christophe (Chris)
 
-*(Fiche minimale, brouillon : règle 6 de MEMORY.md, 3 questions maximum.)*
+*(Minimal file, draft: rule 6 in MEMORY.md, 3 questions maximum.)*
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [07-01 — Rencontre avec Chris](../periods/07-01-meeting-chris.md) | [07 — Chris et Nice (brouillon)](../eras/07-chris-and-nice-draft.md) | à préciser | Rencontre de Lillian, « toute une histoire » |
+| [07-01 — Meeting Chris](../periods/07-01-meeting-chris.md) | [07 — Chris and Nice (draft)](../eras/07-chris-and-nice-draft.md) | to clarify | Meets Lillian, « toute une histoire » [quite a story] |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : rencontre importante, à préciser
-- **Nationalité / origine** : à préciser
-- **Lieu de vie** : à préciser
-- **Dates** : à préciser
+- **Role in Lillian's life**: important encounter, to clarify
+- **Nationality / origin**: to clarify
+- **Place of residence**: to clarify
+- **Dates**: to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [Lillian](lillian.md) : rencontre, lien à préciser
+- [Lillian](lillian.md): encounter, connection to clarify
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(brouillon)*
+*(draft)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(brouillon)*
+*(draft)*
 
-## Importance dans sa vie
+## Importance in her life
 
-*(brouillon)*
+*(draft)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(brouillon)*
+*(draft)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
-
--
-
-### Douleurs
+### Joys
 
 -
 
-## Anecdotes et histoires
+### Pains
 
-*(brouillon)*
+-
 
-## À préciser
+## Anecdotes and stories
 
-- Date et lieu de la rencontre ?
-- Quel est le lien avec Lillian ?
-- Âge, métier, lieu de vie ?
+*(draft)*
+
+## To clarify
+
+- Date and place of the meeting?
+- What is the connection with Lillian?
+- Age, occupation, place of residence?

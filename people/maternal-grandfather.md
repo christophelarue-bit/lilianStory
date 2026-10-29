@@ -1,60 +1,60 @@
-# Le grand-père maternel (père de Béatrice)
+# The maternal grandfather (Béatrice's father)
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [01-04 — Été 1985 à Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md) | France | Accueille la famille en vacances, suggère à Béatrice de rester |
-| [02-01 — Enfance et adolescence en France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Enfance et adolescence en France](../eras/02-childhood-and-teens-in-france.md) | France | Rôle à préciser |
+| [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | Hosts the family on holiday, suggests Béatrice stay |
+| [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Role to clarify |
 
-## Identité
+## Identity
 
-- **Prénom / surnom** : à préciser
-- **Rôle dans la vie de Lillian** : grand-père maternel, père de [maman](mom.md)
-- **Nationalité / origine** : française (à confirmer)
-- **Lieu de vie** : Saint-Brevin (à confirmer), « fief » de la famille de Béatrice
-- **Dates** : à préciser (décès éventuel)
+- **First name / nickname**: to clarify
+- **Role in Lillian's life**: maternal grandfather, father of [Mom](mom.md)
+- **Nationality / origin**: French (to be confirmed)
+- **Place of residence**: Saint-Brevin (to be confirmed), « fief » [home base] of Béatrice's family
+- **Dates**: to clarify (possible death)
 
-## Relations entre les personnes
+## Relationships between people
 
-- [maman](mom.md) (Béatrice) : sa fille
-- [papa](dad.md) (Mark) : son gendre. Il a suggéré à Béatrice de rester en France tant que la situation financière de Mark n'allait pas mieux.
-- [Gwen](gwen.md), [Xavier](xavier.md), [Lillian](lillian.md) : petits-enfants
+- [Mom](mom.md) (Béatrice): his daughter
+- [Dad](dad.md) (Mark): his son-in-law. He suggested Béatrice stay in France as long as Mark's financial situation did not get better.
+- [Gwen](gwen.md), [Xavier](xavier.md), [Lillian](lillian.md): grandchildren
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-*(à compléter)*
+*(to be completed)*
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-- Sa suggestion de l'été 1985, de rester en France, est le point de départ de l'enfance de Lillian en France.
+- His suggestion in summer 1985, to stay in France, is the starting point of Lillian's childhood in France.
 
-## Importance dans sa vie
+## Importance in her life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
-
--
-
-### Douleurs
+### Joys
 
 -
 
-## Anecdotes et histoires
+### Pains
 
-*(à compléter)*
+-
 
-## À préciser
+## Anecdotes and stories
 
-- Prénom, métier, âge, décès éventuel ?
-- Sa relation avec Mark avant 1985 ?
-- A-t-il aidé financièrement Béatrice et les enfants ?
-- Y a-t-il une grand-mère maternelle à faire figurer aussi ?
-- Souvenirs de Lillian avec lui ?
+*(to be completed)*
+
+## To clarify
+
+- First name, occupation, age, possible death?
+- His relationship with Mark before 1985?
+- Did he help Béatrice and the children financially?
+- Is there a maternal grandmother to include as well?
+- Lillian's memories with him?

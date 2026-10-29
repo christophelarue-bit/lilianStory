@@ -1,62 +1,62 @@
 # Mohamed
 
-**Sensible : à valider avec Lillian avant tout usage dans un livre** (alcool, humiliations, avortement).
+**Sensitive: to confirm with Lillian before any use in a book** (alcohol, humiliations, abortion).
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Retour aux États-Unis](../eras/03-back-to-the-united-states.md) | New York City, États-Unis | Rencontre de Lillian |
-| [04-01 — Vie conjugale avec Mohamed](../periods/04-01-married-life-with-mohamed.md) | [04 — Mariage avec Mohamed](../eras/04-marriage-to-mohamed.md) | Albany, Raleigh et autres, États-Unis | 15 ans de vie commune et de mariage |
+| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | Meets Lillian |
+| [04-01 — Married life with Mohamed](../periods/04-01-married-life-with-mohamed.md) | [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md) | Albany, Raleigh and elsewhere, United States | 15 years of life together and marriage |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** : mari pendant 15 ans
-- **Nationalité / origine** : à préciser
-- **Lieu de vie** : Albany, Raleigh et autres destinations (à préciser)
-- **Dates** : à préciser
+- **Role in Lillian's life**: husband for 15 years
+- **Nationality / origin**: to clarify
+- **Place of residence**: Albany, Raleigh and other destinations (to clarify)
+- **Dates**: to clarify
 
-## Relations entre les personnes
+## Relationships between people
 
-- [Lillian](lillian.md) : épouse
-- [Yacine](yacine.md) : rencontré par Lillian pendant le mariage, lien à préciser
+- [Lillian](lillian.md): wife
+- [Yacine](yacine.md): met by Lillian during the marriage, connection to clarify
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-Lillian aime son âme, son esprit, ses qualités humaines et ses valeurs. Avec les années, l'alcool et les humiliations s'installent, et avec eux la peur de l'abandon.
+Lillian loves his soul, his mind, his human qualities and his values. Over the years, alcohol and humiliations set in, and with them the fear of abandonment.
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-*(à compléter)*
+*(to be completed)*
 
-## Importance dans sa vie
+## Importance in her life
 
-Mari pendant 15 ans.
+Husband for 15 years.
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-*(à compléter)*
+*(to be completed)*
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
+### Joys
 
-- L'amour, sa belle âme, son esprit, ses qualités humaines, ses valeurs.
-- Les voyages, notamment à Las Vegas.
+- Love, his beautiful soul, his mind, his human qualities, his values.
+- The trips, notably to Las Vegas.
 
-### Douleurs
+### Pains
 
-- L'alcool et les humiliations.
-- La peur de l'abandon, déjà présente à cause du comportement de [papa](dad.md).
-- L'avortement par pilule abortive : Mohamed la laisse seule, alors qu'elle saigne. Lillian sort de l'hôpital contre avis médical, et il préfère aller travailler plutôt que de rester avec elle.
+- The alcohol and the humiliations.
+- The fear of abandonment, already present because of [Dad](dad.md)'s behavior.
+- The abortion by abortion pill: Mohamed leaves her alone while she is bleeding. Lillian leaves the hospital against medical advice, and he prefers to go to work rather than stay with her.
 
-## Anecdotes et histoires
+## Anecdotes and stories
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Rencontre : où, quand et comment à New York ?
-- Origine, famille, religion : quelle place a la religion dans leur vie ?
-- Alcool : de qui s'agit-il exactement ?
-- Mariage : date, lieu, fin du mariage ?
+- The meeting: where, when and how in New York?
+- Origin, family, religion: what place does religion have in their life?
+- Alcohol: who exactly is this about?
+- Marriage: date, place, end of the marriage?
