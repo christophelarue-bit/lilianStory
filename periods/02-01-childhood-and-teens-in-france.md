@@ -71,3 +71,4 @@
 - Daily life: school, friends, activities, teenage passions?
 - Mark: what contact from a distance (calls, letters, visits)?
 - Structure: a single period or several (childhood / adolescence)?
+- Dates: the return to the United States is told as after 15 years apart (around 2000, age about 21), but the files say around 1997 and 18. Which is right, and does it change the end of this period/era?

@@ -56,3 +56,5 @@
 - How did she live with Mark: his place, his daily life, what did she do (studies, work)?
 - Clara: when did she arrive, how long between her arrival and the ultimatum? Did she live with Mark? How did Lillian feel about her at first?
 - After the departure: did Lillian and Mark talk again? How did he explain his silence?
+- How long after Lillian arrived did Mark meet Clara? The account mentions time passing before she entered his life.
+- Sensitive subject (feeling of abandonment, Mark's silence): validate with Lillian the wording and any use in a book.
