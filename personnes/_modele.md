@@ -49,7 +49,7 @@ Ce que Lillian est devenue en partie grâce à, ou à cause de, cette personne.
 
 Récits, souvenirs précis, phrases marquantes, objets, odeurs, détails.
 
-## Questions ouvertes
+## À préciser
 
 À demander à Lillian pour compléter la fiche.
 

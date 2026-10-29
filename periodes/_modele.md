@@ -1,5 +1,7 @@
 # [Numéro] — [Titre de la période]
 
+**Époque** : [numéro — titre de l'époque](../epoques/xx-nom.md)
+
 ## Lieu
 
 - **Pays** :
@@ -27,7 +29,7 @@
 
 Décors, saisons, lumière, sons, atmosphère générale, contexte de l'époque.
 
-## Questions ouvertes
+## À préciser
 
 À demander à Lillian pour compléter la fiche.
 
