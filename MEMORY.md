@@ -94,7 +94,7 @@ people/
   yacine.md
   adriana.md
   jose.md
-  the-rennes-man.md
+  daniel.md
   christophe.md
 periods/
   README.md            ← list of the periods
@@ -110,7 +110,7 @@ periods/
   05-01-flight-attendant.md
   05-02-nurse-in-hawaii.md
   05-03-nurse-in-alaska.md
-  06-01-the-rennes-man-brittany-ferries.md
+  06-01-daniel-brittany-ferries.md
   06-02-apartment-in-rennes.md
   07-01-meeting-chris.md
 ```
@@ -147,7 +147,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [yacine](people/yacine.md) | Met during the marriage, role to clarify. |
 | [adriana](people/adriana.md) | Friend from era 05. |
 | [jose](people/jose.md) | A love from era 05. |
-| [the-rennes-man](people/the-rennes-man.md) | Romantic encounter in 2021 in Rennes (sensitive). |
+| [daniel](people/daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
 | [christophe](people/christophe.md) | Chris, minimal draft file. |
 
 ### Eras
@@ -177,7 +177,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [05-01 — Flight attendant](periods/05-01-flight-attendant.md) | Starter. |
 | [05-02 — Nurse in Hawaii](periods/05-02-nurse-in-hawaii.md) | Starter. |
 | [05-03 — Nurse in Alaska](periods/05-03-nurse-in-alaska.md) | Starter. |
-| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](periods/06-01-the-rennes-man-brittany-ferries.md) | 2021, Rennes (sensitive). |
+| [06-01 — Daniel, Brittany Ferries, 2nd abortion](periods/06-01-daniel-brittany-ferries.md) | 2021, Rennes (sensitive). |
 | [06-02 — Apartment in Rennes](periods/06-02-apartment-in-rennes.md) | A calmer period, close to family. |
 | [07-01 — Meeting Chris](periods/07-01-meeting-chris.md) | Draft. |
 
