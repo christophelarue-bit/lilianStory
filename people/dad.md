@@ -27,7 +27,7 @@
 - [Gwen](gwen.md): daughter, born in 1982.
 - [Xavier](xavier.md): son, born after summer 1985 (Béatrice was pregnant at the time of the return to France).
 - [Clara](clara.md): a painful « histoire » [story] for Lillian connected to her, to clarify with Lillian.
-- [The maternal grandfather](maternal-grandfather.md): Béatrice's father, he suggested she stay in France as long as Mark's financial situation did not improve.
+- [Papouche (the maternal grandfather)](maternal-grandfather.md): Béatrice's father, he suggested she stay in France as long as Mark's financial situation did not improve.
 
 ## Relationship with Lillian
 

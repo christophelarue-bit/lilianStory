@@ -25,7 +25,8 @@
 - [Dad](dad.md) (Mark): they met in 1976 in a GI bar in Frankfurt. She wanted to have a love story with a GI. A couple, three children, then a de facto separation from summer 1985 onward, because of debts, the financial situation and perhaps alcohol (to be confirmed).
 - [Gwen](gwen.md): her daughter, born in 1982.
 - [Xavier](xavier.md): her son, with whom she was pregnant in summer 1985.
-- [The maternal grandfather](maternal-grandfather.md): her father. He suggested she stay in France as long as Mark's financial situation did not improve.
+- [Papouche (the maternal grandfather)](maternal-grandfather.md): her father, a notable of Saint-Brevin. With Mamouche, he took her in in 1985, pregnant with Xavier, and housed her with her three children, asking Mark to settle his debts. He suggested she stay in France as long as Mark's financial situation did not improve.
+- [Mamouche (the maternal grandmother)](maternal-grandmother.md): her mother (to be confirmed). She took her in with Papouche in 1985.
 
 ## Relationship with Lillian
 

@@ -35,7 +35,8 @@
 - [Mom](mom.md) (Béatrice): her mother
 - [Gwen](gwen.md): her younger sister, born in 1982
 - [Xavier](xavier.md): her younger brother
-- [The maternal grandfather](maternal-grandfather.md)
+- [Papouche (the maternal grandfather)](maternal-grandfather.md): an anchor and a symbol of fatherhood
+- [Mamouche (the maternal grandmother)](maternal-grandmother.md): a soothing relationship, in listening and kindness
 - [Clara](clara.md): connection to clarify, linked to a wound involving her father
 - [Mohamed](mohamed.md): her husband for 15 years
 - [David (New York)](david-ny.md), [Walter](walter.md): people she met in New York
