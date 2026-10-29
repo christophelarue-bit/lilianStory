@@ -9,7 +9,7 @@
 | [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany (to be confirmed) | Family life until 1985; nursery rhymes to fall asleep |
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | The family goes on holiday to France, Mark is no longer there; the separation sets in |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Absent father, at a distance (to clarify) |
-| [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | Lillian goes back to find him at 18 |
+| [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | Lillian goes back to find him at 18 and lives at his place; reunion after 15 years apart; Clara's ultimatum, to which he does not answer |
 
 ## Identity
 
@@ -26,7 +26,7 @@
 - [Mom](mom.md) (Béatrice): they met in 1976 in a GI bar in Frankfurt, love at first sight on his side. A couple, three children, then a de facto separation from summer 1985 onward, when she stays in France with the children.
 - [Gwen](gwen.md): daughter, born in 1982.
 - [Xavier](xavier.md): son, born after summer 1985 (Béatrice was pregnant at the time of the return to France).
-- [Clara](clara.md): a painful « histoire » [story] for Lillian connected to her, to clarify with Lillian.
+- [Clara](clara.md): his partner in Syracuse, whom he met after Lillian encouraged him to meet women. She asked him to choose between her and Lillian, and he did not answer.
 - [Papouche (the maternal grandfather)](maternal-grandfather.md): Béatrice's father, he suggested she stay in France as long as Mark's financial situation did not improve.
 
 ## Relationship with Lillian
@@ -34,6 +34,8 @@
 - Present in her life until 1985, that is, during her first six years.
 - After the family leaves for France, the relationship becomes a long-distance one. The details (calls, letters, visits) are to be asked.
 - At 18, Lillian goes back to the United States to be closer to him. This is the subject of a separate period: [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md).
+- The reunion happens after 15 years apart. She finds him full of remorse and with no wish to rebuild his life, lives at his place, and encourages him to meet women. It is as if time had been on pause for both of them: for example, he bounces her on his knees as he did when she was 6 (other examples to ask Lillian).
+- Clara asks him to choose between her and Lillian. He tells Lillian about the ultimatum, but when she asks what he has decided, he hesitates and does not answer. Lillian leaves Syracuse on that non-answer.
 
 ## Impact on Lillian's life
 
@@ -61,7 +63,7 @@
 
 - The separation from her father, which Lillian took very hard as a child.
 - The feeling of abandonment: he did not fight to be closer to them, by settling his debts and financial problems or by coming to France. Lillian regrets that he did not fight for his children and his relationship. Béatrice would no doubt have preferred him to do so, and the children would no doubt have been happier for it (to be confirmed with them).
-- The story of [Clara](clara.md), another wound, to complete with Lillian.
+- The story of [Clara](clara.md), another wound: faced with Clara's ultimatum, he hesitates and gives Lillian no answer, and she leaves Syracuse (**Sensitive: to confirm with Lillian before any use in a book**).
 
 ## Anecdotes and stories
 
@@ -76,7 +78,9 @@
 - Alcohol problem: to confirm with Béatrice and Lillian, and how severe.
 - Debts and financial problems: nature, scale, cause. Has he settled his debts since?
 - After 1985: were there visits, calls, letters, money sent? Did he see Béatrice again?
-- Who is [Clara](clara.md) and what is the story that hurts Lillian?
+- [Clara](clara.md): is he still with her? Did he explain his silence to Lillian afterward?
+- Other examples of the 15 years "on pause" between him and Lillian, during her stay in Syracuse?
+- Where did Lillian go when she left Syracuse? Did they talk again?
 - Other childhood memories with him? Which nursery rhymes? Which one is the strongest?
 - What Lillian gets from him (character trait, taste, way of seeing the world).
 - What is their relationship like today? When did they last see each other?

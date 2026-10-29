@@ -1,29 +1,32 @@
 # Clara
 
+**Sensitive: to confirm with Lillian before any use in a book** (feeling of abandonment: Clara's ultimatum and Mark's silence).
+
 ## Periods involved
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | The story of Clara, a disappointment for Lillian |
+| [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | Enters Mark's life; asks him to choose between her and Lillian, which leads Lillian to leave Syracuse |
 
 ## Identity
 
-- **Role in Lillian's life**: to clarify
+- **Role in Lillian's life**: Mark's partner in Syracuse, met after Lillian encouraged him to meet women
 - **Nationality / origin**: to clarify
-- **Place of residence**: to clarify
+- **Place of residence**: Syracuse (to be confirmed)
 - **Dates**: to clarify
 
 ## Relationships between people
 
-- [Dad](dad.md) (Mark): connection to clarify. Mentioned as an « autre blessure » [another wound] linked to Mark.
+- [Dad](dad.md) (Mark): his partner. She enters his life after Lillian, who has just arrived from France and lives at his place, encourages him to meet women. She later asks him to choose between her and Lillian.
+- [Lillian](lillian.md): she views the closeness between Lillian and her father unfavourably.
 
 ## Relationship with Lillian
 
-*(to be completed)*
+She views unfavourably the closeness between Lillian and Mark. One day she asks Mark to choose between her and Lillian, which means Lillian leaving the house, less than 2 years after Lillian came to the United States to be closer to him.
 
 ## Impact on Lillian's life
 
-*(to be completed)*
+- Her ultimatum and Mark's non-answer lead Lillian to leave Syracuse. What follows (New York City, Mohamed) is to be clarified.
 
 ## Importance in her life
 
@@ -41,14 +44,16 @@
 
 ### Pains
 
-- The « histoire de Clara » [Clara's story], a source of hurt for Lillian (to be told by Lillian).
+- The « histoire de Clara » [Clara's story]: the ultimatum, then Mark's hesitation and silence when Lillian asks what he has decided.
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- **The ultimatum**: Clara asks Mark to choose between her and Lillian. Mark tells Lillian, hesitates and does not answer when she asks what he has decided. Lillian leaves Syracuse on that non-answer.
 
 ## To clarify
 
-- Who is Clara (Mark's partner? Lillian's half-sister? someone else)?
-- What is the story, when did it happen, how does it hurt Lillian?
-- In which period of Lillian's life does it take place (before, during or after the [return to the United States at 18](../periods/03-01-syracuse-finding-dad.md))?
+- First name only, or a family name? Where is she from, how old, what does she do?
+- When did she arrive in Mark's life, and how long between her arrival and the ultimatum? Did she live with Mark?
+- Is she still with Mark today?
+- How did Lillian feel about her at first? What did Clara reproach her for, exactly?
+- Did Lillian and Clara ever speak again?

@@ -9,7 +9,7 @@
 | [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany (to be confirmed) | 1979-1985 |
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | A holiday that turns into a permanent return |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | 1985-around 1997 |
-| [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | Around 1997, at 18 |
+| [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | Around 1997, at 18; lives at her father's, leaves after Clara's ultimatum |
 | [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | To clarify |
 | [04-01 — Married life with Mohamed](../periods/04-01-married-life-with-mohamed.md) | [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md) | Albany, Raleigh and elsewhere, United States | 15 years of marriage |
 | [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | to clarify | To clarify |
@@ -37,7 +37,7 @@
 - [Xavier](xavier.md): her younger brother
 - [Papouche (the maternal grandfather)](maternal-grandfather.md): an anchor and a symbol of fatherhood
 - [Mamouche (the maternal grandmother)](maternal-grandmother.md): a soothing relationship, in listening and kindness
-- [Clara](clara.md): connection to clarify, linked to a wound involving her father
+- [Clara](clara.md): her father's partner in Syracuse. Her ultimatum and Mark's silence led Lillian to leave Syracuse.
 - [Mohamed](mohamed.md): her husband for 15 years
 - [David (New York)](david-ny.md), [Walter](walter.md): people she met in New York
 - [Yacine](yacine.md): met during the marriage
@@ -67,14 +67,14 @@ The character traits, values, wounds and strengths that emerge from her life pat
 
 - The separation from her father in 1985, which she took very hard.
 - The feeling of abandonment: he did not fight to be closer to his children.
-- The story of [Clara](clara.md), still to be told.
+- The story of [Clara](clara.md): after 15 years apart, she finds her father again and lives at his place. Clara asks him to choose between her and Lillian. He hesitates and gives no answer, and she leaves Syracuse on that non-answer (**Sensitive: to confirm with Lillian before any use in a book**).
 - The humiliations, the alcohol and the abortion during the marriage (sensitive: to confirm with Lillian).
 - The second abortion, gone through alone in Rennes in 2021 (sensitive: to confirm with Lillian).
 
 ## Anecdotes and stories
 
 - The only one of the siblings to have spoken English before French, she has kept a slight American accent, which people find charming.
-- At 18, she goes back to the United States to be closer to her father ([period 03-01](../periods/03-01-syracuse-finding-dad.md)).
+- At 18, she goes back to the United States to be closer to her father ([period 03-01](../periods/03-01-syracuse-finding-dad.md)). She finds him full of remorse and with no wish to rebuild his life, and encourages him to meet women: he meets Clara. Their reunion feels like 15 years on pause: he bounces her on his knees as when she was 6.
 
 ## To clarify
 
@@ -85,3 +85,5 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - What brought her to Nice?
 - What she gets from her father: character trait, taste, way of seeing the world?
 - Her other childhood memories with Mark, including the first one?
+- Where did she go after leaving Syracuse, and to what extent does it match her New York City period and/or meeting Mohamed?
+- Other examples of the 15 years "on pause" with her father?
