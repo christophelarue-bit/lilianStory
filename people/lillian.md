@@ -23,7 +23,7 @@
 
 ## Identity
 
-- **Role in the project**: central character of the collection
+- **Role in the project**: main character of the collection
 - **Generation**: late Generation X
 - **Birth**: 1979, military hospital in Heidelberg, Germany (see [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md))
 - **Current place of residence**: Nice, France, for about 1 year
