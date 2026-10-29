@@ -41,7 +41,9 @@
 - [Clara](clara.md): her father's partner in Syracuse. Her ultimatum and Mark's silence led Lillian to leave Syracuse.
 - [Mohamed](mohamed.md): her husband for 15 years
 - [David (New York)](david-ny.md), [Walter](walter.md): people she met in New York
-- [Yacine](yacine.md): met during the marriage
+- [Yacine](yacine.md), [Brahim](brahim.md), [April](april.md): friends from the marriage years
+- [Geaniie](geaniie.md): her flatmate for 6 months during the first separation; [Julien](julien.md): a married man she dated after the second
+- Mohamed's family: [his mother](mohamed-mother.md), [Zouria](zouria.md), [Youssef](youssef.md), [Zachzria](zachzria.md)
 - [Adriana](adriana.md), [Kim](kim.md), [David (Hawaii)](david-hawaii.md), [José](jose.md): friendships and love from era 05
 - [Daniel](daniel.md): romantic encounter in 2021
 - [Christophe (Chris)](christophe.md): recent encounter (draft)
@@ -94,3 +96,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - The supermarket crush: who was he, what was the misunderstanding? (see [03-01](../periods/03-01-syracuse-finding-dad.md))
 - Dates: the account says about 15 years apart from her father, but 1985 to 1998 is 13 years, and she saw him at 16. Where does "15" come from?
 - Sensitive subject (Clara's ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.
+- Duration: March 2003 to 2016 is about 13 years, whereas the account says 15 years of marriage. Do the 15 years include living together before the wedding?
+- Dates of the first and the second separation, and how did Lillian get back with Mohamed each time?
+- Julien: how did she meet him, and what happened after the missed hotel appointment?
+- Delay: Mohamed left her alone "about 10 days" before Zouria's visit, and the visit took place "2 weeks" after the abortion. Which is right?

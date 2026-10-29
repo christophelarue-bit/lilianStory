@@ -10,18 +10,20 @@
 
 ## Identity
 
-- **Role in Lillian's life**: to clarify
-- **Nationality / origin**: to clarify
-- **Place of residence**: to clarify
+- **Role in Lillian's life**: friend, Mohamed's childhood friend
+- **Nationality / origin**: Morocco (to confirm)
+- **Place of residence**: Japan, for 10 years
 - **Dates**: to clarify
 
 ## Relationships between people
 
-- [Lillian](lillian.md): met during her marriage to [Mohamed](mohamed.md)
+- [Lillian](lillian.md): became her friend during her marriage to [Mohamed](mohamed.md)
+- [Mohamed](mohamed.md): childhood friend; they are from the same country of origin, Morocco (to confirm)
+- Married to a Japanese woman, father of three children (a girl and two boys)
 
 ## Relationship with Lillian
 
-*(to be completed)*
+He became a friend of Lillian although he was first Mohamed's childhood friend. Sarcastic character.
 
 ## Impact on Lillian's life
 
@@ -47,9 +49,13 @@
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- In Morocco, the country of origin of both friends, he went out with Mohamed's sister (which one, to clarify).
 
 ## To clarify
 
-- Who is Yacine, what connection with Lillian?
-- Where and when did she meet him?
+- Spelling of the name: Yacine or Yassine?
+- Which of Mohamed's sisters did he go out with, and when?
+- Where and when did Lillian meet him, and how did the friendship with her develop?
+- Is Lillian still in touch with him since he moved to Japan?
+- Which of his sisters did Yacine go out with?
+- Spelling of the names of the friends and family (Geaniie, Zachzria): see [Mohamed](mohamed.md).
