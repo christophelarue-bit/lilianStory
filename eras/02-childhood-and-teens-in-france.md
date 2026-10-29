@@ -34,3 +34,4 @@ To explore: missing her father, life between two cultures, leaving for the Unite
 
 - Where did they live after Saint-Brevin? When does Saint-Brieuc come in?
 - Should this era be split into several periods?
+- Dates: the return to the United States is told as after 15 years apart (around 2000, age about 21), but the files say around 1997 and 18. Which is right, and does it change the end of this period/era?

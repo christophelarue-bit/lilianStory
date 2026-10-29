@@ -40,3 +40,4 @@ In summer 1985, the family goes on holiday to Saint-Brevin, to Béatrice's paren
 
 - Where did the family live between 1979 and 1985?
 - How did Lillian experience summer 1985?
+- Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.
