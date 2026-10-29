@@ -9,7 +9,7 @@
 | [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany (to be confirmed) | Born in 1982, life with Mark and Béatrice |
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | Summer holiday, then settling in France |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Childhood and adolescence with Lillian |
-| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](../periods/06-01-the-rennes-man-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Asks Lillian to look after her children right after her abortion |
+| [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Asks Lillian to look after her children right after her abortion |
 | [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Lives in Vendôme, close to Lillian who has settled in Rennes |
 
 ## Identity
@@ -26,7 +26,7 @@
 - [Mom](mom.md) (Béatrice): her mother
 - [Dad](dad.md) (Mark): her father
 - [Xavier](xavier.md): her brother
-- [Lillian](lillian.md): her older sister by about three years. In 2021, she asks her to look after her children right after her abortion, without taking any interest in her distress (see [06-01](../periods/06-01-the-rennes-man-brittany-ferries.md)).
+- [Lillian](lillian.md): her older sister by about three years. In 2021, she asks her to look after her children right after her abortion, without taking any interest in her distress (see [06-01](../periods/06-01-daniel-brittany-ferries.md)).
 - [Papouche (the maternal grandfather)](maternal-grandfather.md) and [Mamouche (the maternal grandmother)](maternal-grandmother.md): her grandparents, who took her in with her mother in 1985. She handled their deaths.
 - [Aymeric](aymeric.md): her first husband, the father of Eliot. The marriage was forced by her family.
 - [Thomas](thomas.md): her partner, the father of Alexandre, Julia and Clément. They were never married.

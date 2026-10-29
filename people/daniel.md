@@ -1,4 +1,4 @@
-# The Rennes man
+# Daniel
 
 **Sensitive: to confirm with Lillian before any use in a book** (second abortion gone through alone).
 
@@ -6,12 +6,12 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](../periods/06-01-the-rennes-man-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Romantic encounter in 2021 that brings Lillian to Rennes |
+| [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Romantic encounter in 2021 that brings Lillian to Rennes |
 
 ## Identity
 
 - **Role in Lillian's life**: romantic encounter in 2021
-- **Nationality / origin**: to clarify (the Rennes man: from Rennes?)
+- **Nationality / origin**: to clarify (from Rennes?)
 - **Place of residence**: Rennes
 - **Dates**: to clarify
 
@@ -51,6 +51,6 @@ She settles in Rennes because of him. He does not face up to the situation, and 
 
 ## To clarify
 
-- First name or nickname to use?
+- Surname, age, occupation?
 - How, when, where did they get to know each other?
 - Length of the relationship, how did it end?

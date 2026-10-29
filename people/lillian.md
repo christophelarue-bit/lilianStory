@@ -15,7 +15,7 @@
 | [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | to clarify | To clarify |
 | [05-02 — Nurse in Hawaii](../periods/05-02-nurse-in-hawaii.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Hawaii, United States | To clarify |
 | [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Alaska, United States | To clarify |
-| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](../periods/06-01-the-rennes-man-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Return to France in 2021 |
+| [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Return to France in 2021 |
 | [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | A calmer period |
 | [07-01 — Meeting Chris](../periods/07-01-meeting-chris.md) | [07 — Chris and Nice (draft)](../eras/07-chris-and-nice-draft.md) | to clarify | Current: Nice for about 1 year |
 
@@ -43,7 +43,7 @@
 - [David (New York)](david-ny.md), [Walter](walter.md): people she met in New York
 - [Yacine](yacine.md): met during the marriage
 - [Adriana](adriana.md), [David (friend)](david-friend.md), [José](jose.md): friendships and love from era 05
-- [The Rennes man](the-rennes-man.md): romantic encounter in 2021
+- [Daniel](daniel.md): romantic encounter in 2021
 - [Christophe (Chris)](christophe.md): recent encounter (draft)
 
 ## Relationship with herself

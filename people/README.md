@@ -25,7 +25,7 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Yacine](yacine.md) | Met during the marriage, role to clarify. |
 | [Adriana](adriana.md) | Friend from era 05. |
 | [José](jose.md) | A love from era 05. |
-| [The Rennes man](the-rennes-man.md) | Romantic encounter in 2021 in Rennes (sensitive). |
+| [Daniel](daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
 | [Christophe (Chris)](christophe.md) | Chris, minimal draft file. |
 
 Template for a new person: [_template.md](_template.md). Back to the [main README](../README.md).
