@@ -24,7 +24,7 @@ Une fiche par personne qui compose la vie de Lillian. Chaque fiche couvre :
 - leur impact sur sa vie
 - leur importance dans sa vie
 - leur importance dans son histoire et la construction de son être
-- leurs différents moments de partage de vie (période, emplacement)
+- un **tableau des périodes** où elles apparaissent, placé en tête de fiche, juste après le titre (période, époque, lieu, ce qui a été partagé)
 - tout ce qui permet de comprendre leur impact sur Lillian : douleurs, bonheurs, sentiments forts suscités
 
 Modèle : [personnes/_modele.md](personnes/_modele.md)
@@ -48,8 +48,10 @@ Une époque est une grande partie de la vie de Lillian, qui peut devenir **un li
 - les dates et l'âge de Lillian
 - un résumé de l'époque
 - la liste des périodes qui la composent
-- les personnes clés
 - le fil rouge et les enjeux
+- les interviews à prévoir avec Lillian (thèmes, statut)
+
+Une époque décrit son contenu en quelques paragraphes et liste les périodes qui la composent. **Les personnes ne sont reliées qu'aux périodes, pas aux époques** (on verra plus tard si une table des personnes est utile au niveau de l'époque).
 
 Modèle : [epoques/_modele.md](epoques/_modele.md)
 
@@ -81,7 +83,10 @@ periodes/
   04-retour-etats-unis-18-ans.md
 ```
 
-Convention : fichiers en minuscules, sans accents, tirets pour les espaces. Les époques et les périodes sont préfixées par un numéro d'ordre chronologique (`01-`, `02-`…), réattribuable si on découvre une période intermédiaire.
+Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
+
+- Les **époques** sont préfixées par un numéro d'ordre chronologique : `01-origines-et-petite-enfance.md`.
+- Les **périodes** sont préfixées par le numéro de leur époque, puis leur numéro dans l'époque : `03-02-new-york-city.md` est la 2e période de l'époque 03. Insérer une période ne touche que son époque.
 
 ## Index
 
@@ -135,20 +140,43 @@ Convention : fichiers en minuscules, sans accents, tirets pour les espaces. Les 
 ### Règle 2 — Période qui introduit une personne
 
 - Si, en parlant d'une période, on évoque une nouvelle personne, on **crée sa fiche** dans `personnes/` à partir du modèle.
-- La fiche personne est **liée aux différentes périodes** où elle apparaît (tableau « Moments de partage de vie »), et la fiche période est liée à la fiche personne (section « Personnes fréquentées »).
-- **Toute personne évoquée dans une période doit avoir sa fiche personne.**
+- La fiche personne est **liée aux différentes périodes** où elle apparaît (tableau en tête de fiche, juste après le titre), et la fiche période est liée à la fiche personne (section « Personnes fréquentées »).
+- **Toute personne nommée évoquée dans une période doit avoir sa fiche personne.**
+- Les personnes ou groupes **sans nom** (belle-famille, amis, enfants, collègues) n'ont pas de fiche : ils sont cités dans la période, et « À préciser » demande leur nom. Dès qu'ils sont nommés, on crée la fiche.
 
 ### Règle 3 — Personne qui introduit une période
 
-- Réciproquement, si, en parlant d'une personne, on évoque une période qui n'existe pas encore, on **crée la fiche période** dans `periodes/` à partir du modèle, avec son numéro chronologique.
+- Réciproquement, si, en parlant d'une personne, on évoque une période qui n'existe pas encore, on **crée la fiche période** dans `periodes/` à partir du modèle, avec son numéro `EE-PP`.
 - Les liens sont posés dans les deux sens, comme dans la règle 2.
 
 ### Règle 4 — Époques
 
-- Chaque période est rattachée à une **époque** (champ « Époque » en tête de fiche) et listée dans le tableau « Périodes » de la fiche époque.
+- Chaque période est rattachée à une **époque** (champ « Époque » en tête de fiche, dans l'introduction) et listée dans le tableau « Périodes » de la fiche époque.
 - Toute nouvelle période est ajoutée à l'époque qui lui correspond, dans les deux sens.
 - Les époques sont les candidates au découpage en livres, sans que cela soit décidé.
+- Chaque fiche époque contient une section **« Interviews à prévoir »** : thèmes à couvrir avec Lillian et statut (à faire, faite). Prévu : époque 04, 1 à 2 interviews ; époque 05, au moins 1 interview par période (hôtesse de l'air, Hawaï, Alaska).
 
 ### Règle 5 — Index
 
 - Toute fiche créée est ajoutée à l'index de ce fichier.
+
+### Règle 6 — Brouillon après le 01/01/2023 (règle temporaire)
+
+- Tout ce qui concerne la vie de Lillian **après le 01/01/2023** (dont l'époque 07, Chris et Nice) est traité comme un **brouillon** : on ne crée que le minimum et la section « À préciser » contient **3 questions essentielles au maximum** (dates, lieu, rôle de la personne), sans questions de détail, d'émotions ou d'anecdotes.
+- **À supprimer** quand les époques 01 à 06 seront traitées : on posera alors autant de questions que nécessaire pour préciser cette époque.
+
+### Règle 7 — Sujets sensibles
+
+- Pour les sujets sensibles (avortements, alcool, humiliations, abandon, violences…), les faits sont consignés **sobrement**, sans détail inventé.
+- La fiche concernée porte la mention : « **Sensible : à valider avec Lillian avant tout usage dans un livre** ».
+- Les noms de personnes réelles sont à revalider avec Lillian au moment de l'écriture.
+
+### Règle 8 — Commits
+
+- Les modifications d'organisation sont commitées **séparément**, dans cet ordre : règles (`MEMORY.md`), puis époques, puis périodes, puis personnes.
+- Les messages de commit sont en français, courts, et terminés par la ligne de co-auteur demandée par l'outil.
+
+### Règle 9 — Questions à Lillian
+
+- Les questions sont posées **groupées par thème**.
+- Avant de bâtir un plan de réorganisation, on pose d'abord **toutes les questions** utiles pour bien comprendre la demande.
