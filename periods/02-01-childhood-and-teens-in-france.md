@@ -39,9 +39,15 @@
 - **Life anecdotes**: *(to be completed)*
 - **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
-### [The maternal grandfather](../people/maternal-grandfather.md)
+### [Papouche (the maternal grandfather)](../people/maternal-grandfather.md)
 
-- **Role during this period**: to clarify
+- **Role during this period**: an anchor and a symbol of fatherhood for Lillian (details to clarify)
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
+
+### [Mamouche (the maternal grandmother)](../people/maternal-grandmother.md)
+
+- **Role during this period**: a soothing presence for Lillian, attentive and kind to the family (details to clarify)
 - **Life anecdotes**: *(to be completed)*
 - **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
