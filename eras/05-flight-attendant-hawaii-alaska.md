@@ -2,7 +2,7 @@
 
 ## Dates
 
-- **Start**: to clarify
+- **Start**: 2014
 - **End**: to clarify
 - **Lillian's age**: to clarify
 
@@ -10,7 +10,9 @@
 
 Lillian becomes a flight attendant, then a nurse in Hawaii, then in Alaska. Three very different periods whose details are yet to be told.
 
-It is during this era that she meets Adriana and David, two friends, and José, a love.
+It is during this era that she meets Adriana, [Kim](../people/kim.md) and [David (Hawaii)](../people/david-hawaii.md), friends, and José, a love.
+
+Flight attendant from 2014 to 2016 (Omni Air), she discovers Hawaii during a layover in 2015 and wants to live there. In 2016, tired of partying and travelling, she ends her marriage to Mohamed and moves to Maui, welcomed by David after Kim's last-minute break-up with him.
 
 ## Periods
 
