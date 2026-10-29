@@ -1,56 +1,56 @@
-# [Prénom / surnom]
+# [First name / nickname]
 
-## Périodes concernées
+## Periods involved
 
-| Période | Époque | Lieu | Ce qui a été partagé |
+| Period | Era | Place | What was shared |
 |---|---|---|---|
-| [EE-PP — titre](../periods/EE-PP-name.md) | [EE — titre](../eras/EE-name.md) | Ville, pays | |
+| [EE-PP — title](../periods/EE-PP-name.md) | [EE — title](../eras/EE-name.md) | City, country | |
 
-## Identité
+## Identity
 
-- **Rôle dans la vie de Lillian** :
-- **Nationalité / origine** :
-- **Lieu de vie** (actuel, et autres lieux au fil du temps) :
-- **Dates** (naissance, décès éventuel) :
+- **Role in Lillian's life**:
+- **Nationality / origin**:
+- **Place of residence** (current, and other places over time):
+- **Dates** (birth, death if applicable):
 
-## Relations entre les personnes
+## Relationships between people
 
-Liens avec les autres personnes de l'entourage de Lillian (fiches liées).
+Links with the other people around Lillian (linked files).
 
-- [autre personne](other-person.md) : nature du lien, évolution
+- [other person](other-person.md): nature of the link, how it evolved
 
-## Relation avec Lillian
+## Relationship with Lillian
 
-Nature du lien, évolution au fil du temps, non-dits, rapprochements, ruptures.
+Nature of the bond, how it evolved over time, things left unsaid, reconciliations, ruptures.
 
-## Impact sur la vie de Lillian
+## Impact on Lillian's life
 
-Ce que cette personne a changé concrètement : décisions, trajectoires, lieux, métiers, valeurs.
+What this person concretely changed: decisions, trajectories, places, jobs, values.
 
-## Importance dans sa vie
+## Importance in her life
 
-Place occupée (centrale, secondaire, ponctuelle mais marquante…) et pourquoi.
+The place they held (central, secondary, brief but memorable…) and why.
 
-## Importance dans son histoire et la construction de son être
+## Importance in her story and the shaping of who she is
 
-Ce que Lillian est devenue en partie grâce à, ou à cause de, cette personne.
+What Lillian became partly thanks to, or because of, this person.
 
-## Émotions fortes
+## Strong emotions
 
-### Bonheurs
-
--
-
-### Douleurs
+### Joys
 
 -
 
-## Anecdotes et histoires
+### Pains
 
-Récits, souvenirs précis, phrases marquantes, objets, odeurs, détails.
+-
 
-## À préciser
+## Anecdotes and stories
 
-À demander à Lillian pour compléter la fiche, groupé par thème.
+Accounts, precise memories, striking phrases, objects, smells, details.
+
+## To clarify
+
+To ask Lillian to complete this file, grouped by theme.
 
 -

@@ -1,67 +1,67 @@
-# MEMORY — Les story de Lillian
+# MEMORY — Lillian's Stories
 
-## Objectif du projet
+## Project goal
 
-Réaliser une **série de livres** racontant l'histoire de **Lillian**, une femme de la fin de la Génération X, au parcours très riche, qui peut être organisé pour former une **collection de livres**.
+Produce a **series of books** telling the story of **Lillian**, a woman from the late Generation X, whose very rich life can be organized into a **collection of books**.
 
-## Ce qui reste à décider (plus tard)
+## Still to decide (later)
 
-- Nombre de pages par livre
-- Organisation des chapitres
-- Structuration de la collection (par période, par thème, par personnage…)
-- Tonalité et style des livres
+- Number of pages per book
+- Organization of the chapters
+- Structure of the collection (by period, by theme, by character…)
+- Tone and style of the books
 
-## Phase actuelle : collecte d'informations
+## Current phase: gathering information
 
-Pas d'écriture des livres pour l'instant. On construit petit à petit, au fil des échanges et des commits, une base de matériaux, sous forme de fiches Markdown.
+No book writing for now. Little by little, over the exchanges and commits, we build a base of material in the form of Markdown files.
 
-### 1. Les personnes (`people/`)
+### 1. People (`people/`)
 
-Une fiche par personne qui compose la vie de Lillian. Chaque fiche couvre :
+One file per person who is part of Lillian's life. Each file covers:
 
-- leurs relations entre eux
-- leurs relations avec Lillian
-- leur impact sur sa vie
-- leur importance dans sa vie
-- leur importance dans son histoire et la construction de son être
-- un **tableau des périodes** où elles apparaissent, placé en tête de fiche, juste après le titre (période, époque, lieu, ce qui a été partagé)
-- tout ce qui permet de comprendre leur impact sur Lillian : douleurs, bonheurs, sentiments forts suscités
+- their relationships with one another
+- their relationships with Lillian
+- their impact on her life
+- their importance in her life
+- their importance in her story and the shaping of who she is
+- a **table of the periods** in which they appear, placed at the top of the file, right after the title (period, era, place, what was shared)
+- everything that helps understand their impact on Lillian: pains, joys, strong feelings they stirred
 
-Modèle : [people/_template.md](people/_template.md)
+Template: [people/_template.md](people/_template.md)
 
-### 2. Les périodes (`periods/`)
+### 2. Periods (`periods/`)
 
-Une fiche par période de la vie de Lillian. Chaque fiche couvre :
+One file per period of Lillian's life. Each file covers:
 
-- le pays, la ville
-- la ou les dates
-- les personnes fréquentées, avec anecdotes de vie et histoires fortes en émotions ou profondes dans la relation
-- les histoires et petits détails de la période
-- les paysages et l'ambiance de vie
+- the country, the city
+- the date or dates
+- the people around her, with life anecdotes and emotionally strong or deep stories in the relationship
+- the stories and small details of the period
+- the landscapes and the atmosphere
 
-Modèle : [periods/_template.md](periods/_template.md)
+Template: [periods/_template.md](periods/_template.md)
 
-### 3. Les époques (`eras/`)
+### 3. Eras (`eras/`)
 
-Une époque est une grande partie de la vie de Lillian, qui peut devenir **un livre de la collection**. Ses périodes en sont les chapitres. Chaque fiche époque couvre :
+An era is a large part of Lillian's life, which can become **a book in the collection**. Its periods are the chapters. Each era file covers:
 
-- les dates et l'âge de Lillian
-- un résumé de l'époque
-- la liste des périodes qui la composent
-- le fil rouge et les enjeux
-- les interviews à prévoir avec Lillian (thèmes, statut)
+- the dates and Lillian's age
+- a summary of the era
+- the list of the periods that make it up
+- the common thread and the stakes
+- the interviews to plan with Lillian (themes, status)
 
-Une époque décrit son contenu en quelques paragraphes et liste les périodes qui la composent. **Les personnes ne sont reliées qu'aux périodes, pas aux époques** (on verra plus tard si une table des personnes est utile au niveau de l'époque).
+An era describes its content in a few paragraphs and lists the periods that make it up. **People are linked only to periods, not to eras** (we will see later whether a table of people is useful at era level).
 
-Modèle : [eras/_template.md](eras/_template.md)
+Template: [eras/_template.md](eras/_template.md)
 
-## Structure du dépôt
+## Repository structure
 
 ```
-MEMORY.md              ← ce fichier : objectif, méthode, index
-README.md              ← pitch du projet
+MEMORY.md              ← this file: goal, method, index
+README.md              ← project pitch
 eras/
-  _template.md           ← modèle de fiche époque
+  _template.md         ← era file template
   01-origins-and-early-childhood.md
   02-childhood-and-teens-in-france.md
   03-back-to-the-united-states.md
@@ -70,7 +70,7 @@ eras/
   06-back-to-france.md
   07-chris-and-nice-draft.md
 people/
-  _template.md           ← modèle de fiche personne
+  _template.md         ← person file template
   lillian.md
   dad.md
   mom.md
@@ -88,7 +88,7 @@ people/
   the-rennes-man.md
   christophe.md
 periods/
-  _template.md           ← modèle de fiche période
+  _template.md         ← period file template
   01-01-meeting-in-frankfurt.md
   01-02-birth-in-heidelberg.md
   01-03-early-childhood-with-family.md
@@ -105,122 +105,122 @@ periods/
   07-01-meeting-chris.md
 ```
 
-Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
+Convention: file names in English, lowercase, no accents, hyphens instead of spaces.
 
-- Les **époques** sont préfixées par un numéro d'ordre chronologique : `01-origins-and-early-childhood.md`.
-- Les **périodes** sont préfixées par le numéro de leur époque, puis leur numéro dans l'époque : `03-02-new-york-city.md` est la 2e période de l'époque 03. Insérer une période ne touche que son époque.
+- **Eras** are prefixed with a chronological order number: `01-origins-and-early-childhood.md`.
+- **Periods** are prefixed with the number of their era, then their number within the era: `03-02-new-york-city.md` is the 2nd period of era 03. Inserting a period only affects its era.
 
 ## Index
 
-### Personnes
+### People
 
-| Fiche | Résumé |
+| File | Summary |
 |---|---|
-| [lillian](people/lillian.md) | Le personnage central. Habite Nice depuis environ 1 an. |
-| [papa](people/dad.md) | Mark, américain, militaire (GI, Irak), habite Syracuse (État de New York). |
-| [maman](people/mom.md) | Béatrice, ex-jeune fille au pair, habite Saint-Brieuc, France. |
-| [gwen](people/gwen.md) | Sœur cadette, née en 1982, habite Vendôme. |
-| [xavier](people/xavier.md) | Frère cadet, né après l'été 1985, habite Nantes. |
-| [grand-pere-maternel](people/maternal-grandfather.md) | Père de Béatrice, a suggéré qu'elle reste en France en 1985. |
-| [clara](people/clara.md) | Rôle à préciser, liée à une blessure avec Mark. |
-| [mohamed](people/mohamed.md) | Mari de Lillian pendant 15 ans (sensible). |
-| [david-ny](people/david-ny.md) | Petit flirt chinois de New York. |
-| [david-ami](people/david-friend.md) | Ami de l'époque 05, avec Adriana. |
-| [walter](people/walter.md) | Du Bangladesh, rencontré à New York. |
-| [yacine](people/yacine.md) | Rencontré pendant le mariage, rôle à préciser. |
-| [adriana](people/adriana.md) | Amie de l'époque 05. |
-| [jose](people/jose.md) | Un amour de l'époque 05. |
-| [le-rennais](people/the-rennes-man.md) | Rencontre amoureuse de 2021 à Rennes (sensible). |
-| [christophe](people/christophe.md) | Chris, fiche minimale en brouillon. |
+| [lillian](people/lillian.md) | The central character. Has lived in Nice for about 1 year. |
+| [dad](people/dad.md) | Mark, American, soldier (GI, Iraq), lives in Syracuse (New York State). |
+| [mom](people/mom.md) | Béatrice, former au pair, lives in Saint-Brieuc, France. |
+| [gwen](people/gwen.md) | Younger sister, born in 1982, lives in Vendôme. |
+| [xavier](people/xavier.md) | Younger brother, born after summer 1985, lives in Nantes. |
+| [maternal-grandfather](people/maternal-grandfather.md) | Béatrice's father, suggested she stay in France in 1985. |
+| [clara](people/clara.md) | Role to clarify, linked to a wound involving Mark. |
+| [mohamed](people/mohamed.md) | Lillian's husband for 15 years (sensitive). |
+| [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
+| [david-friend](people/david-friend.md) | Friend from era 05, with Adriana. |
+| [walter](people/walter.md) | From Bangladesh, met in New York. |
+| [yacine](people/yacine.md) | Met during the marriage, role to clarify. |
+| [adriana](people/adriana.md) | Friend from era 05. |
+| [jose](people/jose.md) | A love from era 05. |
+| [the-rennes-man](people/the-rennes-man.md) | Romantic encounter in 2021 in Rennes (sensitive). |
+| [christophe](people/christophe.md) | Chris, minimal draft file. |
 
-### Époques
+### Eras
 
-| Fiche | Résumé |
+| File | Summary |
 |---|---|
-| [01 — Origines et petite enfance](eras/01-origins-and-early-childhood.md) | De la rencontre des parents (1976) à l'été 1985. |
-| [02 — Enfance et adolescence en France](eras/02-childhood-and-teens-in-france.md) | Amorce : 1985 à environ 1997. |
-| [03 — Retour aux États-Unis](eras/03-back-to-the-united-states.md) | Retrouver son père, déception Clara, New York, rencontre de Mohamed. |
-| [04 — Mariage avec Mohamed](eras/04-marriage-to-mohamed.md) | 15 ans de mariage (sensible). |
-| [05 — Hôtesse de l'air, Hawaï, Alaska](eras/05-flight-attendant-hawaii-alaska.md) | Trois périodes de travail et de rencontres. |
-| [06 — Retour en France](eras/06-back-to-france.md) | 2021 : Rennes, Brittany Ferries, rapprochement de la famille. |
-| [07 — Chris et Nice (brouillon)](eras/07-chris-and-nice-draft.md) | Après le 01/01/2023, brouillon. |
+| [01 — Origins and early childhood](eras/01-origins-and-early-childhood.md) | From the parents' meeting (1976) to summer 1985. |
+| [02 — Childhood and adolescence in France](eras/02-childhood-and-teens-in-france.md) | Starter: 1985 to around 1997. |
+| [03 — Back to the United States](eras/03-back-to-the-united-states.md) | Finding her father, the Clara disappointment, New York, meeting Mohamed. |
+| [04 — Marriage to Mohamed](eras/04-marriage-to-mohamed.md) | 15 years of marriage (sensitive). |
+| [05 — Flight attendant, Hawaii, Alaska](eras/05-flight-attendant-hawaii-alaska.md) | Three periods of work and encounters. |
+| [06 — Back to France](eras/06-back-to-france.md) | 2021: Rennes, Brittany Ferries, moving closer to family. |
+| [07 — Chris and Nice (draft)](eras/07-chris-and-nice-draft.md) | After 01/01/2023, draft. |
 
-### Périodes
+### Periods
 
-| Fiche | Résumé |
+| File | Summary |
 |---|---|
-| [01-01 — Rencontre à Francfort](periods/01-01-meeting-in-frankfurt.md) | 1976, Mark et Béatrice se rencontrent dans un bar de GI. |
-| [01-02 — Naissance à Heidelberg](periods/01-02-birth-in-heidelberg.md) | 1979, naissance à l'hôpital militaire. |
-| [01-03 — Petite enfance en famille](periods/01-03-early-childhood-with-family.md) | 1979-1985, vie avec Mark, naissance de Gwen. |
-| [01-04 — Été 1985 à Saint-Brevin](periods/01-04-summer-1985-saint-brevin.md) | Les vacances qui deviennent un retour définitif en France. |
-| [02-01 — Enfance et adolescence en France](periods/02-01-childhood-and-teens-in-france.md) | Amorce : 1985 à environ 1997. |
-| [03-01 — Syracuse : retrouver papa](periods/03-01-syracuse-finding-dad.md) | Amorce : retrouvailles avec Mark, déception Clara. |
-| [03-02 — New York City](periods/03-02-new-york-city.md) | David, Walter, rencontre de Mohamed. |
-| [04-01 — Vie conjugale avec Mohamed](periods/04-01-married-life-with-mohamed.md) | 15 ans de mariage (sensible). |
-| [05-01 — Hôtesse de l'air](periods/05-01-flight-attendant.md) | Amorce. |
-| [05-02 — Infirmière à Hawaï](periods/05-02-nurse-in-hawaii.md) | Amorce. |
-| [05-03 — Infirmière en Alaska](periods/05-03-nurse-in-alaska.md) | Amorce. |
-| [06-01 — Le Rennais, Brittany Ferries, 2e avortement](periods/06-01-the-rennes-man-brittany-ferries.md) | 2021, Rennes (sensible). |
-| [06-02 — Appartement à Rennes](periods/06-02-apartment-in-rennes.md) | Période plus calme, près de la famille. |
-| [07-01 — Rencontre avec Chris](periods/07-01-meeting-chris.md) | Brouillon. |
+| [01-01 — Meeting in Frankfurt](periods/01-01-meeting-in-frankfurt.md) | 1976, Mark and Béatrice meet in a GI bar. |
+| [01-02 — Birth in Heidelberg](periods/01-02-birth-in-heidelberg.md) | 1979, birth at the military hospital. |
+| [01-03 — Early childhood with family](periods/01-03-early-childhood-with-family.md) | 1979-1985, life with Mark, Gwen's birth. |
+| [01-04 — Summer 1985 in Saint-Brevin](periods/01-04-summer-1985-saint-brevin.md) | The holiday that becomes a permanent return to France. |
+| [02-01 — Childhood and adolescence in France](periods/02-01-childhood-and-teens-in-france.md) | Starter: 1985 to around 1997. |
+| [03-01 — Syracuse: finding Dad](periods/03-01-syracuse-finding-dad.md) | Starter: reunion with Mark, the Clara disappointment. |
+| [03-02 — New York City](periods/03-02-new-york-city.md) | David, Walter, meeting Mohamed. |
+| [04-01 — Married life with Mohamed](periods/04-01-married-life-with-mohamed.md) | 15 years of marriage (sensitive). |
+| [05-01 — Flight attendant](periods/05-01-flight-attendant.md) | Starter. |
+| [05-02 — Nurse in Hawaii](periods/05-02-nurse-in-hawaii.md) | Starter. |
+| [05-03 — Nurse in Alaska](periods/05-03-nurse-in-alaska.md) | Starter. |
+| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](periods/06-01-the-rennes-man-brittany-ferries.md) | 2021, Rennes (sensitive). |
+| [06-02 — Apartment in Rennes](periods/06-02-apartment-in-rennes.md) | A calmer period, close to family. |
+| [07-01 — Meeting Chris](periods/07-01-meeting-chris.md) | Draft. |
 
-## Règles de travail (à appliquer à chaque échange)
+## Working rules (to apply at every exchange)
 
-- Ne rien inventer : tout ce qui n'est pas confirmé par Lillian reste dans la section « À préciser ».
-- Les fiches s'enrichissent au fil des échanges ; chaque ajout significatif fait l'objet d'un commit.
+- Invent nothing: anything not confirmed by Lillian stays in the “To clarify” section.
+- Files grow over the exchanges; every significant addition gets its own commit.
 
-### Règle 1 — La section « À préciser »
+### Rule 1 — The “To clarify” section
 
-- Chaque fiche (personne ou période) contient une section **« À préciser »**.
-- À chaque fois qu'on découvre une personne ou une période, et au fil des échanges sur ce sujet, on y note les questions qui permettraient de compléter la compréhension :
-  - du personnage
-  - du contexte
-  - d'une situation
-  - d'une période
-  - d'un événement en particulier
-  - d'une histoire personnelle à creuser avec un personnage
-- Cette section est **mise à jour à chaque échange** : on ajoute les nouvelles questions et on retire (en reportant la réponse dans la bonne section de la fiche) celles qui ont été résolues.
+- Every file (person or period) contains a **“To clarify”** section.
+- Whenever we discover a person or a period, and as the exchanges on that subject go on, we write down the questions that would help complete our understanding:
+  - of the character
+  - of the context
+  - of a situation
+  - of a period
+  - of a particular event
+  - of a personal story to dig into with a character
+- This section is **updated at every exchange**: new questions are added, and the ones that have been answered are removed (the answer is moved to the right section of the file).
 
-### Règle 2 — Période qui introduit une personne
+### Rule 2 — A period that introduces a person
 
-- Si, en parlant d'une période, on évoque une nouvelle personne, on **crée sa fiche** dans `people/` à partir du modèle.
-- La fiche personne est **liée aux différentes périodes** où elle apparaît (tableau en tête de fiche, juste après le titre), et la fiche période est liée à la fiche personne (section « Personnes fréquentées »).
-- **Toute personne nommée évoquée dans une période doit avoir sa fiche personne.**
-- Les personnes ou groupes **sans nom** (belle-famille, amis, enfants, collègues) n'ont pas de fiche : ils sont cités dans la période, et « À préciser » demande leur nom. Dès qu'ils sont nommés, on crée la fiche.
+- If, while talking about a period, a new person comes up, we **create their file** in `people/` from the template.
+- The person file is **linked to the various periods** in which they appear (table at the top of the file, right after the title), and the period file is linked to the person file (“People around her” section).
+- **Every named person mentioned in a period must have a person file.**
+- People or groups **without a name** (in-laws, friends, children, colleagues) get no file: they are mentioned in the period, and “To clarify” asks for their name. As soon as they are named, the file is created.
 
-### Règle 3 — Personne qui introduit une période
+### Rule 3 — A person who introduces a period
 
-- Réciproquement, si, en parlant d'une personne, on évoque une période qui n'existe pas encore, on **crée la fiche période** dans `periods/` à partir du modèle, avec son numéro `EE-PP`.
-- Les liens sont posés dans les deux sens, comme dans la règle 2.
+- Conversely, if, while talking about a person, a period comes up that does not exist yet, we **create the period file** in `periods/` from the template, with its `EE-PP` number.
+- Links are set in both directions, as in rule 2.
 
-### Règle 4 — Époques
+### Rule 4 — Eras
 
-- Chaque période est rattachée à une **époque** (champ « Époque » en tête de fiche, dans l'introduction) et listée dans le tableau « Périodes » de la fiche époque.
-- Toute nouvelle période est ajoutée à l'époque qui lui correspond, dans les deux sens.
-- Les époques sont les candidates au découpage en livres, sans que cela soit décidé.
-- Chaque fiche époque contient une section **« Interviews à prévoir »** : thèmes à couvrir avec Lillian et statut (à faire, faite). Prévu : époque 04, 1 à 2 interviews ; époque 05, au moins 1 interview par période (hôtesse de l'air, Hawaï, Alaska).
+- Every period belongs to an **era** (“Era” field at the top of the file, in the introduction) and is listed in the “Periods” table of the era file.
+- Every new period is added to its matching era, in both directions.
+- Eras are the candidates for splitting into books, though this is not decided.
+- Every era file contains an **“Interviews to plan”** section: themes to cover with Lillian and status (to do, done). Planned: era 04, 1 to 2 interviews; era 05, at least 1 interview per period (flight attendant, Hawaii, Alaska).
 
-### Règle 5 — Index
+### Rule 5 — Index
 
-- Toute fiche créée est ajoutée à l'index de ce fichier.
+- Every file created is added to the index of this file.
 
-### Règle 6 — Brouillon après le 01/01/2023 (règle temporaire)
+### Rule 6 — Draft after 01/01/2023 (temporary rule)
 
-- Tout ce qui concerne la vie de Lillian **après le 01/01/2023** (dont l'époque 07, Chris et Nice) est traité comme un **brouillon** : on ne crée que le minimum et la section « À préciser » contient **3 questions essentielles au maximum** (dates, lieu, rôle de la personne), sans questions de détail, d'émotions ou d'anecdotes.
-- **À supprimer** quand les époques 01 à 06 seront traitées : on posera alors autant de questions que nécessaire pour préciser cette époque.
+- Everything about Lillian's life **after 01/01/2023** (including era 07, Chris and Nice) is treated as a **draft**: we create only the minimum, and the “To clarify” section contains **at most 3 essential questions** (dates, place, role of the person), with no questions about details, emotions or anecdotes.
+- **To be removed** once eras 01 to 06 have been covered: we will then ask as many questions as needed to clarify this era.
 
-### Règle 7 — Sujets sensibles
+### Rule 7 — Sensitive subjects
 
-- Pour les sujets sensibles (avortements, alcool, humiliations, abandon, violences…), les faits sont consignés **sobrement**, sans détail inventé.
-- La fiche concernée porte la mention : « **Sensible : à valider avec Lillian avant tout usage dans un livre** ».
-- Les noms de personnes réelles sont à revalider avec Lillian au moment de l'écriture.
+- For sensitive subjects (abortions, alcohol, humiliation, abandonment, violence…), the facts are recorded **soberly**, with no invented detail.
+- The file concerned carries the mention: “**Sensitive: to confirm with Lillian before any use in a book**”.
+- The names of real people are to be confirmed again with Lillian at the time of writing.
 
-### Règle 8 — Commits
+### Rule 8 — Commits
 
-- Les modifications d'organisation sont commitées **séparément**, dans cet ordre : règles (`MEMORY.md`), puis époques, puis périodes, puis personnes.
-- Les messages de commit sont en français, courts, et terminés par la ligne de co-auteur demandée par l'outil.
+- Organizational changes are committed **separately**, in this order: rules (`MEMORY.md`), then eras, then periods, then people.
+- Commit messages are in French, short, and end with the co-author line required by the tool.
 
-### Règle 9 — Questions à Lillian
+### Rule 9 — Questions for Lillian
 
-- Les questions sont posées **groupées par thème**.
-- Avant de bâtir un plan de réorganisation, on pose d'abord **toutes les questions** utiles pour bien comprendre la demande.
+- Questions are asked **grouped by theme**.
+- Before building a reorganization plan, we first ask **all the questions** needed to fully understand the request.

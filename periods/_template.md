@@ -1,36 +1,36 @@
-# [EE-PP] — [Titre de la période]
+# [EE-PP] — [Period title]
 
-**Époque** : [numéro — titre de l'époque](../eras/EE-name.md)
+**Era**: [number — era title](../eras/EE-name.md)
 
-## Lieu
+## Place
 
-- **Pays** :
-- **Ville(s)** :
+- **Country**:
+- **City/cities**:
 
 ## Dates
 
-- **Début** :
-- **Fin** :
-- **Âge de Lillian** :
+- **Start**:
+- **End**:
+- **Lillian's age**:
 
-## Personnes fréquentées
+## People around her
 
-### [Prénom](../people/firstname.md)
+### [First name](../people/firstname.md)
 
-- **Rôle durant cette période** :
-- **Anecdotes de vie** :
-- **Histoires fortes en émotions ou profondes dans la relation** :
+- **Role during this period**:
+- **Life anecdotes**:
+- **Emotionally strong or deep stories in the relationship**:
 
-## Histoires et petits détails
+## Stories and small details
 
-Événements, habitudes, objets, repas, chansons, odeurs, petites choses du quotidien qui font la période.
+Events, habits, objects, meals, songs, smells, the small everyday things that make up the period.
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-Décors, saisons, lumière, sons, atmosphère générale, contexte de l'époque.
+Settings, seasons, light, sounds, general atmosphere, the context of the time.
 
-## À préciser
+## To clarify
 
-À demander à Lillian pour compléter la fiche, groupé par thème.
+To ask Lillian to complete this file, grouped by theme.
 
 -

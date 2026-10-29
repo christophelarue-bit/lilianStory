@@ -1,33 +1,33 @@
-# [Numéro] — [Titre de l'époque]
+# [Number] — [Era title]
 
-Une époque est une grande partie de la vie de Lillian. Elle peut devenir un livre de la collection ; ses périodes en sont les chapitres. Les personnes sont reliées aux périodes, pas à l'époque.
+An era is a large part of Lillian's life. It can become a book in the collection; its periods are the chapters. People are linked to periods, not to the era.
 
 ## Dates
 
-- **Début** :
-- **Fin** :
-- **Âge de Lillian** :
+- **Start**:
+- **End**:
+- **Lillian's age**:
 
-## Résumé de l'époque
+## Era summary
 
-Quelques paragraphes : ce qui définit l'époque, les lieux, l'ambiance, les tournants.
+A few paragraphs: what defines the era, the places, the atmosphere, the turning points.
 
-## Périodes
+## Periods
 
-| Période | Dates | Lieu |
+| Period | Dates | Place |
 |---|---|---|
-| [période](../periods/EE-PP-name.md) | | |
+| [period](../periods/EE-PP-name.md) | | |
 
-## Fil rouge et enjeux
+## Common thread and stakes
 
-Ce qui relie les périodes entre elles : thèmes, blessures, désirs, transformations.
+What ties the periods together: themes, wounds, desires, transformations.
 
-## Interviews à prévoir
+## Interviews to plan
 
-| Thème | Statut |
+| Theme | Status |
 |---|---|
-| | à faire |
+| | to do |
 
-## À préciser
+## To clarify
 
 -
