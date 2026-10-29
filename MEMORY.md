@@ -127,7 +127,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [xavier](people/xavier.md) | Younger brother, born after summer 1985, lives in Nantes. |
 | [maternal-grandfather](people/maternal-grandfather.md) | Papouche, Béatrice's father and a notable of Saint-Brevin. An anchor and a symbol of fatherhood for Lillian; took Béatrice and her children in in 1985. |
 | [maternal-grandmother](people/maternal-grandmother.md) | Mamouche, Papouche's wife. A soothing relationship, in listening and kindness toward the family; took Béatrice and her children in in 1985. |
-| [clara](people/clara.md) | Role to clarify, linked to a wound involving Mark. |
+| [clara](people/clara.md) | Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [mohamed](people/mohamed.md) | Lillian's husband for 15 years (sensitive). |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
 | [david-friend](people/david-friend.md) | Friend from era 05, with Adriana. |
@@ -159,7 +159,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [01-03 — Early childhood with family](periods/01-03-early-childhood-with-family.md) | 1979-1985, life with Mark, Gwen's birth. |
 | [01-04 — Summer 1985 in Saint-Brevin](periods/01-04-summer-1985-saint-brevin.md) | The holiday that becomes a permanent return to France. |
 | [02-01 — Childhood and adolescence in France](periods/02-01-childhood-and-teens-in-france.md) | Starter: 1985 to around 1997. |
-| [03-01 — Syracuse: finding Dad](periods/03-01-syracuse-finding-dad.md) | Starter: reunion with Mark, the Clara disappointment. |
+| [03-01 — Syracuse: finding Dad](periods/03-01-syracuse-finding-dad.md) | Reunion with Mark after 15 years, Clara's ultimatum, leaving Syracuse. |
 | [03-02 — New York City](periods/03-02-new-york-city.md) | David, Walter, meeting Mohamed. |
 | [04-01 — Married life with Mohamed](periods/04-01-married-life-with-mohamed.md) | 15 years of marriage (sensitive). |
 | [05-01 — Flight attendant](periods/05-01-flight-attendant.md) | Starter. |
