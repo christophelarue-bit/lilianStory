@@ -17,7 +17,7 @@
 
 ### [Lillian](../people/lillian.md)
 
-- **Role during this period**: Not yet born: this period precedes her birth
+- **Role during this period**: Main character; not yet born: this period precedes her birth
 
 ### [Dad](../people/dad.md)
 

@@ -51,7 +51,7 @@
 
 - Where exactly does the family live? Were there any moves?
 - Where was Gwen born?
-- What was daily life like for a GI family in Germany in the 1980s: base school, friends, commissary, celebrations?
+- What was daily life like for a GI family in Germany in the 1980s: base school, friends, police station, celebrations?
 - What other childhood memories with Mark (first memory, strongest memory)?
 - What language was spoken at home? How did Béatrice cope with English?
 - When did the money troubles begin? What did Lillian know as a child?
