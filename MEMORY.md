@@ -59,8 +59,9 @@ Template: [eras/_template.md](eras/_template.md)
 
 ```
 MEMORY.md              ← this file: goal, method, index
-README.md              ← project pitch
+README.md              ← project pitch and links to the three folders
 eras/
+  README.md            ← list of the eras
   _template.md         ← era file template
   01-origins-and-early-childhood.md
   02-childhood-and-teens-in-france.md
@@ -70,6 +71,7 @@ eras/
   06-back-to-france.md
   07-chris-and-nice-draft.md
 people/
+  README.md            ← list of the people
   _template.md         ← person file template
   lillian.md
   dad.md
@@ -89,6 +91,7 @@ people/
   the-rennes-man.md
   christophe.md
 periods/
+  README.md            ← list of the periods
   _template.md         ← period file template
   01-01-meeting-in-frankfurt.md
   01-02-birth-in-heidelberg.md
@@ -205,7 +208,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 
 ### Rule 5 — Index
 
-- Every file created is added to the index of this file.
+- Every file created is added to the index of this file, and to the `README.md` of its folder.
 
 ### Rule 6 — Draft after 01/01/2023 (temporary rule)
 
