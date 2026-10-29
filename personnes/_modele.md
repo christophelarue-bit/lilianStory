@@ -1,5 +1,11 @@
 # [Prénom / surnom]
 
+## Périodes concernées
+
+| Période | Époque | Lieu | Ce qui a été partagé |
+|---|---|---|---|
+| [EE-PP — titre](../periodes/EE-PP-nom.md) | [EE — titre](../epoques/EE-nom.md) | Ville, pays | |
+
 ## Identité
 
 - **Rôle dans la vie de Lillian** :
@@ -29,12 +35,6 @@ Place occupée (centrale, secondaire, ponctuelle mais marquante…) et pourquoi.
 
 Ce que Lillian est devenue en partie grâce à, ou à cause de, cette personne.
 
-## Moments de partage de vie
-
-| Période | Lieu | Ce qui a été partagé |
-|---|---|---|
-| [période](../periodes/xx-nom.md) | Ville, pays | |
-
 ## Émotions fortes
 
 ### Bonheurs
@@ -51,6 +51,6 @@ Récits, souvenirs précis, phrases marquantes, objets, odeurs, détails.
 
 ## À préciser
 
-À demander à Lillian pour compléter la fiche.
+À demander à Lillian pour compléter la fiche, groupé par thème.
 
 -

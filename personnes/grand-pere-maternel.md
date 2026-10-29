@@ -1,5 +1,12 @@
 # Le grand-père maternel (père de Béatrice)
 
+## Périodes concernées
+
+| Période | Époque | Lieu | Ce qui a été partagé |
+|---|---|---|---|
+| [01-04 — Été 1985 à Saint-Brevin](../periodes/01-04-ete-1985-saint-brevin.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | France | Accueille la famille en vacances, suggère à Béatrice de rester |
+| [02-01 — Enfance et adolescence en France](../periodes/02-01-enfance-adolescence-france.md) | [02 — Enfance et adolescence en France](../epoques/02-enfance-adolescence-france.md) | France | Rôle à préciser |
+
 ## Identité
 
 - **Prénom / surnom** : à préciser
@@ -29,12 +36,6 @@
 ## Importance dans son histoire et la construction de son être
 
 *(à compléter)*
-
-## Moments de partage de vie
-
-| Période | Lieu | Ce qui a été partagé |
-|---|---|---|
-| [03 — Été 1985 à Saint-Brevin](../periodes/03-ete-1985-saint-brevin.md) | France | Accueille la famille en vacances, suggère à Béatrice de rester |
 
 ## Émotions fortes
 

@@ -78,6 +78,15 @@ personnes/
   xavier.md
   grand-pere-maternel.md
   clara.md
+  mohamed.md
+  david-ny.md
+  david-ami.md
+  walter.md
+  yacine.md
+  adriana.md
+  jose.md
+  le-rennais.md
+  christophe.md
 periodes/
   _modele.md           ← modèle de fiche période
   01-01-rencontre-francfort.md
@@ -110,10 +119,19 @@ Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
 | [lillian](personnes/lillian.md) | Le personnage central. Habite Nice depuis environ 1 an. |
 | [papa](personnes/papa.md) | Mark, américain, militaire (GI, Irak), habite Syracuse (État de New York). |
 | [maman](personnes/maman.md) | Béatrice, ex-jeune fille au pair, habite Saint-Brieuc, France. |
-| [gwen](personnes/gwen.md) | Sœur cadette, née en 1982. |
-| [xavier](personnes/xavier.md) | Frère cadet, né après l'été 1985. |
+| [gwen](personnes/gwen.md) | Sœur cadette, née en 1982, habite Vendôme. |
+| [xavier](personnes/xavier.md) | Frère cadet, né après l'été 1985, habite Nantes. |
 | [grand-pere-maternel](personnes/grand-pere-maternel.md) | Père de Béatrice, a suggéré qu'elle reste en France en 1985. |
 | [clara](personnes/clara.md) | Rôle à préciser, liée à une blessure avec Mark. |
+| [mohamed](personnes/mohamed.md) | Mari de Lillian pendant 15 ans (sensible). |
+| [david-ny](personnes/david-ny.md) | Petit flirt chinois de New York. |
+| [david-ami](personnes/david-ami.md) | Ami de l'époque 05, avec Adriana. |
+| [walter](personnes/walter.md) | Du Bangladesh, rencontré à New York. |
+| [yacine](personnes/yacine.md) | Rencontré pendant le mariage, rôle à préciser. |
+| [adriana](personnes/adriana.md) | Amie de l'époque 05. |
+| [jose](personnes/jose.md) | Un amour de l'époque 05. |
+| [le-rennais](personnes/le-rennais.md) | Rencontre amoureuse de 2021 à Rennes (sensible). |
+| [christophe](personnes/christophe.md) | Chris, fiche minimale en brouillon. |
 
 ### Époques
 

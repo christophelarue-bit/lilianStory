@@ -1,11 +1,22 @@
 # Maman (Béatrice)
 
+## Périodes concernées
+
+| Période | Époque | Lieu | Ce qui a été partagé |
+|---|---|---|---|
+| [01-01 — Rencontre à Francfort](../periodes/01-01-rencontre-francfort.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | Francfort, Allemagne | Rencontre avec Mark en 1976, elle est jeune fille au pair |
+| [01-02 — Naissance à Heidelberg](../periodes/01-02-naissance-heidelberg.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | Heidelberg, Allemagne | Naissance de Lillian en 1979 |
+| [01-03 — Petite enfance en famille](../periodes/01-03-petite-enfance-en-famille.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | Allemagne (à confirmer) | Vie de famille avec Mark, naissance de Gwen en 1982 |
+| [01-04 — Été 1985 à Saint-Brevin](../periodes/01-04-ete-1985-saint-brevin.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | France | Vacances en famille, enceinte de Xavier ; elle reste en France |
+| [02-01 — Enfance et adolescence en France](../periodes/02-01-enfance-adolescence-france.md) | [02 — Enfance et adolescence en France](../epoques/02-enfance-adolescence-france.md) | France | Élève ses enfants en France |
+| [06-02 — Appartement à Rennes](../periodes/06-02-appartement-a-rennes.md) | [06 — Retour en France](../epoques/06-retour-en-france.md) | Rennes, France | Vit à Saint-Brieuc, proche de Lillian installée à Rennes |
+
 ## Identité
 
 - **Prénom** : Béatrice
 - **Rôle dans la vie de Lillian** : mère
 - **Nationalité / origine** : française (à confirmer). Sa famille a son « fief » à Saint-Brevin (à confirmer).
-- **Lieu de vie** : Saint-Brieuc, Côtes-d'Armor, France
+- **Lieu de vie** : Saint-Brieuc, Côtes-d'Armor, France (proche de Rennes, où Lillian s'installe après 2021)
 - **Dates** : à compléter
 - **Parcours connu** : jeune fille au pair en Allemagne en 1976, à Francfort ; retour en France à l'été 1985 avec ses enfants
 
@@ -31,15 +42,6 @@
 ## Importance dans son histoire et la construction de son être
 
 *(à compléter)*
-
-## Moments de partage de vie
-
-| Période | Lieu | Ce qui a été partagé |
-|---|---|---|
-| [00 — Rencontre à Francfort](../periodes/00-rencontre-francfort.md) | Francfort, Allemagne | Rencontre avec Mark en 1976, elle est jeune fille au pair |
-| [01 — Naissance à Heidelberg](../periodes/01-naissance-heidelberg.md) | Heidelberg, Allemagne | Naissance de Lillian en 1979 à l'hôpital militaire |
-| [02 — Petite enfance en famille](../periodes/02-petite-enfance-en-famille.md) | Allemagne (à confirmer) | Vie de famille avec Mark, naissance de Gwen en 1982 |
-| [03 — Été 1985 à Saint-Brevin](../periodes/03-ete-1985-saint-brevin.md) | France | Vacances en famille, enceinte de Xavier ; elle reste en France |
 
 ## Émotions fortes
 

@@ -1,5 +1,11 @@
 # Clara
 
+## Périodes concernées
+
+| Période | Époque | Lieu | Ce qui a été partagé |
+|---|---|---|---|
+| [03-01 — Syracuse : retrouver papa](../periodes/03-01-syracuse-retrouver-papa.md) | [03 — Retour aux États-Unis](../epoques/03-retour-etats-unis.md) | Syracuse, États-Unis | L'histoire de Clara, déception pour Lillian |
+
 ## Identité
 
 - **Rôle dans la vie de Lillian** : à préciser
@@ -27,12 +33,6 @@
 
 *(à compléter)*
 
-## Moments de partage de vie
-
-| Période | Lieu | Ce qui a été partagé |
-|---|---|---|
-| *(à compléter)* | | |
-
 ## Émotions fortes
 
 ### Bonheurs
@@ -51,4 +51,4 @@
 
 - Qui est Clara (compagne de Mark ? demi-sœur de Lillian ? autre) ?
 - Quelle est l'histoire, quand s'est-elle passée, en quoi blesse-t-elle Lillian ?
-- Dans quelle période de la vie de Lillian se situe-t-elle (avant, pendant ou après le [retour aux États-Unis à 18 ans](../periodes/04-retour-etats-unis-18-ans.md)) ?
+- Dans quelle période de la vie de Lillian se situe-t-elle (avant, pendant ou après le [retour aux États-Unis à 18 ans](../periodes/03-01-syracuse-retrouver-papa.md)) ?

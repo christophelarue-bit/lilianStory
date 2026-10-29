@@ -1,5 +1,16 @@
 # Papa (Mark)
 
+## Périodes concernées
+
+| Période | Époque | Lieu | Ce qui a été partagé |
+|---|---|---|---|
+| [01-01 — Rencontre à Francfort](../periodes/01-01-rencontre-francfort.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | Francfort, Allemagne | Rencontre avec Béatrice dans un bar de GI en 1976 |
+| [01-02 — Naissance à Heidelberg](../periodes/01-02-naissance-heidelberg.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | Heidelberg, Allemagne | Naissance de Lillian en 1979 à l'hôpital militaire |
+| [01-03 — Petite enfance en famille](../periodes/01-03-petite-enfance-en-famille.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | Allemagne (à confirmer) | Vie de famille jusqu'en 1985 ; comptines pour s'endormir |
+| [01-04 — Été 1985 à Saint-Brevin](../periodes/01-04-ete-1985-saint-brevin.md) | [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md) | France | La famille part en vacances en France, Mark n'y est plus ; la séparation s'installe |
+| [02-01 — Enfance et adolescence en France](../periodes/02-01-enfance-adolescence-france.md) | [02 — Enfance et adolescence en France](../epoques/02-enfance-adolescence-france.md) | France | Père absent, à distance (à préciser) |
+| [03-01 — Syracuse : retrouver papa](../periodes/03-01-syracuse-retrouver-papa.md) | [03 — Retour aux États-Unis](../epoques/03-retour-etats-unis.md) | Syracuse, États-Unis | Lillian repart le retrouver à 18 ans |
+
 ## Identité
 
 - **Prénom** : Mark. Lillian l'appelle « Papa ».
@@ -22,7 +33,7 @@
 
 - Présent dans sa vie jusqu'en 1985, c'est-à-dire pendant ses six premières années.
 - Après le départ de la famille en France, la relation passe à distance. Les détails (appels, lettres, visites) sont à demander.
-- À 18 ans, Lillian repart aux États-Unis pour se rapprocher de lui. C'est l'objet d'une période à part : [04 — Retour aux États-Unis à 18 ans](../periodes/04-retour-etats-unis-18-ans.md).
+- À 18 ans, Lillian repart aux États-Unis pour se rapprocher de lui. C'est l'objet d'une période à part : [03-01 — Syracuse : retrouver papa](../periodes/03-01-syracuse-retrouver-papa.md).
 
 ## Impact sur la vie de Lillian
 
@@ -39,16 +50,6 @@
 
 - Ce que Lillian tient de lui : à demander à Lillian.
 - Ressenti d'abandon, à explorer avec elle : il ne s'est pas battu pour se rapprocher de ses enfants, ni en réglant ses dettes, ni en venant en France.
-
-## Moments de partage de vie
-
-| Période | Lieu | Ce qui a été partagé |
-|---|---|---|
-| [00 — Rencontre à Francfort](../periodes/00-rencontre-francfort.md) | Francfort, Allemagne | Rencontre avec Béatrice dans un bar de GI en 1976 (avant la naissance de Lillian) |
-| [01 — Naissance à Heidelberg](../periodes/01-naissance-heidelberg.md) | Heidelberg, Allemagne | Naissance de Lillian en 1979 à l'hôpital militaire |
-| [02 — Petite enfance en famille](../periodes/02-petite-enfance-en-famille.md) | Allemagne (à confirmer) | Vie de famille jusqu'en 1985 ; comptines pour s'endormir |
-| [03 — Été 1985 à Saint-Brevin](../periodes/03-ete-1985-saint-brevin.md) | France | La famille part en vacances en France, Mark n'y est plus ; la séparation s'installe |
-| [04 — Retour aux États-Unis à 18 ans](../periodes/04-retour-etats-unis-18-ans.md) | Syracuse, États-Unis | Lillian rejoint son père, détails à venir |
 
 ## Émotions fortes
 
