@@ -51,4 +51,4 @@
 - Where did Lillian go after leaving [Syracuse](03-01-syracuse-finding-dad.md), after Mark's non-answer to Clara's ultimatum? Did she go straight to New York City? To what extent does this period match that departure, and/or meeting Mohamed?
 - Walter's role: friend, lover, something else?
 - Mohamed: how, where and when did they meet?
-- Dates of the stay in New York City and of her departure from Syracuse (see the age/dates question in [03-01](03-01-syracuse-finding-dad.md)).
+- Dates of the stay in New York City and of her departure from Syracuse (see the dates questions in [03-01](03-01-syracuse-finding-dad.md)).

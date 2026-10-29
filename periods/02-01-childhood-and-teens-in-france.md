@@ -12,7 +12,7 @@
 ## Dates
 
 - **Start**: 1985
-- **End**: around 1997 (to be confirmed)
+- **End**: September 1998 (departure for the United States, at 18)
 - **Lillian's age**: from 6 to about 18
 
 ## People around her
@@ -53,13 +53,15 @@
 
 ### [Dad](../people/dad.md)
 
-- **Role during this period**: absent father, at a distance (to clarify)
+- **Role during this period**: absent father, at a distance. Around 1995, Lillian (16) and Gwen go on holiday to New York to see him.
 - **Life anecdotes**: *(to be completed)*
 - **Emotionally strong or deep stories in the relationship**: missing her father, separation taken very badly
 
 ## Stories and small details
 
 - Lillian keeps a slight American accent: first language English, then French.
+- Around 1995, at 16, Lillian and Gwen go on holiday to New York to see their father.
+- Lillian attends a boarding school in La Baule (years to clarify) and passes her French baccalauréat.
 
 ## Landscapes and atmosphere
 
@@ -71,4 +73,5 @@
 - Daily life: school, friends, activities, teenage passions?
 - Mark: what contact from a distance (calls, letters, visits)?
 - Structure: a single period or several (childhood / adolescence)?
-- Dates: the return to the United States is told as after 15 years apart (around 2000, age about 21), but the files say around 1997 and 18. Which is right, and does it change the end of this period/era?
+- School: boarding school in La Baule (which years, why?) and the French baccalauréat (when, where?)
+- The trip to New York at 16 with Gwen: when exactly, was it the city or New York State, how did it go?
