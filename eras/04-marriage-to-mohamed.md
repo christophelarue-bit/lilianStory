@@ -1,41 +1,41 @@
-# 04 — Mariage avec Mohamed
+# 04 — Marriage to Mohamed
 
-**Sensible : à valider avec Lillian avant tout usage dans un livre** (alcool, humiliations, avortement).
+**Sensitive: to confirm with Lillian before any use in a book** (alcohol, humiliation, abortion).
 
 ## Dates
 
-- **Début** : à préciser (après la rencontre de Mohamed à New York)
-- **Fin** : à préciser (le mariage dure 15 ans)
-- **Âge de Lillian** : à préciser
+- **Start**: to clarify (after meeting Mohamed in New York)
+- **End**: to clarify (the marriage lasts 15 years)
+- **Lillian's age**: to clarify
 
-## Résumé de l'époque
+## Era summary
 
-Lillian vit avec Mohamed puis l'épouse. Elle aime sa belle âme, son esprit, ses qualités humaines et ses valeurs. Ils se font de nouveaux amis, la famille s'installe dans leur vie, et l'on ressent la pression des apparences et de la religion.
+Lillian lives with Mohamed, then marries him. She loves his beautiful soul, his mind, his human qualities and his values. They make new friends, the family settles into their life, and the pressure of appearances and religion is felt.
 
-Les années passent, entre Albany, Raleigh et d'autres destinations à demander à Lillian, avec un voyage à Las Vegas. Peu à peu s'installent l'alcool, les humiliations et la peur de l'abandon, déjà présente à cause du comportement de son père.
+The years go by, between Albany, Raleigh and other destinations to ask Lillian about, with a trip to Las Vegas. Little by little, alcohol, humiliation and the fear of abandonment set in, the latter already present because of her father's behavior.
 
-Un avortement marque cette époque : Mohamed préfère la laisser seule. C'est aussi dans ces années-là qu'elle rencontre Yacine. Le mariage dure 15 ans, une période lourde qui demande plusieurs interviews.
+An abortion marks this era: Mohamed prefers to leave her alone. It is also in those years that she meets Yacine. The marriage lasts 15 years, a heavy period that calls for several interviews.
 
-## Périodes
+## Periods
 
-| Période | Dates | Lieu |
+| Period | Dates | Place |
 |---|---|---|
-| [04-01 — Vie conjugale avec Mohamed](../periods/04-01-married-life-with-mohamed.md) | 15 ans | Albany, Raleigh et autres lieux |
+| [04-01 — Married life with Mohamed](../periods/04-01-married-life-with-mohamed.md) | 15 years | Albany, Raleigh and other places |
 
-## Fil rouge et enjeux
+## Common thread and stakes
 
-L'amour et les valeurs de départ, la pression des apparences et de la religion, la peur de l'abandon qui revient, et la fin du mariage.
+The love and shared values at the start, the pressure of appearances and religion, the fear of abandonment coming back, and the end of the marriage.
 
-## Interviews à prévoir
+## Interviews to plan
 
-Au moins 1 à 2 interviews sont nécessaires pour cette période lourde.
+At least 1 to 2 interviews are needed for this heavy period.
 
-| Thème | Statut |
+| Theme | Status |
 |---|---|
-| Lillian : les débuts, l'amour, les valeurs de Mohamed, la belle-famille, les amis | à faire |
-| Lillian : les voyages, Albany, Raleigh, Las Vegas et autres destinations | à faire |
-| Lillian : l'alcool, les humiliations, l'avortement, Yacine, la fin du mariage | à faire |
+| Lillian: the early days, love, Mohamed's values, the in-laws, friends | to do |
+| Lillian: the travels, Albany, Raleigh, Las Vegas and other destinations | to do |
+| Lillian: alcohol, humiliation, the abortion, Yacine, the end of the marriage | to do |
 
-## À préciser
+## To clarify
 
-- Comment découper les 15 ans en plusieurs périodes après les interviews ?
+- How should the 15 years be split into several periods after the interviews?

@@ -1,40 +1,40 @@
-# 06 — Retour en France
+# 06 — Back to France
 
-**Sensible : à valider avec Lillian avant tout usage dans un livre** (avortement vécu seule, détresse).
+**Sensitive: to confirm with Lillian before any use in a book** (abortion gone through alone, distress).
 
 ## Dates
 
-- **Début** : 2021
-- **Fin** : à préciser (arrivée de Chris)
-- **Âge de Lillian** : environ 42 ans au début (née en 1979)
+- **Start**: 2021
+- **End**: to clarify (Chris's arrival)
+- **Lillian's age**: about 42 at the start (born in 1979)
 
-## Résumé de l'époque
+## Era summary
 
-En 2021, Lillian revient en France. Une rencontre amoureuse qui tourne mal, avec le Rennais, la mène à Rennes, où elle vit un second avortement, de nouveau seule, car l'homme n'assume pas.
+In 2021, Lillian comes back to France. A romantic encounter that goes wrong, with the Rennes man, takes her to Rennes, where she goes through a second abortion, alone again, because the man does not take responsibility.
 
-Il y a aussi l'expérience Brittany Ferries (à préciser), et elle cache sa souffrance à sa famille. Gwen lui demande de venir garder ses enfants juste après l'avortement, sans s'intéresser à sa détresse.
+There is also the Brittany Ferries experience (to clarify), and she hides her suffering from her family. Gwen asks her to come and look after her children right after the abortion, without taking any interest in her distress.
 
-Vient ensuite une période plus calme, avec son propre appartement à Rennes, près de son frère (Nantes), de sa mère (Saint-Brieuc) et de sa sœur (Vendôme). Revenir en France pour se rapprocher de sa famille était son but.
+Then comes a calmer period, with her own apartment in Rennes, near her brother (Nantes), her mother (Saint-Brieuc) and her sister (Vendôme). Coming back to France to be closer to her family was her goal.
 
-## Périodes
+## Periods
 
-| Période | Dates | Lieu |
+| Period | Dates | Place |
 |---|---|---|
-| [06-01 — Le Rennais, Brittany Ferries, 2e avortement](../periods/06-01-the-rennes-man-brittany-ferries.md) | 2021 | Rennes |
-| [06-02 — Appartement à Rennes](../periods/06-02-apartment-in-rennes.md) | à préciser | Rennes |
+| [06-01 — The Rennes man, Brittany Ferries, 2nd abortion](../periods/06-01-the-rennes-man-brittany-ferries.md) | 2021 | Rennes |
+| [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | to clarify | Rennes |
 
-## Fil rouge et enjeux
+## Common thread and stakes
 
-Se rapprocher de sa famille, cacher sa douleur, l'abandon qui se répète, la solitude, puis le calme retrouvé.
+Getting closer to her family, hiding her pain, abandonment repeating itself, loneliness, then calm regained.
 
-## Interviews à prévoir
+## Interviews to plan
 
-| Thème | Statut |
+| Theme | Status |
 |---|---|
-| Lillian : le Rennais, Rennes, le second avortement | à faire |
-| Lillian : Brittany Ferries, la famille, Gwen | à faire |
-| Lillian : l'appartement de Rennes, la vie plus calme | à faire |
+| Lillian: the Rennes man, Rennes, the second abortion | to do |
+| Lillian: Brittany Ferries, the family, Gwen | to do |
+| Lillian: the Rennes apartment, the calmer life | to do |
 
-## À préciser
+## To clarify
 
-- Date précise du retour en France et de l'arrivée de Chris.
+- Exact date of the return to France and of Chris's arrival.

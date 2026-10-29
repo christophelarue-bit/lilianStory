@@ -1,32 +1,32 @@
-# 07 — Chris et Nice (brouillon)
+# 07 — Chris and Nice (draft)
 
-*(Brouillon : tout ce qui suit le 01/01/2023. Règle 6 de MEMORY.md : 3 questions maximum, jusqu'à ce que les époques 01 à 06 soient traitées.)*
+*(Draft: everything after 01/01/2023. Rule 6 in MEMORY.md: 3 questions maximum, until eras 01 to 06 have been covered.)*
 
 ## Dates
 
-- **Début** : arrivée de Chris (date à préciser)
-- **Fin** : en cours
-- **Âge de Lillian** : à préciser
+- **Start**: Chris's arrival (date to clarify)
+- **End**: ongoing
+- **Lillian's age**: to clarify
 
-## Résumé de l'époque
+## Era summary
 
-La rencontre avec Chris est « toute une histoire », qui fera l'objet de cette époque une fois que les six premières seront traitées. Lillian vit aujourd'hui à Nice, depuis environ un an.
+Meeting Chris is « toute une histoire » [quite a story], which will be the subject of this era once the first six have been covered. Lillian now lives in Nice, and has for about a year.
 
-## Périodes
+## Periods
 
-| Période | Dates | Lieu |
+| Period | Dates | Place |
 |---|---|---|
-| [07-01 — Rencontre avec Chris](../periods/07-01-meeting-chris.md) | à préciser | à préciser |
+| [07-01 — Meeting Chris](../periods/07-01-meeting-chris.md) | to clarify | to clarify |
 
-## Fil rouge et enjeux
+## Common thread and stakes
 
-*(à compléter après les époques 01 à 06)*
+*(to be completed after eras 01 to 06)*
 
-## Interviews à prévoir
+## Interviews to plan
 
-Aucune pour l'instant (brouillon).
+None for now (draft).
 
-## À préciser
+## To clarify
 
-- Date de rencontre de Chris ?
-- Comment Lillian est-elle arrivée à Nice ?
+- When did she meet Chris?
+- How did Lillian end up in Nice?

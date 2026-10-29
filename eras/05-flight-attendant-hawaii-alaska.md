@@ -1,39 +1,39 @@
-# 05 — Hôtesse de l'air, Hawaï, Alaska
+# 05 — Flight attendant, Hawaii, Alaska
 
 ## Dates
 
-- **Début** : à préciser
-- **Fin** : à préciser
-- **Âge de Lillian** : à préciser
+- **Start**: to clarify
+- **End**: to clarify
+- **Lillian's age**: to clarify
 
-## Résumé de l'époque
+## Era summary
 
-Lillian devient hôtesse de l'air, puis infirmière à Hawaï, puis en Alaska. Trois périodes très différentes dont le détail reste à raconter.
+Lillian becomes a flight attendant, then a nurse in Hawaii, then in Alaska. Three very different periods whose details are yet to be told.
 
-C'est durant cette époque qu'elle rencontre Adriana et David, deux amis, et José, un amour.
+It is during this era that she meets Adriana and David, two friends, and José, a love.
 
-## Périodes
+## Periods
 
-| Période | Dates | Lieu |
+| Period | Dates | Place |
 |---|---|---|
-| [05-01 — Hôtesse de l'air](../periods/05-01-flight-attendant.md) | à préciser | à préciser |
-| [05-02 — Infirmière à Hawaï](../periods/05-02-nurse-in-hawaii.md) | à préciser | Hawaï |
-| [05-03 — Infirmière en Alaska](../periods/05-03-nurse-in-alaska.md) | à préciser | Alaska |
+| [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | to clarify | to clarify |
+| [05-02 — Nurse in Hawaii](../periods/05-02-nurse-in-hawaii.md) | to clarify | Hawaii |
+| [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | to clarify | Alaska |
 
-## Fil rouge et enjeux
+## Common thread and stakes
 
-À explorer : la liberté après le mariage, le travail, les amitiés et l'amour.
+To explore: freedom after the marriage, work, friendships and love.
 
-## Interviews à prévoir
+## Interviews to plan
 
-Au moins 1 interview pour chacune des 3 périodes.
+At least 1 interview for each of the 3 periods.
 
-| Thème | Statut |
+| Theme | Status |
 |---|---|
-| Lillian : hôtesse de l'air | à faire |
-| Lillian : infirmière à Hawaï | à faire |
-| Lillian : infirmière en Alaska | à faire |
+| Lillian: flight attendant | to do |
+| Lillian: nurse in Hawaii | to do |
+| Lillian: nurse in Alaska | to do |
 
-## À préciser
+## To clarify
 
-- Dans quel ordre exact ? Quand se termine le mariage avec Mohamed par rapport à cette époque ?
+- In what exact order? When does the marriage to Mohamed end relative to this era?

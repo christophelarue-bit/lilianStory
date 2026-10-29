@@ -1,36 +1,36 @@
-# 02 — Enfance et adolescence en France
+# 02 — Childhood and adolescence in France
 
-*(Fiche d'amorce. À développer dans un échange dédié avec Lillian.)*
+*(Starter file. To be developed in a dedicated conversation with Lillian.)*
 
 ## Dates
 
-- **Début** : été 1985
-- **Fin** : vers 1997, quand Lillian a 18 ans et repart aux États-Unis (à confirmer)
-- **Âge de Lillian** : de 6 à 18 ans
+- **Start**: summer 1985
+- **End**: around 1997, when Lillian is 18 and goes back to the United States (to be confirmed)
+- **Lillian's age**: from 6 to 18
 
-## Résumé de l'époque
+## Era summary
 
-Lillian grandit en France après la rupture de l'été 1985, auprès de sa mère Béatrice, de sa sœur Gwen et de son frère Xavier, dans une famille qui s'est séparée de son père américain. Elle est la seule de la fratrie à avoir parlé anglais avant le français, ce qui lui donne un léger accent américain.
+Lillian grows up in France after the break-up of summer 1985, with her mother Béatrice, her sister Gwen and her brother Xavier, in a family that has separated from her American father. She is the only one of the siblings to have spoken English before French, which gives her a slight American accent.
 
-Le contenu de cette époque (lieux, école, amis, adolescence, lien à distance avec Mark) reste à raconter.
+The content of this era (places, school, friends, adolescence, long-distance bond with Mark) is yet to be told.
 
-## Périodes
+## Periods
 
-| Période | Dates | Lieu |
+| Period | Dates | Place |
 |---|---|---|
-| [02-01 — Enfance et adolescence en France](../periods/02-01-childhood-and-teens-in-france.md) | 1985-vers 1997 | France |
+| [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | 1985-around 1997 | France |
 
-## Fil rouge et enjeux
+## Common thread and stakes
 
-À explorer : le manque du père, la vie entre deux cultures, le départ pour les États-Unis.
+To explore: missing her father, life between two cultures, leaving for the United States.
 
-## Interviews à prévoir
+## Interviews to plan
 
-| Thème | Statut |
+| Theme | Status |
 |---|---|
-| Lillian : lieux de vie, école, amis, adolescence, lien avec Mark à distance | à faire |
+| Lillian: places she lived, school, friends, adolescence, long-distance bond with Mark | to do |
 
-## À préciser
+## To clarify
 
-- Où ont-ils vécu après Saint-Brevin ? Quand arrive Saint-Brieuc ?
-- Faut-il découper cette époque en plusieurs périodes ?
+- Where did they live after Saint-Brevin? When does Saint-Brieuc come in?
+- Should this era be split into several periods?
