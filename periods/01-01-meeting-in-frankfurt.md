@@ -1,43 +1,47 @@
-# 01-01 — Rencontre à Francfort (avant Lillian)
+# 01-01 — Meeting in Frankfurt (before Lillian)
 
-**Époque** : [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md)
+**Era**: [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md)
 
-## Lieu
+## Place
 
-- **Pays** : Allemagne
-- **Ville(s)** : Francfort, base militaire américaine et bar de GI
+- **Country**: Germany
+- **City/cities**: Frankfurt, American military base and GI bar
 
 ## Dates
 
-- **Début** : 1976, rencontre de Mark et Béatrice (la période à documenter va de 1975 à 1980)
-- **Fin** : à préciser (installation à Heidelberg avant la naissance de Lillian en 1979)
-- **Âge de Lillian** : pas encore née
+- **Start**: 1976, Mark and Béatrice meet (the period to document runs from 1975 to 1980)
+- **End**: to clarify (move to Heidelberg before Lillian's birth in 1979)
+- **Lillian's age**: not yet born
 
-## Personnes fréquentées
+## People around her
 
-### [Papa](../people/dad.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : Mark, militaire américain (GI) en poste sur la base de Francfort
-- **Anecdotes de vie** : fréquente un bar de GI à Francfort
-- **Histoires fortes en émotions ou profondes dans la relation** : il a le coup de foudre pour Béatrice dès leur rencontre
+- **Role during this period**: Not yet born: this period precedes her birth
 
-### [Maman](../people/mom.md)
+### [Dad](../people/dad.md)
 
-- **Rôle durant cette période** : Béatrice, jeune fille au pair
-- **Anecdotes de vie** : elle voulait vivre une histoire d'amour avec un GI
-- **Histoires fortes en émotions ou profondes dans la relation** : coup de foudre réciproque ? À demander à Béatrice
+- **Role during this period**: Mark, American soldier (GI) stationed at the Frankfurt base
+- **Life anecdotes**: goes to a GI bar in Frankfurt
+- **Emotionally strong or deep stories in the relationship**: he falls head over heels for Béatrice as soon as they meet
 
-## Histoires et petits détails
+### [Mom](../people/mom.md)
 
-*(à compléter avec Béatrice)*
+- **Role during this period**: Béatrice, a young au pair
+- **Life anecdotes**: she wanted to have a love story with a GI
+- **Emotionally strong or deep stories in the relationship**: love at first sight on both sides? To ask Béatrice
 
-## Paysages et ambiance de vie
+## Stories and small details
 
-*(à compléter : Francfort dans les années 1970, ambiance du bar de GI, base militaire)*
+*(to be completed with Béatrice)*
 
-## À préciser
+## Landscapes and atmosphere
 
-- Période à documenter avec Béatrice (1975-1980) : arrivée en Allemagne, famille d'accueil, rencontre, début de couple, mariage éventuel.
-- Nom du bar ? Quel jour, quelle soirée ? Comment s'est passée la première rencontre ?
-- Quel âge avaient-ils ?
-- Quand ont-ils quitté Francfort pour Heidelberg ?
+*(to be completed: Frankfurt in the 1970s, the atmosphere of the GI bar, the military base)*
+
+## To clarify
+
+- Period to document with Béatrice (1975-1980): arrival in Germany, host family, meeting, early days as a couple, possible marriage.
+- Name of the bar? Which day, which evening? How did the first meeting go?
+- How old were they?
+- When did they leave Frankfurt for Heidelberg?

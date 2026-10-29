@@ -1,62 +1,66 @@
-# 01-04 — Été 1985 à Saint-Brevin
+# 01-04 — Summer 1985 in Saint-Brevin
 
-**Époque** : [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md)
+**Era**: [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md)
 
-## Lieu
+## Place
 
-- **Pays** : France
-- **Ville(s)** : Saint-Brevin (à confirmer), « fief » de la famille de Béatrice
+- **Country**: France
+- **City/cities**: Saint-Brevin (to be confirmed), the « fief » [home base] of Béatrice's family
 
 ## Dates
 
-- **Début** : été 1985, départ en vacances en France
-- **Fin** : à préciser (quand la famille s'installe durablement en France)
-- **Âge de Lillian** : environ 6 ans
+- **Start**: summer 1985, leaving for a holiday in France
+- **End**: to clarify (when the family settles permanently in France)
+- **Lillian's age**: about 6
 
-## Personnes fréquentées
+## People around her
 
-### [Maman](../people/mom.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : Béatrice, avec Lillian et Gwen, enceinte de Xavier. Elle arrive pour les vacances et finit par rester en France.
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : la décision de rester, faute de pouvoir tenir financièrement avec Mark
+- **Role during this period**: Main character, about 6; comes to France for a summer holiday that becomes a permanent return, separated from her father
 
-### [Le grand-père maternel](../people/maternal-grandfather.md)
+### [Mom](../people/mom.md)
 
-- **Rôle durant cette période** : père de Béatrice, il lui suggère de rester en France tant que la situation financière de Mark ne s'améliore pas
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : sa suggestion devient la rupture ; la situation de Mark ne s'est pas améliorée
+- **Role during this period**: Béatrice, with Lillian and Gwen, pregnant with Xavier. She comes for the holidays and ends up staying in France.
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: the decision to stay, as she cannot make ends meet with Mark
+
+### [The maternal grandfather](../people/maternal-grandfather.md)
+
+- **Role during this period**: Béatrice's father, he suggests she stay in France until Mark's financial situation improves
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: his suggestion becomes the break-up; Mark's situation did not improve
 
 ### [Gwen](../people/gwen.md)
 
-- **Rôle durant cette période** : sœur, environ 3 ans
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: sister, about 3
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Xavier](../people/xavier.md)
 
-- **Rôle durant cette période** : pas encore né, Béatrice est enceinte de lui
+- **Role during this period**: not yet born, Béatrice is pregnant with him
 
-### [Papa](../people/dad.md)
+### [Dad](../people/dad.md)
 
-- **Rôle durant cette période** : absent de ces vacances (à confirmer). Il reste endetté et en difficulté financière. Il ne vient pas en France les rejoindre.
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : Lillian vit très mal la séparation d'avec son père. Origine du sentiment d'abandon.
+- **Role during this period**: absent from this holiday (to be confirmed). He remains in debt and in financial difficulty. He does not come to France to join them.
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: Lillian takes the separation from her father very badly. The origin of her feeling of abandonment.
 
-## Histoires et petits détails
+## Stories and small details
 
-- Le départ est présenté comme des vacances d'été en France. Il devient un retour définitif, ni prévu ni décidé tout à fait par les enfants.
-- Lillian a six ans : elle quitte l'anglais pour le français, tout en gardant un léger accent américain.
+- The departure is presented as a summer holiday in France. It becomes a permanent return, neither planned nor really decided by the children.
+- Lillian is six: she leaves English behind for French, while keeping a slight American accent.
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter : Saint-Brevin, la maison de famille, la mer, l'été 1985)*
+*(to be completed: Saint-Brevin, the family house, the sea, summer 1985)*
 
-## À préciser
+## To clarify
 
-- Mark était-il avec eux au départ ? Où était-il pendant ces vacances ?
-- Qui a décidé que la famille ne repartirait pas, et comment l'a-t-elle appris ? Comment l'a vécu Lillian ?
-- Orthographe et lieu exact : Saint-Brevin (-les-Pins ?)
-- Où ont-ils vécu ensuite, entre 1985 et l'arrivée à Saint-Brieuc ?
-- A-t-on revu Mark après cet été-là ? Quand a-t-il écrit, appelé, visité ?
-- Souvenirs de Lillian de cet été : la maison, les cousins, le moment où elle a compris ?
+- Was Mark with them when they left? Where was he during this holiday?
+- Who decided the family would not go back, and how did the family find out? How did Lillian experience it?
+- Spelling and exact place: Saint-Brevin (-les-Pins?)
+- Where did they live afterwards, between 1985 and the arrival in Saint-Brieuc?
+- Did they see Mark again after that summer? When did he write, call, visit?
+- Lillian's memories of that summer: the house, the cousins, the moment she understood?

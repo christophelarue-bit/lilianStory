@@ -1,38 +1,42 @@
-# 07-01 — Rencontre avec Chris
+# 07-01 — Meeting Chris
 
-**Époque** : [07 — Chris et Nice (brouillon)](../eras/07-chris-and-nice-draft.md)
+**Era**: [07 — Chris and Nice (draft)](../eras/07-chris-and-nice-draft.md)
 
-*(Brouillon : règle 6 de MEMORY.md, 3 questions maximum.)*
+*(Draft: rule 6 in MEMORY.md, 3 questions maximum.)*
 
-## Lieu
+## Place
 
-- **Pays** : France
-- **Ville(s)** : à préciser (Nice aujourd'hui)
+- **Country**: France
+- **City/cities**: to clarify (Nice today)
 
 ## Dates
 
-- **Début** : à préciser
-- **Fin** : en cours
-- **Âge de Lillian** : à préciser
+- **Start**: to clarify
+- **End**: ongoing
+- **Lillian's age**: to clarify
 
-## Personnes fréquentées
+## People around her
 
-### [Christophe](../people/christophe.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : Chris, rencontre de Lillian, « toute une histoire »
-- **Anecdotes de vie** : *(brouillon)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(brouillon)*
+- **Role during this period**: Main character; meets Chris
 
-## Histoires et petits détails
+### [Christophe (Chris)](../people/christophe.md)
 
-*(brouillon)*
+- **Role during this period**: Chris, whom Lillian meets, « toute une histoire » [quite a story]
+- **Life anecdotes**: *(draft)*
+- **Emotionally strong or deep stories in the relationship**: *(draft)*
 
-## Paysages et ambiance de vie
+## Stories and small details
 
-*(brouillon)*
+*(draft)*
 
-## À préciser
+## Landscapes and atmosphere
 
-- Date et lieu de la rencontre de Chris ?
-- Quel est le lien entre Lillian et Chris ?
-- Comment Lillian est-elle arrivée à Nice ?
+*(draft)*
+
+## To clarify
+
+- Date and place of meeting Chris?
+- What is the connection between Lillian and Chris?
+- How did Lillian end up in Nice?

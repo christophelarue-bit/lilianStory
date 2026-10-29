@@ -1,44 +1,48 @@
-# 05-01 — Hôtesse de l'air
+# 05-01 — Flight attendant
 
-**Époque** : [05 — Hôtesse de l'air, Hawaï, Alaska](../eras/05-flight-attendant-hawaii-alaska.md)
+**Era**: [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md)
 
-## Lieu
+## Place
 
-- **Pays** : à préciser
-- **Ville(s)** : à préciser (base de la compagnie ?)
+- **Country**: to clarify
+- **City/cities**: to clarify (airline's base?)
 
 ## Dates
 
-- **Début** : à préciser
-- **Fin** : à préciser
-- **Âge de Lillian** : à préciser
+- **Start**: to clarify
+- **End**: to clarify
+- **Lillian's age**: to clarify
 
-## Personnes fréquentées
+## People around her
 
-*(à préciser lors de l'interview. Adriana, David et José sont rencontrés au cours de l'époque 05, sans que la période exacte soit connue.)*
+*(to clarify during the interview. Adriana, David and José are met during era 05, but the exact period is not known.)*
+
+### [Lillian](../people/lillian.md)
+
+- **Role during this period**: Main character; flight attendant
 
 ### [Adriana](../people/adriana.md)
 
-- **Rôle durant cette période** : amie (période exacte à préciser)
+- **Role during this period**: friend (exact period to clarify)
 
-### [David (ami)](../people/david-friend.md)
+### [David (friend)](../people/david-friend.md)
 
-- **Rôle durant cette période** : ami (période exacte à préciser)
+- **Role during this period**: friend (exact period to clarify)
 
 ### [José](../people/jose.md)
 
-- **Rôle durant cette période** : amour (période exacte à préciser)
+- **Role during this period**: love (exact period to clarify)
 
-## Histoires et petits détails
+## Stories and small details
 
-*(à compléter)*
+*(to be completed)*
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Compagnie, dates, bases, lignes ?
-- Pourquoi ce métier ? Que représente-t-il après le mariage ?
-- Où rencontre-t-elle Adriana, David, José ?
+- Airline, dates, bases, routes?
+- Why this job? What does it represent after the marriage?
+- Where does she meet Adriana, David, José?

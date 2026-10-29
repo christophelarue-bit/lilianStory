@@ -1,48 +1,52 @@
-# 06-02 — Appartement à Rennes
+# 06-02 — Apartment in Rennes
 
-**Époque** : [06 — Retour en France](../eras/06-back-to-france.md)
+**Era**: [06 — Back to France](../eras/06-back-to-france.md)
 
-## Lieu
+## Place
 
-- **Pays** : France
-- **Ville(s)** : Rennes, près de Nantes (Xavier), Saint-Brieuc (maman) et Vendôme (Gwen)
+- **Country**: France
+- **City/cities**: Rennes, near Nantes (Xavier), Saint-Brieuc (Mom) and Vendôme (Gwen)
 
 ## Dates
 
-- **Début** : à préciser (après le Rennais)
-- **Fin** : à préciser (avant l'arrivée de Chris)
-- **Âge de Lillian** : à préciser
+- **Start**: to clarify (after the Rennes man)
+- **End**: to clarify (before Chris arrives)
+- **Lillian's age**: to clarify
 
-## Personnes fréquentées
+## People around her
 
-### [Maman](../people/mom.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : vit à Saint-Brieuc, proche
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: Main character; a calmer period in her own apartment in Rennes, closer to her family
+
+### [Mom](../people/mom.md)
+
+- **Role during this period**: lives in Saint-Brieuc, nearby
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Xavier](../people/xavier.md)
 
-- **Rôle durant cette période** : frère, vit à Nantes
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: brother, lives in Nantes
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Gwen](../people/gwen.md)
 
-- **Rôle durant cette période** : sœur, vit à Vendôme
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: sister, lives in Vendôme
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
-## Histoires et petits détails
+## Stories and small details
 
-- Une période plus calme, dans son propre appartement.
-- Revenir en France pour se rapprocher de sa famille était son but.
+- A calmer period, in her own apartment.
+- Coming back to France to be closer to her family was her goal.
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Appartement : quartier, durée, emploi, quotidien ?
-- Famille : à quelle fréquence se voient-ils ?
+- Apartment: neighborhood, how long, job, daily life?
+- Family: how often do they see each other?

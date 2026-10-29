@@ -1,45 +1,49 @@
-# 03-01 — Syracuse : retrouver papa
+# 03-01 — Syracuse: finding Dad
 
-**Époque** : [03 — Retour aux États-Unis](../eras/03-back-to-the-united-states.md)
+**Era**: [03 — Back to the United States](../eras/03-back-to-the-united-states.md)
 
-*(Fiche d'amorce. À développer dans un échange dédié avec Lillian.)*
+*(Starter file. To be developed in a dedicated conversation with Lillian.)*
 
-## Lieu
+## Place
 
-- **Pays** : États-Unis
-- **Ville(s)** : Syracuse, État de New York
+- **Country**: United States
+- **City/cities**: Syracuse, New York State
 
 ## Dates
 
-- **Début** : vers 1997, à 18 ans (à confirmer)
-- **Fin** : à préciser
-- **Âge de Lillian** : 18 ans et après
+- **Start**: around 1997, at 18 (to be confirmed)
+- **End**: to clarify
+- **Lillian's age**: 18 and older
 
-## Personnes fréquentées
+## People around her
 
-### [Papa](../people/dad.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : Lillian repart aux États-Unis pour se rapprocher de lui
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : retrouvailles avec Mark après une douzaine d'années ; déception
+- **Role during this period**: Main character, 18; goes back to the United States to be closer to her father
+
+### [Dad](../people/dad.md)
+
+- **Role during this period**: Lillian goes back to the United States to be closer to him
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: reunion with Mark after about twelve years; disappointment
 
 ### [Clara](../people/clara.md)
 
-- **Rôle durant cette période** : à préciser
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : l'histoire de Clara est une déception, une blessure pour Lillian
+- **Role during this period**: to clarify
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: the Clara story is a disappointment, a wound for Lillian
 
-## Histoires et petits détails
+## Stories and small details
 
-- Lillian part pour se rapprocher de son père, mais la déception vient avec l'histoire de Clara.
-- La vie à Syracuse précède New York City.
+- Lillian leaves to be closer to her father, but disappointment comes with the Clara story.
+- Life in Syracuse comes before New York City.
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Départ : pourquoi à 18 ans ? Qu'est-ce qui l'a déclenché ?
-- Séjour : combien de temps à Syracuse, où vit-elle (chez Mark ?), que fait-elle (études, travail) ?
-- Clara : qui est-elle, quelle est l'histoire exacte ?
+- Departure: why at 18? What triggered it?
+- Stay: how long in Syracuse, where does she live (with Mark?), what does she do (studies, work)?
+- Clara: who is she, what exactly is the story?

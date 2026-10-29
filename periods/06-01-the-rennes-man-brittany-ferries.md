@@ -1,47 +1,51 @@
-# 06-01 — Le Rennais, Brittany Ferries, 2e avortement
+# 06-01 — The Rennes man, Brittany Ferries, 2nd abortion
 
-**Époque** : [06 — Retour en France](../eras/06-back-to-france.md)
+**Era**: [06 — Back to France](../eras/06-back-to-france.md)
 
-**Sensible : à valider avec Lillian avant tout usage dans un livre** (second avortement vécu seule, détresse cachée).
+**Sensitive: to confirm with Lillian before any use in a book** (second abortion gone through alone, hidden distress).
 
-## Lieu
+## Place
 
-- **Pays** : France
-- **Ville(s)** : Rennes
+- **Country**: France
+- **City/cities**: Rennes
 
 ## Dates
 
-- **Début** : 2021, retour en France
-- **Fin** : à préciser
-- **Âge de Lillian** : environ 42 ans
+- **Start**: 2021, return to France
+- **End**: to clarify
+- **Lillian's age**: about 42
 
-## Personnes fréquentées
+## People around her
 
-### [Le Rennais](../people/the-rennes-man.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : rencontre amoureuse « foireuse » qui la mène à Rennes
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : second avortement, de nouveau seule, car il n'assume pas
+- **Role during this period**: Main character, about 42; returns to France, goes through a second abortion alone and hides her suffering from her family
+
+### [The Rennes man](../people/the-rennes-man.md)
+
+- **Role during this period**: a « foireuse » [botched, messed-up] romance that brings her to Rennes
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: second abortion, alone again, because he does not take responsibility
 
 ### [Gwen](../people/gwen.md)
 
-- **Rôle durant cette période** : sœur (vit à Vendôme)
-- **Anecdotes de vie** : lui demande de venir garder ses enfants juste après l'avortement
-- **Histoires fortes en émotions ou profondes dans la relation** : ne s'intéresse pas à la détresse de Lillian
+- **Role during this period**: sister (lives in Vendôme)
+- **Life anecdotes**: asks her to come and look after her children right after the abortion
+- **Emotionally strong or deep stories in the relationship**: shows no interest in Lillian's distress
 
-## Histoires et petits détails
+## Stories and small details
 
-- L'expérience Brittany Ferries (à préciser).
-- Lillian cache sa souffrance à sa famille.
-- Les enfants de Gwen (prénoms à demander) sont à garder juste après l'avortement.
+- The Brittany Ferries experience (to clarify).
+- Lillian hides her suffering from her family.
+- Gwen's children (first names to ask) need looking after right after the abortion.
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Rencontre : le prénom du Rennais, comment ils se sont rencontrés, durée de la relation ?
-- Travail : en quoi consiste l'expérience Brittany Ferries ?
-- Famille : qui est au courant de l'avortement, et comment Lillian l'a-t-elle cachée ?
-- Enfants de Gwen : prénoms, âges ?
+- Meeting: the Rennes man's first name, how they met, how long the relationship lasted?
+- Work: what did the Brittany Ferries experience consist of?
+- Family: who knows about the abortion, and how did Lillian hide it?
+- Gwen's children: first names, ages?

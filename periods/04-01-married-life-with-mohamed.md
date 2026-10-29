@@ -1,53 +1,57 @@
-# 04-01 — Vie conjugale avec Mohamed
+# 04-01 — Married life with Mohamed
 
-**Époque** : [04 — Mariage avec Mohamed](../eras/04-marriage-to-mohamed.md)
+**Era**: [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md)
 
-**Sensible : à valider avec Lillian avant tout usage dans un livre** (alcool, humiliations, avortement, peur de l'abandon).
+**Sensitive: to confirm with Lillian before any use in a book** (alcohol, humiliations, abortion, fear of abandonment).
 
-## Lieu
+## Place
 
-- **Pays** : États-Unis
-- **Ville(s)** : Albany, Raleigh et d'autres destinations (à demander), voyage à Las Vegas
+- **Country**: United States
+- **City/cities**: Albany, Raleigh and other destinations (to ask), trip to Las Vegas
 
 ## Dates
 
-- **Début** : à préciser (la vie commune, puis le mariage)
-- **Fin** : à préciser (le mariage dure 15 ans)
-- **Âge de Lillian** : à préciser
+- **Start**: to clarify (living together, then the marriage)
+- **End**: to clarify (the marriage lasts 15 years)
+- **Lillian's age**: to clarify
 
-## Personnes fréquentées
+## People around her
+
+### [Lillian](../people/lillian.md)
+
+- **Role during this period**: Main character; Mohamed's wife for 15 years
 
 ### [Mohamed](../people/mohamed.md)
 
-- **Rôle durant cette période** : mari de Lillian pendant 15 ans
-- **Anecdotes de vie** : voyages, notamment à Las Vegas ; autres destinations à demander
-- **Histoires fortes en émotions ou profondes dans la relation** :
-  - L'amour, sa belle âme, son esprit, ses qualités humaines et ses valeurs.
-  - Ensuite l'alcool, les humiliations et la peur de l'abandon, présente depuis le comportement de son père.
-  - Un avortement par pilule abortive : Mohamed préfère la laisser seule. Elle saigne, sort de l'hôpital contre avis médical, et il choisit d'aller travailler plutôt que de rester avec elle.
+- **Role during this period**: Lillian's husband for 15 years
+- **Life anecdotes**: travels, notably to Las Vegas; other destinations to ask about
+- **Emotionally strong or deep stories in the relationship**:
+  - Love, his beautiful soul, his mind, his human qualities and his values.
+  - Then alcohol, humiliations and the fear of abandonment, present since her father's behavior.
+  - An abortion by abortion pill: Mohamed prefers to leave her alone. She is bleeding, leaves the hospital against medical advice, and he chooses to go to work rather than stay with her.
 
 ### [Yacine](../people/yacine.md)
 
-- **Rôle durant cette période** : rencontré pendant le mariage
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: met during the marriage
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
-## Histoires et petits détails
+## Stories and small details
 
-- Les nouveaux amis, la famille (belle-famille), la pression des apparences et de la religion.
-- Voyages entre Albany, Raleigh et d'autres destinations.
-- Voyage à Las Vegas.
-- Il y a « plein d'histoires » dans ces 15 ans : 1 à 2 interviews sont nécessaires.
+- New friends, the family (in-laws), the pressure of appearances and religion.
+- Travels between Albany, Raleigh and other destinations.
+- Trip to Las Vegas.
+- There are « plein d'histoires » [lots of stories] in these 15 years: 1 to 2 interviews are needed.
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Les débuts : comment est-on passé de la vie commune au mariage ? Où et quand le mariage ?
-- Le quotidien : lieux (Albany, Raleigh, autres), métier de Lillian, voyages et dates ?
-- Les autres : noms de la belle-famille et des nouveaux amis ?
-- Les épreuves : qui buvait ? Quelles humiliations ? L'avortement : date, lieu ?
-- Yacine : qui est-il, quel lien avec Lillian ?
-- La fin : comment et pourquoi le mariage s'est terminé ?
+- The beginnings: how did they go from living together to marriage? Where and when was the wedding?
+- Daily life: places (Albany, Raleigh, others), Lillian's job, travels and dates?
+- The others: names of the in-laws and the new friends?
+- The ordeals: who was drinking? What humiliations? The abortion: date, place?
+- Yacine: who is he, what is his connection to Lillian?
+- The end: how and why did the marriage end?

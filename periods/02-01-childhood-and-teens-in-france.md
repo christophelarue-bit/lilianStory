@@ -1,63 +1,67 @@
-# 02-01 — Enfance et adolescence en France
+# 02-01 — Childhood and adolescence in France
 
-**Époque** : [02 — Enfance et adolescence en France](../eras/02-childhood-and-teens-in-france.md)
+**Era**: [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md)
 
-*(Fiche d'amorce. À développer dans un échange dédié avec Lillian.)*
+*(Starter file. To be developed in a dedicated conversation with Lillian.)*
 
-## Lieu
+## Place
 
-- **Pays** : France
-- **Ville(s)** : à préciser (Saint-Brevin, puis ? ; Saint-Brieuc ?)
+- **Country**: France
+- **City/cities**: to clarify (Saint-Brevin, then?; Saint-Brieuc?)
 
 ## Dates
 
-- **Début** : 1985
-- **Fin** : vers 1997 (à confirmer)
-- **Âge de Lillian** : de 6 à environ 18 ans
+- **Start**: 1985
+- **End**: around 1997 (to be confirmed)
+- **Lillian's age**: from 6 to about 18
 
-## Personnes fréquentées
+## People around her
 
-### [Maman](../people/mom.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : Béatrice élève ses enfants en France, sans Mark
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: Main character, from 6 to about 18; grows up in France without her father
+
+### [Mom](../people/mom.md)
+
+- **Role during this period**: Béatrice raises her children in France, without Mark
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Gwen](../people/gwen.md)
 
-- **Rôle durant cette période** : sœur
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: sister
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Xavier](../people/xavier.md)
 
-- **Rôle durant cette période** : frère, né peu après l'été 1985
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: brother, born shortly after summer 1985
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
-### [Le grand-père maternel](../people/maternal-grandfather.md)
+### [The maternal grandfather](../people/maternal-grandfather.md)
 
-- **Rôle durant cette période** : à préciser
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: to clarify
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
-### [Papa](../people/dad.md)
+### [Dad](../people/dad.md)
 
-- **Rôle durant cette période** : père absent, à distance (à préciser)
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : manque du père, séparation très mal vécue
+- **Role during this period**: absent father, at a distance (to clarify)
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: missing her father, separation taken very badly
 
-## Histoires et petits détails
+## Stories and small details
 
-- Lillian garde un léger accent américain : première langue, l'anglais, puis le français.
+- Lillian keeps a slight American accent: first language English, then French.
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Lieux : où ont-ils vécu après Saint-Brevin ? Quand arrive Saint-Brieuc ?
-- Quotidien : école, amis, activités, passions de l'adolescence ?
-- Mark : quels contacts à distance (appels, lettres, visites) ?
-- Découpage : une seule période ou plusieurs (enfance / adolescence) ?
+- Places: where did they live after Saint-Brevin? When does Saint-Brieuc come in?
+- Daily life: school, friends, activities, teenage passions?
+- Mark: what contact from a distance (calls, letters, visits)?
+- Structure: a single period or several (childhood / adolescence)?

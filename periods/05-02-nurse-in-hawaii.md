@@ -1,43 +1,47 @@
-# 05-02 — Infirmière à Hawaï
+# 05-02 — Nurse in Hawaii
 
-**Époque** : [05 — Hôtesse de l'air, Hawaï, Alaska](../eras/05-flight-attendant-hawaii-alaska.md)
+**Era**: [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md)
 
-## Lieu
+## Place
 
-- **Pays** : États-Unis
-- **Ville(s)** : Hawaï (île à préciser)
+- **Country**: United States
+- **City/cities**: Hawaii (island to clarify)
 
 ## Dates
 
-- **Début** : à préciser
-- **Fin** : à préciser
-- **Âge de Lillian** : à préciser
+- **Start**: to clarify
+- **End**: to clarify
+- **Lillian's age**: to clarify
 
-## Personnes fréquentées
+## People around her
 
-*(Adriana, David et José sont rencontrés au cours de l'époque 05 : période exacte à préciser.)*
+*(Adriana, David and José are met during era 05: exact period to clarify.)*
+
+### [Lillian](../people/lillian.md)
+
+- **Role during this period**: Main character; nurse in Hawaii
 
 ### [Adriana](../people/adriana.md)
 
-- **Rôle durant cette période** : amie (période exacte à préciser)
+- **Role during this period**: friend (exact period to clarify)
 
-### [David (ami)](../people/david-friend.md)
+### [David (friend)](../people/david-friend.md)
 
-- **Rôle durant cette période** : ami (période exacte à préciser)
+- **Role during this period**: friend (exact period to clarify)
 
 ### [José](../people/jose.md)
 
-- **Rôle durant cette période** : amour (période exacte à préciser)
+- **Role during this period**: love (exact period to clarify)
 
-## Histoires et petits détails
+## Stories and small details
 
-*(à compléter)*
+*(to be completed)*
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Île, hôpital, dates, durée ?
-- Quelles amitiés ou amours ici ?
+- Island, hospital, dates, length of stay?
+- What friendships or loves here?

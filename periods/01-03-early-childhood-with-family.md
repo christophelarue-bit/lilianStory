@@ -1,54 +1,58 @@
-# 01-03 — Petite enfance en famille
+# 01-03 — Early childhood with family
 
-**Époque** : [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md)
+**Era**: [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md)
 
-## Lieu
+## Place
 
-- **Pays** : Allemagne (à confirmer)
-- **Ville(s)** : à préciser (Heidelberg ? autre base militaire américaine ?)
+- **Country**: Germany (to be confirmed)
+- **City/cities**: to clarify (Heidelberg? another American military base?)
 
 ## Dates
 
-- **Début** : 1979
-- **Fin** : été 1985
-- **Âge de Lillian** : de 0 à environ 6 ans
+- **Start**: 1979
+- **End**: summer 1985
+- **Lillian's age**: from 0 to about 6
 
-## Personnes fréquentées
+## People around her
 
-### [Papa](../people/dad.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : père, militaire, présent jusqu'en 1985. Endetté, avec des difficultés financières et peut-être un problème d'alcool (à confirmer).
-- **Anecdotes de vie** : il lui lit des histoires et lui chante des comptines pour l'endormir.
-- **Histoires fortes en émotions ou profondes dans la relation** : les soirs de comptines, souvenir fondateur. Autres souvenirs à demander à Lillian.
+- **Role during this period**: Main character, from 0 to about 6; speaks English before French
 
-### [Maman](../people/mom.md)
+### [Dad](../people/dad.md)
 
-- **Rôle durant cette période** : mère, elle suit Mark. Naissance de Gwen en 1982.
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: father, soldier, present until 1985. In debt, with financial difficulties and perhaps a drinking problem (to be confirmed).
+- **Life anecdotes**: he reads her stories and sings her nursery rhymes to put her to sleep.
+- **Emotionally strong or deep stories in the relationship**: the nursery-rhyme evenings, a founding memory. Other memories to ask Lillian about.
+
+### [Mom](../people/mom.md)
+
+- **Role during this period**: mother, she follows Mark. Gwen is born in 1982.
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Gwen](../people/gwen.md)
 
-- **Rôle durant cette période** : petite sœur, née en 1982
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: little sister, born in 1982
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
-## Histoires et petits détails
+## Stories and small details
 
-- Lillian parle anglais avant le français : elle est la seule de la fratrie à avoir ce parcours, d'où son léger accent américain.
-- Les comptines du soir, chantées et lues par son père.
-- Les difficultés financières de Mark s'aggravent jusqu'à rendre la vie de famille impossible à tenir.
+- Lillian speaks English before French: she is the only one of the siblings with this background, hence her slight American accent.
+- The bedtime nursery rhymes, sung and read by her father.
+- Mark's financial difficulties worsen until family life becomes impossible to sustain.
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter : base américaine, logement, quartier, saison préférée, sons, odeurs)*
+*(to be completed: American base, housing, neighborhood, favorite season, sounds, smells)*
 
-## À préciser
+## To clarify
 
-- Où la famille vit-elle exactement ? Y a-t-il eu des déménagements ?
-- Où est née Gwen ?
-- Quel était le quotidien d'une famille de GI en Allemagne dans les années 1980 : école de la base, amis, commissariat, fêtes ?
-- Quels autres souvenirs d'enfance avec Mark (premier souvenir, le plus fort) ?
-- Quelle langue parlait-on à la maison ? Comment Béatrice vivait-elle l'anglais ?
-- Quand les difficultés d'argent ont-elles commencé ? Que savait Lillian enfant ?
-- Alcool : confirmation avec Béatrice et Lillian.
+- Where exactly does the family live? Were there any moves?
+- Where was Gwen born?
+- What was daily life like for a GI family in Germany in the 1980s: base school, friends, commissary, celebrations?
+- What other childhood memories with Mark (first memory, strongest memory)?
+- What language was spoken at home? How did Béatrice cope with English?
+- When did the money troubles begin? What did Lillian know as a child?
+- Alcohol: confirm with Béatrice and Lillian.

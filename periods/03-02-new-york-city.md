@@ -1,48 +1,52 @@
 # 03-02 — New York City
 
-**Époque** : [03 — Retour aux États-Unis](../eras/03-back-to-the-united-states.md)
+**Era**: [03 — Back to the United States](../eras/03-back-to-the-united-states.md)
 
-## Lieu
+## Place
 
-- **Pays** : États-Unis
-- **Ville(s)** : New York City
+- **Country**: United States
+- **City/cities**: New York City
 
 ## Dates
 
-- **Début** : à préciser (après Syracuse)
-- **Fin** : à préciser
-- **Âge de Lillian** : à préciser
+- **Start**: to clarify (after Syracuse)
+- **End**: to clarify
+- **Lillian's age**: to clarify
 
-## Personnes fréquentées
+## People around her
+
+### [Lillian](../people/lillian.md)
+
+- **Role during this period**: Main character; in New York City after Syracuse, where she meets her future husband
 
 ### [David (New York)](../people/david-ny.md)
 
-- **Rôle durant cette période** : petit flirt chinois, habite à New York
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: a little Chinese fling, lives in New York
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Walter](../people/walter.md)
 
-- **Rôle durant cette période** : du Bangladesh
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: from Bangladesh
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Mohamed](../people/mohamed.md)
 
-- **Rôle durant cette période** : rencontre de son futur mari
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : la rencontre
+- **Role during this period**: meeting her future husband
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: the meeting
 
-## Histoires et petits détails
+## Stories and small details
 
-*(à compléter)*
+*(to be completed)*
 
-## Paysages et ambiance de vie
+## Landscapes and atmosphere
 
-*(à compléter)*
+*(to be completed)*
 
-## À préciser
+## To clarify
 
-- Lieu et date : où exactement, quand, pourquoi New York ?
-- Rôle de Walter : ami, amoureux, autre ?
-- Mohamed : comment, où et quand se sont-ils rencontrés ?
+- Place and date: where exactly, when, why New York?
+- Walter's role: friend, lover, something else?
+- Mohamed: how, where and when did they meet?

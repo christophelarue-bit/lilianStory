@@ -1,45 +1,49 @@
-# 01-02 — Naissance à Heidelberg
+# 01-02 — Birth in Heidelberg
 
-**Époque** : [01 — Origines et petite enfance](../eras/01-origins-and-early-childhood.md)
+**Era**: [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md)
 
-## Lieu
+## Place
 
-- **Pays** : Allemagne
-- **Ville(s)** : Heidelberg (hôpital militaire américain)
+- **Country**: Germany
+- **City/cities**: Heidelberg (American military hospital)
 
 ## Dates
 
-- **Début** : 1979, naissance de Lillian (date exacte à préciser)
-- **Fin** : à préciser (départ de Heidelberg)
-- **Âge de Lillian** : de 0 à ?
+- **Start**: 1979, Lillian's birth (exact date to clarify)
+- **End**: to clarify (departure from Heidelberg)
+- **Lillian's age**: from 0 to ?
 
-## Personnes fréquentées
+## People around her
 
-### [Papa](../people/dad.md)
+### [Lillian](../people/lillian.md)
 
-- **Rôle durant cette période** : père, militaire américain
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: Main character; born at the military hospital in Heidelberg because her father is an American soldier
 
-### [Maman](../people/mom.md)
+### [Dad](../people/dad.md)
 
-- **Rôle durant cette période** : mère
-- **Anecdotes de vie** : *(à compléter)*
-- **Histoires fortes en émotions ou profondes dans la relation** : *(à compléter)*
+- **Role during this period**: father, American soldier
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
-## Histoires et petits détails
+### [Mom](../people/mom.md)
 
-- Lillian naît à l'hôpital militaire d'Heidelberg parce que son père est militaire américain.
-- Cette naissance a lieu trois ans après la rencontre de ses parents ([01-01 — Rencontre à Francfort](01-01-meeting-in-frankfurt.md)).
+- **Role during this period**: mother
+- **Life anecdotes**: *(to be completed)*
+- **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
-## Paysages et ambiance de vie
+## Stories and small details
 
-*(à compléter)*
+- Lillian is born at the military hospital in Heidelberg because her father is an American soldier.
+- This birth comes three years after her parents met ([01-01 — Meeting in Frankfurt (before Lillian)](01-01-meeting-in-frankfurt.md)).
 
-## À préciser
+## Landscapes and atmosphere
 
-- Date exacte de naissance ? Prénom complet ?
-- Où vivait la famille (base, ville, logement) ? Y avait-il un mariage ?
-- Combien de temps la famille est-elle restée à Heidelberg ?
-- Que sait-on de la naissance par Béatrice ou Mark ?
-- Où est-on parti ensuite ? Voir [01-03 — Petite enfance en famille](01-03-early-childhood-with-family.md).
+*(to be completed)*
+
+## To clarify
+
+- Exact date of birth? Full first name?
+- Where did the family live (base, town, housing)? Was there a wedding?
+- How long did the family stay in Heidelberg?
+- What do Béatrice or Mark know about the birth?
+- Where did they go next? See [01-03 — Early childhood with family](01-03-early-childhood-with-family.md).
