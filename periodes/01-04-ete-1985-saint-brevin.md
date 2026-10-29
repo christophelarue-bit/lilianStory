@@ -1,6 +1,6 @@
-# 03 — Été 1985 à Saint-Brevin
+# 01-04 — Été 1985 à Saint-Brevin
 
-**Époque** : [01 — Origines et enfance](../epoques/01-origines-et-enfance.md)
+**Époque** : [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md)
 
 ## Lieu
 

@@ -1,6 +1,6 @@
-# 01 — Naissance à Heidelberg
+# 01-02 — Naissance à Heidelberg
 
-**Époque** : [01 — Origines et enfance](../epoques/01-origines-et-enfance.md)
+**Époque** : [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md)
 
 ## Lieu
 
@@ -30,7 +30,7 @@
 ## Histoires et petits détails
 
 - Lillian naît à l'hôpital militaire d'Heidelberg parce que son père est militaire américain.
-- Cette naissance a lieu trois ans après la rencontre de ses parents ([00 — Rencontre à Francfort](00-rencontre-francfort.md)).
+- Cette naissance a lieu trois ans après la rencontre de ses parents ([01-01 — Rencontre à Francfort](01-01-rencontre-francfort.md)).
 
 ## Paysages et ambiance de vie
 
@@ -42,4 +42,4 @@
 - Où vivait la famille (base, ville, logement) ? Y avait-il un mariage ?
 - Combien de temps la famille est-elle restée à Heidelberg ?
 - Que sait-on de la naissance par Béatrice ou Mark ?
-- Où est-on parti ensuite ? Voir [02 — Petite enfance en famille](02-petite-enfance-en-famille.md).
+- Où est-on parti ensuite ? Voir [01-03 — Petite enfance en famille](01-03-petite-enfance-en-famille.md).

@@ -1,6 +1,6 @@
-# 00 — Rencontre à Francfort (avant Lillian)
+# 01-01 — Rencontre à Francfort (avant Lillian)
 
-**Époque** : [01 — Origines et enfance](../epoques/01-origines-et-enfance.md)
+**Époque** : [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md)
 
 ## Lieu
 

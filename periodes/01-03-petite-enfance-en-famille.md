@@ -1,6 +1,6 @@
-# 02 — Petite enfance en famille
+# 01-03 — Petite enfance en famille
 
-**Époque** : [01 — Origines et enfance](../epoques/01-origines-et-enfance.md)
+**Époque** : [01 — Origines et petite enfance](../epoques/01-origines-et-petite-enfance.md)
 
 ## Lieu
 

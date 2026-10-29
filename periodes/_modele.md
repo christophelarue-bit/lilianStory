@@ -1,6 +1,6 @@
-# [Numéro] — [Titre de la période]
+# [EE-PP] — [Titre de la période]
 
-**Époque** : [numéro — titre de l'époque](../epoques/xx-nom.md)
+**Époque** : [numéro — titre de l'époque](../epoques/EE-nom.md)
 
 ## Lieu
 
@@ -31,6 +31,6 @@ Décors, saisons, lumière, sons, atmosphère générale, contexte de l'époque.
 
 ## À préciser
 
-À demander à Lillian pour compléter la fiche.
+À demander à Lillian pour compléter la fiche, groupé par thème.
 
 -

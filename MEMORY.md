@@ -80,11 +80,20 @@ personnes/
   clara.md
 periodes/
   _modele.md           ← modèle de fiche période
-  00-rencontre-francfort.md
-  01-naissance-heidelberg.md
-  02-petite-enfance-en-famille.md
-  03-ete-1985-saint-brevin.md
-  04-retour-etats-unis-18-ans.md
+  01-01-rencontre-francfort.md
+  01-02-naissance-heidelberg.md
+  01-03-petite-enfance-en-famille.md
+  01-04-ete-1985-saint-brevin.md
+  02-01-enfance-adolescence-france.md
+  03-01-syracuse-retrouver-papa.md
+  03-02-new-york-city.md
+  04-01-vie-conjugale-avec-mohamed.md
+  05-01-hotesse-de-l-air.md
+  05-02-infirmiere-hawai.md
+  05-03-infirmiere-alaska.md
+  06-01-le-rennais-brittany-ferries.md
+  06-02-appartement-a-rennes.md
+  07-01-rencontre-avec-chris.md
 ```
 
 Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
@@ -122,11 +131,20 @@ Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
 
 | Fiche | Résumé |
 |---|---|
-| [00 — Rencontre à Francfort](periodes/00-rencontre-francfort.md) | 1976, Mark et Béatrice se rencontrent dans un bar de GI. |
-| [01 — Naissance à Heidelberg](periodes/01-naissance-heidelberg.md) | 1979, naissance à l'hôpital militaire. |
-| [02 — Petite enfance en famille](periodes/02-petite-enfance-en-famille.md) | 1979-1985, vie avec Mark, naissance de Gwen. |
-| [03 — Été 1985 à Saint-Brevin](periodes/03-ete-1985-saint-brevin.md) | Les vacances qui deviennent un retour définitif en France. |
-| [04 — Retour aux États-Unis à 18 ans](periodes/04-retour-etats-unis-18-ans.md) | Amorce : Lillian rejoint son père. |
+| [01-01 — Rencontre à Francfort](periodes/01-01-rencontre-francfort.md) | 1976, Mark et Béatrice se rencontrent dans un bar de GI. |
+| [01-02 — Naissance à Heidelberg](periodes/01-02-naissance-heidelberg.md) | 1979, naissance à l'hôpital militaire. |
+| [01-03 — Petite enfance en famille](periodes/01-03-petite-enfance-en-famille.md) | 1979-1985, vie avec Mark, naissance de Gwen. |
+| [01-04 — Été 1985 à Saint-Brevin](periodes/01-04-ete-1985-saint-brevin.md) | Les vacances qui deviennent un retour définitif en France. |
+| [02-01 — Enfance et adolescence en France](periodes/02-01-enfance-adolescence-france.md) | Amorce : 1985 à environ 1997. |
+| [03-01 — Syracuse : retrouver papa](periodes/03-01-syracuse-retrouver-papa.md) | Amorce : retrouvailles avec Mark, déception Clara. |
+| [03-02 — New York City](periodes/03-02-new-york-city.md) | David, Walter, rencontre de Mohamed. |
+| [04-01 — Vie conjugale avec Mohamed](periodes/04-01-vie-conjugale-avec-mohamed.md) | 15 ans de mariage (sensible). |
+| [05-01 — Hôtesse de l'air](periodes/05-01-hotesse-de-l-air.md) | Amorce. |
+| [05-02 — Infirmière à Hawaï](periodes/05-02-infirmiere-hawai.md) | Amorce. |
+| [05-03 — Infirmière en Alaska](periodes/05-03-infirmiere-alaska.md) | Amorce. |
+| [06-01 — Le Rennais, Brittany Ferries, 2e avortement](periodes/06-01-le-rennais-brittany-ferries.md) | 2021, Rennes (sensible). |
+| [06-02 — Appartement à Rennes](periodes/06-02-appartement-a-rennes.md) | Période plus calme, près de la famille. |
+| [07-01 — Rencontre avec Chris](periodes/07-01-rencontre-avec-chris.md) | Brouillon. |
 
 ## Règles de travail (à appliquer à chaque échange)
 
