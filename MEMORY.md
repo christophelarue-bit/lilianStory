@@ -116,7 +116,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 
 | File | Summary |
 |---|---|
-| [lillian](people/lillian.md) | The central character. Has lived in Nice for about 1 year. |
+| [lillian](people/lillian.md) | The main character. Has lived in Nice for about 1 year. |
 | [dad](people/dad.md) | Mark, American, soldier (GI, Iraq), lives in Syracuse (New York State). |
 | [mom](people/mom.md) | Béatrice, former au pair, lives in Saint-Brieuc, France. |
 | [gwen](people/gwen.md) | Younger sister, born in 1982, lives in Vendôme. |
@@ -186,6 +186,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 - If, while talking about a period, a new person comes up, we **create their file** in `people/` from the template.
 - The person file is **linked to the various periods** in which they appear (table at the top of the file, right after the title), and the period file is linked to the person file (“People around her” section).
 - **Every named person mentioned in a period must have a person file.**
+- **Lillian is the main character**: she is listed first in the “People around her” section of every period, with her role in that period.
 - People or groups **without a name** (in-laws, friends, children, colleagues) get no file: they are mentioned in the period, and “To clarify” asks for their name. As soon as they are named, the file is created.
 
 ### Rule 3 — A person who introduces a period
@@ -218,9 +219,17 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 ### Rule 8 — Commits
 
 - Organizational changes are committed **separately**, in this order: rules (`MEMORY.md`), then eras, then periods, then people.
-- Commit messages are in French, short, and end with the co-author line required by the tool.
+- Commit messages are in English (see rule 10), short, and end with the co-author line required by the tool.
 
 ### Rule 9 — Questions for Lillian
 
 - Questions are asked **grouped by theme**.
 - Before building a reorganization plan, we first ask **all the questions** needed to fully understand the request.
+
+### Rule 10 — Language
+
+- The default language of all documents (rules, templates, files, link labels, commit messages) is **English**.
+- French is kept only where it is the better fit: a term or expression with no exact English equivalent, a specifically French notion (institution, custom, dish…), Lillian's own words, or the name of a town or place in France.
+- French words and expressions are written **in quotation marks**, followed by their English translation in brackets: « fief » [home base].
+- Names of towns and places (Saint-Brevin, Rennes, Saint-Brieuc) are proper names: they are written as is, without quotation marks or translation.
+- File and folder names are always in English (see the convention under “Repository structure”).
