@@ -15,7 +15,7 @@ Réaliser une **série de livres** racontant l'histoire de **Lillian**, une femm
 
 Pas d'écriture des livres pour l'instant. On construit petit à petit, au fil des échanges et des commits, une base de matériaux, sous forme de fiches Markdown.
 
-### 1. Les personnes (`personnes/`)
+### 1. Les personnes (`people/`)
 
 Une fiche par personne qui compose la vie de Lillian. Chaque fiche couvre :
 
@@ -27,9 +27,9 @@ Une fiche par personne qui compose la vie de Lillian. Chaque fiche couvre :
 - un **tableau des périodes** où elles apparaissent, placé en tête de fiche, juste après le titre (période, époque, lieu, ce qui a été partagé)
 - tout ce qui permet de comprendre leur impact sur Lillian : douleurs, bonheurs, sentiments forts suscités
 
-Modèle : [personnes/_modele.md](personnes/_modele.md)
+Modèle : [people/_template.md](people/_template.md)
 
-### 2. Les périodes (`periodes/`)
+### 2. Les périodes (`periods/`)
 
 Une fiche par période de la vie de Lillian. Chaque fiche couvre :
 
@@ -39,9 +39,9 @@ Une fiche par période de la vie de Lillian. Chaque fiche couvre :
 - les histoires et petits détails de la période
 - les paysages et l'ambiance de vie
 
-Modèle : [periodes/_modele.md](periodes/_modele.md)
+Modèle : [periods/_template.md](periods/_template.md)
 
-### 3. Les époques (`epoques/`)
+### 3. Les époques (`eras/`)
 
 Une époque est une grande partie de la vie de Lillian, qui peut devenir **un livre de la collection**. Ses périodes en sont les chapitres. Chaque fiche époque couvre :
 
@@ -53,61 +53,61 @@ Une époque est une grande partie de la vie de Lillian, qui peut devenir **un li
 
 Une époque décrit son contenu en quelques paragraphes et liste les périodes qui la composent. **Les personnes ne sont reliées qu'aux périodes, pas aux époques** (on verra plus tard si une table des personnes est utile au niveau de l'époque).
 
-Modèle : [epoques/_modele.md](epoques/_modele.md)
+Modèle : [eras/_template.md](eras/_template.md)
 
 ## Structure du dépôt
 
 ```
 MEMORY.md              ← ce fichier : objectif, méthode, index
 README.md              ← pitch du projet
-epoques/
-  _modele.md           ← modèle de fiche époque
-  01-origines-et-petite-enfance.md
-  02-enfance-adolescence-france.md
-  03-retour-etats-unis.md
-  04-mariage-mohamed.md
-  05-hotesse-hawai-alaska.md
-  06-retour-en-france.md
-  07-chris-et-nice-brouillon.md
-personnes/
-  _modele.md           ← modèle de fiche personne
+eras/
+  _template.md           ← modèle de fiche époque
+  01-origins-and-early-childhood.md
+  02-childhood-and-teens-in-france.md
+  03-back-to-the-united-states.md
+  04-marriage-to-mohamed.md
+  05-flight-attendant-hawaii-alaska.md
+  06-back-to-france.md
+  07-chris-and-nice-draft.md
+people/
+  _template.md           ← modèle de fiche personne
   lillian.md
-  papa.md
-  maman.md
+  dad.md
+  mom.md
   gwen.md
   xavier.md
-  grand-pere-maternel.md
+  maternal-grandfather.md
   clara.md
   mohamed.md
   david-ny.md
-  david-ami.md
+  david-friend.md
   walter.md
   yacine.md
   adriana.md
   jose.md
-  le-rennais.md
+  the-rennes-man.md
   christophe.md
-periodes/
-  _modele.md           ← modèle de fiche période
-  01-01-rencontre-francfort.md
-  01-02-naissance-heidelberg.md
-  01-03-petite-enfance-en-famille.md
-  01-04-ete-1985-saint-brevin.md
-  02-01-enfance-adolescence-france.md
-  03-01-syracuse-retrouver-papa.md
+periods/
+  _template.md           ← modèle de fiche période
+  01-01-meeting-in-frankfurt.md
+  01-02-birth-in-heidelberg.md
+  01-03-early-childhood-with-family.md
+  01-04-summer-1985-saint-brevin.md
+  02-01-childhood-and-teens-in-france.md
+  03-01-syracuse-finding-dad.md
   03-02-new-york-city.md
-  04-01-vie-conjugale-avec-mohamed.md
-  05-01-hotesse-de-l-air.md
-  05-02-infirmiere-hawai.md
-  05-03-infirmiere-alaska.md
-  06-01-le-rennais-brittany-ferries.md
-  06-02-appartement-a-rennes.md
-  07-01-rencontre-avec-chris.md
+  04-01-married-life-with-mohamed.md
+  05-01-flight-attendant.md
+  05-02-nurse-in-hawaii.md
+  05-03-nurse-in-alaska.md
+  06-01-the-rennes-man-brittany-ferries.md
+  06-02-apartment-in-rennes.md
+  07-01-meeting-chris.md
 ```
 
 Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
 
-- Les **époques** sont préfixées par un numéro d'ordre chronologique : `01-origines-et-petite-enfance.md`.
+- Les **époques** sont préfixées par un numéro d'ordre chronologique : `01-origins-and-early-childhood.md`.
 - Les **périodes** sont préfixées par le numéro de leur époque, puis leur numéro dans l'époque : `03-02-new-york-city.md` est la 2e période de l'époque 03. Insérer une période ne touche que son époque.
 
 ## Index
@@ -116,53 +116,53 @@ Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
 
 | Fiche | Résumé |
 |---|---|
-| [lillian](personnes/lillian.md) | Le personnage central. Habite Nice depuis environ 1 an. |
-| [papa](personnes/papa.md) | Mark, américain, militaire (GI, Irak), habite Syracuse (État de New York). |
-| [maman](personnes/maman.md) | Béatrice, ex-jeune fille au pair, habite Saint-Brieuc, France. |
-| [gwen](personnes/gwen.md) | Sœur cadette, née en 1982, habite Vendôme. |
-| [xavier](personnes/xavier.md) | Frère cadet, né après l'été 1985, habite Nantes. |
-| [grand-pere-maternel](personnes/grand-pere-maternel.md) | Père de Béatrice, a suggéré qu'elle reste en France en 1985. |
-| [clara](personnes/clara.md) | Rôle à préciser, liée à une blessure avec Mark. |
-| [mohamed](personnes/mohamed.md) | Mari de Lillian pendant 15 ans (sensible). |
-| [david-ny](personnes/david-ny.md) | Petit flirt chinois de New York. |
-| [david-ami](personnes/david-ami.md) | Ami de l'époque 05, avec Adriana. |
-| [walter](personnes/walter.md) | Du Bangladesh, rencontré à New York. |
-| [yacine](personnes/yacine.md) | Rencontré pendant le mariage, rôle à préciser. |
-| [adriana](personnes/adriana.md) | Amie de l'époque 05. |
-| [jose](personnes/jose.md) | Un amour de l'époque 05. |
-| [le-rennais](personnes/le-rennais.md) | Rencontre amoureuse de 2021 à Rennes (sensible). |
-| [christophe](personnes/christophe.md) | Chris, fiche minimale en brouillon. |
+| [lillian](people/lillian.md) | Le personnage central. Habite Nice depuis environ 1 an. |
+| [papa](people/dad.md) | Mark, américain, militaire (GI, Irak), habite Syracuse (État de New York). |
+| [maman](people/mom.md) | Béatrice, ex-jeune fille au pair, habite Saint-Brieuc, France. |
+| [gwen](people/gwen.md) | Sœur cadette, née en 1982, habite Vendôme. |
+| [xavier](people/xavier.md) | Frère cadet, né après l'été 1985, habite Nantes. |
+| [grand-pere-maternel](people/maternal-grandfather.md) | Père de Béatrice, a suggéré qu'elle reste en France en 1985. |
+| [clara](people/clara.md) | Rôle à préciser, liée à une blessure avec Mark. |
+| [mohamed](people/mohamed.md) | Mari de Lillian pendant 15 ans (sensible). |
+| [david-ny](people/david-ny.md) | Petit flirt chinois de New York. |
+| [david-ami](people/david-friend.md) | Ami de l'époque 05, avec Adriana. |
+| [walter](people/walter.md) | Du Bangladesh, rencontré à New York. |
+| [yacine](people/yacine.md) | Rencontré pendant le mariage, rôle à préciser. |
+| [adriana](people/adriana.md) | Amie de l'époque 05. |
+| [jose](people/jose.md) | Un amour de l'époque 05. |
+| [le-rennais](people/the-rennes-man.md) | Rencontre amoureuse de 2021 à Rennes (sensible). |
+| [christophe](people/christophe.md) | Chris, fiche minimale en brouillon. |
 
 ### Époques
 
 | Fiche | Résumé |
 |---|---|
-| [01 — Origines et petite enfance](epoques/01-origines-et-petite-enfance.md) | De la rencontre des parents (1976) à l'été 1985. |
-| [02 — Enfance et adolescence en France](epoques/02-enfance-adolescence-france.md) | Amorce : 1985 à environ 1997. |
-| [03 — Retour aux États-Unis](epoques/03-retour-etats-unis.md) | Retrouver son père, déception Clara, New York, rencontre de Mohamed. |
-| [04 — Mariage avec Mohamed](epoques/04-mariage-mohamed.md) | 15 ans de mariage (sensible). |
-| [05 — Hôtesse de l'air, Hawaï, Alaska](epoques/05-hotesse-hawai-alaska.md) | Trois périodes de travail et de rencontres. |
-| [06 — Retour en France](epoques/06-retour-en-france.md) | 2021 : Rennes, Brittany Ferries, rapprochement de la famille. |
-| [07 — Chris et Nice (brouillon)](epoques/07-chris-et-nice-brouillon.md) | Après le 01/01/2023, brouillon. |
+| [01 — Origines et petite enfance](eras/01-origins-and-early-childhood.md) | De la rencontre des parents (1976) à l'été 1985. |
+| [02 — Enfance et adolescence en France](eras/02-childhood-and-teens-in-france.md) | Amorce : 1985 à environ 1997. |
+| [03 — Retour aux États-Unis](eras/03-back-to-the-united-states.md) | Retrouver son père, déception Clara, New York, rencontre de Mohamed. |
+| [04 — Mariage avec Mohamed](eras/04-marriage-to-mohamed.md) | 15 ans de mariage (sensible). |
+| [05 — Hôtesse de l'air, Hawaï, Alaska](eras/05-flight-attendant-hawaii-alaska.md) | Trois périodes de travail et de rencontres. |
+| [06 — Retour en France](eras/06-back-to-france.md) | 2021 : Rennes, Brittany Ferries, rapprochement de la famille. |
+| [07 — Chris et Nice (brouillon)](eras/07-chris-and-nice-draft.md) | Après le 01/01/2023, brouillon. |
 
 ### Périodes
 
 | Fiche | Résumé |
 |---|---|
-| [01-01 — Rencontre à Francfort](periodes/01-01-rencontre-francfort.md) | 1976, Mark et Béatrice se rencontrent dans un bar de GI. |
-| [01-02 — Naissance à Heidelberg](periodes/01-02-naissance-heidelberg.md) | 1979, naissance à l'hôpital militaire. |
-| [01-03 — Petite enfance en famille](periodes/01-03-petite-enfance-en-famille.md) | 1979-1985, vie avec Mark, naissance de Gwen. |
-| [01-04 — Été 1985 à Saint-Brevin](periodes/01-04-ete-1985-saint-brevin.md) | Les vacances qui deviennent un retour définitif en France. |
-| [02-01 — Enfance et adolescence en France](periodes/02-01-enfance-adolescence-france.md) | Amorce : 1985 à environ 1997. |
-| [03-01 — Syracuse : retrouver papa](periodes/03-01-syracuse-retrouver-papa.md) | Amorce : retrouvailles avec Mark, déception Clara. |
-| [03-02 — New York City](periodes/03-02-new-york-city.md) | David, Walter, rencontre de Mohamed. |
-| [04-01 — Vie conjugale avec Mohamed](periodes/04-01-vie-conjugale-avec-mohamed.md) | 15 ans de mariage (sensible). |
-| [05-01 — Hôtesse de l'air](periodes/05-01-hotesse-de-l-air.md) | Amorce. |
-| [05-02 — Infirmière à Hawaï](periodes/05-02-infirmiere-hawai.md) | Amorce. |
-| [05-03 — Infirmière en Alaska](periodes/05-03-infirmiere-alaska.md) | Amorce. |
-| [06-01 — Le Rennais, Brittany Ferries, 2e avortement](periodes/06-01-le-rennais-brittany-ferries.md) | 2021, Rennes (sensible). |
-| [06-02 — Appartement à Rennes](periodes/06-02-appartement-a-rennes.md) | Période plus calme, près de la famille. |
-| [07-01 — Rencontre avec Chris](periodes/07-01-rencontre-avec-chris.md) | Brouillon. |
+| [01-01 — Rencontre à Francfort](periods/01-01-meeting-in-frankfurt.md) | 1976, Mark et Béatrice se rencontrent dans un bar de GI. |
+| [01-02 — Naissance à Heidelberg](periods/01-02-birth-in-heidelberg.md) | 1979, naissance à l'hôpital militaire. |
+| [01-03 — Petite enfance en famille](periods/01-03-early-childhood-with-family.md) | 1979-1985, vie avec Mark, naissance de Gwen. |
+| [01-04 — Été 1985 à Saint-Brevin](periods/01-04-summer-1985-saint-brevin.md) | Les vacances qui deviennent un retour définitif en France. |
+| [02-01 — Enfance et adolescence en France](periods/02-01-childhood-and-teens-in-france.md) | Amorce : 1985 à environ 1997. |
+| [03-01 — Syracuse : retrouver papa](periods/03-01-syracuse-finding-dad.md) | Amorce : retrouvailles avec Mark, déception Clara. |
+| [03-02 — New York City](periods/03-02-new-york-city.md) | David, Walter, rencontre de Mohamed. |
+| [04-01 — Vie conjugale avec Mohamed](periods/04-01-married-life-with-mohamed.md) | 15 ans de mariage (sensible). |
+| [05-01 — Hôtesse de l'air](periods/05-01-flight-attendant.md) | Amorce. |
+| [05-02 — Infirmière à Hawaï](periods/05-02-nurse-in-hawaii.md) | Amorce. |
+| [05-03 — Infirmière en Alaska](periods/05-03-nurse-in-alaska.md) | Amorce. |
+| [06-01 — Le Rennais, Brittany Ferries, 2e avortement](periods/06-01-the-rennes-man-brittany-ferries.md) | 2021, Rennes (sensible). |
+| [06-02 — Appartement à Rennes](periods/06-02-apartment-in-rennes.md) | Période plus calme, près de la famille. |
+| [07-01 — Rencontre avec Chris](periods/07-01-meeting-chris.md) | Brouillon. |
 
 ## Règles de travail (à appliquer à chaque échange)
 
@@ -183,14 +183,14 @@ Convention : fichiers en minuscules, sans accents, tirets pour les espaces.
 
 ### Règle 2 — Période qui introduit une personne
 
-- Si, en parlant d'une période, on évoque une nouvelle personne, on **crée sa fiche** dans `personnes/` à partir du modèle.
+- Si, en parlant d'une période, on évoque une nouvelle personne, on **crée sa fiche** dans `people/` à partir du modèle.
 - La fiche personne est **liée aux différentes périodes** où elle apparaît (tableau en tête de fiche, juste après le titre), et la fiche période est liée à la fiche personne (section « Personnes fréquentées »).
 - **Toute personne nommée évoquée dans une période doit avoir sa fiche personne.**
 - Les personnes ou groupes **sans nom** (belle-famille, amis, enfants, collègues) n'ont pas de fiche : ils sont cités dans la période, et « À préciser » demande leur nom. Dès qu'ils sont nommés, on crée la fiche.
 
 ### Règle 3 — Personne qui introduit une période
 
-- Réciproquement, si, en parlant d'une personne, on évoque une période qui n'existe pas encore, on **crée la fiche période** dans `periodes/` à partir du modèle, avec son numéro `EE-PP`.
+- Réciproquement, si, en parlant d'une personne, on évoque une période qui n'existe pas encore, on **crée la fiche période** dans `periods/` à partir du modèle, avec son numéro `EE-PP`.
 - Les liens sont posés dans les deux sens, comme dans la règle 2.
 
 ### Règle 4 — Époques
