@@ -13,13 +13,13 @@
 - **Role in Lillian's life**: maternal grandmother, Papouche's wife and [Mom](mom.md)'s mother (to be confirmed)
 - **Nationality / origin**: French (to be confirmed)
 - **Place of residence**: Saint-Brevin (to be confirmed)
-- **Dates**: to clarify (possible death)
+- **Dates**: deceased (dates of birth and death to clarify)
 
 ## Relationships between people
 
 - [Papouche](maternal-grandfather.md): her husband (to be confirmed). Together they took in Béatrice and her children in 1985.
 - [Mom](mom.md) (Béatrice): her daughter (to be confirmed)
-- [Gwen](gwen.md), [Xavier](xavier.md), [Lillian](lillian.md): grandchildren
+- [Gwen](gwen.md), [Xavier](xavier.md), [Lillian](lillian.md): grandchildren. Gwen handled her death and Papouche's.
 
 ## Relationship with Lillian
 
@@ -49,11 +49,11 @@ A calming presence (details to be completed).
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- Her death, and that of Papouche, were handled by [Gwen](gwen.md), who has always been there for the family's strong moments (when they died, and what Lillian's role was, are to be clarified).
 
 ## To clarify
 
-- First name, age, possible death?
+- First name, age, date and circumstances of her death?
 - Is she Papouche's wife and Béatrice's mother?
 - What was her day-to-day role when the family was housed in 1985?
 - Lillian's memories with her: the words, gestures and places that soothed her?

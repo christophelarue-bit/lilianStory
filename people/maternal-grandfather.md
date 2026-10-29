@@ -14,14 +14,14 @@
 - **Standing**: a notable of Saint-Brevin (exact role to clarify)
 - **Nationality / origin**: French (to be confirmed)
 - **Place of residence**: Saint-Brevin (to be confirmed), « fief » [home base] of Béatrice's family
-- **Dates**: to clarify (possible death)
+- **Dates**: deceased (dates of birth and death to clarify)
 
 ## Relationships between people
 
 - [Mamouche](maternal-grandmother.md): his wife (to be confirmed). Together they took in Béatrice and her children in 1985.
 - [Mom](mom.md) (Béatrice): his daughter
 - [Dad](dad.md) (Mark): his son-in-law. He asked Mark to settle his debts and suggested Béatrice stay in France as long as Mark's financial situation did not get better.
-- [Gwen](gwen.md), [Xavier](xavier.md), [Lillian](lillian.md): grandchildren
+- [Gwen](gwen.md), [Xavier](xavier.md), [Lillian](lillian.md): grandchildren. Gwen handled his death and Mamouche's.
 
 ## Relationship with Lillian
 
@@ -51,11 +51,11 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- His death, and that of Mamouche, were handled by [Gwen](gwen.md), who has always been there for the family's strong moments (when they died, and what Lillian's role was, are to be clarified).
 
 ## To clarify
 
-- First name, what made him a notable of Saint-Brevin, age, possible death?
+- First name, what made him a notable of Saint-Brevin, age, date and circumstances of his death?
 - His relationship with Mark before 1985? How did Mark react when he was asked to settle his debts?
 - Where exactly was the family housed, and for how long?
 - Lillian's memories with him: the scenes, places and words that made him an anchor?
