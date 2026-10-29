@@ -25,7 +25,7 @@
 
 - **Role during this period**: friend (exact period to clarify)
 
-### [David (friend)](../people/david-friend.md)
+### [David (Hawaii)](../people/david-hawaii.md)
 
 - **Role during this period**: friend (exact period to clarify)
 
