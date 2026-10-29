@@ -52,12 +52,12 @@ Husband for 15 years.
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- In 2016, Lillian wants to end the marriage and leave for Hawaii (see [05-02](../periods/05-02-nurse-in-hawaii.md)). They then live near Baltimore, where she keeps working as a nurse for her former boss.
 
 ## To clarify
 
 - The meeting: where, when and how in New York?
 - Origin, family, religion: what place does religion have in their life?
 - Alcohol: who exactly is this about?
-- Marriage: date, place, end of the marriage?
+- Marriage: date, place, end of the marriage? (2016, near Baltimore, when she leaves for Hawaii: to confirm)
 - After leaving Syracuse, did Lillian go to New York City? To what extent does that departure connect to meeting Mohamed?

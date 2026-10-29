@@ -42,7 +42,7 @@
 - [Mohamed](mohamed.md): her husband for 15 years
 - [David (New York)](david-ny.md), [Walter](walter.md): people she met in New York
 - [Yacine](yacine.md): met during the marriage
-- [Adriana](adriana.md), [David (friend)](david-friend.md), [José](jose.md): friendships and love from era 05
+- [Adriana](adriana.md), [Kim](kim.md), [David (Hawaii)](david-hawaii.md), [José](jose.md): friendships and love from era 05
 - [Daniel](daniel.md): romantic encounter in 2021
 - [Christophe (Chris)](christophe.md): recent encounter (draft)
 

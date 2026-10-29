@@ -16,7 +16,7 @@
 ## Relationships between people
 
 - [Lillian](lillian.md): flirtation in New York
-- Not to be confused with [David (friend)](david-friend.md), met in era 05.
+- Not to be confused with [David (Hawaii)](david-hawaii.md), met in era 05.
 
 ## Relationship with Lillian
 

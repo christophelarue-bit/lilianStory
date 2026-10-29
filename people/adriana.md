@@ -18,7 +18,7 @@
 ## Relationships between people
 
 - [Lillian](lillian.md): friend
-- Friend met in era 05, along with [David (friend)](david-friend.md).
+- Friend met in era 05. See also [Kim](kim.md) and [David (Hawaii)](david-hawaii.md), friends from the same era.
 
 ## Relationship with Lillian
 
