@@ -1,4 +1,4 @@
-# 06-01 — The Rennes man, Brittany Ferries, 2nd abortion
+# 06-01 — Daniel, Brittany Ferries, 2nd abortion
 
 **Era**: [06 — Back to France](../eras/06-back-to-france.md)
 
@@ -21,7 +21,7 @@
 
 - **Role during this period**: Main character, about 42; returns to France, goes through a second abortion alone and hides her suffering from her family
 
-### [The Rennes man](../people/the-rennes-man.md)
+### [Daniel](../people/daniel.md)
 
 - **Role during this period**: a « foireuse » [botched, messed-up] romance that brings her to Rennes
 - **Life anecdotes**: *(to be completed)*
@@ -45,7 +45,7 @@
 
 ## To clarify
 
-- Meeting: the Rennes man's first name, how they met, how long the relationship lasted?
+- Meeting: how did they meet, and how long did the relationship last?
 - Work: what did the Brittany Ferries experience consist of?
 - Family: who knows about the abortion, and how did Lillian hide it?
 - Gwen's children: first names, ages?

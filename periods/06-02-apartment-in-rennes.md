@@ -9,7 +9,7 @@
 
 ## Dates
 
-- **Start**: to clarify (after the Rennes man)
+- **Start**: to clarify (after Daniel)
 - **End**: to clarify (before Chris arrives)
 - **Lillian's age**: to clarify
 
