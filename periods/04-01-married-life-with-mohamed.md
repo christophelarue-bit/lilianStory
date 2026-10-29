@@ -11,9 +11,9 @@
 
 ## Dates
 
-- **Start**: to clarify (living together, then the marriage)
+- **Start**: to clarify (living together); wedding in March 2003
 - **End**: to clarify (the marriage lasts 15 years)
-- **Lillian's age**: to clarify
+- **Lillian's age**: about 24 at the wedding (March 2003)
 
 ## People around her
 
@@ -32,12 +32,48 @@
 
 ### [Yacine](../people/yacine.md)
 
-- **Role during this period**: met during the marriage
-- **Life anecdotes**: *(to be completed)*
+- **Role during this period**: Mohamed's childhood friend, who becomes a friend of Lillian
+- **Life anecdotes**: sarcastic character; went out with Mohamed's sister in Morocco; now lives in Japan
 - **Emotionally strong or deep stories in the relationship**: *(to be completed)*
+
+### [Geaniie](../people/geaniie.md)
+
+- **Role during this period**: flatmate for 6 months during the first separation from Mohamed
+- **Life anecdotes**: Black woman of about 60 who knew segregation and went back to school for a master's
+- **Emotionally strong or deep stories in the relationship**: a very strong friendship; she helps Lillian understand and take stock of her life
+
+### [Julien](../people/julien.md)
+
+- **Role during this period**: a married man Lillian dates after the second separation
+- **Emotionally strong or deep stories in the relationship**: the last time, he does not come to their hotel appointment
+
+### [April](../people/april.md)
+
+- **Role during this period**: met at the hairdressing school in Albany, for about a year
+- **Life anecdotes**: Lillian does not attend every class; April is surrounded by Mohamed's friends
+
+### [Brahim](../people/brahim.md)
+
+- **Role during this period**: Mohamed's friend, married to an American woman
+
+### [Mohamed's mother](../people/mohamed-mother.md)
+
+- **Role during this period**: mother-in-law, an adorable woman
+
+### [Youssef](../people/youssef.md) and [Zachzria](../people/zachzria.md)
+
+- **Role during this period**: Mohamed's brothers, never met by Lillian
+
+### [Zouria](../people/zouria.md)
+
+- **Role during this period**: Mohamed's sister
+- **Emotionally strong or deep stories in the relationship**: in 2006, 6 months pregnant, she visits hardly 2 weeks after Lillian's abortion; Lillian has to pretend to be joyful (**Sensitive**)
 
 ## Stories and small details
 
+- Wedding in March 2003.
+- Two separations: the first with Geaniie as flatmate, the second followed by the relationship with Julien.
+- 2006: the abortion, Mohamed leaves her alone about 10 days before his sister Zouria's visit.
 - New friends, the family (in-laws), the pressure of appearances and religion.
 - Travels between Albany, Raleigh and other destinations.
 - Trip to Las Vegas.
@@ -51,7 +87,14 @@
 
 - The beginnings: how did they go from living together to marriage? Where and when was the wedding?
 - Daily life: places (Albany, Raleigh, others), Lillian's job, travels and dates?
-- The others: names of the in-laws and the new friends?
-- The ordeals: who was drinking? What humiliations? The abortion: date, place?
-- Yacine: who is he, what is his connection to Lillian?
+- The others: the in-laws and the new friends (other names?)
+- The ordeals: who was drinking? What humiliations? The abortion (2006): place, and how did she get through Zouria's visit?
+- Dates of the two separations and the flatshare with Geaniie; relationship with Julien.
+- Yacine: spelling (Yacine or Yassine), which sister of Mohamed he went out with?
 - The end: how and why did the marriage end?
+- Duration: March 2003 to 2016 is about 13 years, whereas the account says 15 years of marriage. Do the 15 years include living together before the wedding?
+- Delay: Mohamed left her alone "about 10 days" before Zouria's visit, and the visit took place "2 weeks" after the abortion. Which is right?
+- Spelling: Yacine or Yassine? Geaniie? Zachzria? (names given as they were written)
+- Places: where did Lillian live with Geaniie, and where did Zouria visit (Albany? Raleigh?)?
+- Mohamed's family: first name of his mother, and which of his sisters did Yacine go out with?
+- Julien: how did she meet him, and what happened after the missed hotel appointment?
