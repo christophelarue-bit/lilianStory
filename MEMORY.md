@@ -86,6 +86,9 @@ people/
   xavier.md
   maternal-grandfather.md
   maternal-grandmother.md
+  marc-lambert.md
+  julie.md
+  jerome.md
   paternal-grandmother.md
   paternal-grandfather.md
   larry.md
@@ -164,6 +167,9 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [michael](people/michael.md) | Mark's brother; one of the 7 children of Grandma Lillian. |
 | [christine](people/christine.md) | Mark's sister; one of the 7 children of Grandma Lillian. |
 | [joanne](people/joanne.md) | Mark's sister; one of the 7 children of Grandma Lillian. |
+| [marc-lambert](people/marc-lambert.md) | Béatrice's partner around 1991-1994, owned a bar on the beach; Lillian never liked him (sensitive). |
+| [julie](people/julie.md) | Lillian's cousin, lives in Switzerland. |
+| [jerome](people/jerome.md) | Julie's brother, lives in England with his wife and 2 children. |
 | [clara](people/clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [mohamed](people/mohamed.md) | Lillian's husband for 15 years, wedding in March 2003 (sensitive). |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
