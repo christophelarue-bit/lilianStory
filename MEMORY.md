@@ -86,6 +86,14 @@ people/
   xavier.md
   maternal-grandfather.md
   maternal-grandmother.md
+  paternal-grandmother.md
+  paternal-grandfather.md
+  larry.md
+  jackie.md
+  john.md
+  michael.md
+  christine.md
+  joanne.md
   clara.md
   mohamed.md
   david-ny.md
@@ -148,6 +156,14 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [xavier](people/xavier.md) | Younger brother, born after summer 1985, lives in Nantes. |
 | [maternal-grandfather](people/maternal-grandfather.md) | Papouche, Béatrice's father and a notable of Saint-Brevin. An anchor and a symbol of fatherhood for Lillian; took Béatrice and her children in in 1985. |
 | [maternal-grandmother](people/maternal-grandmother.md) | Mamouche, Papouche's wife. A soothing relationship, in listening and kindness toward the family; took Béatrice and her children in in 1985. |
+| [paternal-grandmother](people/paternal-grandmother.md) | Mark's mother and Lillian's namesake, deceased; widowed at 36, waitress in diners, sent Christmas parcels to France (sensitive). |
+| [paternal-grandfather](people/paternal-grandfather.md) | Mark's father, an accountant, died when Mark was 8; Lillian never knew him. |
+| [larry](people/larry.md) | Mark's older brother, killed at 14 by a rock; the result of a rape of his mother (sensitive). |
+| [jackie](people/jackie.md) | Mark's sister; one of the 7 children of Grandma Lillian. |
+| [john](people/john.md) | Mark's brother; one of the 7 children of Grandma Lillian. |
+| [michael](people/michael.md) | Mark's brother; one of the 7 children of Grandma Lillian. |
+| [christine](people/christine.md) | Mark's sister; one of the 7 children of Grandma Lillian. |
+| [joanne](people/joanne.md) | Mark's sister; one of the 7 children of Grandma Lillian. |
 | [clara](people/clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [mohamed](people/mohamed.md) | Lillian's husband for 15 years, wedding in March 2003 (sensitive). |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |

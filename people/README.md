@@ -17,6 +17,14 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Xavier](xavier.md) | Younger brother, born after summer 1985, lives in Nantes. |
 | [Papouche (the maternal grandfather)](maternal-grandfather.md) | Béatrice's father and a notable of Saint-Brevin. An anchor and a symbol of fatherhood for Lillian; took Béatrice and her children in in 1985. |
 | [Mamouche (the maternal grandmother)](maternal-grandmother.md) | Papouche's wife. A soothing relationship, in listening and kindness toward the family; took Béatrice and her children in in 1985. |
+| [Grandma Lillian (the paternal grandmother)](paternal-grandmother.md) | Mark's mother and Lillian's namesake, deceased; widowed at 36, waitress in diners, sent Christmas parcels to France (sensitive). |
+| [Peter (the paternal grandfather)](paternal-grandfather.md) | Mark's father, an accountant, died when Mark was 8; Lillian never knew him. |
+| [Larry (Mark's brother)](larry.md) | Mark's older brother, killed at 14 by a rock; the result of a rape of his mother (sensitive). |
+| [Jackie (Mark's sister)](jackie.md) | Aunt of Lillian's father; one of the 7 children of Grandma Lillian. |
+| [John (Mark's brother)](john.md) | Uncle; his big hug at their first meeting. |
+| [Michael (Mark's brother)](michael.md) | Uncle of Lillian's father; one of the 7 children of Grandma Lillian. |
+| [Christine (Mark's sister)](christine.md) | Aunt of Lillian's father; one of the 7 children of Grandma Lillian. |
+| [Joanne (Mark's sister)](joanne.md) | Aunt of Lillian's father; one of the 7 children of Grandma Lillian. |
 | [Clara](clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [Mohamed](mohamed.md) | Lillian's husband for 15 years (sensitive). |
 | [David (New York)](david-ny.md) | Brief Chinese flirt in New York. |
