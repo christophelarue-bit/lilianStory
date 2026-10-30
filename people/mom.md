@@ -57,6 +57,7 @@
 
 ## Anecdotes and stories
 
+- After Lillian hugged Papouche goodbye (about 15 years before his death), she told her daughter: "You can't do that to Papouche, it's not our culture here" (see [Papouche](maternal-grandfather.md)).
 - **The Frankfurt bar (1976)**: Béatrice, a young au pair, meets Mark. She wanted a love story with a GI. Details to ask.
 
 ## To clarify
@@ -72,3 +73,5 @@
 - Mark told Lillian in 1998 that he was still in love with Béatrice, and still is today. Does Béatrice know, and how does she feel about it?
 - Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.
 - Is Mamouche her mother and Papouche's wife (to be confirmed)? First names of both?
+- Her income today: Lillian says she earns very little (comparison made about Grandma Lillian). Occupation and situation to clarify.
+- Her comment to Lillian after the hug to Papouche ("you can't do that to Papouche, it's not our culture here"): her view of the French and American ways of showing affection? See [Papouche](maternal-grandfather.md).

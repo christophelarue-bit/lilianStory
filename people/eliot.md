@@ -13,7 +13,7 @@
 - **Role in Lillian's life**: Gwen's first son, with Aymeric (born of her first love). Lillian's nephew.
 - **Nationality / origin**: to clarify
 - **Place of residence**: to clarify
-- **Dates**: birth year to clarify
+- **Dates**: born on 13 March (year to clarify)
 
 ## Relationships between people
 
@@ -21,7 +21,7 @@
 - [Aymeric](aymeric.md): his father. After a court ruling, Eliot was entrusted to him and grew up with him.
 - [Alexandre](alexandre.md), [Julia](julia.md), [Clément](clement.md): his half-siblings, Gwen's children with Thomas.
 - [Thomas](thomas.md): his mother's later partner.
-- [Lillian](lillian.md): his aunt.
+- [Lillian](lillian.md): his aunt. All four children of Gwen are Lillian's nephews and nieces.
 
 ## Relationship with Lillian
 

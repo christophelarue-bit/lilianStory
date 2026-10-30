@@ -11,7 +11,7 @@
 - **Role in Lillian's life**: child of Gwen and Thomas, Lillian's niece or nephew
 - **Nationality / origin**: to clarify
 - **Place of residence**: to clarify
-- **Dates**: birth year to clarify (order among Alexandre, Julia and Clément to clarify)
+- **Dates**: born in November (year to clarify)
 
 ## Relationships between people
 
@@ -19,7 +19,7 @@
 - [Thomas](thomas.md): father. Gwen and Thomas were never married.
 - [Eliot](eliot.md): half-brother, Gwen's first son, with Aymeric
 - [Alexandre](alexandre.md), [Clément](clement.md): siblings
-- [Lillian](lillian.md): aunt
+- [Lillian](lillian.md): aunt. All four children of Gwen are Lillian's nephews and nieces.
 
 ## Relationship with Lillian
 

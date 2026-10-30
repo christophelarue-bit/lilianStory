@@ -36,6 +36,7 @@
 - [Gwen](gwen.md): her younger sister, born in 1982. Her chaotic life has always affected the family, and above all Lillian.
 - Gwen's family: her four children [Eliot](eliot.md), [Alexandre](alexandre.md), [Julia](julia.md) and [Clément](clement.md), and the two men in her life, [Aymeric](aymeric.md) and [Thomas](thomas.md)
 - [Xavier](xavier.md): her younger brother
+- Her paternal family: [Grandma Lillian](paternal-grandmother.md) (her namesake, around Syracuse), [Peter](paternal-grandfather.md) (died when Mark was 8, never known), and her uncles and aunts [Larry](larry.md), [Jackie](jackie.md), [John](john.md), [Michael](michael.md), [Christine](christine.md), [Joanne](joanne.md)
 - [Papouche (the maternal grandfather)](maternal-grandfather.md): an anchor and a symbol of fatherhood
 - [Mamouche (the maternal grandmother)](maternal-grandmother.md): a soothing relationship, in listening and kindness
 - [Clara](clara.md): her father's partner in Syracuse. Her ultimatum and Mark's silence led Lillian to leave Syracuse.
@@ -64,6 +65,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 
 ### Joys
 
+- The huge Christmas parcels from her American grandmother, every year of her childhood in France, from the age of 6.
 - Her father's nursery rhymes and bedtime stories, as a child.
 
 ### Pains
@@ -76,6 +78,11 @@ The character traits, values, wounds and strengths that emerge from her life pat
 
 ## Anecdotes and stories
 
+- At her American grandmother's, she is shocked to see her, at about 70, cook for everyone then sit on the floor; when she offers to wash the dishes, Grandma gets angry. Nobody else is shocked (see [paternal-grandmother.md](paternal-grandmother.md)). The French side is the opposite: Mamouche has her armchair and everyone waits for her to sit.
+- **Two ways of showing affection**: raised by her French grandparents, reserved (no hugs, no « je t'aime » said aloud, though felt), she is shocked by her American family's hugs: her uncle John squeezes her the first time they meet, her grandmother gives the « méga hug », David lifts her in his arms. She stays stoic. When she hugs Papouche goodbye, he is as frozen as she was; her mother tells her it is not their culture. She calls it becoming American.
+- As a very small child, she hears her paternal grandmother belittle her father, telling him he has failed at everything and that it is his fault if he no longer has his children (see [paternal-grandmother.md](paternal-grandmother.md)).
+- From 6, every Christmas, her American grandmother (Grandma Lillian) sends a huge parcel of gifts to France, which her father never did. Grandma earned very little and bought the gifts in January, with the sales (see [paternal-grandmother.md](paternal-grandmother.md)).
+- At 19, she knits a Doctor Who scarf for her father, a fan of the series. Mamouche had taught her to knit between 7 and 10, and Mark wore the scarf (see [03-01](../periods/03-01-syracuse-finding-dad.md)).
 - The only one of the siblings to have spoken English before French, she has kept a slight American accent, which people find charming.
 - Around 1995, at 16, she goes on holiday to New York with Gwen to see their father.
 - On 11 September 1998, at 18, she goes back to the United States to be closer to her father ([period 03-01](../periods/03-01-syracuse-finding-dad.md)). He is not at the airport because he went to the wrong one. She finds him full of remorse, stuck in the past and in love with her mother, with a simple routine of films and books. For her, time stopped when she was little. She wants to make up for the lost time and plays along, being still a little girl in her head, but never told herself that time could be made up. She encourages him to place a personal ad, and he meets Clara.
@@ -83,6 +90,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 
 ## To clarify
 
+- Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living? Is the story about Lillian (the account said « Anne »)?
 - Exact date of birth (1979)?
 - Full name, any nicknames?
 - Where has she lived, in order?
@@ -100,3 +108,6 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Dates of the first and the second separation, and how did Lillian get back with Mohamed each time?
 - Julien: how did she meet him, and what happened after the missed hotel appointment?
 - Delay: Mohamed left her alone "about 10 days" before Zouria's visit, and the visit took place "2 weeks" after the abortion. Which is right?
+- Her paternal family: did she meet her grandmother Lillian, her uncles and aunts, her cousins? Is she in touch with them? Whose first name does she bear: is it her grandmother's?
+- The scene of her grandmother belittling Mark: when and where (she was very small), and how did she feel? What link does she make with her father's passivity?
+- The culture gap in affection: how did it shape her way of loving and of being loved? And the nickname « Anne » used by David: is it a name or a mis-hearing?

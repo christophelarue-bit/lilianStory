@@ -49,6 +49,9 @@ A calming presence (details to be completed).
 
 ## Anecdotes and stories
 
+- Mistress of the house with her own armchair: at table, everyone waited for her to sit before sitting down (a contrast with the American grandmother, who served everyone and sat on the floor).
+- Reserved with affection, like the whole French side (see [Papouche](maternal-grandfather.md)): « ma chérie », four kisses on the cheeks, never a hug and never « je t'aime » [I love you] said aloud, although Lillian always felt it.
+- She taught Lillian to knit when Lillian was between 7 and 10; Lillian used it at 19 to make a Doctor Who scarf for her father (see [03-01](../periods/03-01-syracuse-finding-dad.md)). Where did she teach her, and what is Lillian's memory of it?
 - Her death, and that of Papouche, were handled by [Gwen](gwen.md), who has always been there for the family's strong moments (when they died, and what Lillian's role was, are to be clarified).
 
 ## To clarify

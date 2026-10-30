@@ -9,7 +9,7 @@
 ## Identity
 
 - **Role in Lillian's life**: a little flirtation
-- **Nationality / origin**: Chinese
+- **Nationality / origin**: Chinese. Lillian calls him « David Mao » [surname or nickname, to clarify].
 - **Place of residence**: New York City
 - **Dates**: to clarify
 
@@ -46,9 +46,12 @@
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- **The car**: he lent Lillian his car. It was dirty, so she cleaned the inside and had the outside washed before handing back the keys to thank him. David took her in his arms, lifted her up and said « Thank you, honey! ». She stayed stoic (« Ok »), the same reaction as with her uncle John.
+- He used to warn others: « Be careful with Anne, she's a little conservative » [name as heard: to clarify], because Lillian is not tactile, having been raised by her French grandparents, who were far more reserved.
 
 ## To clarify
 
 - Surname or nickname to distinguish him from the other David?
 - How did she meet him, how long did it last?
+- His surname or nickname (« David Mao »)? When was the car episode, and what kind of relationship were they in?
+- « Be careful with Anne »: is Anne a nickname used by David for Lillian, or a mis-hearing?

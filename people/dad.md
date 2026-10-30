@@ -27,6 +27,9 @@
 - [Gwen](gwen.md): daughter, born in 1982.
 - [Xavier](xavier.md): son, born after summer 1985 (Béatrice was pregnant at the time of the return to France).
 - [Clara](clara.md): his partner in Syracuse, whom he met after Lillian encouraged him to meet women. She asked him to choose between her and Lillian, and he did not answer.
+- [Grandma Lillian](paternal-grandmother.md): his mother, widowed at 36 when Mark was 8, then a waitress in diners; she gave her name to Lillian.
+- [Peter](paternal-grandfather.md): his father, an accountant, died when Mark was 8.
+- His 6 brothers and sisters, the 7 children of Grandma Lillian in the order Larry, Joanne, John, Michael, Mark, Christine, Jackie: [Larry](larry.md), [Jackie](jackie.md), [John](john.md), [Michael](michael.md), [Christine](christine.md), [Joanne](joanne.md).
 - [Papouche (the maternal grandfather)](maternal-grandfather.md): Béatrice's father, he suggested she stay in France as long as Mark's financial situation did not improve.
 
 ## Relationship with Lillian
@@ -74,6 +77,9 @@
 ## Anecdotes and stories
 
 - **The GI bar in Frankfurt (1976)**: Mark falls in love at first sight with Béatrice, a young au pair. She, for her part, wanted to have a love story with a GI.
+- **His mother's harshness**: according to Lillian, his mother constantly belittled him, even in front of Lillian when she was very small: he had failed at everything, it was his fault, he no longer had his children since he was no longer with Béatrice, he looked like a wreck. His reaction is to be clarified (see [Grandma Lillian](paternal-grandmother.md)).
+- **His mother's gifts**: Grandma sent Christmas parcels to Lillian, Gwen and Xavier throughout their childhood in France, something Mark never did (see [Grandma Lillian](paternal-grandmother.md)).
+- **The Doctor Who scarf**: at 19, Lillian knits him a Doctor Who scarf, as he has been a fan of the series since the very beginning; he wore the scarf (see [03-01](../periods/03-01-syracuse-finding-dad.md)).
 - **The nursery rhymes**: he read her stories and sang nursery rhymes to put her to sleep. Which ones? In which language? To ask.
 
 ## To clarify
@@ -97,3 +103,6 @@
 - Question to ask Béatrice: the 1975-1980 period, the meeting, the first years as a couple.
 - Sensitive subject (Clara's ultimatum, his silence): validate with Lillian the wording and any use in a book.
 - Was Clara really Mark's partner (compagne), or something else? Nature of their relationship.
+- His father's death when he was 8 (cause, year) and how it marked him? His place as the fifth of the 7 children, and his bond with his mother?
+- His mother was raped twice (Larry, his older brother, was the result of the first); he was a child at the time of the second. What does he know, and what has he told Lillian? (sensitive)
+- How did he react when his mother belittled him in front of Lillian, and how did it shape his low self-esteem and his lack of initiative?
