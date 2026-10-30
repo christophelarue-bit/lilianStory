@@ -10,6 +10,8 @@
 
 ## Era summary
 
+Lillian is raised by a reserved French family (Mamouche, mistress of the house; no hugs and no "I love you" said aloud), while her American grandmother sends a huge Christmas parcel every year, from Lillian's 6 years onward.
+
 Lillian grows up in France after the break-up of summer 1985, with her mother Béatrice, her sister Gwen and her brother Xavier, in a family that has separated from her American father. She is the only one of the siblings to have spoken English before French, which gives her a slight American accent.
 
 The content of this era (places, school, friends, adolescence, long-distance bond with Mark) is yet to be told.
@@ -35,3 +37,5 @@ To explore: missing her father, life between two cultures, leaving for the Unite
 - Where did they live after Saint-Brevin? When does Saint-Brieuc come in?
 - Should this era be split into several periods?
 - Her boarding school in La Baule: which years and why? Around 1995, at 16, she goes on holiday to New York with Gwen to see her father.
+- Xavier: Lillian found him super intelligent and showed him off to her friends. When, and how did he see her then?
+- The reserved French upbringing (Papouche, Mamouche) versus the American grandmother's parcels and hugs: other examples? See [02-01](../periods/02-01-childhood-and-teens-in-france.md).
