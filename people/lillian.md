@@ -37,6 +37,8 @@
 - Gwen's family: her four children [Eliot](eliot.md), [Alexandre](alexandre.md), [Julia](julia.md) and [Clément](clement.md), and the two men in her life, [Aymeric](aymeric.md) and [Thomas](thomas.md)
 - [Xavier](xavier.md): her younger brother
 - Her paternal family: [Grandma Lillian](paternal-grandmother.md) (her namesake, around Syracuse), [Peter](paternal-grandfather.md) (died when Mark was 8, never known), and her uncles and aunts [Larry](larry.md), [Jackie](jackie.md), [John](john.md), [Michael](michael.md), [Christine](christine.md), [Joanne](joanne.md)
+- Her cousins [Julie](julie.md) (Switzerland) and [Jérôme](jerome.md) (England)
+- [Marc Lambert](marc-lambert.md): her mother's partner in the early 1990s, whom she never liked
 - [Papouche (the maternal grandfather)](maternal-grandfather.md): an anchor and a symbol of fatherhood
 - [Mamouche (the maternal grandmother)](maternal-grandmother.md): a soothing relationship, in listening and kindness
 - [Clara](clara.md): her father's partner in Syracuse. Her ultimatum and Mark's silence led Lillian to leave Syracuse.
@@ -78,6 +80,8 @@ The character traits, values, wounds and strengths that emerge from her life pat
 
 ## Anecdotes and stories
 
+- Marc Lambert takes her to boarding school one first day of term and slips her a 50-franc note in front of everyone, but spoils all her birthdays and, after the break-up with Béatrice, takes back the gifts (see [marc-lambert.md](marc-lambert.md)).
+- Around 1991-1992 (11-12), her American grandmother visits Saint-Brevin for two weeks, in a hotel (vague memory). Béatrice's boyfriend then is [Marc Lambert](marc-lambert.md), who has a bar on the beach: Gwen and Xavier adore him, Lillian never liked him and feels she is losing her mother.
 - At her American grandmother's, she is shocked to see her, at about 70, cook for everyone then sit on the floor; when she offers to wash the dishes, Grandma gets angry. Nobody else is shocked (see [paternal-grandmother.md](paternal-grandmother.md)). The French side is the opposite: Mamouche has her armchair and everyone waits for her to sit.
 - **Two ways of showing affection**: raised by her French grandparents, reserved (no hugs, no « je t'aime » said aloud, though felt), she is shocked by her American family's hugs: her uncle John squeezes her the first time they meet, her grandmother gives the « méga hug », David lifts her in his arms. She stays stoic. When she hugs Papouche goodbye, he is as frozen as she was; her mother tells her it is not their culture. She calls it becoming American.
 - As a very small child, she hears her paternal grandmother belittle her father, telling him he has failed at everything and that it is his fault if he no longer has his children (see [paternal-grandmother.md](paternal-grandmother.md)).
@@ -111,3 +115,5 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Her paternal family: did she meet her grandmother Lillian, her uncles and aunts, her cousins? Is she in touch with them? Whose first name does she bear: is it her grandmother's?
 - The scene of her grandmother belittling Mark: when and where (she was very small), and how did she feel? What link does she make with her father's passivity?
 - The culture gap in affection: how did it shape her way of loving and of being loved? And the nickname « Anne » used by David: is it a name or a mis-hearing?
+- Marc Lambert (dates, birthdays, break-up, letter to Papouche), the visit of Grandma Lillian and the Switzerland trip to her cousins [Julie](julie.md) and [Jérôme](jerome.md): details? See [Marc Lambert](marc-lambert.md).
+- The move to the apartment at 11, the trip to Switzerland to her cousins [Julie](julie.md) and [Jérôme](jerome.md) (when?), and the boarding-school day with Marc Lambert (which year, which school, about 15?).

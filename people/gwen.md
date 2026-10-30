@@ -94,3 +94,5 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - In the 2021 episode, which children did she ask Lillian to look after?
 - What are her ties with Lillian like today?
 - Did she also receive Grandma Lillian's Christmas parcels, and what memories? See [Grandma Lillian](paternal-grandmother.md).
+- Marc Lambert: she adored him as a child (sweets and gifts). What does she remember, and what does she think of him today? See [Marc Lambert](marc-lambert.md).
+- Julie and Jérôme, their cousins: did she go to Switzerland too?

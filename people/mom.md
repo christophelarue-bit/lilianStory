@@ -25,6 +25,7 @@
 - [Dad](dad.md) (Mark): they met in 1976 in a GI bar in Frankfurt. She wanted to have a love story with a GI. A couple, three children, then a de facto separation from summer 1985 onward, because of debts, the financial situation and perhaps alcohol (to be confirmed).
 - [Gwen](gwen.md): her daughter, born in 1982.
 - [Xavier](xavier.md): her son, with whom she was pregnant in summer 1985.
+- [Marc Lambert](marc-lambert.md): her partner around 1991-1994; she says it lasted 1.5 years, who owned a bar on the beach. Before him, boyfriends since the move to the apartment (Lillian was 11).
 - [Papouche (the maternal grandfather)](maternal-grandfather.md): her father, a notable of Saint-Brevin. With Mamouche, he took her in in 1985, pregnant with Xavier, and housed her with her three children, asking Mark to settle his debts. He suggested she stay in France as long as Mark's financial situation did not improve.
 - [Mamouche (the maternal grandmother)](maternal-grandmother.md): her mother (to be confirmed). She took her in with Papouche in 1985.
 
@@ -75,3 +76,6 @@
 - Is Mamouche her mother and Papouche's wife (to be confirmed)? First names of both?
 - Her income today: Lillian says she earns very little (comparison made about Grandma Lillian). Occupation and situation to clarify.
 - Her comment to Lillian after the hug to Papouche ("you can't do that to Papouche, it's not our culture here"): her view of the French and American ways of showing affection? See [Papouche](maternal-grandfather.md).
+- Her boyfriends from the move to the apartment (Lillian at 11) and Marc Lambert: who, when, and how did she live this period? Was she fulfilled, as Lillian wonders today?
+- Were Mark and Béatrice ever divorced? How did she see Marc Lambert's departure, the bike, the curtains and the letter to Papouche? See [Marc Lambert](marc-lambert.md).
+- The move to the apartment when Lillian was 11: where, why, and what changed?

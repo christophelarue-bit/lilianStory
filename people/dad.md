@@ -77,6 +77,7 @@
 ## Anecdotes and stories
 
 - **The GI bar in Frankfurt (1976)**: Mark falls in love at first sight with Béatrice, a young au pair. She, for her part, wanted to have a love story with a GI.
+- **News of Béatrice**: around 1991-1992, his mother, back from a visit to France, told him that Béatrice was seeing someone ([Marc Lambert](marc-lambert.md)). His reaction is to clarify (see [Grandma Lillian](paternal-grandmother.md)).
 - **His mother's harshness**: according to Lillian, his mother constantly belittled him, even in front of Lillian when she was very small: he had failed at everything, it was his fault, he no longer had his children since he was no longer with Béatrice, he looked like a wreck. His reaction is to be clarified (see [Grandma Lillian](paternal-grandmother.md)).
 - **His mother's gifts**: Grandma sent Christmas parcels to Lillian, Gwen and Xavier throughout their childhood in France, something Mark never did (see [Grandma Lillian](paternal-grandmother.md)).
 - **The Doctor Who scarf**: at 19, Lillian knits him a Doctor Who scarf, as he has been a fan of the series since the very beginning; he wore the scarf (see [03-01](../periods/03-01-syracuse-finding-dad.md)).
@@ -106,3 +107,4 @@
 - His father's death when he was 8 (cause, year) and how it marked him? His place as the fifth of the 7 children, and his bond with his mother?
 - His mother was raped twice (Larry, his older brother, was the result of the first); he was a child at the time of the second. What does he know, and what has he told Lillian? (sensitive)
 - How did he react when his mother belittled him in front of Lillian, and how did it shape his low self-esteem and his lack of initiative?
+- How did he react when his mother told him that Béatrice was seeing Marc Lambert? Were Mark and Béatrice ever divorced?

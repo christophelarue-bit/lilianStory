@@ -65,3 +65,4 @@ A younger brother she is proud of since his birth (details to be completed).
 - Occupation?
 - What are his ties with Lillian like?
 - Did he or she also receive Grandma Lillian's Christmas parcels, and what memories?
+- Marc Lambert: he adored him as a child (sweets and gifts). What does he remember, and what does he think of him today? See [Marc Lambert](marc-lambert.md).

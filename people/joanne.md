@@ -56,3 +56,4 @@
 - Is he or she alive, where does he or she live today (around Syracuse?), and what is the age?
 - Surname, occupation, children (cousins of Lillian)?
 - Did Lillian meet him or her, when, and what are their ties today?
+- Is she « Jane », who came to Saint-Brevin with Grandma Lillian around 1991-1992? (see [Grandma Lillian](paternal-grandmother.md))
