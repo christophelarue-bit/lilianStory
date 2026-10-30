@@ -45,7 +45,8 @@
 
 ### [Xavier](../people/xavier.md)
 
-- **Role during this period**: not yet born, Béatrice is pregnant with him
+- **Role during this period**: not yet born, Béatrice is pregnant with him; he is born at the end of the period
+- **Emotionally strong or deep stories in the relationship**: Lillian has strong memories of his birth (**to be told**)
 
 ### [Dad](../people/dad.md)
 
@@ -56,6 +57,7 @@
 ## Stories and small details
 
 - The departure is presented as a summer holiday in France. It becomes a permanent return, neither planned nor really decided by the children.
+- Xavier is born at the end of the period: Lillian keeps strong memories of his birth.
 - Lillian is six: she leaves English behind for French, while keeping a slight American accent.
 
 ## Landscapes and atmosphere
@@ -64,6 +66,7 @@
 
 ## To clarify
 
+- Lillian's memories of Xavier's birth: where, who was there, what she felt?
 - Was Mark with them when they left? Where was he during this holiday?
 - Who decided the family would not go back, and how did the family find out? How did Lillian experience it?
 - Spelling and exact place: Saint-Brevin (-les-Pins?)

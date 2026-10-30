@@ -21,8 +21,8 @@
 
 ### [David (New York)](../people/david-ny.md)
 
-- **Role during this period**: a little Chinese fling, lives in New York
-- **Life anecdotes**: *(to be completed)*
+- **Role during this period**: a little Chinese fling (« David Mao »), lives in New York
+- **Life anecdotes**: he lends Lillian his car; she cleans it, and he lifts her in a hug to thank her. He warns others that she is « a little conservative »
 - **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
 ### [Walter](../people/walter.md)
