@@ -75,3 +75,4 @@
 - Three children housed: Lillian, Gwen and Xavier (born shortly after)?
 - Did they see Mark again after that summer? When did he write, call, visit?
 - Lillian's memories of that summer: the house, the cousins, the moment she understood?
+- Didier and « Gué » (parents of the cousins Julie and Jérôme): were they in Saint-Brevin that summer, and who are they in the family tree? See [Julie](../people/julie.md).
