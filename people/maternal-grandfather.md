@@ -14,7 +14,7 @@
 - **Standing**: a notable of Saint-Brevin (exact role to clarify)
 - **Nationality / origin**: French (to be confirmed)
 - **Place of residence**: Saint-Brevin (to be confirmed), « fief » [home base] of Béatrice's family
-- **Dates**: deceased (dates of birth and death to clarify)
+- **Dates**: died in September 2018 (date of birth to clarify)
 
 ## Relationships between people
 
@@ -67,3 +67,4 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 - The hug goodbye: which trip (1998? another), and which year was it, if it was about 15 years before his death? When did he die?
 - Did he accompany Lillian to the boarding school at the start of term? (Marc Lambert did it, because Papouche was probably unavailable.) And what did he do with Marc's letter?
 - Did Marc Lambert's letter lead to a payment, and did it change Papouche's view of Béatrice's partners?
+- He died in September 2018, two months after the July family reunion at Gwen and Thomas's: was he present or ill then, and was Lillian there at his death?

@@ -76,6 +76,7 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 ## Anecdotes and stories
 
+- **The 2018 family reunion (July 2018, Sensitive)**: she brings the whole family together (Béatrice, Lillian, Xavier, Mark) in July 2018, for the birth of Clément. A big couple fight with Thomas breaks out during the lunch: she cries, as does Béatrice. See [Lillian](lillian.md).
 - Around 1995, Gwen and Lillian (16) go on holiday to New York to see their father (when exactly, and was it the city or New York State, are to be clarified).
 
 ## To clarify
@@ -96,3 +97,5 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - Did she also receive Grandma Lillian's Christmas parcels, and what memories? See [Grandma Lillian](paternal-grandmother.md).
 - Marc Lambert: she adored him as a child (sweets and gifts). What does she remember, and what does she think of him today? See [Marc Lambert](marc-lambert.md).
 - Julie and Jérôme, their cousins: did she go to Switzerland too?
+- July 2018 reunion: why did the fight with Thomas break out, how did it end, and what became of the reunion afterwards?
+- July 2018: what did Thomas mean by « une famille de dégénérés », and how did the trip to Croatia (Lillian and Béatrice) follow the fight?

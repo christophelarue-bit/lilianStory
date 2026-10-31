@@ -56,3 +56,4 @@
 - Birth year, where they live, what they do?
 - Was Julia one of the children Gwen asked Lillian to look after in 2021?
 - What ties with Lillian, Eliot and the other siblings?
+- July 2018: was she at the reunion, and how did she live the fight between her parents?

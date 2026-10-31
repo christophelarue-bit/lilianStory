@@ -49,10 +49,12 @@
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- **July 2018 (Sensitive)**: his father Thomas hits him with a towel at the table of the family reunion (about his behaviour), then leaves with him for two days of hiking in the mountains, after the fight with Gwen. See [Lillian](lillian.md).
 
 ## To clarify
 
 - Birth year, gender and pronouns to use, where they live, what they do?
 - Was Alexandre one of the children Gwen asked Lillian to look after in 2021?
 - What ties with Lillian, Eliot and the other siblings?
+- The towel incident in July 2018: why, was it usual, and how did he live it?
+- What did he do during the two days of hiking with Thomas, and how did he talk about it afterwards?

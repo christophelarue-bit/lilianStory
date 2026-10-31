@@ -51,6 +51,7 @@ A younger brother she is proud of since his birth (details to be completed).
 
 ## Anecdotes and stories
 
+- **The 2018 family reunion (July 2018, Sensitive)**: he attends the family reunion at Gwen and Thomas's with his sister Lillian and his father Mark. After the fight he goes with them for a walk in a park.
 - Lillian has strong memories of his birth, at the end of the Saint-Brevin period (see [01-04](../periods/01-04-summer-1985-saint-brevin.md)).
 - Before leaving for the United States, she showed him off to her friends, though he was 6 years younger (see [02-01](../periods/02-01-childhood-and-teens-in-france.md)).
 
@@ -66,3 +67,5 @@ A younger brother she is proud of since his birth (details to be completed).
 - What are his ties with Lillian like?
 - Did he or she also receive Grandma Lillian's Christmas parcels, and what memories?
 - Marc Lambert: he adored him as a child (sweets and gifts). What does he remember, and what does he think of him today? See [Marc Lambert](marc-lambert.md).
+- July 2018 reunion: his version of the fight and of the walk in the park with Mark and Lillian.
+- July 2018: how did the walk in the park with Mark and Lillian go, and what did they say about the fight?

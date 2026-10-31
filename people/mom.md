@@ -58,6 +58,7 @@
 
 ## Anecdotes and stories
 
+- **The 2018 family reunion (July 2018, Sensitive)**: she attends the family reunion at Gwen and Thomas's. She weeps throughout the fight, and Thomas then sends her messages saying she should manage Gwen and that she cannot manage her money. She leaves earlier with Lillian for a week in Croatia, ruined by the scene.
 - After Lillian hugged Papouche goodbye (about 15 years before his death), she told her daughter: "You can't do that to Papouche, it's not our culture here" (see [Papouche](maternal-grandfather.md)).
 - **The Frankfurt bar (1976)**: Béatrice, a young au pair, meets Mark. She wanted a love story with a GI. Details to ask.
 
@@ -79,3 +80,5 @@
 - Her boyfriends from the move to the apartment (Lillian at 11) and Marc Lambert: who, when, and how did she live this period? Was she fulfilled, as Lillian wonders today?
 - Were Mark and Béatrice ever divorced? How did she see Marc Lambert's departure, the bike, the curtains and the letter to Papouche? See [Marc Lambert](marc-lambert.md).
 - The move to the apartment when Lillian was 11: where, why, and what changed?
+- The 2018 reunion: Béatrice's version of the fight and of Thomas's messages. Did she see Mark again at that time, for the first time since a long while? The Croatia trip: how did it go?
+- July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?

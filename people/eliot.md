@@ -13,7 +13,7 @@
 - **Role in Lillian's life**: Gwen's first son, with Aymeric (born of her first love). Lillian's nephew.
 - **Nationality / origin**: to clarify
 - **Place of residence**: to clarify
-- **Dates**: born on 13 March (year to clarify)
+- **Dates**: born on 13 March 2005 (about 13 in summer 2018)
 
 ## Relationships between people
 
@@ -51,7 +51,7 @@
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- July 2018: he is present at the family reunion at his mother's, aged about 13 (see [Lillian](lillian.md)). Was it with Aymeric's agreement?
 
 ## To clarify
 
@@ -59,3 +59,4 @@
 - How does he see the court ruling and his childhood with his father?
 - What ties does he have with Gwen, his half-siblings, and Lillian?
 - Has Lillian seen him grow up? When did they last see each other?
+- Was he aware of the fight in July 2018, and how did he react? Where did he sleep?

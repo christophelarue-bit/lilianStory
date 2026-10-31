@@ -13,6 +13,7 @@
 - **Place of residence**: Le Havre area (posted there at the time Gwen joined him; to be confirmed today)
 - **Occupation**: petty officer (« sous-officier ») on a liner at the time of the meeting; petty officer on container ships, with more financial resources than Gwen (to clarify whether it is the same job)
 - **Dates**: to clarify
+- **Income**: he earns very well (Lillian's estimate: 10,000 euros a month for the couple, source of the second salary to clarify). Large house with 7 bedrooms and a pool
 
 ## Relationships between people
 
@@ -49,6 +50,7 @@
 
 ## Anecdotes and stories
 
+- **The 2018 family reunion (July 2018, Sensitive)**: during a lunch on the terrace of the house, he and Gwen go inside and fight loudly; he shouts and insults the family (« une famille de dégénérés »). He then leaves for two days of hiking in the mountains with Alexandre. At the table, he hits Alexandre with a towel (about his behaviour at table, to clarify). He then sends messages to Béatrice saying that she should manage Gwen and that she will see she cannot manage her money.
 - According to Lillian, he is close with his money and holds somewhat far-right views (to be confirmed with Lillian; her opinion, not a fact).
 
 ## To clarify
@@ -57,3 +59,5 @@
 - Are he and Gwen still together? If not, when did they separate?
 - What was his financial situation exactly, and did he support the family?
 - What are his ties with Lillian and the rest of the family?
+- The 2018 fight: what was it about, and what did he mean by « une famille de dégénérés »? Where does the family live today (« Luce »/Lucé? Le Havre? Vendôme?), and is his income the 10,000 euros per month said (does Gwen work too)?
+- Why did he hit Alexandre with a towel at the table in July 2018, and was it usual?

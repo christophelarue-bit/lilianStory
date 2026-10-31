@@ -61,3 +61,4 @@ A calming presence (details to be completed).
 - What was her day-to-day role when the family was housed in 1985?
 - Lillian's memories with her: the words, gestures and places that soothed her?
 - Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.
+- Was she alive in July 2018 and September 2018 (Papouche's death)? Was she at the reunion?
