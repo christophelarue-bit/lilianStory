@@ -14,6 +14,8 @@ It is during this era that she meets Adriana, [Kim](../people/kim.md) and [David
 
 Flight attendant from 2014 to 2016 (Omni Air), she discovers Hawaii during a layover in 2015 and wants to live there. In 2016, tired of partying and travelling, she ends her marriage to Mohamed and moves to Maui, welcomed by David after Kim's last-minute break-up with him.
 
+In January 2020 she leaves Maui to join José, a Spanish teacher, in Gillette, Wyoming (about 5 months, hated by Lillian). He returns to Spain; the COVID closes the borders, and Lillian, obsessed for years with living in Alaska, goes there as an agency nurse.
+
 ## Periods
 
 | Period | Dates | Place |
@@ -39,6 +41,7 @@ At least 1 interview for each of the 3 periods.
 ## To clarify
 
 - In what exact order? When does the marriage to Mohamed end relative to this era?
+- Gillette (Wyoming) with José, January to about June 2020: which period does it belong to (end of 05-02, or a period of its own)?
 - In 2018, Lillian lives in Maui (she flew to France in July, then after Papouche's death in September returned to Hawaii). So when does the Hawaii period end and Alaska start, and does the 2018 episode belong to 05-02?
 - July 2018 reunion: why did the fight break out, who was present, and how did Lillian live it and the Croatia trip afterwards?
 - Papouche's death in September 2018: was Lillian in France since July 2018, or did she come back for it? After the death she returns to Hawaii.

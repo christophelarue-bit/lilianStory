@@ -9,7 +9,7 @@
 
 ## Dates
 
-- **Start**: after Maui (2018 or later), to clarify
+- **Start**: spring or summer 2020, after Gillette and José's departure; the move took 2 or 3 months between the decision and the departure (to confirm)
 - **End**: before the return to France in 2021, to clarify
 - **Lillian's age**: to clarify
 
@@ -43,6 +43,9 @@
 
 ## Stories and small details
 
+- **Why Alaska**: she has always dreamed of living in Alaska, even during her marriage to [Mohamed](../people/mohamed.md), who was not interested at all. She was obsessed, « like a calling »: the opposite of Maui, hostile and wild, cold, with months of darkness then months of daylight, bears, Republican, not for everyone. Nature has always been her therapy. She had only been to Anchorage once as a flight attendant.
+- **How**: she works through nursing agencies (temporary assignments), which find missions anywhere in the United States, even in Australia. Each state requires its own licence and sometimes extra classes: Hawaii took her about 4 months; Alaska was easy because she was so determined.
+- **The trigger**: José leaves for Spain at the end of the Gillette stay ([José](../people/jose.md)). Devastated but unwilling to leave the United States, she decides to go to Alaska first, planning to join him in Spain 6 months later; the COVID closes the borders.
 - Lillian is a nurse in Seward, by the sea.
 - The COVID happens during this period, but she discovers the nature of Alaska.
 - She crosses paths with a bear in the wild.
@@ -57,8 +60,7 @@ The sea at Seward, the mountains seen from a plane, the road to Fairbanks, fishi
 
 ## To clarify
 
-- City, hospital, dates, length of stay?
-- Why Alaska? How did the era end?
-- Seward: hospital, dates of arrival and departure, and why Alaska after Maui?
+- Seward: hospital, exact dates of arrival (2020, which month?) and departure, which agency?
+- How did the Alaska period end, and why did she return to France in 2021 (see the 06-01 period)?
 - Her gay friend: first name, and how did they become close?
 - Kim: how did Lillian and Kim become friends again after the break-up with David, and how long did they live in the same building?

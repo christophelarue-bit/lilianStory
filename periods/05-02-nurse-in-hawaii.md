@@ -43,6 +43,7 @@
 - [Kim](../people/kim.md) suggests a flatshare at [David](../people/david-hawaii.md)'s place, her boyfriend, whom Lillian had met only briefly in 2015. Lillian organizes her move.
 - At the last minute, Kim announces that she has left David and that if Lillian moves in with him, they are no longer friends. Lillian has her tickets and her suitcases ready and feels « fucked » [stuck].
 - 2018: still living in Maui, working more than 40 hours a week, she flies to France in July for the family reunion at Gwen and Thomas's, is there when Papouche dies in September, then returns to Maui. She sees a psychiatrist two or three times about his death, but cannot find slots with her work and stops (**Sensitive**).
+- 2019–2020: she meets [José](../people/jose.md) and leaves Maui in January 2020 to live with him in Gillette, Wyoming, where he teaches (about 5 months). She hates Gillette (rednecks, guns, oil drills, a moody boss), a shock after Maui. After one month he asks her to commit to a year; she hesitates, he refuses to renew his contract and leaves for Spain; the COVID prevents her from joining him.
 - David tells her that Kim's departure changes nothing and that she can still come. He hardly knows her, she is the girlfriend of his ex who has just left him, and yet he welcomes her. It allows her to live her experience in Maui.
 
 ## Landscapes and atmosphere
@@ -55,4 +56,5 @@
 - Exactly when did the marriage with Mohamed end, relative to the departure?
 - The jury duty: where and when? Lillian's former boss near Baltimore: who is she?
 - What friendships or loves here?
-- 2018 and the end of the Hawaii period: did she keep living with David? What job (nurse?) and for how long? When does she leave Maui for Alaska?
+- 2018 and the end of the Hawaii period: did she keep living with David? What job (nurse?) and for how long?
+- She leaves Maui for Gillette in about January 2020 to join José. Did she work as a nurse in Gillette (the « boss » and the colleagues), where, and when exactly did she leave Maui?
