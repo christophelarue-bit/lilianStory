@@ -29,6 +29,10 @@
 - **Life anecdotes**: he is not at the airport when she arrives, because he went to the wrong one. He calls her « Soussoune » (his nickname for her) and bounces her on his knees at 18, as he did when she was little. He is also afraid she will take the bus at 18, as if she were 10.
 - **Emotionally strong or deep stories in the relationship**: he tells her in the first days that it is hard to look at her because she looks too much like Béatrice, whom he is still in love with. He is full of remorse for having lost his family, but with no distance on the fact he could have taken his destiny in hand. He never explained to Lillian why he did not set up a home for his wife and children in the United States, or join them in France if that was better. When Clara gives him an ultimatum, he hesitates and gives no answer.
 
+### [James](../people/james.md)
+
+- **Role during this period**: cousin (Jackie's son), tells her she is « back to her roots » (to confirm)
+
 ### [Clara](../people/clara.md)
 
 - **Role during this period**: Mark's partner. Born in 1950, of Puerto Rican origin, a teacher. He meets her through a newspaper personal ad, which Lillian had encouraged him to place.
@@ -53,6 +57,9 @@
 - **The ultimatum**: Lillian stays about a year and a half after Clara arrives. Clara views the closeness between them unfavourably, and one day asks Mark to choose between her and Lillian (so Lillian would have to leave the house).
 - **The non-answer**: Mark tells Lillian about the ultimatum. When she asks what he has decided, he hesitates and does not say. Lillian decides to leave Syracuse on that non-answer.
 - Life in Syracuse comes before New York City.
+
+- **Back to your roots**: a cousin ([James](../people/james.md)) tells her that she is making a « 360 »: she goes back to her roots, like salmon.
+- She could have built a life in the United States (nurse, good earnings); her reaction to problems is usually flight.
 
 ## Landscapes and atmosphere
 

@@ -117,6 +117,8 @@ people/
   adriana.md
   jose.md
   mike.md
+  sandrine.md
+  james.md
   kim.md
   daniel.md
   christophe.md
@@ -193,6 +195,8 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [zouria](people/zouria.md) | Mohamed's sister; visited pregnant two weeks after Lillian's abortion in 2006 (sensitive). |
 | [adriana](people/adriana.md) | Friend from era 05. |
 | [jose](people/jose.md) | A love from era 05. |
+| [sandrine](people/sandrine.md) | One of Lillian's best friends since the boarding school. |
+| [james](people/james.md) | Cousin, son of Jackie; « back to your roots ». |
 | [mike](people/mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [kim](people/kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [daniel](people/daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |

@@ -33,6 +33,10 @@
 - **Life anecdotes**: *(to be completed)*
 - **Emotionally strong or deep stories in the relationship**: *(to be completed)*
 
+### [Sandrine](../people/sandrine.md)
+
+- **Role during this period**: best friend from the boarding school (Lycée Grand Air) since about 15; they connected strongly
+
 ### [Xavier](../people/xavier.md)
 
 - **Role during this period**: brother, born shortly after summer 1985 (about 6 years younger than Lillian)
@@ -73,6 +77,7 @@
 - Lillian keeps a slight American accent: first language English, then French.
 - Around 1995, at 16, Lillian and Gwen go on holiday to New York to see their father.
 - Lillian shows off her little brother Xavier to her friends, finding him super intelligent, though he is 6 years younger.
+- **Béatrice, a friend more than a mother**: Lillian says she felt she had « neither mother nor father »: Béatrice talked to her all the time about her problems, like a girlfriend, and her father was absent. It weighed on her; Gwen's problems came later. When she left at 18, she was tired of constant problems and wanted to build her own life. Her usual reaction is flight (see [Béatrice](../people/mom.md)).
 - Lillian attends a boarding school in La Baule (years to clarify) and passes her French baccalauréat.
 
 ## Landscapes and atmosphere
@@ -85,6 +90,8 @@
 - Daily life: school, friends, activities, teenage passions?
 - Mark: what contact from a distance (calls, letters, visits)?
 - Structure: a single period or several (childhood / adolescence)?
+- Charlotte, boarding-school friend (with Sandrine): surname, role?
+- Is the Lycée Grand Air the boarding school of La Baule already noted?
 - School: boarding school in La Baule (which years, why?) and the French baccalauréat (when, where?)
 - The trip to New York at 16 with Gwen: when exactly, was it the city or New York State, how did it go?
 - Xavier: which qualities made her find him super intelligent, and what did she tell her friends? Which years?
