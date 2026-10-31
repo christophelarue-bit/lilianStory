@@ -4,8 +4,8 @@
 
 ## Place
 
-- **Country**: Germany until 1980, then the United States (Xavier is conceived there; Gwen born in 1982)
-- **City/cities**: Heidelberg area until 1980; then to clarify (which American town or military base?)
+- **Country**: Germany until 1980, then the United States (Syracuse; Xavier is conceived there; Gwen born in 1982 in Syracuse)
+- **City/cities**: Heidelberg area until 1980; then Syracuse, New York State
 
 ## Dates
 
@@ -39,6 +39,7 @@
 
 ## Stories and small details
 
+- After Lillian's birth in Heidelberg, the family leaves for the United States and settles in Syracuse, where Gwen is born (1982). Mark cannot handle the family and his debts become untenable.
 - Lillian speaks English before French: she is the only one of the siblings with this background, hence her slight American accent.
 - The bedtime nursery rhymes, sung and read by her father.
 - Mark's financial difficulties worsen until family life becomes impossible to sustain.
@@ -56,4 +57,4 @@
 - What language was spoken at home? How did Béatrice cope with English?
 - When did the money troubles begin? What did Lillian know as a child?
 - Alcohol: confirm with Béatrice and Lillian.
-- Where in the United States did they live from 1980 to 1985 (town, base)? Did Gwen's birth in 1982 take place there?
+- Where in Syracuse did they live (Mark's family is from the area)? Did Lillian know her paternal grandmother and Mark's brothers and sisters as a child?

@@ -56,6 +56,7 @@
 
 ## Stories and small details
 
+- Béatrice, pregnant with Xavier, comes back to France from Syracuse with Gwen and Lillian, knowing that Papouche would probably ask her to stay until Mark had cleaned up his situation, which did not happen.
 - The departure is presented as a summer holiday in France. It becomes a permanent return, neither planned nor really decided by the children.
 - Xavier is born at the end of the period: Lillian keeps strong memories of his birth.
 - Lillian is six: she leaves English behind for French, while keeping a slight American accent.

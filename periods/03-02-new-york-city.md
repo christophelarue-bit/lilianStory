@@ -9,7 +9,7 @@
 
 ## Dates
 
-- **Start**: around age 20 (after Syracuse, where she stayed with Mark from 18 to 20)
+- **Start**: around age 20 (after Syracuse, where she stayed about a year with Mark)
 - **End**: when she meets Mohamed (to clarify)
 - **Lillian's age**: from about 20
 
@@ -48,7 +48,7 @@
 ## To clarify
 
 - Place and date: where exactly, when, why New York?
-- After Syracuse (stay with Mark from 18 to 20), Lillian lives in New York City until she meets Mohamed: dates, did she go straight there, and where did she live?
+- After Syracuse (stay of about a year with Mark), Lillian lives in New York City until she meets Mohamed: dates, did she go straight there, and where did she live?
 - Walter's role: friend, lover, something else?
 - Mohamed: how, where and when did they meet?
 - Dates of the stay in New York City and of her departure from Syracuse (see the dates questions in [03-01](03-01-syracuse-finding-dad.md)).

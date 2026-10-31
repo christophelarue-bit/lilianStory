@@ -46,6 +46,7 @@
 - **The American hugs**: the first time she meets her uncle [John](../people/john.md), he squeezes her in his arms; she is stoic but frozen. Her French upbringing (Papouche, Mamouche, a Saint-Brevin family) was far more reserved: affection was not said or shown, while her American family hugs and says « I love you ».
 - **Grandma Lillian's house** (period to confirm; she was about 70, which points to around 1994-1995): she cooks for everyone, serves them, then sits on the floor herself. Lillian, shocked, looks at her father, but nobody else is shocked. Lillian offers to wash the dishes and Grandma gets angry ("you think I'm too old?"). She belittles Mark in front of Lillian. See [Grandma Lillian](../people/paternal-grandmother.md).
 - **The Doctor Who scarf**: at 19, Lillian knits a Doctor Who scarf for her father, who is a fan of the series. Mark has been a fan since the very beginning of the series and wore the scarf. It was Mamouche who taught her to knit, between the ages of 7 and 10.
+- **Duration and Clara**: Lillian stays about a year with Mark. She encouraged him to meet people, which led him to Clara, who then betrayed her (the ultimatum).
 - **School**: Lillian has her French baccalauréat, but Mark recommends she go to high school in the United States. She lasts 2 weeks: the atmosphere and the shock compared to the French system and her boarding school in La Baule.
 - **The supermarket job**: she then takes a job as a cashier at the "Price Shopper" at the end of the street (a 20-minute walk). She has a crush on a guy who works there, one of her first crushes. She resigns because of a misunderstanding (« quiproco ») and has always avoided that store since.
 - **Clara and the plan**: it was Lillian's idea that Mark place a personal ad and meet people. When Clara enters his life, Mark is happy, and Lillian is happy that her plan worked and her father has found a partner.
@@ -74,3 +75,4 @@
 - The paternal family around Syracuse: did Lillian meet her grandmother Lillian, her uncles, aunts and cousins in 1998-1999? What role did they have for her and for Mark? See [Grandma Lillian](../people/paternal-grandmother.md).
 - The first meeting with uncle John: when and where (on arrival, at the family's home)? Which other relatives hugged her, and how did she live this culture shock?
 - Grandma Lillian's house scenes (floor, dishes, belittling Mark): during which stay? About 70 years old points to around 1994-1995 rather than 1998.
+- The duration: about a year with Mark (she first said from 18 to 20): which exact months?
