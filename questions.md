@@ -574,7 +574,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - Sensitive subject (ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.
 
-## [Mohamed](people/mohamed.md) — 16 questions
+## [Mohamed](people/mohamed.md) — 17 questions
 
 
 **Identity and background**
@@ -595,6 +595,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 **Events and stories**
 
+- **To ask Lillian**: in which year did the marriage end, was there an official divorce (date, where), and why at that moment? (Era 05 says 2016; Lillian says « 15 years of marriage » and later « divorced not so long ago » in 2020.)
 - The meeting: where, when and how in New York?
 - Alcohol: confirmed as being Mohamed's (and, in private, with Lillian?). Did Lillian drink too?
 - Marriage: place of the wedding (March 2003), end of the marriage? (2016, near Baltimore, when she leaves for Hawaii: to confirm)
@@ -840,6 +841,18 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - Did James say the « 360 / back to your roots » sentence, or Jackie? When exactly (1998 or 2000s)?
 - Does he have siblings (other cousins of Lillian)?
+
+## [Kay](people/kay.md) — 3 questions
+
+
+**Identity and background**
+
+- Surname, origin, job, and how did she meet Lillian?
+
+**Relationship with Lillian and with others**
+
+- Was she the one in the same building with the pyjama parties?
+- Is she still in touch with Lillian?
 
 ## [Mike](people/mike.md) — 4 questions
 

@@ -49,7 +49,7 @@ She is at the origin of Lillian's wish to live in Hawaii. In 2016 she suggested 
 
 ## Anecdotes and stories
 
-- In Seward, Alaska, she lives in the same building as Lillian, with a gay friend: they often have pyjama parties (see [05-03](../periods/05-03-nurse-in-alaska.md)).
+- To confirm, because Kay and Kim are two different women: in Seward, Alaska, she lives in the same building as Lillian, with a gay friend: they often have pyjama parties (see [05-03](../periods/05-03-nurse-in-alaska.md)).
 - 2015: during a layover in Hawaii (Lillian then works for Omni Air), Kim and David show her the island. Lillian wants to come back and live there.
 
 ## To clarify

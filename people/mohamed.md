@@ -68,6 +68,8 @@ Husband for 15 years.
 
 ## To clarify
 
+- **To ask Lillian**: in which year did the marriage end, was there an official divorce (date, where), and why at that moment? (Era 05 says 2016; Lillian says « 15 years of marriage » and later « divorced not so long ago » in 2020.)
+
 - Dates and reasons of the first and the second separation, and how Lillian came back each time?
 - The meeting: where, when and how in New York?
 - Origin, family, religion: what place does religion have in their life?
