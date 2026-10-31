@@ -18,7 +18,7 @@
 
 - [Lillian](lillian.md): his cousin
 - [Julie](julie.md): his sister
-- His parents: Didier and « Gué » (names to clarify)
+- His parents: [Didier](didier.md) (Lillian's uncle) and « Gué » (names to clarify)
 - His wife and 2 children (names to clarify)
 
 ## Relationship with Lillian

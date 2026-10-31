@@ -58,7 +58,9 @@
 
 ## Anecdotes and stories
 
-- **The 2018 family reunion (July 2018, Sensitive)**: she attends the family reunion at Gwen and Thomas's. She weeps throughout the fight, and Thomas then sends her messages saying she should manage Gwen and that she cannot manage her money. She leaves earlier with Lillian for a week in Croatia, ruined by the scene.
+- **Croatia and the argument (2018)**: the trip lasts about ten days, 2-3 weeks after the Luce scene. She is disillusioned and worried about Gwen, who has a newborn; Lillian too. The whole family had pooled money for her trip: it is wasted. A few weeks later, the day after a quarrel with Lillian at the café « 7 Beaufort » (she is not like Lillian, does not need big trips, finds it mass tourism, polluting and ridiculous; they tell each other that they do not understand each other), she is told of her father's death. Lillian runs to her, in a panic attack; Béatrice answers « Anne, on n'a pas le temps pour les émotions. On doit aller voir Mamouche. Prends tes affaires, on y va » [Anne, there is no time for emotions. We must go and see Mamouche. Take your things, we are going].
+- **Taking care of Mamouche**: after Papouche's death, [Didier](didier.md) and others propose a nursing home. She refuses, moves close to her mother, and takes care of her for 3 years.
+- **The 2018 family reunion (July 2018, Sensitive)**: she attends the family reunion at Gwen and Thomas's. She weeps throughout the fight, and Thomas then sends her messages saying she should manage Gwen and that she cannot manage her money. She leaves earlier with Lillian for about ten days in Croatia, ruined by the scene.
 - After Lillian hugged Papouche goodbye (about 15 years before his death), she told her daughter: "You can't do that to Papouche, it's not our culture here" (see [Papouche](maternal-grandfather.md)).
 - **The Frankfurt bar (1976)**: Béatrice, a young au pair, meets Mark. She wanted a love story with a GI. Details to ask.
 
@@ -82,3 +84,5 @@
 - The move to the apartment when Lillian was 11: where, why, and what changed?
 - The 2018 reunion: Béatrice's version of the fight and of Thomas's messages. Did she see Mark again at that time, for the first time since a long while? The Croatia trip: how did it go?
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
+- Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
+- She calls Lillian « Anne »: is it a nickname or a first name?

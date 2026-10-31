@@ -51,6 +51,8 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 
 ## Anecdotes and stories
 
+- **His death (September 2018, Sensitive)**: a throat cancer, which came back. Béatrice took him to the doctor, the prognosis was bad, and he died a day or two later. Lillian, who was walking in the street, was called by Béatrice from her car, in tears, who told her that his cancer was back. The next day, Lillian and Béatrice quarrelled at the café « 7 Beaufort » in Saint-Brevin. Half an hour later, [Lou](lou.md) phoned Lillian: Papouche was dead. The death certificate was awaited from the doctor. See [Lillian](lillian.md).
+- **Tears**: according to Lillian, he cried only at the death of his own grandmother (Lillian's great-grandmother, to clarify).
 - **The letter from Marc Lambert**: after his break-up with Béatrice, [Marc Lambert](marc-lambert.md) wrote to him to ask to be reimbursed for the money he had invested. What he did is to clarify.
 - **The hug**: about 15 years before his death, Lillian, leaving for the United States, hugs him goodbye. He is stoic and frozen, like her; afterwards her mother tells her "you can't do that to Papouche, it's not our culture here". He seems to have wondered why she held him that way. Lillian, who had become American in her gestures, still finds it funny.
 - Reserved with affection ("a Brévin family"): never said « je t'aime » [I love you] to Lillian, who always felt it nonetheless.
@@ -68,3 +70,5 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 - Did he accompany Lillian to the boarding school at the start of term? (Marc Lambert did it, because Papouche was probably unavailable.) And what did he do with Marc's letter?
 - Did Marc Lambert's letter lead to a payment, and did it change Papouche's view of Béatrice's partners?
 - He died in September 2018, two months after the July family reunion at Gwen and Thomas's: was he present or ill then, and was Lillian there at his death?
+- Cause and exact date of death in September 2018 (throat cancer; at home?), and the funeral: who was there?
+- The great-grandmother whose death made him cry: who was she?

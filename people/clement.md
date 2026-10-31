@@ -57,3 +57,4 @@
 - Was Clément one of the children Gwen asked Lillian to look after in 2021?
 - What ties with Lillian, Eliot and the other siblings?
 - Was he at the July 2018 reunion (a newborn, born in June)? Who looked after him during the fight?
+- After his mother left Thomas with the three children (after September 2018, to clarify), with whom did he live?

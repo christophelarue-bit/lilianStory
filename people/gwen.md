@@ -71,6 +71,7 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - **Thomas.** She meets [Thomas](thomas.md), a petty officer, on a liner in Saint-Nazaire where she works as a waitress. He leads her to leave Aymeric and encourages her to come to Le Havre, where he has been posted.
 - **Eliot.** Aymeric says she abandoned Eliot. A court ruling entrusts Eliot to his father, who raises him. Gwen sees him during the holidays.
 - **Her second family.** With Thomas, who has more financial resources (petty officer on container ships), she has [Alexandre](alexandre.md), [Julia](julia.md) and [Clément](clement.md). They are never married.
+- **After Papouche's death (2018).** According to Lillian, Papouche's death was the trigger for Gwen, who then left Thomas with the three children (when exactly, December 2018?). Gwen then had a newborn, Clément, born in June 2018.
 - **The family's strong moments.** She has always been there for the family's strong moments, and she handled the deaths of Papouche and Mamouche.
 - **Her character, according to Lillian.** Rather nonchalant, a liar, close to the people around her more out of interest.
 
@@ -99,3 +100,4 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - Julie and Jérôme, their cousins: did she go to Switzerland too?
 - July 2018 reunion: why did the fight with Thomas break out, how did it end, and what became of the reunion afterwards?
 - July 2018: what did Thomas mean by « une famille de dégénérés », and how did the trip to Croatia (Lillian and Béatrice) follow the fight?
+- After Papouche's death in September 2018: when and how did she leave Thomas with the three children, and where did she go? Her view of the Croatia trip, paid by the family for Béatrice.

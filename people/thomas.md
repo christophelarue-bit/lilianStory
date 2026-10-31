@@ -61,3 +61,4 @@
 - What are his ties with Lillian and the rest of the family?
 - The 2018 fight: what was it about, and what did he mean by « une famille de dégénérés »? Where does the family live today (« Luce »/Lucé? Le Havre? Vendôme?), and is his income the 10,000 euros per month said (does Gwen work too)?
 - Why did he hit Alexandre with a towel at the table in July 2018, and was it usual?
+- Gwen left him with the three children after Papouche's death in 2018: when, why, and what became of the children and of him?

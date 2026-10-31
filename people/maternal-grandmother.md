@@ -13,7 +13,7 @@
 - **Role in Lillian's life**: maternal grandmother, Papouche's wife and [Mom](mom.md)'s mother (to be confirmed)
 - **Nationality / origin**: French (to be confirmed)
 - **Place of residence**: Saint-Brevin (to be confirmed)
-- **Dates**: deceased (dates of birth and death to clarify)
+- **Dates**: alive in September 2018 (when Papouche died); died after that, around 2021 (to confirm); date of birth to clarify
 
 ## Relationships between people
 
@@ -49,6 +49,7 @@ A calming presence (details to be completed).
 
 ## Anecdotes and stories
 
+- **September 2018**: seated in the house, stoic, waiting with the family for the doctor's death certificate for Papouche. Lillian has never seen her cry in her life. Béatrice tells her "Maman, I will take care of you, you will not be alone". When Didier and the others suggest a nursing home, Béatrice refuses and moves close to her, taking care of her for 3 years.
 - Mistress of the house with her own armchair: at table, everyone waited for her to sit before sitting down (a contrast with the American grandmother, who served everyone and sat on the floor).
 - Reserved with affection, like the whole French side (see [Papouche](maternal-grandfather.md)): « ma chérie », four kisses on the cheeks, never a hug and never « je t'aime » [I love you] said aloud, although Lillian always felt it.
 - She taught Lillian to knit when Lillian was between 7 and 10; Lillian used it at 19 to make a Doctor Who scarf for her father (see [03-01](../periods/03-01-syracuse-finding-dad.md)). Where did she teach her, and what is Lillian's memory of it?
@@ -62,3 +63,4 @@ A calming presence (details to be completed).
 - Lillian's memories with her: the words, gestures and places that soothed her?
 - Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.
 - Was she alive in July 2018 and September 2018 (Papouche's death)? Was she at the reunion?
+- When and where exactly did she die (around 2021?), and where did she live from 2018 to then? Was she at Saint-Brevin?

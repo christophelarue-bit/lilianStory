@@ -8,7 +8,7 @@
 
 ## Identity
 
-- **Role in Lillian's life**: cousin
+- **Role in Lillian's life**: cousin (probably on Béatrice's side, her father [Didier](didier.md) being Lillian's uncle)
 - **Nationality / origin**: French (to confirm)
 - **Place of residence**: Switzerland
 - **Dates**: to clarify
@@ -18,7 +18,7 @@
 
 - [Lillian](lillian.md): her cousin
 - [Jérôme](jerome.md): her brother
-- Her parents: Didier and « Gué » (names to clarify)
+- Her parents: [Didier](didier.md) (Lillian's uncle) and « Gué » (names to clarify)
 
 ## Relationship with Lillian
 
@@ -57,3 +57,4 @@ Lillian's cousin, who lives in Switzerland today.
 - Age, occupation, and ties with Lillian today?
 - The trip to Switzerland: when, how long?
 - Did Gwen and Xavier also know her? And is Lillian still in touch with her?
+- Her parents: Didier (Lillian's uncle) and « Gué »: confirm that she is on Béatrice's side.
