@@ -313,7 +313,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Cause and exact date of death in September 2018 (throat cancer; at home?), and the funeral: who was there?
 - The great-grandmother whose death made him cry: who was she?
 
-## [Mamouche (the maternal grandmother)](people/maternal-grandmother.md) — 7 questions
+## [Mamouche (the maternal grandmother)](people/maternal-grandmother.md) — 8 questions
 
 
 **Identity and background**
@@ -331,6 +331,10 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Lillian's memories with her: the words, gestures and places that soothed her?
 - Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.
 - Was she alive in July 2018 and September 2018 (Papouche's death)? Was she at the reunion?
+
+**Sensitive subjects**
+
+- She took Spanish lessons with [Mr Kérezoré](people/kerezore.md), whom she revered as a respectable Christian without knowing his secret (**Sensitive**). Where and when were the lessons, and did she ever learn the truth?
 
 ## [Grandma Lillian (the paternal grandmother)](people/paternal-grandmother.md) — 12 questions
 
@@ -853,6 +857,46 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - Was she the one in the same building with the pyjama parties?
 - Is she still in touch with Lillian?
+
+## [Julie F.](people/julie-flazon.md) — 4 questions
+
+
+**Identity and background**
+
+- Spelling of her surname (Flazon / Flageol / Flagel)? Her sister's first name?
+
+**Dates and chronology**
+
+- How long did the friendship last after the slap, and how did it end?
+
+**Events and stories**
+
+- What happened to Julie's sister and the teacher in the end (he left his wife for her; she was 17)?
+- Julie Moreau (primary-school best friend) and Laura Moreau (the girl told the secret): two people or one? Surname Moreau for both?
+
+## [Mr Kérezoré](people/kerezore.md) — 4 questions
+
+
+**Identity and background**
+
+- Correct spelling of his name, and the school (Saint-Brevin middle school?)?
+
+**Relationship with Lillian and with others**
+
+- Did the relationship ever come out (school, police, church)? What became of him and his wife?
+
+**Events and stories**
+
+- Did Lillian ever tell Béatrice, Mamouche or anyone else later?
+- Did he behave inappropriately with Lillian or other pupils?
+
+## [Laura Moreau](people/laura-moreau.md) — 2 questions
+
+
+**Events and stories**
+
+- Name: Laura Moreau, or Julie Moreau (the primary-school friend)? One or two people?
+- Did Lillian remain friends with her?
 
 ## [Mike](people/mike.md) — 4 questions
 

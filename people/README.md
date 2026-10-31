@@ -49,6 +49,9 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Sandrine](sandrine.md) | One of Lillian's best friends since the boarding school. |
 | [James](james.md) | Cousin, son of Jackie; « back to your roots ». |
 | [Kay](kay.md) | Lillian's female friend in Alaska. |
+| [Julie F.](julie-flazon.md) | Middle-school friend; her sister's secret (sensitive). |
+| [Mr Kérezoré](kerezore.md) | Spanish teacher at middle school (sensitive). |
+| [Laura Moreau](laura-moreau.md) | School friend who repeated the secret. |
 | [Mike](mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [Kim](kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [Daniel](daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |

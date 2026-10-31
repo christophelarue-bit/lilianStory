@@ -57,6 +57,8 @@ A calming presence (details to be completed).
 
 ## To clarify
 
+- She took Spanish lessons with [Mr Kérezoré](kerezore.md), whom she revered as a respectable Christian without knowing his secret (**Sensitive**). Where and when were the lessons, and did she ever learn the truth?
+
 - First name, age, date and circumstances of her death?
 - Is she Papouche's wife and Béatrice's mother?
 - What was her day-to-day role when the family was housed in 1985?
