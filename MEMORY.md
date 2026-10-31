@@ -119,6 +119,7 @@ people/
   kim.md
   daniel.md
   christophe.md
+  louis.md
 periods/
   README.md            ← list of the periods
   _template.md         ← period file template
@@ -193,7 +194,8 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [jose](people/jose.md) | A love from era 05. |
 | [kim](people/kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [daniel](people/daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
-| [christophe](people/christophe.md) | Chris, minimal draft file. |
+| [louis](people/louis.md) | Chris's son, who lives with Lillian and Chris in Nice (draft). |
+| [christophe](people/christophe.md) | Chris, Lillian's partner since April 2023 (draft). |
 
 ### Eras
 

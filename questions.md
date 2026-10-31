@@ -3,7 +3,7 @@
 Snapshot of the **To clarify** sections of the people files, grouped by theme (Rule 9) to prepare the interviews with Lillian. The people files remain the source: when a question is answered, it is removed there first. Back to the [main README](README.md).
 
 
-## [Lillian](people/lillian.md) — 30 questions
+## [Lillian](people/lillian.md) — 29 questions
 
 
 **Identity and background**
@@ -23,7 +23,6 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living? Is the story about Lillian (the account said « Anne »)?
 - Where has she lived, in order?
 - What jobs and what passions?
-- What brought her to Nice?
 - What she gets from her father: character trait, taste, way of seeing the world?
 - Her other childhood memories with Mark, including the first one?
 - After Syracuse (18 to 20), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
@@ -828,17 +827,29 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - How, when, where did they get to know each other?
 
+## [Louis](people/louis.md) — 3 questions
+
+
+**Identity and background**
+
+- Age?
+
+**Dates and chronology**
+
+- When did he arrive in Nice, and how old was he when Lillian and Chris moved?
+
+**Events and stories**
+
+- His mother's name and her place in the story (Chris's divorce)?
+
 ## [Christophe (Chris)](people/christophe.md) — 3 questions
 
 
 **Identity and background**
 
-- Age, occupation, place of residence?
-
-**Dates and chronology**
-
-- Date and place of the meeting?
+- Age, occupation?
 
 **Events and stories**
 
-- What is the connection with Lillian?
+- His divorce, another story to dig into?
+- Where will they live afterwards?

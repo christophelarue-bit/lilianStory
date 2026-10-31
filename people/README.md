@@ -48,6 +48,7 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [José](jose.md) | A love from era 05. |
 | [Kim](kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [Daniel](daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
-| [Christophe (Chris)](christophe.md) | Chris, minimal draft file. |
+| [Louis](louis.md) | Chris's son, who lives with Lillian and Chris in Nice (draft). |
+| [Christophe (Chris)](christophe.md) | Chris, Lillian's partner since April 2023 (draft). |
 
 Template for a new person: [_template.md](_template.md). Back to the [main README](../README.md).
