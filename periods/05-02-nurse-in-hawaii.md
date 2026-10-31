@@ -42,6 +42,7 @@
 - After her resignation, Lillian is called for jury duty and goes back to the United States. Her former boss near Baltimore tells her she can keep working for her as a nurse; that is where she lives with [Mohamed](../people/mohamed.md) at the time. She wants to end things with him and leave for Hawaii.
 - [Kim](../people/kim.md) suggests a flatshare at [David](../people/david-hawaii.md)'s place, her boyfriend, whom Lillian had met only briefly in 2015. Lillian organizes her move.
 - At the last minute, Kim announces that she has left David and that if Lillian moves in with him, they are no longer friends. Lillian has her tickets and her suitcases ready and feels « fucked » [stuck].
+- 2018: still living in Maui, working more than 40 hours a week, she flies to France in July for the family reunion at Gwen and Thomas's, is there when Papouche dies in September, then returns to Maui. She sees a psychiatrist two or three times about his death, but cannot find slots with her work and stops (**Sensitive**).
 - David tells her that Kim's departure changes nothing and that she can still come. He hardly knows her, she is the girlfriend of his ex who has just left him, and yet he welcomes her. It allows her to live her experience in Maui.
 
 ## Landscapes and atmosphere
@@ -54,3 +55,4 @@
 - Exactly when did the marriage with Mohamed end, relative to the departure?
 - The jury duty: where and when? Lillian's former boss near Baltimore: who is she?
 - What friendships or loves here?
+- 2018 and the end of the Hawaii period: did she keep living with David? What job (nurse?) and for how long? When does she leave Maui for Alaska?
