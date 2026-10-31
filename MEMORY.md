@@ -87,6 +87,8 @@ people/
   maternal-grandfather.md
   maternal-grandmother.md
   marc-lambert.md
+  lou.md
+  didier.md
   julie.md
   jerome.md
   paternal-grandmother.md
@@ -168,6 +170,8 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [christine](people/christine.md) | Mark's sister; one of the 7 children of Grandma Lillian. |
 | [joanne](people/joanne.md) | Mark's sister; one of the 7 children of Grandma Lillian. |
 | [marc-lambert](people/marc-lambert.md) | Béatrice's partner around 1991-1994, owned a bar on the beach; Lillian never liked him (sensitive). |
+| [lou](people/lou.md) | Lillian's aunt (Béatrice's sister, to confirm); phoned her about Papouche's death. |
+| [didier](people/didier.md) | Lillian's uncle (Béatrice's brother, to confirm), father of Julie and Jérôme. |
 | [julie](people/julie.md) | Lillian's cousin, lives in Switzerland. |
 | [jerome](people/jerome.md) | Julie's brother, lives in England with his wife and 2 children. |
 | [clara](people/clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |

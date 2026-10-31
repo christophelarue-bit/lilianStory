@@ -26,6 +26,8 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Christine (Mark's sister)](christine.md) | Aunt of Lillian's father; one of the 7 children of Grandma Lillian. |
 | [Joanne (Mark's sister)](joanne.md) | Aunt of Lillian's father; one of the 7 children of Grandma Lillian. |
 | [Marc Lambert](marc-lambert.md) | Béatrice's partner around 1991-1994, owned a bar on the beach; Lillian never liked him (sensitive). |
+| [Lou](lou.md) | Lillian's aunt (Béatrice's sister, to confirm); phoned her about Papouche's death. |
+| [Didier](didier.md) | Lillian's uncle (Béatrice's brother, to confirm), father of Julie and Jérôme. |
 | [Julie](julie.md) | Lillian's cousin, lives in Switzerland. |
 | [Jérôme](jerome.md) | Julie's brother, lives in England with his wife and 2 children. |
 | [Clara](clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
