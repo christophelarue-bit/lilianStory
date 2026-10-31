@@ -8,7 +8,7 @@
 
 ## Era summary
 
-Lillian becomes a flight attendant, then a nurse in Hawaii, then in Alaska. Three very different periods whose details are yet to be told.
+Lillian becomes a flight attendant, then a nurse in Hawaii, then in Alaska. Three very different periods. In Alaska, she is a nurse in Seward, by the sea: the COVID, but also the nature (a bear met in the wild, road trips to Fairbanks, a flight over the mountains, fishing boats at sunset) and friends in the same building ([Kim](../people/kim.md) and a gay friend) with their pyjama parties.
 
 It is during this era that she meets Adriana, [Kim](../people/kim.md) and [David (Hawaii)](../people/david-hawaii.md), friends, and José, a love.
 

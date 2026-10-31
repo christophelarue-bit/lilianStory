@@ -37,7 +37,7 @@ The desire to get closer to her father, the discovery of a father stuck in the p
 
 - What are the dates of each period?
 - Dates: when did Mark meet Clara, and when did Lillian leave Syracuse? The account says about 15 years apart, but 1985 to 1998 is 13 years, and she saw her father at 16: where does "15" come from?
-- Lillian stays with Mark from 18 to 20, then lives in New York City until she meets Mohamed: exact dates, and when did she meet him?
+- Lillian stays about a year with Mark, then lives in New York City until she meets Mohamed: exact dates, and when did she meet him?
 - The paternal family around Syracuse: did Lillian meet her grandmother Lillian, her uncles, aunts and cousins in 1998-1999? What role did they have for her and for Mark? See [Grandma Lillian](../people/paternal-grandmother.md).
 - The paternal family (Grandma Lillian, uncles John and others, Peter's story): which scenes happened in 1998-1999 and which at the earlier visit (around 1995)? See [Grandma Lillian](../people/paternal-grandmother.md).
-- According to Lillian, she stays with her father from 18 to 20: where did she live between 20 and meeting Mohamed? Does it connect to the New York City period?
+- According to Lillian, she stays about a year with her father (she first said from 18 to 20): where did she live between 20 and meeting Mohamed? Does it connect to the New York City period?
