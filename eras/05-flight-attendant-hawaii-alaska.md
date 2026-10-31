@@ -41,3 +41,4 @@ At least 1 interview for each of the 3 periods.
 - In what exact order? When does the marriage to Mohamed end relative to this era?
 - Where was Lillian in July 2018 (reunion at Gwen and Thomas's in France, before Papouche's death in September 2018)? Which period does it belong to (05-02 Hawaii, 05-03 Alaska, a new period)?
 - July 2018 reunion: why did the fight break out, who was present, and how did Lillian live it and the Croatia trip afterwards?
+- Papouche's death in September 2018, in Saint-Brevin: was Lillian in France since July 2018, and what does it say about where she lived then?
