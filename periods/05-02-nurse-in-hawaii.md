@@ -52,6 +52,8 @@
 
 ## To clarify
 
+- **To ask Lillian**: when did the marriage with Mohamed officially end (divorce date), relative to the 2016 move to Maui?
+
 - Hospital and work as a nurse in Maui, dates, length of stay?
 - Exactly when did the marriage with Mohamed end, relative to the departure?
 - The jury duty: where and when? Lillian's former boss near Baltimore: who is she?

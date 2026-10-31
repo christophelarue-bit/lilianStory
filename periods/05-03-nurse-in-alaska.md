@@ -25,7 +25,7 @@
 
 - **Role during this period**: friend, living in the same building as Lillian
 
-### Kay (female friend in Alaska)
+### [Kay](../people/kay.md) (female friend in Alaska)
 
 - **Role during this period**: Lillian's female friend in Alaska, with Keith (surname and details to ask)
 
@@ -66,7 +66,7 @@
 - Road trips to Fairbanks.
 - A flight over the mountains by plane.
 - Fishing boats and sunsets over the ocean.
-- Her friends, her gay friend and [Kim](../people/kim.md), live in the same building, and they often have pyjama parties.
+- Her friends, her gay friend Keith and [Kay](../people/kay.md) (and [Kim](../people/kim.md), to confirm), live in the same building, and they often have pyjama parties.
 
 ## Landscapes and atmosphere
 
@@ -74,11 +74,13 @@ The sea at Seward, the mountains seen from a plane, the road to Fairbanks, fishi
 
 ## To clarify
 
+- **Return to France**: Lillian does not remember when she left Alaska and where she landed first (to ask again later, perhaps with her mother or flight records).
+
 - Seward: hospital, exact dates of arrival (2020, which month?) and departure, which agency?
 - When exactly did the passport arrive, and when did she leave Alaska for France (2021, which month)? Where did she land first, and did she see José again?
 - The French official in San Francisco: what had happened to her file (born in Germany?), and why did her mother have to confirm?
 - Before that, did she have a French identity card or only a US green card? What was her legal status?
 - Why did the French embassy say she had to « do like everyone »?
 - Keith: spelling, surname, and how did they become close?
-- Kay (the Alaska girlfriend, with Keith): is she the same person as [Kim](../people/kim.md) (earlier fiches say Kim lived in the building) or a different woman? Surname, how they met?
+- Kay and [Kim](../people/kim.md) are two different women. Was Kim also in Alaska (earlier fiches say she lived in the same building), or was it only Kay and Keith? Kay's surname, how they met?
 - Kim: how did Lillian and Kim become friends again after the break-up with David, and how long did they live in the same building?

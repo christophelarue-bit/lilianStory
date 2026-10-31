@@ -46,6 +46,8 @@
 
 ## To clarify
 
+- Lillian does not remember exactly when she returned to France from Alaska or where she landed first: to ask again later (see [05-03](05-03-nurse-in-alaska.md)).
+
 - Meeting: how did they meet, and how long did the relationship last?
 - Work: what did the Brittany Ferries experience consist of?
 - Family: who knows about the abortion, and how did Lillian hide it?

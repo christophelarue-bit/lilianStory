@@ -87,6 +87,8 @@
 
 ## To clarify
 
+- **To ask Lillian**: year the marriage ended, official divorce (date and place), and the reason for ending it then?
+
 - The beginnings: how did they go from living together to marriage? Where and when was the wedding?
 - Daily life: places (Albany, Raleigh, others), Lillian's job, travels and dates?
 - The others: the in-laws and the new friends (other names?)
