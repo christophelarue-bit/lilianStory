@@ -117,6 +117,9 @@ people/
   adriana.md
   jose.md
   mike.md
+  julie-flazon.md
+  kerezore.md
+  laura-moreau.md
   kay.md
   sandrine.md
   james.md
@@ -199,6 +202,9 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [sandrine](people/sandrine.md) | One of Lillian's best friends since the boarding school. |
 | [james](people/james.md) | Cousin, son of Jackie; « back to your roots ». |
 | [kay](people/kay.md) | Lillian's female friend in Alaska. |
+| [julie-flazon](people/julie-flazon.md) | Middle-school friend; her sister's secret (sensitive). |
+| [kerezore](people/kerezore.md) | Spanish teacher at middle school (sensitive). |
+| [laura-moreau](people/laura-moreau.md) | School friend who repeated the secret. |
 | [mike](people/mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [kim](people/kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [daniel](people/daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |

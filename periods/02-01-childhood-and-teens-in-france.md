@@ -37,6 +37,18 @@
 
 - **Role during this period**: best friend from the boarding school (Lycée Grand Air) since about 15; they connected strongly
 
+### [Julie F.](../people/julie-flazon.md)
+
+- **Role during this period**: close friend in 6e-5e; entrusts Lillian with a secret (**Sensitive**)
+
+### [Mr Kérezoré](../people/kerezore.md)
+
+- **Role during this period**: Spanish teacher; also Mamouche's Spanish teacher (**Sensitive**)
+
+### [Laura Moreau](../people/laura-moreau.md)
+
+- **Role during this period**: schoolmate to whom Lillian repeats the secret
+
 ### [Xavier](../people/xavier.md)
 
 - **Role during this period**: brother, born shortly after summer 1985 (about 6 years younger than Lillian)
@@ -78,6 +90,8 @@
 - Around 1995, at 16, Lillian and Gwen go on holiday to New York to see their father.
 - Lillian shows off her little brother Xavier to her friends, finding him super intelligent, though he is 6 years younger.
 - **Béatrice, a friend more than a mother**: Lillian says she felt she had « neither mother nor father »: Béatrice talked to her all the time about her problems, like a girlfriend, and her father was absent. It weighed on her; Gwen's problems came later. When she left at 18, she was tired of constant problems and wanted to build her own life. Her usual reaction is flight (see [Béatrice](../people/mom.md)).
+- **The teacher's secret (Sensitive)**: around 11-12 (6e-5e), her close friend [Julie F.](../people/julie-flazon.md) tells her in secret that her older sister (3 years older) is in a relationship with their Spanish teacher [Mr Kérezoré](../people/kerezore.md), who was about 39-40, married with children, when the girl was 13 (he later left his wife for her). Julie carries notes between them in class. Lillian cannot keep the secret and tells [Laura Moreau](../people/laura-moreau.md), who tells Julie; Julie slaps her outside school, the only time she was attacked. They went on seeing each other. The teacher goes to Mass every Sunday, plays guitar at church and gives Spanish lessons to Mamouche, who reveres him. Lillian finds it disturbing (« chelou »), is a little afraid, does not tell her mother, and at 12 declares that she is done with church, catechism and Mass.
+- **Class and social background**: Lillian says her family was not bourgeois, fatherless, « a bit of social cases »; her aunt Lalou said Béatrice was a « pute » (**Sensitive**), which Christophe attributes to jealousy. The film « La vie est un long fleuve tranquille » resonates with her.
 - Lillian attends a boarding school in La Baule (years to clarify) and passes her French baccalauréat.
 
 ## Landscapes and atmosphere
@@ -85,6 +99,10 @@
 *(to be completed)*
 
 ## To clarify
+
+- The teacher's secret: see [Julie F.](../people/julie-flazon.md) and [Mr Kérezoré](../people/kerezore.md) (spelling, school, what happened later). Did Lillian ever tell anyone?
+- Aunt Lalou (Béatrice's sister?): first name, relation to Béatrice, why did she call her a « pute », and the family quarrel behind it?
+- Catechism and church: until when did she go, and did Papouche and Mamouche react when she stopped at 12?
 
 - Places: Saint-Brevin throughout (Les Tourelles, then the rented apartment). When did Béatrice leave for Saint-Brieuc, and where was Lillian then? Where did Lillian live after the baccalauréat?
 - Daily life: school, friends, activities, teenage passions?
