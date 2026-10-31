@@ -50,6 +50,7 @@
 
 - Meeting: how did they meet, and how long did the relationship last?
 - Work: what did the Brittany Ferries experience consist of?
+- Where did Lillian live in 2021-2023 (before the apartment in Rennes)?
 - Family: who knows about the abortion, and how did Lillian hide it?
 - Gwen's children: first names, ages?
 - Before 2021: the July 2018 family reunion (fight between Gwen and Thomas, Croatia trip) and Papouche's death in September 2018. In 2018 she lives in Maui, Hawaii (see [05-02](05-02-nurse-in-hawaii.md)): when does she come back to France for good, and why? See [Lillian](../people/lillian.md).
