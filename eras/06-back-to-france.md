@@ -38,3 +38,5 @@ Getting closer to her family, hiding her pain, abandonment repeating itself, lon
 ## To clarify
 
 - Exact date of the return to France and of Chris's arrival.
+- The July 2018 family reunion and Papouche's death in September 2018: do they belong to this era, as an early return to France, or to a separate period? See [Lillian](../people/lillian.md).
+- Papouche's death in September 2018: was Lillian there, and what was her relationship with her family in France between 2018 and 2021?
