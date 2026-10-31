@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [01-01 — Meeting in Frankfurt](../periods/01-01-meeting-in-frankfurt.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Frankfurt, Germany | Before her birth: her parents meet |
 | [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Heidelberg, Germany | Born in 1979 |
-| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany (to be confirmed) | 1979-1985 |
+| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany until 1980, then United States | 1979-1985 |
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | A holiday that turns into a permanent return |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | 1985-September 1998 |
 | [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | From 11 September 1998, at 18; lives at her father's in North Syracuse, leaves after Clara's ultimatum |
@@ -82,6 +82,8 @@ The character traits, values, wounds and strengths that emerge from her life pat
 
 ## Anecdotes and stories
 
+- **Time with Mark**: according to Lillian, she knew her father from 0 to 5 (Germany until 1980, then the United States), then from 18 to 20 when she came back to see him, and she stayed in regular contact with him while she was in the States during her marriage to Mohamed.
+- **Self-confidence and Xavier**: she lacked self-confidence and put her brother Xavier on a pedestal (he recited La Fontaine's fables by heart and understood mathematics, which she did not), taking him along on her outings with her friends (see [xavier.md](xavier.md)).
 - **After Papouche's death (autumn 2018, Sensitive)**: she goes back to the United States, to Hawaii, where she lives in Maui. She sees a psychiatrist two or three times to talk about Papouche's death, but with her work (40 hours a week or more) she cannot find slots; she cancels once because she is needed at work, the secretary tells her they can no longer take her, and she stops going.
 - **Announcing Papouche's death to Gwen (September 2018, Sensitive)**: Lillian decides that it must not be Béatrice, who is not in a state to do it, and phones Gwen herself, at home (« Luce »/Luz/Lucé, spelling to clarify). Gwen screams, a scream of atrocious pain that lasts an eternity, as if a part of her had died, as if one of her children had been run over. She cannot speak. About a month later, she takes steps to leave Thomas.
 - **Croatia and Papouche's death (2018, Sensitive)**: about ten days in Croatia with Béatrice, 2-3 weeks after the Luce scene, a trip ruined by it (the family had pooled money for it). A few weeks later, the day after Papouche's cancer is said to have come back, they quarrel at the café « 7 Beaufort » in Saint-Brevin: Béatrice does not understand her need for big trips. Half an hour later her aunt [Lou](lou.md) phones: Papouche is dead. Lillian walks, then runs to her mother, in hyperventilation and a panic attack, afraid she will faint. Béatrice answers: « Anne, on n'a pas le temps pour les émotions. On doit aller voir Mamouche ». At the house, Mamouche is stoic, Lou is agitated, and Béatrice takes charge (see [maternal-grandfather.md](maternal-grandfather.md)).
@@ -108,7 +110,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - What brought her to Nice?
 - What she gets from her father: character trait, taste, way of seeing the world?
 - Her other childhood memories with Mark, including the first one?
-- Where did she go after leaving Syracuse, and to what extent does it match her New York City period and/or meeting Mohamed?
+- After Syracuse (18 to 20), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
 - The supermarket crush: who was he, what was the misunderstanding? (see [03-01](../periods/03-01-syracuse-finding-dad.md))
@@ -128,3 +130,5 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - July 2018: was Papouche present or ill at the reunion, and was she there at his death in September 2018? Who came with Mark and did he see Béatrice? How did the Croatia trip go?
 - Her presence in France from July to September 2018: how long did she stay, before returning to Hawaii? What did she feel at Papouche's death, and about Béatrice's reaction (« on n'a pas le temps pour les émotions »)?
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?
+- Her time with Mark from 18 to 20: did she stay in Syracuse (or elsewhere) until she was 20? How did the regular contact work during the marriage to Mohamed?
+- Where in the United States did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?

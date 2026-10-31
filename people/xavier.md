@@ -12,8 +12,8 @@
 
 - **Role in Lillian's life**: brother
 - **Nationality / origin**: to clarify
-- **Place of residence**: Nantes, France
-- **Dates**: born after summer 1985 (Béatrice was pregnant at that time), about 6 years after Lillian; date and place of birth to clarify
+- **Place of residence**: Nantes, France (the city where Lillian lived with Chris, see [07-01](../periods/07-01-meeting-chris.md))
+- **Dates**: born after summer 1985 (Béatrice was pregnant at that time), about 6 years after Lillian; born in Saint-Brevin but conceived in the United States; exact date of birth to clarify
 
 ## Relationships between people
 
@@ -24,7 +24,7 @@
 
 ## Relationship with Lillian
 
-Lillian has strong memories of his birth. She has always found him super intelligent and, although he is 6 years her junior, she showed him off to her friends. All of this happened before she left for the United States (1998).
+Lillian remembers being in the United States when his arrival was announced, then arriving in France and his birth: a tiny little man who was her brother. As a child he could recite La Fontaine's fables by heart and he understood mathematics, while Lillian understood nothing about it. She put him on a pedestal because she lacked self-confidence, told her friends he was great and did not hesitate to take him along on her outings with them. For Xavier, it was probably valuing, and he probably appreciated that part of his life. Lillian has strong memories of his birth. She has always found him super intelligent and, although he is 6 years her junior, she showed him off to her friends. All of this happened before she left for the United States (1998).
 
 ## Impact on Lillian's life
 
@@ -51,14 +51,16 @@ A younger brother she is proud of since his birth (details to be completed).
 
 ## Anecdotes and stories
 
+- **The July 2018 reunion**: according to Lillian, this story was quite hard for Xavier to live with.
 - **The 2018 family reunion (July 2018, Sensitive)**: he attends the family reunion at Gwen and Thomas's with his sister Lillian and his father Mark. After the fight he goes with them for a walk in a park.
+- **Fables and mathematics**: he recited La Fontaine's fables by heart and understood mathematics, while Lillian did not. She took him along on outings with her friends, telling them he was brilliant, probably valuing for him.
 - Lillian has strong memories of his birth, at the end of the Saint-Brevin period (see [01-04](../periods/01-04-summer-1985-saint-brevin.md)).
 - Before leaving for the United States, she showed him off to her friends, though he was 6 years younger (see [02-01](../periods/02-01-childhood-and-teens-in-france.md)).
 
 ## To clarify
 
-- What exactly are Lillian's memories of his birth (where, who was there, how did she feel at 6)?
-- Which of his qualities made her find him « super intelligent », and what did she tell her friends?
+- His birth in Saint-Brevin, after a conception in the United States: exact date, and which memories does Lillian keep of the announcement in the United States and of the first sight in France?
+- Does he remember the outings with Lillian's friends, and what did he think of it? Did he study mathematics or something related afterwards?
 - What does he think of her today?
 - Date and place of birth (France or elsewhere)?
 - Did he know Mark? When, how, how many times?
@@ -69,3 +71,5 @@ A younger brother she is proud of since his birth (details to be completed).
 - Marc Lambert: he adored him as a child (sweets and gifts). What does he remember, and what does he think of him today? See [Marc Lambert](marc-lambert.md).
 - July 2018 reunion: his version of the fight and of the walk in the park with Mark and Lillian.
 - July 2018: how did the walk in the park with Mark and Lillian go, and what did they say about the fight?
+- Does he know the story of Grandma Lillian's Christmas parcels? (Lillian says the "young one" does not understand it.) What does he know of Mark, and how much contact have they had?
+- Why was the July 2018 reunion hard for him: the fight itself, Gwen and Thomas, Mark, Papouche's death soon after?

@@ -77,3 +77,4 @@ Husband for 15 years.
 - Spelling: Yacine or Yassine? Geaniie? Zachzria? (names given as they were written)
 - Mohamed's family: first name of his mother, and which of his sisters did Yacine go out with?
 - Places: where did Lillian live with Geaniie, and where did Zouria visit (Albany? Raleigh?)?
+- He meets Lillian in New York City, in her early twenties (about 2001-2002): where and when exactly?

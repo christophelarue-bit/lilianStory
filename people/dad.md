@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [01-01 — Meeting in Frankfurt](../periods/01-01-meeting-in-frankfurt.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Frankfurt, Germany | Meets Béatrice in a GI bar in 1976 |
 | [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Heidelberg, Germany | Lillian's birth in 1979 at the military hospital |
-| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany (to be confirmed) | Family life until 1985; nursery rhymes to fall asleep |
+| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany until 1980, then United States | Family life until 1985; nursery rhymes to fall asleep |
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | The family goes on holiday to France, Mark is no longer there; the separation sets in |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Absent father, at a distance (to clarify) |
 | [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | From 11 September 1998, Lillian lives at his place in North Syracuse; Clara's ultimatum, to which he does not answer |
@@ -76,6 +76,7 @@
 
 ## Anecdotes and stories
 
+- **Time with Lillian**: Lillian knew him from 0 to 5 in the United States (the family moved from Germany to the United States in 1980), then from 18 to 20, and kept regular contact with him during her marriage to Mohamed, while in the States.
 - **The 2018 family reunion (July 2018, Sensitive)**: he comes to France, one of his first trips there (first time to clarify), to meet his grandson Clément and take part in the family reunion at Gwen and Thomas's. After Gwen and Thomas's fight, he goes for a walk in a park with Lillian and Xavier, then returns to the United States the next day, at the planned end of his stay.
 - **The GI bar in Frankfurt (1976)**: Mark falls in love at first sight with Béatrice, a young au pair. She, for her part, wanted to have a love story with a GI.
 - **News of Béatrice**: around 1991-1992, his mother, back from a visit to France, told him that Béatrice was seeing someone ([Marc Lambert](marc-lambert.md)). His reaction is to clarify (see [Grandma Lillian](paternal-grandmother.md)).
@@ -111,3 +112,4 @@
 - How did he react when his mother told him that Béatrice was seeing Marc Lambert? Were Mark and Béatrice ever divorced?
 - His 2018 trip to France: was it his first, with whom did he travel, did he see Béatrice and Papouche (who died in September of that year), and what did he feel about the fight?
 - July 2018: who came with him to France, did he see Béatrice, and how did he react to Thomas's fight and insults?
+- Where did the family live in the United States between 1980 and 1985 (which base or town)? And what was the contact with Lillian during her marriage to Mohamed?
