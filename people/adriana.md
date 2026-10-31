@@ -18,6 +18,7 @@
 ## Relationships between people
 
 - [Lillian](lillian.md): friend
+- [Mike](mike.md) proposed to her to marry (the swing story, to clarify).
 - Friend met in era 05. See also [Kim](kim.md) and [David (Hawaii)](david-hawaii.md), friends from the same era.
 
 ## Relationship with Lillian

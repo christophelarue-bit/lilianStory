@@ -52,6 +52,8 @@ His welcome saved her move to Hawaii when, tickets and suitcases ready, she sudd
 
 ## To clarify
 
+- Mike's story mentions a second David in Hawaii: David Williams, a doctor and landlord, as well as David the friend. Are they the same person as this David (host in Maui), or two distinct people?
+
 - Surname, age, origin, occupation?
 - Where exactly in Maui did he live, and for how long did Lillian live there?
 - First meeting with Lillian: 2015? (the account said "2025", probably a slip)

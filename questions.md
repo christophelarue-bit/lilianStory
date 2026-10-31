@@ -617,7 +617,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - How did she meet him, how long did it last?
 
-## [David (Hawaii)](people/david-hawaii.md) — 5 questions
+## [David (Hawaii)](people/david-hawaii.md) — 6 questions
 
 
 **Identity and background**
@@ -626,6 +626,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 **Events and stories**
 
+- Mike's story mentions a second David in Hawaii: David Williams, a doctor and landlord, as well as David the friend. Are they the same person as this David (host in Maui), or two distinct people?
 - Where exactly in Maui did he live, and for how long did Lillian live there?
 - First meeting with Lillian: 2015? (the account said "2025", probably a slip)
 - How did Kim and David's break-up happen, and what became of Kim and Lillian's friendship afterwards?
@@ -810,6 +811,22 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - Exact dates in Gillette: January to June 2020 (about 5 months), or other?
 - In which period does he belong: end of 05-02 (Hawaii) or a Gillette period of its own?
+
+## [Mike](people/mike.md) — 4 questions
+
+
+**Identity and background**
+
+- Surname, age, city, and how and when she met him?
+
+**Dates and chronology**
+
+- When did she come back to Maui and stay at his place?
+
+**Events and stories**
+
+- The story of the marriage proposal to Adriana (the « swing »)?
+- The abortion after which he let her stay: when, where, and who knew?
 
 ## [Kim](people/kim.md) — 5 questions
 

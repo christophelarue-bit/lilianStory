@@ -46,6 +46,7 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Zouria](zouria.md) | Mohamed's sister; visited pregnant two weeks after Lillian's abortion in 2006 (sensitive). |
 | [Adriana](adriana.md) | Friend from era 05. |
 | [José](jose.md) | A love from era 05. |
+| [Mike](mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [Kim](kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [Daniel](daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
 | [Louis](louis.md) | Chris's son, who lives with Lillian and Chris in Nice (draft). |
