@@ -93,11 +93,11 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 **Identity and background**
 
-- Surname, age, date of birth, occupation(s)?
+- Surname, age, date of birth? Where did she work as a dental assistant (surgery, dates), and did she keep that job?
 
 **Dates and chronology**
 
-- How long has she lived in Saint-Brieuc? Where did they live between summer 1985 and Saint-Brieuc?
+- When and why did she move from Saint-Brevin to Saint-Brieuc (after Mamouche, 2018-2021?)? Where exactly are « Les Tourelles » (her parents' home, the district or the house), and when did she move into the rented apartment (Lillian was 11)?
 
 **Relationship with Lillian and with others**
 

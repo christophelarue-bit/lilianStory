@@ -6,7 +6,7 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 |---|---|
 | [Lillian](lillian.md) | The main character. Has lived in Nice for about 1 year. |
 | [Dad (Mark)](dad.md) | Mark, American, soldier (GI, Iraq), lives in Syracuse (New York State). |
-| [Mom (Béatrice)](mom.md) | Béatrice, former au pair, lives in Saint-Brieuc, France. |
+| [Mom (Béatrice)](mom.md) | Béatrice, dental assistant, former au pair, lives in Saint-Brieuc, France. |
 | [Gwen](gwen.md) | Younger sister, born in 1982, lives in Vendôme. Four children; a hard, chaotic life that has always affected the family, and above all Lillian (sensitive). |
 | [Eliot (Gwen's first son)](eliot.md) | Gwen's first son, with Aymeric; raised by his father after a court ruling (sensitive). |
 | [Alexandre (child of Gwen and Thomas)](alexandre.md) | Child of Gwen and Thomas. |

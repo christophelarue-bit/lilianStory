@@ -2,6 +2,8 @@
 
 **Sensitive: to confirm with Lillian before any use in a book** (violence against his ex-wife, Lillian's feelings about her mother's partner).
 
+*Not to be confused with Mark ([Dad](dad.md)), Béatrice's ex-husband.*
+
 ## Periods involved
 
 | Period | Era | Place | What was shared |

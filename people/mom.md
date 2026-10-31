@@ -16,7 +16,8 @@
 - **First name**: Béatrice
 - **Role in Lillian's life**: mother
 - **Nationality / origin**: French (to be confirmed). Her family has its « fief » [home base] in Saint-Brevin (to be confirmed).
-- **Place of residence**: Saint-Brieuc, Côtes-d'Armor, France (close to Rennes, where Lillian settles after 2021)
+- **Occupation**: dental assistant
+- **Place of residence**: Saint-Brevin from 1985 (first with her parents at Les Tourelles, then in a rented apartment with her children); today Saint-Brieuc, Côtes-d'Armor, France (close to Rennes, where Lillian settles after 2021). Move to Saint-Brieuc: date to clarify
 - **Dates**: to be completed
 - **Known life path**: young au pair in Germany in 1976, in Frankfurt; return to France in summer 1985 with her children
 
@@ -25,6 +26,7 @@
 - [Dad](dad.md) (Mark): they met in 1976 in a GI bar in Frankfurt. She wanted to have a love story with a GI. A couple, three children, then a de facto separation from summer 1985 onward, because of debts, the financial situation and perhaps alcohol (to be confirmed).
 - [Gwen](gwen.md): her daughter, born in 1982.
 - [Xavier](xavier.md): her son, with whom she was pregnant in summer 1985.
+- Not to be confused with Mark (Dad), her ex: Marc Lambert is a different man, met in Saint-Brevin.
 - [Marc Lambert](marc-lambert.md): her partner around 1991-1994; she says it lasted 1.5 years, who owned a bar on the beach. Before him, boyfriends since the move to the apartment (Lillian was 11).
 - [Papouche (the maternal grandfather)](maternal-grandfather.md): her father, a notable of Saint-Brevin. With Mamouche, he took her in in 1985, pregnant with Xavier, and housed her with her three children, asking Mark to settle his debts. He suggested she stay in France as long as Mark's financial situation did not improve.
 - [Mamouche (the maternal grandmother)](maternal-grandmother.md): her mother (to be confirmed). She took her in with Papouche in 1985.
@@ -67,11 +69,11 @@
 
 ## To clarify
 
-- Surname, age, date of birth, occupation(s)?
+- Surname, age, date of birth? Where did she work as a dental assistant (surgery, dates), and did she keep that job?
 - Nationality, family of origin, childhood? Did she grow up in Saint-Brevin or elsewhere?
 - Where and with whom was she an au pair in Frankfurt? Why Germany?
 - The 1975-1980 period (to ask Béatrice): meeting, start of life as a couple, married or not, arrival in Heidelberg.
-- How long has she lived in Saint-Brieuc? Where did they live between summer 1985 and Saint-Brieuc?
+- When and why did she move from Saint-Brevin to Saint-Brieuc (after Mamouche, 2018-2021?)? Where exactly are « Les Tourelles » (her parents' home, the district or the house), and when did she move into the rented apartment (Lillian was 11)?
 - How did she experience the decision to stay in France in 1985? Did she see Mark again afterward?
 - Mark's alcohol and debts: her version.
 - What ties with Lillian over the years?
