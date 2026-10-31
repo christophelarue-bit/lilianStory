@@ -19,6 +19,7 @@
 - [Dad](dad.md) (Mark): his sister
 - Her brothers and sisters: [Larry](larry.md), [Joanne](joanne.md), [John](john.md), [Michael](michael.md), [Christine](christine.md) (with Mark, the 7 children of Grandma Lillian, in the order Larry, Joanne, John, Michael, Mark, Christine, Jackie)
 - [Grandma Lillian](paternal-grandmother.md): her mother
+- [James](james.md): her son (Lillian's cousin)
 - [Lillian](lillian.md): her niece
 
 ## Relationship with Lillian

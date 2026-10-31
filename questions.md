@@ -812,6 +812,35 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Exact dates in Gillette: January to June 2020 (about 5 months), or other?
 - In which period does he belong: end of 05-02 (Hawaii) or a Gillette period of its own?
 
+## [Sandrine](people/sandrine.md) — 5 questions
+
+
+**Identity and background**
+
+- Surname, where she lives, family, and how the friendship evolved over the years?
+
+**Relationship with Lillian and with others**
+
+- How did the two friends connect (the shared relationship with parents)?
+
+**Events and stories**
+
+- Sandrine's mother's death: when, and what role did Lillian play?
+- Why does Lillian not call Sandrine (not to be a burden), and does Sandrine know?
+- Is it the Lycée Grand Air of La Baule (the boarding school already noted)? Charlotte, the other boarding-school friend: surname and role?
+
+## [James](people/james.md) — 3 questions
+
+
+**Identity and background**
+
+- Surname, age, where he lives, and when did Lillian meet him?
+
+**Events and stories**
+
+- Did James say the « 360 / back to your roots » sentence, or Jackie? When exactly (1998 or 2000s)?
+- Does he have siblings (other cousins of Lillian)?
+
 ## [Mike](people/mike.md) — 4 questions
 
 
