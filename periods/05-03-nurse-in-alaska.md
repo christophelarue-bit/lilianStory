@@ -25,6 +25,10 @@
 
 - **Role during this period**: friend, living in the same building as Lillian
 
+### Kay (female friend in Alaska)
+
+- **Role during this period**: Lillian's female friend in Alaska, with Keith (surname and details to ask)
+
 ### Keith (spelling to confirm, typed « keath »)
 
 - **Role during this period**: gay friend of Lillian and her friend in Alaska, in the same building
@@ -76,5 +80,5 @@ The sea at Seward, the mountains seen from a plane, the road to Fairbanks, fishi
 - Before that, did she have a French identity card or only a US green card? What was her legal status?
 - Why did the French embassy say she had to « do like everyone »?
 - Keith: spelling, surname, and how did they become close?
-- The girlfriend in Alaska: her name was typed « inkaybet » (unclear). Is she [Kim](../people/kim.md) or another woman? Correct spelling?
+- Kay (the Alaska girlfriend, with Keith): is she the same person as [Kim](../people/kim.md) (earlier fiches say Kim lived in the building) or a different woman? Surname, how they met?
 - Kim: how did Lillian and Kim become friends again after the break-up with David, and how long did they live in the same building?
