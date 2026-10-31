@@ -17,11 +17,12 @@
 
 ## Relationships between people
 
-- [Lillian](lillian.md): encounter on Tinder in April 2023 (Rennes, then Carnac). They live together in Nantes, then Lillian follows him to Nice for his ambitions.
+- [Lillian](lillian.md): encounter on Tinder in April 2023 (Rennes, then Carnac). They live together in Nantes from July 2023, then in Nice from October 2025, where his son [Louis](louis.md) lives.
+- [Louis](louis.md): his son, who lives with them in Nice, one week out of two.
 
 ## Relationship with Lillian
 
-*(draft)*
+Her partner, her pal, her friend and above all the one who loves her. They see themselves finishing their lives together, though not necessarily in Nice until 80. Their common project is to come to Nice.
 
 ## Impact on Lillian's life
 
@@ -51,6 +52,6 @@
 
 ## To clarify
 
-- Date and place of the meeting?
-- What is the connection with Lillian?
-- Age, occupation, place of residence?
+- Age, occupation?
+- His divorce, another story to dig into?
+- Where will they live afterwards?

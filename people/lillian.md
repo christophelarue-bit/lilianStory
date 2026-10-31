@@ -17,7 +17,7 @@
 | [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Alaska, United States | To clarify |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Return to France in 2021 |
 | [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | A calmer period |
-| [07-01 — Meeting Chris](../periods/07-01-meeting-chris.md) | [07 — Chris and Nice (draft)](../eras/07-chris-and-nice-draft.md) | to clarify | Current: Nice for about 1 year |
+| [07-01 — Meeting Chris](../periods/07-01-meeting-chris.md) | [07 — Chris and Nice (draft)](../eras/07-chris-and-nice-draft.md) | Rennes, Carnac, Nantes, Nice | April 2023: meeting Chris; Nantes from July 2023; Nice since October 2025 |
 
 *(To be completed: places she lived between these periods, exact dates.)*
 
@@ -28,7 +28,7 @@
 - **Birth**: 1979, military hospital in Heidelberg, Germany (see [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md))
 - **Names**: Béatrice calls her « Anne » (and David once said « Be careful with Anne »): a nickname or another first name, to confirm
 - **In 2018**: she lives in Maui, Hawaii, and works over 40 hours a week (as a nurse, to confirm)
-- **Current place of residence**: Nice, France, for about 1 year
+- **Current place of residence**: Nice, France, since October 2025 (moved in with Chris in Nantes in July 2023)
 - **Other places of residence**: many, to be added as conversations go on
 
 ## Relationships between people
@@ -51,7 +51,8 @@
 - Mohamed's family: [his mother](mohamed-mother.md), [Zouria](zouria.md), [Youssef](youssef.md), [Zachzria](zachzria.md)
 - [Adriana](adriana.md), [Kim](kim.md), [David (Hawaii)](david-hawaii.md), [José](jose.md): friendships and love from era 05
 - [Daniel](daniel.md): romantic encounter in 2021
-- [Christophe (Chris)](christophe.md): recent encounter (draft)
+- [Christophe (Chris)](christophe.md): her partner, since April 2023 (draft)
+- [Louis](louis.md): Chris's son, who lives with them in Nice (draft)
 
 ## Relationship with herself
 
@@ -107,7 +108,6 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Full name, any nicknames?
 - Where has she lived, in order?
 - What jobs and what passions?
-- What brought her to Nice?
 - What she gets from her father: character trait, taste, way of seeing the world?
 - Her other childhood memories with Mark, including the first one?
 - After Syracuse (18 to 20), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?

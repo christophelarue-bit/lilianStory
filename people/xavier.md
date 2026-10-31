@@ -12,7 +12,7 @@
 
 - **Role in Lillian's life**: brother
 - **Nationality / origin**: to clarify
-- **Place of residence**: Nantes, France (the city where Lillian lived with Chris, see [07-01](../periods/07-01-meeting-chris.md))
+- **Place of residence**: Nantes, France (the city where Lillian lived with Chris from July 2023 to October 2025, see [07-01](../periods/07-01-meeting-chris.md))
 - **Dates**: born after summer 1985 (Béatrice was pregnant at that time), about 6 years after Lillian; born in Saint-Brevin but conceived in the United States; exact date of birth to clarify
 
 ## Relationships between people
