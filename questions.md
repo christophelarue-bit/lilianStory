@@ -3,6 +3,17 @@
 Snapshot of the **To clarify** sections of the people files, grouped by theme (Rule 9) to prepare the interviews with Lillian. The people files remain the source: when a question is answered, it is removed there first. Back to the [main README](README.md).
 
 
+## Questions in progress (parked for later)
+
+Asked to Lillian, not yet answered. The answers go into the people, period and era files.
+
+- [Daniel](people/daniel.md): how long did the relationship last, and how did it end?
+- [Brittany Ferries](periods/06-01-daniel-brittany-ferries.md): what exactly did she do there, and where did she live in 2021-2023?
+- [Gwen](people/gwen.md): where does she live now (Vendôme) and what is her job?
+- [Kim and Kay](periods/05-03-nurse-in-alaska.md): was Kim also in Alaska, or only Kay and Keith?
+- [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
+- [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
+
 ## [Lillian](people/lillian.md) — 29 questions
 
 
@@ -122,7 +133,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
 - Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
 
-## [Gwen](people/gwen.md) — 21 questions
+## [Gwen](people/gwen.md) — 22 questions
 
 
 **Identity and background**
@@ -144,6 +155,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - Where was she born (hospital, town)?
 - Did she speak English as a child? (Lillian is the only one of the siblings to have spoken English first, then French.)
+- Where does she live now (Vendôme?) and what is her job today?
 - The court ruling about Eliot: when, what was decided, how often did she see him? How does he see it today?
 - The forced marriage: who in the family pushed for it, and how did Gwen experience it?
 - The deaths of Papouche and Mamouche: when, and what exactly did she do? What was Lillian's role?

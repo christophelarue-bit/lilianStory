@@ -86,6 +86,7 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - Where was she born (hospital, town)?
 - Did she speak English as a child? (Lillian is the only one of the siblings to have spoken English first, then French.)
 - What relationship has she kept with Mark?
+- Where does she live now (Vendôme?) and what is her job today?
 - Occupation today? Is she still with Thomas?
 - Dates: her relationship and marriage with Aymeric, Eliot's birth, meeting Thomas, moving to Le Havre, moving to Vendôme.
 - The first pregnancy with Aymeric ended in an abortion: how did she experience it, and who knew? (sensitive)
