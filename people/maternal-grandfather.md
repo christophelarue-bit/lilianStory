@@ -61,6 +61,8 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 
 ## To clarify
 
+- Lillian believes that Papouche's and Mamouche's energies join the « source » and her own (see [Lillian](lillian.md)): how did she live Papouche's death in this light?
+
 - First name, what made him a notable of Saint-Brevin, age, date and circumstances of his death?
 - His relationship with Mark before 1985? How did Mark react when he was asked to settle his debts?
 - Where exactly was the family housed, and for how long?

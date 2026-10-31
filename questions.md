@@ -14,7 +14,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
 - [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
 
-## [Lillian](people/lillian.md) — 29 questions
+## [Lillian](people/lillian.md) — 30 questions
 
 
 **Identity and background**
@@ -31,6 +31,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Her beliefs: what exactly keeps her alive (the first words of the sentence were cut)? When did this view of the « source » take shape (Hawaii, Alaska, after Papouche's death in 2018)? Any practice (meditation, rituals), and the link with her massage-school training in Nantes?
 - Where has she lived, in order?
 - What jobs and what passions?
 - What she gets from her father: character trait, taste, way of seeing the world?
@@ -300,7 +301,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Does he know the story of Grandma Lillian's Christmas parcels? (Lillian says the "young one" does not understand it.) What does he know of Mark, and how much contact have they had?
 - Why was the July 2018 reunion hard for him: the fight itself, Gwen and Thomas, Mark, Papouche's death soon after?
 
-## [Papouche (the maternal grandfather)](people/maternal-grandfather.md) — 13 questions
+## [Papouche (the maternal grandfather)](people/maternal-grandfather.md) — 14 questions
 
 
 **Identity and background**
@@ -314,6 +315,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Lillian believes that Papouche's and Mamouche's energies join the « source » and her own (see [Lillian](people/lillian.md)): how did she live Papouche's death in this light?
 - Where exactly was the family housed, and for how long?
 - Lillian's memories with him: the scenes, places and words that made him an anchor?
 - Three children housed in 1985: Lillian, Gwen and Xavier (born shortly after)? Xavier was not yet born when they arrived.

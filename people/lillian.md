@@ -101,7 +101,11 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - On 11 September 1998, at 18, she goes back to the United States to be closer to her father ([period 03-01](../periods/03-01-syracuse-finding-dad.md)). He is not at the airport because he went to the wrong one. She finds him full of remorse, stuck in the past and in love with her mother, with a simple routine of films and books. For her, time stopped when she was little. She wants to make up for the lost time and plays along, being still a little girl in her head, but never told herself that time could be made up. She encourages him to place a personal ad, and he meets Clara.
 - She has her French baccalauréat but tries high school in the United States at her father's suggestion; she lasts 2 weeks (shock after her boarding school in La Baule and the French system). She then works as a cashier at a supermarket 20 minutes' walk away, where she has a crush on a coworker, one of her first crushes. She resigns after a misunderstanding and has avoided that store ever since.
 
+- **Her beliefs (the source)**: Lillian believes in a « source » (Mother Nature, the universe, God) that is beyond human understanding, of which everyone is a part and with which everyone is interconnected: « the sum of atoms », a force, an energy. She does not believe in nothingness after death: the body and the energies return to the source. She does not think she will find Papouche and Mamouche as they were, but that their energies join hers. She says this belief keeps her alive (the start of the sentence was lost in the recording). She was a practising Christian child, but stopped church at 12 (see [02-01](../periods/02-01-childhood-and-teens-in-france.md)). Nature has always been her therapy.
+
 ## To clarify
+
+- Her beliefs: what exactly keeps her alive (the first words of the sentence were cut)? When did this view of the « source » take shape (Hawaii, Alaska, after Papouche's death in 2018)? Any practice (meditation, rituals), and the link with her massage-school training in Nantes?
 
 - Exact date of birth (1979)?
 - Full name, any nicknames?
