@@ -4,13 +4,13 @@
 
 ## Dates
 
-- **Start**: Chris's arrival (date to clarify)
+- **Start**: April 2023, meeting Chris
 - **End**: ongoing
 - **Lillian's age**: to clarify
 
 ## Era summary
 
-Meeting Chris is « toute une histoire » [quite a story], which will be the subject of this era once the first six have been covered. Lillian now lives in Nice, and has for about a year.
+Meeting Chris is « toute une histoire » [quite a story], which will be the subject of this era once the first six have been covered. In April 2023, Lillian, who has been living in Rennes for two months, meets Chris on Tinder; he has lived in Nantes for 12 years. After a first evening of messages, he suggests meeting the next day, with the false pretext of helping her collect a television: he comes to Rennes to carry it and above all to meet her. They go to a crêperie (obligatory) and arrange a date for the following week in Carnac, a great moment with many anecdotes and their first time going out together. Lillian then lives in Nantes with Chris, where she retrains professionally in massage, then moves to Nice to follow Chris in his ambitions. She has lived in Nice for about a year. Nantes may become a period of its own.
 
 ## Periods
 
@@ -28,5 +28,4 @@ None for now (draft).
 
 ## To clarify
 
-- When did she meet Chris?
-- How did Lillian end up in Nice?
+- Dates of Nantes and of the move to Nice?

@@ -41,3 +41,4 @@ Getting closer to her family, hiding her pain, abandonment repeating itself, lon
 - The July 2018 family reunion and Papouche's death in September 2018: do they belong to this era, as an early return to France, or to a separate period? See [Lillian](../people/lillian.md).
 - Papouche's death in September 2018: was Lillian there, and what was her relationship with her family in France between 2018 and 2021?
 - Béatrice took care of Mamouche for 3 years after Papouche's death (2018-2021?): how does it connect with Lillian's return to France in 2021? See [Mom](../people/mom.md).
+- Rennes: she arrives in 2021 (Daniel) but says in April 2023 she has lived there for two months: what is the real timeline of her moves?
