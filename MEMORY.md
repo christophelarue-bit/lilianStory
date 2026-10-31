@@ -60,6 +60,7 @@ Template: [eras/_template.md](eras/_template.md)
 ```
 MEMORY.md              ← this file: goal, method, index
 README.md              ← project pitch and links to the three folders
+questions.md           ← open questions per person, by theme (snapshot of the "To clarify" sections)
 eras/
   README.md            ← list of the eras
   _template.md         ← era file template
@@ -223,7 +224,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [05-03 — Nurse in Alaska](periods/05-03-nurse-in-alaska.md) | Starter. |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](periods/06-01-daniel-brittany-ferries.md) | 2021, Rennes (sensitive). |
 | [06-02 — Apartment in Rennes](periods/06-02-apartment-in-rennes.md) | A calmer period, close to family. |
-| [07-01 — Meeting Chris](periods/07-01-meeting-chris.md) | Draft. |
+| [07-01 — Meeting Chris](periods/07-01-meeting-chris.md) | April 2023, Tinder, Rennes then Carnac. Draft. |
 
 ## Working rules (to apply at every exchange)
 
