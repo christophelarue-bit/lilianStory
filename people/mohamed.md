@@ -64,6 +64,7 @@ Husband for 15 years.
 - 2006: Mohamed leaves her alone to handle the abortion, its risks and its consequences. About two weeks later his sister [Zouria](zouria.md), 6 months pregnant, comes to visit, and Lillian has to pretend to be happy for the coming birth.
 - There are two separations: during the first, Lillian shares a flat for 6 months with [Geaniie](geaniie.md); after the second, she goes out with [Julien](julien.md). Dates to clarify.
 - In 2016, Lillian wants to end the marriage and leave for Hawaii (see [05-02](../periods/05-02-nurse-in-hawaii.md)). They then live near Baltimore, where she keeps working as a nurse for her former boss.
+- **The Alaska dream**: during the marriage Lillian always dreamed of living in Alaska; Mohamed was not interested at all (see [05-03](../periods/05-03-nurse-in-alaska.md)).
 
 ## To clarify
 

@@ -790,16 +790,26 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - In which of the three periods (flight attendant, Hawaii, Alaska) did she meet Adriana?
 
-## [José](people/jose.md) — 2 questions
+## [José](people/jose.md) — 6 questions
 
 
 **Identity and background**
 
+- Spelling of his name (« Rosé » in the transcript), surname and city in Spain?
 - Who is José: surname, origin, exact connection with Lillian?
+
+**Dates and chronology**
+
+- When and where did they meet (2019 on Maui?), and how did the relationship start before Gillette?
+
+**Relationship with Lillian and with others**
+
+- Did they stay in touch after he left for Spain, or did the COVID end it? Where is he now?
 
 **Events and stories**
 
-- In which of the three periods (flight attendant, Hawaii, Alaska) did she meet José?
+- Exact dates in Gillette: January to June 2020 (about 5 months), or other?
+- In which period does he belong: end of 05-02 (Hawaii) or a Gillette period of its own?
 
 ## [Kim](people/kim.md) — 5 questions
 
