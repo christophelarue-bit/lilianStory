@@ -7,11 +7,11 @@
 ## Place
 
 - **Country**: France
-- **City/cities**: to clarify (Nice today)
+- **City/cities**: Rennes (first meeting), Carnac (first date out), Nantes (lives there with Chris), then Nice today
 
 ## Dates
 
-- **Start**: to clarify
+- **Start**: April 2023
 - **End**: ongoing
 - **Lillian's age**: to clarify
 
@@ -29,7 +29,8 @@
 
 ## Stories and small details
 
-*(draft)*
+- **The meeting (April 2023)**: they meet on Tinder, Lillian having lived in Rennes for two months and Chris in Nantes for 12 years. After one evening of messages, he proposes to see her the next day, with the false pretext of helping her collect a television. It works: he comes to Rennes to carry the TV and above all to meet her. They go to a crêperie (obligatory) and arrange to meet the following week in Carnac, a great moment with many anecdotes and their first time going out together.
+- Nantes is an important period for Lillian: she lives there with Chris and retrains professionally in massage. She then moves to Nice to follow Chris in his ambitions.
 
 ## Landscapes and atmosphere
 
@@ -37,6 +38,5 @@
 
 ## To clarify
 
-- Date and place of meeting Chris?
 - What is the connection between Lillian and Chris?
-- How did Lillian end up in Nice?
+- Dates of Nantes and of the move to Nice?

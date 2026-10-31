@@ -76,3 +76,4 @@
 - Did they see Mark again after that summer? When did he write, call, visit?
 - Lillian's memories of that summer: the house, the cousins, the moment she understood?
 - Didier and « Gué » (parents of the cousins Julie and Jérôme): were they in Saint-Brevin that summer, and who are they in the family tree? See [Julie](../people/julie.md).
+- The family left the United States (where they had lived since 1980) for the holidays in France; Xavier was conceived there, and Lillian remembers the announcement of his arrival in the United States. Which town did they leave?

@@ -50,3 +50,4 @@
 
 - Apartment: neighborhood, how long, job, daily life?
 - Family: how often do they see each other?
+- In April 2023, Lillian says she has lived in Rennes for two months, while Daniel (2021) is also in Rennes: did she move to Rennes in 2021 and again in February 2023, or live elsewhere between?

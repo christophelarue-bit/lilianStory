@@ -4,8 +4,8 @@
 
 ## Place
 
-- **Country**: Germany (to be confirmed)
-- **City/cities**: to clarify (Heidelberg? another American military base?)
+- **Country**: Germany until 1980, then the United States (Xavier is conceived there; Gwen born in 1982)
+- **City/cities**: Heidelberg area until 1980; then to clarify (which American town or military base?)
 
 ## Dates
 
@@ -56,3 +56,4 @@
 - What language was spoken at home? How did Béatrice cope with English?
 - When did the money troubles begin? What did Lillian know as a child?
 - Alcohol: confirm with Béatrice and Lillian.
+- Where in the United States did they live from 1980 to 1985 (town, base)? Did Gwen's birth in 1982 take place there?

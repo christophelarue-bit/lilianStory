@@ -9,9 +9,9 @@
 
 ## Dates
 
-- **Start**: to clarify (after Syracuse)
-- **End**: to clarify
-- **Lillian's age**: to clarify
+- **Start**: around age 20 (after Syracuse, where she stayed with Mark from 18 to 20)
+- **End**: when she meets Mohamed (to clarify)
+- **Lillian's age**: from about 20
 
 ## People around her
 
@@ -39,7 +39,7 @@
 
 ## Stories and small details
 
-*(to be completed)*
+- Between 20 and meeting Mohamed, Lillian lives in New York City and meets many people: a Chinese boyfriend ([David](../people/david-ny.md)), a Bangladeshi friend ([Walter](../people/walter.md)), and an Indian employer (to be created once known).
 
 ## Landscapes and atmosphere
 
@@ -48,7 +48,8 @@
 ## To clarify
 
 - Place and date: where exactly, when, why New York?
-- Where did Lillian go after leaving [Syracuse](03-01-syracuse-finding-dad.md), after Mark's non-answer to Clara's ultimatum? Did she go straight to New York City? To what extent does this period match that departure, and/or meeting Mohamed?
+- After Syracuse (stay with Mark from 18 to 20), Lillian lives in New York City until she meets Mohamed: dates, did she go straight there, and where did she live?
 - Walter's role: friend, lover, something else?
 - Mohamed: how, where and when did they meet?
 - Dates of the stay in New York City and of her departure from Syracuse (see the dates questions in [03-01](03-01-syracuse-finding-dad.md)).
+- The Indian employer: name, what Lillian's job was, and for how long?

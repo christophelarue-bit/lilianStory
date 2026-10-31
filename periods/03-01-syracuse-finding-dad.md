@@ -59,7 +59,7 @@
 
 ## To clarify
 
-- **Where did Lillian go after leaving Syracuse? To what extent does it match the [New York City period](03-02-new-york-city.md) and/or meeting [Mohamed](../people/mohamed.md)?**
+- Lillian leaves Syracuse at about 20 and lives in [New York City](03-02-new-york-city.md) until she meets [Mohamed](../people/mohamed.md). Did she leave immediately after Mark's non-answer, and was it at 20?
 - Dates: when did Mark place the ad and meet Clara? When did Lillian leave (about a year and a half after Clara's arrival)? The account says about 15 years apart, but 1985 to 1998 is 13 years, and Lillian had seen her father at 16: where does "15" come from?
 - Departure: why did she go back to the United States, and why then? What triggered it?
 - The supermarket: who was the guy, what was the misunderstanding that made her resign, and why has she avoided the store ever since? Is the store really called "Price Shopper" (Price Chopper?)

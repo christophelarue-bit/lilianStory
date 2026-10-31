@@ -17,6 +17,6 @@ A period is a stretch of Lillian's life with its own place and dates. Each one b
 | [05-03 — Nurse in Alaska](05-03-nurse-in-alaska.md) | Starter. |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](06-01-daniel-brittany-ferries.md) | 2021, Rennes (sensitive). |
 | [06-02 — Apartment in Rennes](06-02-apartment-in-rennes.md) | A calmer period, close to family. |
-| [07-01 — Meeting Chris](07-01-meeting-chris.md) | Draft. |
+| [07-01 — Meeting Chris](07-01-meeting-chris.md) | April 2023, Tinder, Rennes then Carnac. Draft. |
 
 Template for a new period: [_template.md](_template.md). Back to the [main README](../README.md).
