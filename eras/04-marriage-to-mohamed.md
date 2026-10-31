@@ -1,6 +1,6 @@
 # 04 — Marriage to Mohamed
 
-**Sensitive: to confirm with Lillian before any use in a book** (alcohol, humiliation, abortion).
+**Sensitive: to confirm with Lillian before any use in a book** (alcohol, humiliation, abortion, double life, green card).
 
 ## Dates
 
@@ -10,9 +10,9 @@
 
 ## Era summary
 
-Lillian lives with Mohamed, then marries him. She loves his beautiful soul, his mind, his human qualities and his values. They make new friends, the family settles into their life, and the pressure of appearances and religion is felt.
+Lillian meets Mohamed around 2001 (to confirm), lives with him, then marries him in March 2003, mainly so that he can get a green card, though she loves him sincerely. She loves his beautiful soul, his mind, his human qualities and his values. They make new friends, the family settles into their life, and the pressure of appearances and religion is felt.
 
-The years go by, between Albany, Raleigh and other destinations to ask Lillian about, with a trip to Las Vegas. Little by little, alcohol, humiliation and the fear of abandonment set in, the latter already present because of her father's behavior.
+The years go by, between Albany, Raleigh and other destinations to ask Lillian about, with a trip to Las Vegas. Mohamed is very religious in appearance (mosque, Muslim friends), but in private he drinks a lot, smokes and watches pornographic sites: he leads a double life, Western and alcoholic with Lillian, pious and virtuous toward his family in Morocco and part of his friends from the mosque. Little by little, alcohol, humiliation and the fear of abandonment set in, the latter already present because of her father's behavior.
 
 An abortion marks this era: Mohamed prefers to leave her alone. Two separations punctuate these years: during the first, she shares a flat for 6 months with Geaniie; after the second, she goes out with a married man, Julien. She also befriends Yacine, Mohamed's childhood friend, and meets April at the hairdressing school, as well as the circle of Mohamed's friends and family (Brahim, his mother, his sister Zouria). Wedding in March 2003; in 2006, Zouria visits Lillian hardly two weeks after the abortion. The marriage lasts 15 years, a heavy period that calls for several interviews.
 
@@ -46,3 +46,4 @@ At least 1 to 2 interviews are needed for this heavy period.
 - Places: where did Lillian live with Geaniie, and where did Zouria visit (Albany? Raleigh?)?
 - Mohamed's family: first name of his mother, and which of his sisters did Yacine go out with?
 - Julien: how did she meet him, and what happened after the missed hotel appointment?
+- The end of the marriage: which year? And the "15 years" (about 2001 to 2016?).

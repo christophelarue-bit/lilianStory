@@ -10,7 +10,7 @@
 
 ## Era summary
 
-In 2021, Lillian comes back to France. A romantic encounter that goes wrong, with Daniel, takes her to Rennes, where she goes through a second abortion, alone again, because the man does not take responsibility.
+In 2021, Lillian comes back to France to be closer to her family. She meets Daniel on the train back to Brittany and keeps seeing him: a romantic encounter that goes wrong, takes her to Rennes, where she goes through a second abortion, alone again, because the man does not take responsibility.
 
 There is also the Brittany Ferries experience (to clarify), and she hides her suffering from her family. Gwen asks her to come and look after her children right after the abortion, without taking any interest in her distress.
 
