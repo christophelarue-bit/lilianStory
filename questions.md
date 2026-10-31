@@ -24,7 +24,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - What jobs and what passions?
 - What she gets from her father: character trait, taste, way of seeing the world?
 - Her other childhood memories with Mark, including the first one?
-- After Syracuse (18 to 20), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
+- After Syracuse (about a year), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
 - The supermarket crush: who was he, what was the misunderstanding? (see [03-01](periods/03-01-syracuse-finding-dad.md))
@@ -39,8 +39,8 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - July 2018: was Papouche present or ill at the reunion, and was she there at his death in September 2018? Who came with Mark and did he see Béatrice? How did the Croatia trip go?
 - Her presence in France from July to September 2018: how long did she stay, before returning to Hawaii? What did she feel at Papouche's death, and about Béatrice's reaction (« on n'a pas le temps pour les émotions »)?
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?
-- Her time with Mark from 18 to 20: did she stay in Syracuse (or elsewhere) until she was 20? How did the regular contact work during the marriage to Mohamed?
-- Where in the United States did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?
+- Her time with Mark: about a year in Syracuse (she first said from 18 to 20): which exact dates? How did the regular contact work during the marriage to Mohamed?
+- Where in Syracuse did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?
 - Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living?
 
 **Sensitive subjects**
@@ -81,7 +81,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - How did he react when his mother told him that Béatrice was seeing Marc Lambert? Were Mark and Béatrice ever divorced?
 - His 2018 trip to France: was it his first, with whom did he travel, did he see Béatrice and Papouche (who died in September of that year), and what did he feel about the fight?
 - July 2018: who came with him to France, did he see Béatrice, and how did he react to Thomas's fight and insults?
-- Where did the family live in the United States between 1980 and 1985 (which base or town)? And what was the contact with Lillian during her marriage to Mohamed?
+- Where in Syracuse did the family live between 1980 and 1985? And what was the contact with Lillian during her marriage to Mohamed?
 
 **Sensitive subjects**
 
@@ -155,7 +155,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - July 2018 reunion: why did the fight with Thomas break out, how did it end, and what became of the reunion afterwards?
 - July 2018: what did Thomas mean by « une famille de dégénérés », and how did the trip to Croatia (Lillian and Béatrice) follow the fight?
 - After Papouche's death in September 2018: when and how did she leave Thomas with the three children, and where did she go? Her view of the Croatia trip, paid by the family for Béatrice.
-- Gwen was born in 1982, so in the United States (where the family lived from 1980): which town or hospital?
+- Gwen was born in Syracuse in 1982: which hospital?
 
 **Sensitive subjects**
 
@@ -801,7 +801,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - In which of the three periods (flight attendant, Hawaii, Alaska) did she meet José?
 
-## [Kim](people/kim.md) — 4 questions
+## [Kim](people/kim.md) — 5 questions
 
 
 **Identity and background**
@@ -813,6 +813,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Which airline was Kim working for? Where was she based?
 - Why did she leave David, and why did she make Lillian's move a condition of their friendship?
 - Did they see each other again afterwards?
+- How did the friendship with Lillian resume after the break-up with David, and when did she go to Seward?
 
 ## [Daniel](people/daniel.md) — 4 questions
 
