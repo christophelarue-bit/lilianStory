@@ -35,9 +35,6 @@
 
 Lillian says she had « neither mother nor father »: Béatrice, who often talked about her problems, was more like a friend, and her father was absent. It weighed on Lillian, who left France at 18 to breathe and build her own life (see [02-01](../periods/02-01-childhood-and-teens-in-france.md)).
 
-
-*(to be completed)*
-
 ## Impact on Lillian's life
 
 - Her decision to stay in France in 1985, with the children, means Lillian grows up in France, far from her father.
