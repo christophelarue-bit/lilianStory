@@ -70,7 +70,7 @@
 - After the departure: did Lillian and Mark talk again? Did he explain his silence? Did she see Clara again?
 - Other examples of the "time stopped" feeling between Mark and Lillian (gestures, habits, words)?
 - Sensitive subject (feeling of abandonment, Mark's silence): validate with Lillian the wording and any use in a book.
-- Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living? Is the story about Lillian (the account said « Anne »)?
+- Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living?
 - The paternal family around Syracuse: did Lillian meet her grandmother Lillian, her uncles, aunts and cousins in 1998-1999? What role did they have for her and for Mark? See [Grandma Lillian](../people/paternal-grandmother.md).
 - The first meeting with uncle John: when and where (on arrival, at the family's home)? Which other relatives hugged her, and how did she live this culture shock?
 - Grandma Lillian's house scenes (floor, dishes, belittling Mark): during which stay? About 70 years old points to around 1994-1995 rather than 1998.

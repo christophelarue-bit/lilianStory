@@ -27,6 +27,8 @@
 - **Life anecdotes**: travels, notably to Las Vegas; other destinations to ask about
 - **Emotionally strong or deep stories in the relationship**:
   - Love, his beautiful soul, his mind, his human qualities and his values.
+  - Lillian marries him mainly so that he can get a green card, though she loves him sincerely.
+  - A double life: very religious in appearance (mosque, Muslim friends), but he drinks, smokes and watches pornographic sites; Western and alcoholic in private with Lillian, pious and virtuous for his family in Morocco and part of his mosque friends.
   - Then alcohol, humiliations and the fear of abandonment, present since her father's behavior.
   - An abortion by abortion pill: Mohamed prefers to leave her alone. She is bleeding, leaves the hospital against medical advice, and he chooses to go to work rather than stay with her.
 
@@ -98,3 +100,5 @@
 - Places: where did Lillian live with Geaniie, and where did Zouria visit (Albany? Raleigh?)?
 - Mohamed's family: first name of his mother, and which of his sisters did Yacine go out with?
 - Julien: how did she meet him, and what happened after the missed hotel appointment?
+- The green card and the March 2003 wedding: how did it go, and when did Lillian discover the double life? (**Sensitive**)
+- The end of the marriage: which year, and was there a divorce?
