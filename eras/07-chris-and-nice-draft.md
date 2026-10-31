@@ -5,12 +5,12 @@
 ## Dates
 
 - **Start**: April 2023, meeting Chris
-- **End**: ongoing
+- **End**: ongoing (Nice since October 2025)
 - **Lillian's age**: to clarify
 
 ## Era summary
 
-Meeting Chris is « toute une histoire » [quite a story], which will be the subject of this era once the first six have been covered. In April 2023, Lillian, who has been living in Rennes for two months, meets Chris on Tinder; he has lived in Nantes for 12 years. After a first evening of messages, he suggests meeting the next day, with the false pretext of helping her collect a television: he comes to Rennes to carry it and above all to meet her. They go to a crêperie (obligatory) and arrange a date for the following week in Carnac, a great moment with many anecdotes and their first time going out together. Lillian then lives in Nantes with Chris, where she retrains professionally in massage, then moves to Nice to follow Chris in his ambitions. She has lived in Nice for about a year. Nantes may become a period of its own.
+Meeting Chris is « toute une histoire » [quite a story], which will be the subject of this era once the first six have been covered. In April 2023, Lillian, who has been living in Rennes for two months, meets Chris on Tinder; he has lived in Nantes for 12 years. After a first evening of messages, he suggests meeting the next day, with the false pretext of helping her collect a television: he comes to Rennes to carry it and above all to meet her. They go to a crêperie (obligatory) and arrange a date for the following week in Carnac, a great moment with many anecdotes and their first time going out together. Lillian moves in with Chris in Nantes in July 2023, two months after meeting him, because she finds a massage school there (a professional retraining). In October 2025 they leave for Nice, where Chris's son Louis lives: Lillian suggested it and accompanied him. Louis has since asked to live with them and has flourished there for a year, one week out of two at his mother's. Chris is her partner, her pal, her friend and above all the one who loves her; they see themselves finishing their lives together, though not necessarily in Nice until 80.
 
 ## Periods
 
@@ -28,4 +28,5 @@ None for now (draft).
 
 ## To clarify
 
-- Dates of Nantes and of the move to Nice?
+- Chris's divorce, another story to dig into?
+- Where will they live afterwards (Nice is not meant to be forever)?
