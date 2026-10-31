@@ -49,6 +49,7 @@ At the beginning, Lillian is happy: her plan worked and her father has found a p
 
 ## Anecdotes and stories
 
+- According to Lillian, she encouraged her father to meet people, which led him to Clara, who then betrayed her.
 - **The ad**: Lillian encourages Mark to place a personal ad in the newspaper and meet people. After a phone call following the ad, he meets Clara at a Denny's.
 - **The ultimatum**: Clara asks Mark to choose between her and Lillian. Mark tells Lillian, hesitates and does not answer when she asks what he has decided. Lillian leaves Syracuse on that non-answer.
 

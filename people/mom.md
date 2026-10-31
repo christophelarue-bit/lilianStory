@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [01-01 — Meeting in Frankfurt](../periods/01-01-meeting-in-frankfurt.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Frankfurt, Germany | Meets Mark in 1976, she is a young au pair |
 | [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Heidelberg, Germany | Lillian's birth in 1979 |
-| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany until 1980, then United States | Family life with Mark, Gwen's birth in 1982 |
+| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany until 1980, then Syracuse (United States) | Family life with Mark, Gwen's birth in 1982 |
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | Family holiday, pregnant with Xavier; she stays in France |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Raises her children in France |
 | [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Lives in Saint-Brieuc, close to Lillian who has settled in Rennes |

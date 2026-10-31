@@ -6,7 +6,7 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany until 1980, then United States | Born in 1982, life with Mark and Béatrice |
+| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany until 1980, then Syracuse (United States) | Born in 1982, life with Mark and Béatrice |
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | Summer holiday, then settling in France |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | Childhood and adolescence with Lillian |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Asks Lillian to look after her children right after her abortion |
@@ -103,4 +103,4 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - July 2018: what did Thomas mean by « une famille de dégénérés », and how did the trip to Croatia (Lillian and Béatrice) follow the fight?
 - After Papouche's death in September 2018: when and how did she leave Thomas with the three children, and where did she go? Her view of the Croatia trip, paid by the family for Béatrice.
 - Her reaction to Papouche's death: what was Gwen's relationship with him? What did she say afterwards? Where was she living exactly (« Luce »/Luz/Lucé?)
-- Gwen was born in 1982, so in the United States (where the family lived from 1980): which town or hospital?
+- Gwen was born in Syracuse in 1982: which hospital?

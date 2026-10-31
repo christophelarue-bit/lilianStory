@@ -6,7 +6,7 @@
 |---|---|---|---|
 | [01-01 — Meeting in Frankfurt](../periods/01-01-meeting-in-frankfurt.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Frankfurt, Germany | Before her birth: her parents meet |
 | [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Heidelberg, Germany | Born in 1979 |
-| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany until 1980, then United States | 1979-1985 |
+| [01-03 — Early childhood with family](../periods/01-03-early-childhood-with-family.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | Germany until 1980, then Syracuse (United States) | 1979-1985 |
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | A holiday that turns into a permanent return |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | 1985-September 1998 |
 | [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | From 11 September 1998, at 18; lives at her father's in North Syracuse, leaves after Clara's ultimatum |
@@ -14,7 +14,7 @@
 | [04-01 — Married life with Mohamed](../periods/04-01-married-life-with-mohamed.md) | [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md) | Albany, Raleigh and elsewhere, United States | 15 years of marriage |
 | [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | to clarify | To clarify |
 | [05-02 — Nurse in Hawaii](../periods/05-02-nurse-in-hawaii.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Hawaii, United States | To clarify |
-| [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Alaska, United States | To clarify |
+| [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Seward, Alaska, United States | Nurse by the sea; the COVID, nature, Kim and a gay friend in the same building |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Return to France in 2021 |
 | [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | A calmer period |
 | [07-01 — Meeting Chris](../periods/07-01-meeting-chris.md) | [07 — Chris and Nice (draft)](../eras/07-chris-and-nice-draft.md) | Rennes, Carnac, Nantes, Nice | April 2023: meeting Chris; Nantes from July 2023; Nice since October 2025 |
@@ -83,7 +83,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 
 ## Anecdotes and stories
 
-- **Time with Mark**: according to Lillian, she knew her father from 0 to 5 (Germany until 1980, then the United States), then from 18 to 20 when she came back to see him, and she stayed in regular contact with him while she was in the States during her marriage to Mohamed.
+- **Time with Mark**: according to Lillian, she knew her father from 0 to 5 (Germany until 1980, then the United States), then for about a year from 18 when she came back to see him, and she stayed in regular contact with him while she was in the States during her marriage to Mohamed.
 - **Self-confidence and Xavier**: she lacked self-confidence and put her brother Xavier on a pedestal (he recited La Fontaine's fables by heart and understood mathematics, which she did not), taking him along on her outings with her friends (see [xavier.md](xavier.md)).
 - **After Papouche's death (autumn 2018, Sensitive)**: she goes back to the United States, to Hawaii, where she lives in Maui. She sees a psychiatrist two or three times to talk about Papouche's death, but with her work (40 hours a week or more) she cannot find slots; she cancels once because she is needed at work, the secretary tells her they can no longer take her, and she stops going.
 - **Announcing Papouche's death to Gwen (September 2018, Sensitive)**: Lillian decides that it must not be Béatrice, who is not in a state to do it, and phones Gwen herself, at home (« Luce »/Luz/Lucé, spelling to clarify). Gwen screams, a scream of atrocious pain that lasts an eternity, as if a part of her had died, as if one of her children had been run over. She cannot speak. About a month later, she takes steps to leave Thomas.
@@ -109,7 +109,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - What jobs and what passions?
 - What she gets from her father: character trait, taste, way of seeing the world?
 - Her other childhood memories with Mark, including the first one?
-- After Syracuse (18 to 20), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
+- After Syracuse (about a year), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
 - The supermarket crush: who was he, what was the misunderstanding? (see [03-01](../periods/03-01-syracuse-finding-dad.md))
@@ -129,6 +129,6 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - July 2018: was Papouche present or ill at the reunion, and was she there at his death in September 2018? Who came with Mark and did he see Béatrice? How did the Croatia trip go?
 - Her presence in France from July to September 2018: how long did she stay, before returning to Hawaii? What did she feel at Papouche's death, and about Béatrice's reaction (« on n'a pas le temps pour les émotions »)?
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?
-- Her time with Mark from 18 to 20: did she stay in Syracuse (or elsewhere) until she was 20? How did the regular contact work during the marriage to Mohamed?
-- Where in the United States did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?
+- Her time with Mark: about a year in Syracuse (she first said from 18 to 20): which exact dates? How did the regular contact work during the marriage to Mohamed?
+- Where in Syracuse did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?
 - Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living?

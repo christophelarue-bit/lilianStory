@@ -6,6 +6,7 @@
 |---|---|---|---|
 | [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Hawaii (layover), United States | Colleague and friend; introduces Lillian to the island in 2015 |
 | [05-02 — Nurse in Hawaii](../periods/05-02-nurse-in-hawaii.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Maui, Hawaii, United States | Proposes the flatshare with David, then breaks up with him just before the move |
+| [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Seward, Alaska, United States | Lives in the same building as Lillian; pyjama parties |
 
 ## Identity
 
@@ -48,6 +49,7 @@ She is at the origin of Lillian's wish to live in Hawaii. In 2016 she suggested 
 
 ## Anecdotes and stories
 
+- In Seward, Alaska, she lives in the same building as Lillian, with a gay friend: they often have pyjama parties (see [05-03](../periods/05-03-nurse-in-alaska.md)).
 - 2015: during a layover in Hawaii (Lillian then works for Omni Air), Kim and David show her the island. Lillian wants to come back and live there.
 
 ## To clarify
@@ -56,3 +58,4 @@ She is at the origin of Lillian's wish to live in Hawaii. In 2016 she suggested 
 - Which airline was Kim working for? Where was she based?
 - Why did she leave David, and why did she make Lillian's move a condition of their friendship?
 - Did they see each other again afterwards?
+- How did the friendship with Lillian resume after the break-up with David, and when did she go to Seward?
