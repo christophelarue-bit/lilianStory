@@ -20,7 +20,6 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 **Events and stories**
 
-- Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living? Is the story about Lillian (the account said « Anne »)?
 - Where has she lived, in order?
 - What jobs and what passions?
 - What she gets from her father: character trait, taste, way of seeing the world?
@@ -32,7 +31,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Julien: how did she meet him, and what happened after the missed hotel appointment?
 - Her paternal family: did she meet her grandmother Lillian, her uncles and aunts, her cousins? Is she in touch with them? Whose first name does she bear: is it her grandmother's?
 - The scene of her grandmother belittling Mark: when and where (she was very small), and how did she feel? What link does she make with her father's passivity?
-- The culture gap in affection: how did it shape her way of loving and of being loved? And the nickname « Anne » used by David: is it a name or a mis-hearing?
+- The culture gap in affection: how did it shape her way of loving and of being loved?
 - Marc Lambert (dates, birthdays, break-up, letter to Papouche), the visit of Grandma Lillian and the Switzerland trip to her cousins [Julie](people/julie.md) and [Jérôme](people/jerome.md): details? See [Marc Lambert](people/marc-lambert.md).
 - The move to the apartment at 11, the trip to Switzerland to her cousins [Julie](people/julie.md) and [Jérôme](people/jerome.md) (when?), and the boarding-school day with Marc Lambert (which year, which school, about 15?).
 - The July 2018 reunion at Gwen and Thomas's: where exactly (« Luce »/Lucé?), how did she come from Maui (United States)? How did she live the scene, and the Croatia trip afterwards?
@@ -42,6 +41,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?
 - Her time with Mark from 18 to 20: did she stay in Syracuse (or elsewhere) until she was 20? How did the regular contact work during the marriage to Mohamed?
 - Where in the United States did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?
+- Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living?
 
 **Sensitive subjects**
 
@@ -88,13 +88,12 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Sensitive subject (Clara's ultimatum, his silence): validate with Lillian the wording and any use in a book.
 - His mother was raped twice (Larry, his older brother, was the result of the first); he was a child at the time of the second. What does he know, and what has he told Lillian? (sensitive)
 
-## [Mom (Béatrice)](people/mom.md) — 20 questions
+## [Mom (Béatrice)](people/mom.md) — 19 questions
 
 
 **Identity and background**
 
 - Surname, age, date of birth, occupation(s)?
-- She calls Lillian « Anne »: is it a nickname or a first name?
 
 **Dates and chronology**
 
@@ -575,7 +574,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 
 - Sensitive subject (ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.
 
-## [Mohamed](people/mohamed.md) — 12 questions
+## [Mohamed](people/mohamed.md) — 16 questions
 
 
 **Identity and background**
@@ -588,6 +587,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Dates and reasons of the first and the second separation, and how Lillian came back each time?
 - Duration: March 2003 to 2016 is about 13 years, whereas the account says 15 years of marriage. Do the 15 years include living together before the wedding?
 - Delay: Mohamed left her alone "about 10 days" before Zouria's visit, and the visit took place "2 weeks" after the abortion. Which is right?
+- When did the marriage really end (year), and was there a divorce?
 
 **Relationship with Lillian and with others**
 
@@ -596,20 +596,22 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 **Events and stories**
 
 - The meeting: where, when and how in New York?
-- Alcohol: who exactly is this about?
+- Alcohol: confirmed as being Mohamed's (and, in private, with Lillian?). Did Lillian drink too?
 - Marriage: place of the wedding (March 2003), end of the marriage? (2016, near Baltimore, when she leaves for Hawaii: to confirm)
 - After leaving Syracuse, did Lillian go to New York City? To what extent does that departure connect to meeting Mohamed?
 - Mohamed's family: first name of his mother, and which of his sisters did Yacine go out with?
 - Places: where did Lillian live with Geaniie, and where did Zouria visit (Albany? Raleigh?)?
+- The meeting: around 2001 (Lillian to be asked again): where, how and when exactly in New York?
+- The green card: when was it obtained, how did the marriage procedure go (interview, conditions), and was it the reason for the March 2003 wedding?
+- The double life: when did Lillian discover it, how did she react, and did his family in Morocco ever find out?
 
-## [David (New York)](people/david-ny.md) — 4 questions
+## [David (New York)](people/david-ny.md) — 3 questions
 
 
 **Identity and background**
 
 - Surname or nickname to distinguish him from the other David?
 - His surname or nickname (« David Mao »)? When was the car episode, and what kind of relationship were they in?
-- « Be careful with Anne »: is Anne a nickname used by David for Lillian, or a mis-hearing?
 
 **Events and stories**
 
@@ -812,7 +814,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 - Why did she leave David, and why did she make Lillian's move a condition of their friendship?
 - Did they see each other again afterwards?
 
-## [Daniel](people/daniel.md) — 3 questions
+## [Daniel](people/daniel.md) — 4 questions
 
 
 **Identity and background**
@@ -826,6 +828,7 @@ Snapshot of the **To clarify** sections of the people files, grouped by theme (R
 **Events and stories**
 
 - How, when, where did they get to know each other?
+- The train meeting: which date (2021), from where to where, and who spoke first?
 
 ## [Louis](people/louis.md) — 3 questions
 
