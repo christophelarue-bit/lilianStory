@@ -51,4 +51,5 @@
 - Family: who knows about the abortion, and how did Lillian hide it?
 - Gwen's children: first names, ages?
 - Before 2021: the July 2018 family reunion (fight between Gwen and Thomas, Croatia trip) and Papouche's death in September 2018. In 2018 she lives in Maui, Hawaii (see [05-02](05-02-nurse-in-hawaii.md)): when does she come back to France for good, and why? See [Lillian](../people/lillian.md).
+- Before the return: the French passport obtained in 2020 from the consulate of San Francisco was necessary to enter France (see [05-03](05-03-nurse-in-alaska.md)). When did she land, from where, and did she join José in Spain first?
 - The train meeting with Daniel: date, route, and how Lillian came to see him again?
