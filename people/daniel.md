@@ -47,10 +47,11 @@ She settles in Rennes because of him. He does not face up to the situation, and 
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- According to Lillian, she meets Daniel on the train back to Brittany, as she comes back to France to be closer to her family, and she goes on seeing him.
 
 ## To clarify
 
 - Surname, age, occupation?
 - How, when, where did they get to know each other?
 - Length of the relationship, how did it end?
+- The train meeting: which date (2021), from where to where, and who spoke first?

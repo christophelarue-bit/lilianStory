@@ -1,6 +1,6 @@
 # Mohamed
 
-**Sensitive: to confirm with Lillian before any use in a book** (alcohol, humiliations, abortion).
+**Sensitive: to confirm with Lillian before any use in a book** (alcohol, humiliations, abortion, double life, marriage for a green card).
 
 ## Periods involved
 
@@ -12,9 +12,9 @@
 ## Identity
 
 - **Role in Lillian's life**: husband for 15 years
-- **Nationality / origin**: Morocco (his and his family's country of origin, to confirm)
+- **Nationality / origin**: Morocco (his and his family's country of origin, to confirm); he obtains a green card through the marriage
 - **Place of residence**: Albany, Raleigh and other destinations (to clarify)
-- **Dates**: to clarify
+- **Dates**: met Lillian around 2001 (to confirm with Lillian)
 
 ## Relationships between people
 
@@ -30,7 +30,7 @@
 
 ## Relationship with Lillian
 
-Lillian loves his soul, his mind, his human qualities and his values. Over the years, alcohol and humiliations set in, and with them the fear of abandonment.
+Lillian loves his soul, his mind, his human qualities and his values. She married him mainly so that he could get a green card, even though she loved him sincerely (according to Lillian). He was very religious in appearance (mosque, Muslim friends), but also smoked, drank a lot and watched pornographic sites, and led a double life throughout their life together: a Western, alcoholic one with Lillian, and a supposedly pious, virtuous one toward his family in Morocco and part of his friends from the mosque. Over the years, alcohol and humiliations set in, and with them the fear of abandonment.
 
 ## Impact on Lillian's life
 
@@ -53,7 +53,8 @@ Husband for 15 years.
 
 ### Pains
 
-- The alcohol and the humiliations.
+- The alcohol and the humiliations (the alcohol was Mohamed's).
+- His double life: religious and virtuous for his family and part of his mosque friends, drinking and watching pornographic sites in private with Lillian.
 - The fear of abandonment, already present because of [Dad](dad.md)'s behavior.
 - The abortion by abortion pill (2006): Mohamed leaves her alone while she is bleeding. Lillian leaves the hospital against medical advice, and he prefers to go to work rather than stay with her.
 
@@ -69,7 +70,7 @@ Husband for 15 years.
 - Dates and reasons of the first and the second separation, and how Lillian came back each time?
 - The meeting: where, when and how in New York?
 - Origin, family, religion: what place does religion have in their life?
-- Alcohol: who exactly is this about?
+- Alcohol: confirmed as being Mohamed's (and, in private, with Lillian?). Did Lillian drink too?
 - Marriage: place of the wedding (March 2003), end of the marriage? (2016, near Baltimore, when she leaves for Hawaii: to confirm)
 - After leaving Syracuse, did Lillian go to New York City? To what extent does that departure connect to meeting Mohamed?
 - Duration: March 2003 to 2016 is about 13 years, whereas the account says 15 years of marriage. Do the 15 years include living together before the wedding?
@@ -78,3 +79,7 @@ Husband for 15 years.
 - Mohamed's family: first name of his mother, and which of his sisters did Yacine go out with?
 - Places: where did Lillian live with Geaniie, and where did Zouria visit (Albany? Raleigh?)?
 - He meets Lillian in New York City, in her early twenties (about 2001-2002): where and when exactly?
+- The meeting: around 2001 (Lillian to be asked again): where, how and when exactly in New York?
+- The green card: when was it obtained, how did the marriage procedure go (interview, conditions), and was it the reason for the March 2003 wedding?
+- The double life: when did Lillian discover it, how did she react, and did his family in Morocco ever find out?
+- When did the marriage really end (year), and was there a divorce?

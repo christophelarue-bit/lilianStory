@@ -26,7 +26,7 @@
 - **Role in the project**: main character of the collection
 - **Generation**: late Generation X
 - **Birth**: 1979, military hospital in Heidelberg, Germany (see [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md))
-- **Names**: Béatrice calls her « Anne » (and David once said « Be careful with Anne »): a nickname or another first name, to confirm
+- **Names**: « Anne » is a nickname of Lillian's. In the stories, "Anne" is replaced by Lillian.
 - **In 2018**: she lives in Maui, Hawaii, and works over 40 hours a week (as a nurse, to confirm)
 - **Current place of residence**: Nice, France, since October 2025 (moved in with Chris in Nantes in July 2023)
 - **Other places of residence**: many, to be added as conversations go on
@@ -87,7 +87,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - **Self-confidence and Xavier**: she lacked self-confidence and put her brother Xavier on a pedestal (he recited La Fontaine's fables by heart and understood mathematics, which she did not), taking him along on her outings with her friends (see [xavier.md](xavier.md)).
 - **After Papouche's death (autumn 2018, Sensitive)**: she goes back to the United States, to Hawaii, where she lives in Maui. She sees a psychiatrist two or three times to talk about Papouche's death, but with her work (40 hours a week or more) she cannot find slots; she cancels once because she is needed at work, the secretary tells her they can no longer take her, and she stops going.
 - **Announcing Papouche's death to Gwen (September 2018, Sensitive)**: Lillian decides that it must not be Béatrice, who is not in a state to do it, and phones Gwen herself, at home (« Luce »/Luz/Lucé, spelling to clarify). Gwen screams, a scream of atrocious pain that lasts an eternity, as if a part of her had died, as if one of her children had been run over. She cannot speak. About a month later, she takes steps to leave Thomas.
-- **Croatia and Papouche's death (2018, Sensitive)**: about ten days in Croatia with Béatrice, 2-3 weeks after the Luce scene, a trip ruined by it (the family had pooled money for it). A few weeks later, the day after Papouche's cancer is said to have come back, they quarrel at the café « 7 Beaufort » in Saint-Brevin: Béatrice does not understand her need for big trips. Half an hour later her aunt [Lou](lou.md) phones: Papouche is dead. Lillian walks, then runs to her mother, in hyperventilation and a panic attack, afraid she will faint. Béatrice answers: « Anne, on n'a pas le temps pour les émotions. On doit aller voir Mamouche ». At the house, Mamouche is stoic, Lou is agitated, and Béatrice takes charge (see [maternal-grandfather.md](maternal-grandfather.md)).
+- **Croatia and Papouche's death (2018, Sensitive)**: about ten days in Croatia with Béatrice, 2-3 weeks after the Luce scene, a trip ruined by it (the family had pooled money for it). A few weeks later, the day after Papouche's cancer is said to have come back, they quarrel at the café « 7 Beaufort » in Saint-Brevin: Béatrice does not understand her need for big trips. Half an hour later her aunt [Lou](lou.md) phones: Papouche is dead. Lillian walks, then runs to her mother, in hyperventilation and a panic attack, afraid she will faint. Béatrice answers: « Lillian, on n'a pas le temps pour les émotions. On doit aller voir Mamouche ». At the house, Mamouche is stoic, Lou is agitated, and Béatrice takes charge (see [maternal-grandfather.md](maternal-grandfather.md)).
 - **The 2018 family reunion (July 2018, Sensitive)**: the family gathers for a few days at Gwen and Thomas's large house (7 bedrooms, pool; place « Luce »/Lucé? to clarify), for Gwen wanted the whole family together. Present: Béatrice, Lillian, Xavier, Mark (one of his first trips to France, to meet his new grandson [Clément](clement.md), born in June), Gwen, Thomas and the children. During a lunch on the terrace, Gwen and Thomas go inside and have a loud fight; Thomas shouts and insults the family (« une famille de dégénérés » [a family of degenerates]). Gwen, Béatrice and Lillian cry. Thomas leaves for two days of hiking in the mountains with [Alexandre](alexandre.md); Lillian goes for a walk in a park with Mark and Xavier. Mark returns to the United States the next day, at the planned end of his stay. Lillian and Béatrice leave earlier for about ten days in Croatia, ruined by the scene. Béatrice cries all along, while Thomas sends her messages saying that she should manage Gwen herself and that she will see she cannot manage her money. At the same time, at the table, Thomas hits Alexandre with a towel (about his behaviour at table; to clarify).
 - Marc Lambert takes her to boarding school one first day of term and slips her a 50-franc note in front of everyone, but spoils all her birthdays and, after the break-up with Béatrice, takes back the gifts (see [marc-lambert.md](marc-lambert.md)).
 - Around 1991-1992 (11-12), her American grandmother visits Saint-Brevin for two weeks, in a hotel (vague memory). Béatrice's boyfriend then is [Marc Lambert](marc-lambert.md), who has a bar on the beach: Gwen and Xavier adore him, Lillian never liked him and feels she is losing her mother.
@@ -103,7 +103,6 @@ The character traits, values, wounds and strengths that emerge from her life pat
 
 ## To clarify
 
-- Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living? Is the story about Lillian (the account said « Anne »)?
 - Exact date of birth (1979)?
 - Full name, any nicknames?
 - Where has she lived, in order?
@@ -122,7 +121,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Delay: Mohamed left her alone "about 10 days" before Zouria's visit, and the visit took place "2 weeks" after the abortion. Which is right?
 - Her paternal family: did she meet her grandmother Lillian, her uncles and aunts, her cousins? Is she in touch with them? Whose first name does she bear: is it her grandmother's?
 - The scene of her grandmother belittling Mark: when and where (she was very small), and how did she feel? What link does she make with her father's passivity?
-- The culture gap in affection: how did it shape her way of loving and of being loved? And the nickname « Anne » used by David: is it a name or a mis-hearing?
+- The culture gap in affection: how did it shape her way of loving and of being loved?
 - Marc Lambert (dates, birthdays, break-up, letter to Papouche), the visit of Grandma Lillian and the Switzerland trip to her cousins [Julie](julie.md) and [Jérôme](jerome.md): details? See [Marc Lambert](marc-lambert.md).
 - The move to the apartment at 11, the trip to Switzerland to her cousins [Julie](julie.md) and [Jérôme](jerome.md) (when?), and the boarding-school day with Marc Lambert (which year, which school, about 15?).
 - The July 2018 reunion at Gwen and Thomas's: where exactly (« Luce »/Lucé?), how did she come from Maui (United States)? How did she live the scene, and the Croatia trip afterwards?
@@ -132,3 +131,4 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?
 - Her time with Mark from 18 to 20: did she stay in Syracuse (or elsewhere) until she was 20? How did the regular contact work during the marriage to Mohamed?
 - Where in the United States did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?
+- Knitted Doctor Who scarf: when exactly (age 19 means 1998-1999 or just after) and where was she living?
