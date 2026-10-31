@@ -49,3 +49,4 @@
 - Work: what did the Brittany Ferries experience consist of?
 - Family: who knows about the abortion, and how did Lillian hide it?
 - Gwen's children: first names, ages?
+- Before 2021: the July 2018 family reunion (fight between Gwen and Thomas, Croatia trip) and Papouche's death in September 2018. Where was Lillian living then? See [Lillian](../people/lillian.md).
