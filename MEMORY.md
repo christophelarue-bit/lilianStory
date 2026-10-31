@@ -153,7 +153,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 |---|---|
 | [lillian](people/lillian.md) | The main character. Has lived in Nice for about 1 year. |
 | [dad](people/dad.md) | Mark, American, soldier (GI, Iraq), lives in Syracuse (New York State). |
-| [mom](people/mom.md) | Béatrice, former au pair, lives in Saint-Brieuc, France. |
+| [mom](people/mom.md) | Béatrice, dental assistant, former au pair, lives in Saint-Brieuc, France. |
 | [gwen](people/gwen.md) | Younger sister, born in 1982, lives in Vendôme. Four children; a hard, chaotic life that has always affected the family, and above all Lillian (sensitive). |
 | [eliot](people/eliot.md) | Gwen's first son, with Aymeric; raised by his father after a court ruling (sensitive). |
 | [alexandre](people/alexandre.md) | Child of Gwen and Thomas. |

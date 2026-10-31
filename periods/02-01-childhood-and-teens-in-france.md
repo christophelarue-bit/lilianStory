@@ -7,7 +7,7 @@
 ## Place
 
 - **Country**: France
-- **City/cities**: to clarify (Saint-Brevin, then?; Saint-Brieuc?)
+- **City/cities**: Saint-Brevin (first at her grandparents' at Les Tourelles, then in a rented apartment with Béatrice)
 
 ## Dates
 
@@ -81,7 +81,7 @@
 
 ## To clarify
 
-- Places: where did they live after Saint-Brevin? When does Saint-Brieuc come in?
+- Places: Saint-Brevin throughout (Les Tourelles, then the rented apartment). When did Béatrice leave for Saint-Brieuc, and where was Lillian then? Where did Lillian live after the baccalauréat?
 - Daily life: school, friends, activities, teenage passions?
 - Mark: what contact from a distance (calls, letters, visits)?
 - Structure: a single period or several (childhood / adolescence)?

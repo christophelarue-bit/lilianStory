@@ -36,7 +36,7 @@ To explore: missing her father, life between two cultures, leaving for the Unite
 
 ## To clarify
 
-- Where did they live after Saint-Brevin? When does Saint-Brieuc come in?
+- Béatrice and the children stay in Saint-Brevin (Les Tourelles, then a rented apartment); when does Saint-Brieuc come in?
 - Should this era be split into several periods?
 - Her boarding school in La Baule: which years and why? Around 1995, at 16, she goes on holiday to New York with Gwen to see her father.
 - Xavier: Lillian found him super intelligent and showed him off to her friends. When, and how did he see her then?
