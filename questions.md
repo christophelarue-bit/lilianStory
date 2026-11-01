@@ -677,23 +677,24 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Where and when did Lillian meet him, and how did the friendship with her develop?
 - Which of his sisters did Yacine go out with?
 
-## [Julien](people/julien.md) — 6 questions
+## [Julien](people/julien.md) — 7 questions
 
 
 **Identity and background**
 
-- Surname, age, origin, occupation, where did he live?
+- Surname and age? Where exactly in Raleigh (hospital) did they work?
 
 **Dates and chronology**
 
-- When exactly (after the second separation) and for how long?
+- When exactly and for how long? Before or after the second separation (earlier notes said after)?
 - Dates of the first and the second separation, and how did Lillian get back with Mohamed each time?
 - Duration: see the two separations in [Mohamed](people/mohamed.md).
 
 **Events and stories**
 
-- How did Lillian meet him?
-- How did the hotel appointment end, and did they see each other again?
+- Did he know it was over? Did their wives or Mohamed find out? Did they see each other again?
+- Which trip to Hawaii was it (with Kim and Veronica, the 2015 layover)? Who is Veronica, and Delphine (Kenya)?
+- Mohamed went to Maryland and they were « on a break »: how does this fit with the two separations and the final return?
 
 ## [Geaniie](people/geaniie.md) — 6 questions
 
