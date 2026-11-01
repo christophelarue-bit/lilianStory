@@ -74,6 +74,7 @@
 ## Stories and small details
 
 - Wedding in March 2003.
+- Near the end of the marriage, affair with [Julien](../people/julien.md), a colleague in Raleigh and a friend of the couple (**Sensitive**), ended by a missed hotel appointment and a trip to Hawaii with Kim and Veronica. Raleigh, North Carolina, is mentioned as the place.
 - Two separations: the first with Geaniie as flatmate, the second followed by the relationship with Julien.
 - 2006: the abortion, Mohamed leaves her alone about 10 days before his sister Zouria's visit.
 - New friends, the family (in-laws), the pressure of appearances and religion.
@@ -101,6 +102,6 @@
 - Spelling: Yacine or Yassine? Geaniie? Zachzria? (names given as they were written)
 - Places: where did Lillian live with Geaniie, and where did Zouria visit (Albany? Raleigh?)?
 - Mohamed's family: first name of his mother, and which of his sisters did Yacine go out with?
-- Julien: how did she meet him, and what happened after the missed hotel appointment?
+- Julien: dates (before or after the second separation), the Hawaii trip with Kim and Veronica, and how it ended. Delphine (Kenya) and Veronica: who are they? Why Raleigh, and when did they live there?
 - The green card and the March 2003 wedding: how did it go, and when did Lillian discover the double life? (**Sensitive**)
 - The end of the marriage: which year, and was there a divorce?
