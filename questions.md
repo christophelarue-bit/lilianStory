@@ -59,7 +59,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - Sensitive subject (Clara's ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.
 
-## [Dad (Mark)](people/dad.md) — 26 questions
+## [Dad (Mark)](people/dad.md) — 28 questions
 
 
 **Identity and background**
@@ -73,6 +73,8 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- **To ask Lillian**: exactly what jobs did he do (the library job, the Iraq years) and what has he done since?
+- The ring: which grandfather (Peter) gave it to Mark, what did it mean, when did Mark give it to Lillian (about 1993), and how did Lillian find out that Gwen had sold it?
 - Missions in Iraq: which years? Other postings? Rank, dates of service? When did he leave the army? Occupation afterward?
 - Where did the family live between 1979 and 1985 (base, town, housing)? Where was Mark in summer 1985?
 - Alcohol problem: to confirm with Béatrice and Lillian, and how severe.

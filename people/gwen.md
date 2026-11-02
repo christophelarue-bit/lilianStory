@@ -78,6 +78,8 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 ## Anecdotes and stories
 
+- **The ring**: when Gwen was about 14 (around 1996), she stole from Lillian a ring that their father had given Lillian (it came from Mark's own father), and sold it to get money. See [Dad](dad.md).
+
 - **The 2018 family reunion (July 2018, Sensitive)**: she brings the whole family together (Béatrice, Lillian, Xavier, Mark) in July 2018, for the birth of Clément. A big couple fight with Thomas breaks out during the lunch: she cries, as does Béatrice. See [Lillian](lillian.md).
 - Around 1995, Gwen and Lillian (16) go on holiday to New York to see their father (when exactly, and was it the city or New York State, are to be clarified).
 

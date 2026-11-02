@@ -76,6 +76,10 @@
 
 ## Anecdotes and stories
 
+- **His career path**: military in Germany; on returning to Syracuse (1980) with his wife and first child, he resumes his studies, then gives them up; his wife and children (Lillian, Gwen, and Xavier to come) leave in 1985. Depression, then work as a librarian (Christophe's recollection, to verify with Lillian), then the army again (Iraq). Probably no other activity since (to ask Lillian).
+- **Contact 1995-1998 (and probably before)**: only phone calls, postcards, and gifts or money for birthdays.
+- **The ring**: Mark gave Lillian a ring (given to him by his own father). About 3 years later, when Gwen was around 14 (about 1996), Gwen stole it from Lillian and sold it to get money.
+
 - **Time with Lillian**: Lillian knew him from 0 to 5 in the United States (the family moved from Germany to the United States in 1980), then for about a year from 18, and kept regular contact with him during her marriage to Mohamed, while in the States.
 - **The 2018 family reunion (July 2018, Sensitive)**: he comes to France, one of his first trips there (first time to clarify), to meet his grandson Clément and take part in the family reunion at Gwen and Thomas's. After Gwen and Thomas's fight, he goes for a walk in a park with Lillian and Xavier, then returns to the United States the next day, at the planned end of his stay.
 - **The GI bar in Frankfurt (1976)**: Mark falls in love at first sight with Béatrice, a young au pair. She, for her part, wanted to have a love story with a GI.
@@ -87,6 +91,8 @@
 
 ## To clarify
 
+- **To ask Lillian**: exactly what jobs did he do (the library job, the Iraq years) and what has he done since?
+- The ring: which grandfather (Peter) gave it to Mark, what did it mean, when did Mark give it to Lillian (about 1993), and how did Lillian find out that Gwen had sold it?
 - Exact date of birth. How old was he in 1976?
 - Missions in Iraq: which years? Other postings? Rank, dates of service? When did he leave the army? Occupation afterward?
 - Where did the family live between 1979 and 1985 (base, town, housing)? Where was Mark in summer 1985?
