@@ -14,7 +14,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
 - [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
 
-## [Lillian](people/lillian.md) — 33 questions
+## [Lillian](people/lillian.md) — 34 questions
 
 
 **Identity and background**
@@ -31,6 +31,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Therapy: she only briefly told the psychologist about Papouche and Mamouche, her anchor (he noted positive waves); he may come back to it next time. Béatrice has just sent forms to fill in, for Lillian and Xavier, to defend Gwen (what for?).
 - (Draft, rule 6) Therapy: when did she start the sessions, and what did she decide to do after the psychologist's advice (message to the three, limits on calls)?
 - (Draft) Xavier's daily calls (2 to 4 hours) and texts: since when, and what is behind the suicide threats?
 - (Draft) The « prison » that Christophe mentions and that she did not have time to tell: whose, and when?
@@ -105,7 +106,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Sensitive subject (Clara's ultimatum, his silence): validate with Lillian the wording and any use in a book.
 - His mother was raped twice (Larry, his older brother, was the result of the first); he was a child at the time of the second. What does he know, and what has he told Lillian? (sensitive)
 
-## [Mom (Béatrice)](people/mom.md) — 19 questions
+## [Mom (Béatrice)](people/mom.md) — 21 questions
 
 
 **Identity and background**
@@ -122,6 +123,8 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- The birthday money and the EDF bills: how old was Lillian, and how did Béatrice's finances really look then (dental assistant's salary, child support, debts)? When did Lillian start being paid for babysitting?
+- The forms Béatrice sent today for Lillian and Xavier to fill in to defend Gwen: for which procedure (court, children's services)?
 - Nationality, family of origin, childhood? Did she grow up in Saint-Brevin or elsewhere?
 - Where and with whom was she an au pair in Frankfurt? Why Germany?
 - The 1975-1980 period (to ask Béatrice): meeting, start of life as a couple, married or not, arrival in Heidelberg.
@@ -139,7 +142,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
 - Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
 
-## [Gwen](people/gwen.md) — 24 questions
+## [Gwen](people/gwen.md) — 25 questions
 
 
 **Identity and background**
@@ -159,6 +162,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- The psychologist's view that Gwen reproduces with her children (Julia, Alexandre) what Béatrice did with Lillian and her: concrete memories of Julia cooking and Alexandre looking after the children?
 - (Draft) The story of Clément on the motorway and Julia, and the papers Béatrice sent to defend Gwen: what exactly happened, and when?
 - Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
 - Where was she born (hospital, town)?

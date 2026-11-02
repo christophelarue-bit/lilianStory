@@ -90,6 +90,8 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 ## To clarify
 
+- The psychologist's view that Gwen reproduces with her children (Julia, Alexandre) what Béatrice did with Lillian and her: concrete memories of Julia cooking and Alexandre looking after the children?
+
 - (Draft) The story of Clément on the motorway and Julia, and the papers Béatrice sent to defend Gwen: what exactly happened, and when?
 
 - Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
