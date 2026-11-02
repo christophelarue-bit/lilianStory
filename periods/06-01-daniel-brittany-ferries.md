@@ -35,6 +35,7 @@
 
 ## Stories and small details
 
+- Lillian comes back to France from the United States to join her mother in Brittany. Daniel lives in Rennes, which is why she settles there first: they live together very quickly, before she takes her own flat. Daniel knows about the abortion; much later, when Lillian is separated from Christophe, she sees him again and tells him that he behaved badly (a strong scene for the narrative: see [Daniel](../people/daniel.md)).
 - Lillian comes back to France to be closer to her family. She meets [Daniel](../people/daniel.md) on the train back to Brittany and goes on seeing him.
 - The Brittany Ferries experience (to clarify).
 - Lillian hides her suffering from her family.

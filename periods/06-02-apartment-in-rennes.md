@@ -5,7 +5,7 @@
 ## Place
 
 - **Country**: France
-- **City/cities**: Rennes, near Nantes (Xavier), Saint-Brieuc (Mom) and Vendôme (Gwen)
+- **City/cities**: Rennes, in the centre (Mail François-Mitterrand), near Nantes (Xavier), Saint-Brieuc (Mom) and Vendôme (Gwen)
 
 ## Dates
 

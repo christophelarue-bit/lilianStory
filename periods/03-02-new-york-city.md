@@ -49,7 +49,7 @@
 
 - Place and date: where exactly, when, why New York?
 - After Syracuse (stay of about a year with Mark), Lillian lives in New York City until she meets Mohamed: dates, did she go straight there, and where did she live?
-- Walter's role: friend, lover, something else?
+- Walter: Christophe says he was a flatmate in New York with a weak role, no contact kept. To ask Lillian to describe him and his importance.
 - Mohamed: how, where and when did they meet?
 - Dates of the stay in New York City and of her departure from Syracuse (see the dates questions in [03-01](03-01-syracuse-finding-dad.md)).
 - The Indian employer: name, what Lillian's job was, and for how long?
