@@ -594,7 +594,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - Sensitive subject (ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.
 
-## [Mohamed](people/mohamed.md) — 17 questions
+## [Mohamed](people/mohamed.md) — 19 questions
 
 
 **Identity and background**
@@ -609,20 +609,19 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Delay: Mohamed left her alone "about 10 days" before Zouria's visit, and the visit took place "2 weeks" after the abortion. Which is right?
 - When did the marriage really end (year), and was there a divorce?
 
-**Relationship with Lillian and with others**
-
-- He meets Lillian in New York City, in her early twenties (about 2001-2002): where and when exactly?
-
 **Events and stories**
 
 - **To ask Lillian**: in which year did the marriage end, was there an official divorce (date, where), and why at that moment? (Era 05 says 2016; Lillian says « 15 years of marriage » and later « divorced not so long ago » in 2020.)
-- The meeting: where, when and how in New York?
+- **To ask Lillian**: the meeting in the dart bar (which city, which year), the evening she locked herself in her car, the hospital, and what she saw in him.
 - Alcohol: confirmed as being Mohamed's (and, in private, with Lillian?). Did Lillian drink too?
 - Marriage: place of the wedding (March 2003), end of the marriage? (2016, near Baltimore, when she leaves for Hawaii: to confirm)
 - After leaving Syracuse, did Lillian go to New York City? To what extent does that departure connect to meeting Mohamed?
 - Mohamed's family: first name of his mother, and which of his sisters did Yacine go out with?
 - Places: where did Lillian live with Geaniie, and where did Zouria visit (Albany? Raleigh?)?
-- The meeting: around 2001 (Lillian to be asked again): where, how and when exactly in New York?
+- The meeting happens 1 or 2 years after her arrival (1999-2000, earlier notes said 2001) in a bar with darts: which city, which year? Was Lillian in Syracuse, New York City or elsewhere?
+- Mohamed's job (nurse and/or ambulance driver): to validate, and with whom (Lillian's work in Raleigh?).
+- The mosque: from which period, and the friends and wives who came to the house (names, the women in the kitchen).
+- Albany and Syracuse: where exactly did they live in New York State, and when did they leave for Raleigh (bigger flat, job)? To ask Lillian later.
 - The green card: when was it obtained, how did the marriage procedure go (interview, conditions), and was it the reason for the March 2003 wedding?
 - The double life: when did Lillian discover it, how did she react, and did his family in Morocco ever find out?
 
