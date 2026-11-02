@@ -51,6 +51,8 @@ A younger brother she is proud of since his birth (details to be completed).
 
 ## Anecdotes and stories
 
+- **Daily calls (draft, Sensitive)**: Xavier calls Lillian every day, for up to 2 to 4 hours, and texts her to ask why if she does not answer. He has threatened to commit suicide; her psychologist calls it manipulation and says she must set limits and boundaries. Christophe points out that for Xavier she has been a mother since the beginning (already at 12). See [Lillian](lillian.md).
+
 - As a child, Xavier is closer to Lillian than to Gwen, who leaves the younger ones for her friends. See [Gwen](gwen.md).
 
 - **The July 2018 reunion**: according to Lillian, this story was quite hard for Xavier to live with.
@@ -60,6 +62,8 @@ A younger brother she is proud of since his birth (details to be completed).
 - Before leaving for the United States, she showed him off to her friends, though he was 6 years younger (see [02-01](../periods/02-01-childhood-and-teens-in-france.md)).
 
 ## To clarify
+
+- (Draft, rule 6) The daily calls and threats: since when and what lies behind them? The « prison » mentioned by Christophe: is it Xavier's, and when?
 
 - His birth in Saint-Brevin, after a conception in the United States: exact date, and which memories does Lillian keep of the announcement in the United States and of the first sight in France?
 - Does he remember the outings with Lillian's friends, and what did he think of it? Did he study mathematics or something related afterwards?

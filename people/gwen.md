@@ -78,6 +78,8 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 ## Anecdotes and stories
 
+- **Seen by Lillian's psychologist (draft, Sensitive)**: after hearing about Gwen's care of her children (the story of Clément on the motorway, Julia), he judges it negligence and says Gwen is a child, not an adult, and will not change; Béatrice sends Lillian papers to defend Gwen. See [Lillian](lillian.md).
+
 - **Gwen as a child**: the relationship with Lillian was harder: Gwen tended to lie, steal things, fight, a bit of a tomboy, with no shame. It clashed with Lillian's calm, gentle character (« peace and joy »). Xavier, though small, was closer to Lillian than to Gwen, who left them to be with her friends.
 - **Julia, her mini-me**: Lillian sees many of Gwen's traits in her daughter Julia (hyperactive, needs stimulation). See [07-02](../periods/07-02-holidays-in-correze.md).
 
@@ -87,6 +89,8 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - Around 1995, Gwen and Lillian (16) go on holiday to New York to see their father (when exactly, and was it the city or New York State, are to be clarified).
 
 ## To clarify
+
+- (Draft) The story of Clément on the motorway and Julia, and the papers Béatrice sent to defend Gwen: what exactly happened, and when?
 
 - Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
 

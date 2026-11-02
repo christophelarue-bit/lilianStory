@@ -14,7 +14,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
 - [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
 
-## [Lillian](people/lillian.md) — 30 questions
+## [Lillian](people/lillian.md) — 33 questions
 
 
 **Identity and background**
@@ -31,6 +31,9 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) Therapy: when did she start the sessions, and what did she decide to do after the psychologist's advice (message to the three, limits on calls)?
+- (Draft) Xavier's daily calls (2 to 4 hours) and texts: since when, and what is behind the suicide threats?
+- (Draft) The « prison » that Christophe mentions and that she did not have time to tell: whose, and when?
 - Her beliefs: what exactly keeps her alive (the first words of the sentence were cut)? When did this view of the « source » take shape (Hawaii, Alaska, after Papouche's death in 2018)? Any practice (meditation, rituals), and the link with her massage-school training in Nantes?
 - Where has she lived, in order?
 - What jobs and what passions?
@@ -136,7 +139,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
 - Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
 
-## [Gwen](people/gwen.md) — 23 questions
+## [Gwen](people/gwen.md) — 24 questions
 
 
 **Identity and background**
@@ -156,6 +159,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft) The story of Clément on the motorway and Julia, and the papers Béatrice sent to defend Gwen: what exactly happened, and when?
 - Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
 - Where was she born (hospital, town)?
 - Did she speak English as a child? (Lillian is the only one of the siblings to have spoken English first, then French.)
@@ -280,7 +284,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Why did he hit Alexandre with a towel at the table in July 2018, and was it usual?
 - Gwen left him with the three children about a month after Papouche's death in 2018 (around October 2018, to confirm): why, and what became of the children and of him?
 
-## [Xavier](people/xavier.md) — 14 questions
+## [Xavier](people/xavier.md) — 15 questions
 
 
 **Identity and background**
@@ -295,6 +299,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) The daily calls and threats: since when and what lies behind them? The « prison » mentioned by Christophe: is it Xavier's, and when?
 - His birth in Saint-Brevin, after a conception in the United States: exact date, and which memories does Lillian keep of the announcement in the United States and of the first sight in France?
 - Does he remember the outings with Lillian's friends, and what did he think of it? Did he study mathematics or something related afterwards?
 - Did he know Mark? When, how, how many times?

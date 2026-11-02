@@ -60,6 +60,8 @@ Lillian says she had « neither mother nor father »: Béatrice, who often talke
 
 ## Anecdotes and stories
 
+- **Today (draft, Sensitive)**: Béatrice calls Lillian often and speaks about the same family problems about 95% of the time, like a best friend, which spoiled Lillian's birthday. Lillian's psychologist said that she shielded her children and treats Lillian like a friend, which is hurtful for Lillian. See [Lillian](lillian.md).
+
 - After Papouche's death (September 2018), Béatrice is not in a state to announce it to Gwen: Lillian does it (see [Gwen](gwen.md)).
 - **Croatia and the argument (2018)**: the trip lasts about ten days, 2-3 weeks after the Luce scene. She is disillusioned and worried about Gwen, who has a newborn; Lillian too. The whole family had pooled money for her trip: it is wasted. A few weeks later, the day after a quarrel with Lillian at the café « 7 Beaufort » (she is not like Lillian, does not need big trips, finds it mass tourism, polluting and ridiculous; they tell each other that they do not understand each other), she is told of her father's death. Lillian runs to her, in a panic attack; Béatrice answers « Lillian, on n'a pas le temps pour les émotions. On doit aller voir Mamouche. Prends tes affaires, on y va » [Lillian, there is no time for emotions. We must go and see Mamouche. Take your things, we are going].
 - **Taking care of Mamouche**: after Papouche's death, [Didier](didier.md) and others propose a nursing home. She refuses, moves close to her mother, and takes care of her for 3 years.
