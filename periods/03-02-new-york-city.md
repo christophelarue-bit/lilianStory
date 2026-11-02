@@ -47,7 +47,7 @@
 
 ## To clarify
 
-- Place and date: where exactly, when, why New York?
+- Mohamed: Christophe says Lillian met him in a bar with a dartboard, 1 or 2 years after arriving in the United States, and that they only lived in New York State (Syracuse, Albany), not New York City. So did she meet him during this period, and where? Place and date: where exactly, when, why New York?
 - After Syracuse (stay of about a year with Mark), Lillian lives in New York City until she meets Mohamed: dates, did she go straight there, and where did she live?
 - Walter: Christophe says he was a flatmate in New York with a weak role, no contact kept. To ask Lillian to describe him and his importance.
 - Mohamed: how, where and when did they meet?

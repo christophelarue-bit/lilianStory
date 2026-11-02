@@ -7,7 +7,7 @@
 ## Place
 
 - **Country**: United States
-- **City/cities**: Albany, Raleigh and other destinations (to ask), trip to Las Vegas
+- **City/cities**: New York State (Syracuse and Albany area, never New York City together), then Raleigh, North Carolina (bigger flat and a job); trip to Las Vegas; other destinations to ask
 
 ## Dates
 
@@ -82,11 +82,17 @@
 - Trip to Las Vegas.
 - There are « plein d'histoires » [lots of stories] in these 15 years: 1 to 2 interviews are needed.
 
+- **The mosque and the guests**: Mohamed is very religious and goes often to the mosque. Friends come to the house with their wives; Lillian is the only unveiled woman allowed in the men's room, which makes some of the others, who stay in the kitchen, jealous.
+
 ## Landscapes and atmosphere
 
 *(to be completed)*
 
 ## To clarify
+
+- The meeting with Mohamed: a bar with darts, a second encounter where Lillian, very drunk, locked herself in her car (Mohamed followed her to hospital). Ask Lillian for more detail, and the date.
+- Mohamed's job (nurse and/or ambulance driver, to validate) and his mosque life: when did it start, and the friends who came with their wives (Lillian the only unveiled woman allowed in the men's room, causing jealousy in the kitchen).
+- Albany, Syracuse and Raleigh: where and when exactly (to ask Lillian later)?
 
 - **To ask Lillian**: year the marriage ended, official divorce (date and place), and the reason for ending it then?
 
