@@ -117,6 +117,12 @@ people/
   adriana.md
   jose.md
   mike.md
+  patrice.md
+  sebastien.md
+  emilie.md
+  romane.md
+  raphael.md
+  hanae.md
   julie-flazon.md
   kerezore.md
   laura-moreau.md
@@ -143,7 +149,9 @@ periods/
   05-03-nurse-in-alaska.md
   06-01-daniel-brittany-ferries.md
   06-02-apartment-in-rennes.md
+  06-03-greece-with-eliot.md
   07-01-meeting-chris.md
+  07-02-holidays-in-correze.md
 ```
 
 Convention: file names in English, lowercase, no accents, hyphens instead of spaces.
@@ -205,6 +213,12 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [julie-flazon](people/julie-flazon.md) | Middle-school friend; her sister's secret (sensitive). |
 | [kerezore](people/kerezore.md) | Spanish teacher at middle school (sensitive). |
 | [laura-moreau](people/laura-moreau.md) | School friend who repeated the secret. |
+| [patrice](people/patrice.md) | Chris's father. |
+| [sebastien](people/sebastien.md) | Chris's brother. |
+| [emilie](people/emilie.md) | Chris's sister-in-law. |
+| [romane](people/romane.md) | Chris's niece (2010). |
+| [raphael](people/raphael.md) | Chris's nephew (2013). |
+| [hanae](people/hanae.md) | Chris's niece (2016). |
 | [mike](people/mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [kim](people/kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [daniel](people/daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
@@ -240,7 +254,9 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [05-03 — Nurse in Alaska](periods/05-03-nurse-in-alaska.md) | Seward, by the sea: the COVID, nature, Kim and friends. |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](periods/06-01-daniel-brittany-ferries.md) | 2021, Rennes (sensitive). |
 | [06-02 — Apartment in Rennes](periods/06-02-apartment-in-rennes.md) | A calmer period, close to family. |
+| [06-03 — Greece with Eliot](periods/06-03-greece-with-eliot.md) | A trip with her nephew Eliot after the separation from José. |
 | [07-01 — Meeting Chris](periods/07-01-meeting-chris.md) | April 2023, Tinder, Rennes then Carnac. Draft. |
+| [07-02 — Holidays in Corrèze](periods/07-02-holidays-in-correze.md) | A holiday week with Chris's family and Julia. Draft. |
 
 ## Working rules (to apply at every exchange)
 

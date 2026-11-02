@@ -17,6 +17,8 @@ A period is a stretch of Lillian's life with its own place and dates. Each one b
 | [05-03 — Nurse in Alaska](05-03-nurse-in-alaska.md) | Seward, by the sea: the COVID, nature, Kim and friends. |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](06-01-daniel-brittany-ferries.md) | 2021, Rennes (sensitive). |
 | [06-02 — Apartment in Rennes](06-02-apartment-in-rennes.md) | A calmer period, close to family. |
+| [06-03 — Greece with Eliot](06-03-greece-with-eliot.md) | A trip with her nephew Eliot after the separation from José. |
 | [07-01 — Meeting Chris](07-01-meeting-chris.md) | April 2023, Tinder, Rennes then Carnac. Draft. |
+| [07-02 — Holidays in Corrèze](07-02-holidays-in-correze.md) | A holiday week with Chris's family and Julia. Draft. |
 
 Template for a new period: [_template.md](_template.md). Back to the [main README](../README.md).
