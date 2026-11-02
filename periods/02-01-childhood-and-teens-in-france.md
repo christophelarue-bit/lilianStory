@@ -89,6 +89,7 @@
 - Lillian keeps a slight American accent: first language English, then French.
 - Around 1995, at 16, Lillian and Gwen go on holiday to New York to see their father.
 - Lillian shows off her little brother Xavier to her friends, finding him super intelligent, though he is 6 years younger.
+- **Mark at a distance**: between 1995 and 1998, his only contact is phone calls, postcards, and gifts or money for birthdays. He gave Lillian a ring from his own father; about 3 years later, when Gwen was around 14, she stole it and sold it for money.
 - **Béatrice, a friend more than a mother**: Lillian says she felt she had « neither mother nor father »: Béatrice talked to her all the time about her problems, like a girlfriend, and her father was absent. It weighed on her; Gwen's problems came later. When she left at 18, she was tired of constant problems and wanted to build her own life. Her usual reaction is flight (see [Béatrice](../people/mom.md)).
 - **The teacher's secret (Sensitive)**: around 11-12 (6e-5e), her close friend [Julie F.](../people/julie-flazon.md) tells her in secret that her older sister (3 years older) is in a relationship with their Spanish teacher [Mr Kérezoré](../people/kerezore.md), who was about 39-40, married with children, when the girl was 13 (he later left his wife for her). Julie carries notes between them in class. Lillian cannot keep the secret and tells [Laura Moreau](../people/laura-moreau.md), who tells Julie; Julie slaps her outside school, the only time she was attacked. They went on seeing each other. The teacher goes to Mass every Sunday, plays guitar at church and gives Spanish lessons to Mamouche, who reveres him. Lillian finds it disturbing (« chelou »), is a little afraid, does not tell her mother, and at 12 declares that she is done with church, catechism and Mass.
 - **Class and social background**: Lillian says her family was not bourgeois, fatherless, « a bit of social cases »; her aunt Lalou said Béatrice was a « pute » (**Sensitive**), which Christophe attributes to jealousy. The film « La vie est un long fleuve tranquille » resonates with her.
@@ -106,7 +107,7 @@
 
 - Places: Saint-Brevin throughout (Les Tourelles, then the rented apartment). When did Béatrice leave for Saint-Brieuc, and where was Lillian then? Where did Lillian live after the baccalauréat?
 - Daily life: school, friends, activities, teenage passions?
-- Mark: what contact from a distance (calls, letters, visits)?
+- Mark: besides calls, postcards and birthday gifts (1995-1998), any visits? The ring sold by Gwen: when exactly, and how did Lillian react?
 - Structure: a single period or several (childhood / adolescence)?
 - Charlotte, boarding-school friend (with Sandrine): surname, role?
 - Is the Lycée Grand Air the boarding school of La Baule already noted?
