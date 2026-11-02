@@ -17,6 +17,7 @@ Meeting Chris is « toute une histoire » [quite a story], which will be the sub
 | Period | Dates | Place |
 |---|---|---|
 | [07-01 — Meeting Chris](../periods/07-01-meeting-chris.md) | to clarify | to clarify |
+| [07-02 — Holidays in Corrèze](../periods/07-02-holidays-in-correze.md) | summer 2022 or 2023, to confirm | Corrèze |
 
 ## Common thread and stakes
 

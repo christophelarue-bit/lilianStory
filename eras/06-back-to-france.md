@@ -22,6 +22,7 @@ Then comes a calmer period, with her own apartment in Rennes, near her brother (
 |---|---|---|
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | 2021 | Rennes |
 | [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | to clarify | Rennes |
+| [06-03 — Greece with Eliot](../periods/06-03-greece-with-eliot.md) | about 2021-2022, to confirm | Greece |
 
 ## Common thread and stakes
 
