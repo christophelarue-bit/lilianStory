@@ -136,7 +136,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
 - Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
 
-## [Gwen](people/gwen.md) — 22 questions
+## [Gwen](people/gwen.md) — 23 questions
 
 
 **Identity and background**
@@ -156,6 +156,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
 - Where was she born (hospital, town)?
 - Did she speak English as a child? (Lillian is the only one of the siblings to have spoken English first, then French.)
 - Where does she live now (Vendôme?) and what is her job today?
@@ -176,7 +177,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - The first pregnancy with Aymeric ended in an abortion: how did she experience it, and who knew? (sensitive)
 
-## [Eliot (Gwen's first son)](people/eliot.md) — 5 questions
+## [Eliot (Gwen's first son)](people/eliot.md) — 6 questions
 
 
 **Identity and background**
@@ -189,6 +190,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Year and details of the Greece trip (see [06-03](periods/06-03-greece-with-eliot.md)); has the closeness lasted?
 - How does he see the court ruling and his childhood with his father?
 - Has Lillian seen him grow up? When did they last see each other?
 - Was he aware of the fight in July 2018, and how did he react? Where did he sleep?
@@ -210,7 +212,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - The towel incident in July 2018: why, was it usual, and how did he live it?
 - What did he do during the two days of hiking with Thomas, and how did he talk about it afterwards?
 
-## [Julia (child of Gwen and Thomas)](people/julia.md) — 4 questions
+## [Julia (child of Gwen and Thomas)](people/julia.md) — 5 questions
 
 
 **Identity and background**
@@ -223,6 +225,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- The year of the Corrèze holiday (2022 or 2023?) and Julia's age then (see [07-02](periods/07-02-holidays-in-correze.md)).
 - Was Julia one of the children Gwen asked Lillian to look after in 2021?
 - July 2018: was she at the reunion, and how did she live the fight between her parents?
 
@@ -915,6 +918,52 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Name: Laura Moreau, or Julie Moreau (the primary-school friend)? One or two people?
 - Did Lillian remain friends with her?
 
+## [Patrice](people/patrice.md) — 2 questions
+
+
+**Events and stories**
+
+- Is the Corrèze house his, and where exactly is it?
+- Chris's mother: first name?
+
+## [Sébastien](people/sebastien.md) — 2 questions
+
+
+**Events and stories**
+
+- Where does he live, and what does he do?
+- How did he and Lillian first meet?
+
+## [Émilie](people/emilie.md) — 2 questions
+
+
+**Events and stories**
+
+- Where does she live, and what does she do?
+- How did she and Lillian get along?
+
+## [Raphaël](people/raphael.md) — 2 questions
+
+
+**Identity and background**
+
+- Exact date of birth, and school or hobbies?
+
+**Events and stories**
+
+- How did he get along with Lillian?
+
+## [Hanae](people/hanae.md) — 2 questions
+
+
+**Identity and background**
+
+- Exact date of birth, and school or hobbies?
+
+**Events and stories**
+
+- How did she get along with Lillian?
+
 ## [Mike](people/mike.md) — 4 questions
 
 
@@ -958,7 +1007,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - **To ask Lillian**: describe the scene where she tells him what she thinks (where, when, what she said, how he reacted).
 - The train meeting: which date (2021), from where to where, and who spoke first?
 
-## [Louis](people/louis.md) — 3 questions
+## [Louis](people/louis.md) — 4 questions
 
 
 **Identity and background**
@@ -969,16 +1018,24 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - When did he arrive in Nice, and how old was he when Lillian and Chris moved?
 
+**Relationship with Lillian and with others**
+
+- Louis at the Corrèze holiday week: his bond with his cousin Raphaël (see [07-02](periods/07-02-holidays-in-correze.md)).
+
 **Events and stories**
 
 - His mother's name and her place in the story (Chris's divorce)?
 
-## [Christophe (Chris)](people/christophe.md) — 3 questions
+## [Christophe (Chris)](people/christophe.md) — 4 questions
 
 
 **Identity and background**
 
 - Age, occupation?
+
+**Dates and chronology**
+
+- Date: Lillian was already his girlfriend for 5 months at the Corrèze holiday (2022 per the account), but the Tinder meeting is dated April 2023: which is right? See [07-02](periods/07-02-holidays-in-correze.md).
 
 **Events and stories**
 

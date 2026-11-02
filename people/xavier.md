@@ -51,6 +51,8 @@ A younger brother she is proud of since his birth (details to be completed).
 
 ## Anecdotes and stories
 
+- As a child, Xavier is closer to Lillian than to Gwen, who leaves the younger ones for her friends. See [Gwen](gwen.md).
+
 - **The July 2018 reunion**: according to Lillian, this story was quite hard for Xavier to live with.
 - **The 2018 family reunion (July 2018, Sensitive)**: he attends the family reunion at Gwen and Thomas's with his sister Lillian and his father Mark. After the fight he goes with them for a walk in a park.
 - **Fables and mathematics**: he recited La Fontaine's fables by heart and understood mathematics, while Lillian did not. She took him along on outings with her friends, telling them he was brilliant, probably valuing for him.

@@ -6,7 +6,7 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| No period yet | | | Not linked to a period of Lillian's life for now |
+| [06-03 — Greece with Eliot](../periods/06-03-greece-with-eliot.md) | [06 — Back to France](../eras/06-back-to-france.md) | Greece | A trip with Lillian at 16: his first flight and first trip outside France |
 
 ## Identity
 
@@ -25,7 +25,7 @@
 
 ## Relationship with Lillian
 
-*(to be completed)*
+Lillian knew him little as her nephew from the United States. In about 2021-2022, after her separation from José, she invited him, aged 16, to travel to Greece with her: his first trip outside France and first flight. They shared a good moment of complicity that brought them closer.
 
 ## Impact on Lillian's life
 
@@ -54,6 +54,8 @@
 - July 2018: he is present at the family reunion at his mother's, aged about 13 (see [Lillian](lillian.md)). Was it with Aymeric's agreement?
 
 ## To clarify
+
+- Year and details of the Greece trip (see [06-03](../periods/06-03-greece-with-eliot.md)); has the closeness lasted?
 
 - Birth year, where he lives, what he does?
 - How does he see the court ruling and his childhood with his father?

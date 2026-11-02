@@ -52,6 +52,8 @@ Her partner, her pal, her friend and above all the one who loves her. They see t
 
 ## To clarify
 
+- Date: Lillian was already his girlfriend for 5 months at the Corrèze holiday (2022 per the account), but the Tinder meeting is dated April 2023: which is right? See [07-02](../periods/07-02-holidays-in-correze.md).
+
 - Age, occupation?
 - His divorce, another story to dig into?
 - Where will they live afterwards?

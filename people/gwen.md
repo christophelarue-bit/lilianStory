@@ -78,12 +78,17 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 ## Anecdotes and stories
 
+- **Gwen as a child**: the relationship with Lillian was harder: Gwen tended to lie, steal things, fight, a bit of a tomboy, with no shame. It clashed with Lillian's calm, gentle character (« peace and joy »). Xavier, though small, was closer to Lillian than to Gwen, who left them to be with her friends.
+- **Julia, her mini-me**: Lillian sees many of Gwen's traits in her daughter Julia (hyperactive, needs stimulation). See [07-02](../periods/07-02-holidays-in-correze.md).
+
 - **The ring**: when Gwen was about 14 (around 1996), she stole from Lillian a ring that their father had given Lillian (it came from Mark's own father), and sold it to get money. See [Dad](dad.md).
 
 - **The 2018 family reunion (July 2018, Sensitive)**: she brings the whole family together (Béatrice, Lillian, Xavier, Mark) in July 2018, for the birth of Clément. A big couple fight with Thomas breaks out during the lunch: she cries, as does Béatrice. See [Lillian](lillian.md).
 - Around 1995, Gwen and Lillian (16) go on holiday to New York to see their father (when exactly, and was it the city or New York State, are to be clarified).
 
 ## To clarify
+
+- Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
 
 - Where was she born (hospital, town)?
 - Did she speak English as a child? (Lillian is the only one of the siblings to have spoken English first, then French.)

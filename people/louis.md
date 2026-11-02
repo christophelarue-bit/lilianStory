@@ -53,6 +53,8 @@ He asked to live with Lillian and Chris, and has flourished there for a year (*d
 
 ## To clarify
 
+- Louis at the Corrèze holiday week: his bond with his cousin Raphaël (see [07-02](../periods/07-02-holidays-in-correze.md)).
+
 - Age?
 - When did he arrive in Nice, and how old was he when Lillian and Chris moved?
 - His mother's name and her place in the story (Chris's divorce)?

@@ -17,6 +17,7 @@
 | [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Seward, Alaska, United States | Nurse by the sea; the COVID, nature, Kim and a gay friend in the same building |
 | [06-01 — Daniel, Brittany Ferries, 2nd abortion](../periods/06-01-daniel-brittany-ferries.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | Return to France in 2021 |
 | [06-02 — Apartment in Rennes](../periods/06-02-apartment-in-rennes.md) | [06 — Back to France](../eras/06-back-to-france.md) | Rennes, France | A calmer period |
+| [06-03 — Greece with Eliot](../periods/06-03-greece-with-eliot.md) | [06 — Back to France](../eras/06-back-to-france.md) | Greece | Trip with her nephew Eliot |
 | [07-01 — Meeting Chris](../periods/07-01-meeting-chris.md) | [07 — Chris and Nice (draft)](../eras/07-chris-and-nice-draft.md) | Rennes, Carnac, Nantes, Nice | April 2023: meeting Chris; Nantes from July 2023; Nice since October 2025 |
 
 *(To be completed: places she lived between these periods, exact dates.)*
