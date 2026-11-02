@@ -8,7 +8,7 @@
 
 ## Identity
 
-- **Role in Lillian's life**: to clarify
+- **Role in Lillian's life**: flatmate in New York; weak role; no contact kept
 - **Nationality / origin**: Bangladesh
 - **Place of residence**: to clarify (New York?)
 - **Dates**: to clarify
@@ -48,6 +48,8 @@
 *(to be completed)*
 
 ## To clarify
+
+- **To ask Lillian**: describe Walter as a character and his importance in her life (a flatmate with a weak role, no lasting link).
 
 - What connection with Lillian: friend, lover, other?
 - How and where did she meet him?

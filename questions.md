@@ -651,11 +651,12 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - How did Kim and David's break-up happen, and what became of Kim and Lillian's friendship afterwards?
 - Is he still in Lillian's life today?
 
-## [Walter](people/walter.md) — 2 questions
+## [Walter](people/walter.md) — 3 questions
 
 
 **Events and stories**
 
+- **To ask Lillian**: describe Walter as a character and his importance in her life (a flatmate with a weak role, no lasting link).
 - What connection with Lillian: friend, lover, other?
 - How and where did she meet him?
 
@@ -950,13 +951,10 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - Surname, age, occupation?
 
-**Relationship with Lillian and with others**
-
-- Length of the relationship, how did it end?
-
 **Events and stories**
 
-- How, when, where did they get to know each other?
+- **To ask Lillian**: describe Daniel as a character, the time they lived together in Rennes (how long), and how the relationship ended.
+- **To ask Lillian**: describe the scene where she tells him what she thinks (where, when, what she said, how he reacted).
 - The train meeting: which date (2021), from where to where, and who spoke first?
 
 ## [Louis](people/louis.md) — 3 questions
