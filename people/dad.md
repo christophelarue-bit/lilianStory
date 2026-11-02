@@ -17,7 +17,7 @@
 - **Role in Lillian's life**: father
 - **Nationality / origin**: American, born in Syracuse (New York State)
 - **Age**: 46 in 1998, so born around 1952 and about 74 today (date of birth to ask)
-- **Occupation**: soldier in the US Army (a GI), notably deployed in Iraq (dates and rank to clarify)
+- **Occupation**: soldier in the US Army (a GI) in Germany, then studies resumed in Syracuse, a depression, then a job as a librarian (to verify with Lillian), then a soldier again (Iraq); probably no other activity afterwards (to ask Lillian)
 - **Place of residence**: Syracuse, New York State, United States. Still alive.
 - **Places linked to his life path**: military base in Frankfurt, Germany (1976); military hospital in Heidelberg (Lillian's birth, 1979)
 
