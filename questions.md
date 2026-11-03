@@ -123,7 +123,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
-- The birthday money and the EDF bills: how old was Lillian, and how did Béatrice's finances really look then (dental assistant's salary, child support, debts)? When did Lillian start being paid for babysitting?
+- The birthday money and the EDF bills: how old was Lillian, and how did Béatrice's finances really look then (dental assistant's salary, child support, debts)? How much was Lillian paid for babysitting, and how often?
 - The forms Béatrice sent today for Lillian and Xavier to fill in to defend Gwen: for which procedure (court, children's services)?
 - Nationality, family of origin, childhood? Did she grow up in Saint-Brevin or elsewhere?
 - Where and with whom was she an au pair in Frankfurt? Why Germany?
