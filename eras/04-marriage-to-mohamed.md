@@ -38,6 +38,8 @@ At least 1 to 2 interviews are needed for this heavy period.
 
 ## To clarify
 
+- Separation during the flight attendant years (2014-2016, era 05): Lillian was separated from Mohamed, and home was Raleigh. See [05-01](../periods/05-01-flight-attendant.md).
+
 - How should the 15 years be split into several periods after the interviews?
 - Duration: March 2003 to 2016 is about 13 years, whereas the account says 15 years of marriage. Do the 15 years include living together before the wedding?
 - Dates of the first and the second separation, and how did Lillian get back with Mohamed each time?
