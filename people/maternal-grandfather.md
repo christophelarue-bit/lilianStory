@@ -61,6 +61,8 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 
 ## To clarify
 
+- Money to Gwen: Papouche kept sending her money, almost 1000 euros per month at times, even when she lived with Thomas (see [Gwen](gwen.md)). How much and for how long, and did Lillian or Xavier receive anything? Did Béatrice or Mamouche know?
+
 - Lillian believes that Papouche's and Mamouche's energies join the « source » and her own (see [Lillian](lillian.md)): how did she live Papouche's death in this light?
 
 - First name, what made him a notable of Saint-Brevin, age, date and circumstances of his death?

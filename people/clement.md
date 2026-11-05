@@ -53,6 +53,8 @@
 
 ## To clarify
 
+- (Draft, rule 6) In 2025-2026, Clément (8) goes to Thomas with his sister Julia, leaving his brother Alexandre and his mother: how does he cope, and who explains it to him? See [Gwen](gwen.md).
+
 - Birth year, where they live, what they do?
 - Was Clément one of the children Gwen asked Lillian to look after in 2021?
 - What ties with Lillian, Eliot and the other siblings?

@@ -74,7 +74,7 @@ Lillian says she had « neither mother nor father »: Béatrice, who often talke
 ## To clarify
 
 - The birthday money and the EDF bills: how old was Lillian, and how did Béatrice's finances really look then (dental assistant's salary, child support, debts)? How much was Lillian paid for babysitting, and how often?
-- The forms Béatrice sent today for Lillian and Xavier to fill in to defend Gwen: for which procedure (court, children's services)?
+- The forms Béatrice sent for Lillian and Xavier to fill in to defend Gwen: they probably concern the 2025-2026 custody decision about Julia, Clément and Alexandre (see [Gwen](gwen.md)): which procedure exactly?
 
 - Surname, age, date of birth? Where did she work as a dental assistant (surgery, dates), and did she keep that job?
 - Nationality, family of origin, childhood? Did she grow up in Saint-Brevin or elsewhere?

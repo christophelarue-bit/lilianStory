@@ -53,6 +53,8 @@ On holiday in Corrèze for a week (summer 2022 or 2023), Julia is joyful, lively
 
 ## To clarify
 
+- (Draft, rule 6) Julia goes to Thomas's house in 2025-2026 by the judge's decision, changing school. Christophe says she was tired of being « Cosette » or « Cendrillon » (cooking, doing the house chores for her siblings); how does she see it? See [Gwen](gwen.md).
+
 - The year of the Corrèze holiday (2022 or 2023?) and Julia's age then (see [07-02](../periods/07-02-holidays-in-correze.md)).
 
 - Birth year, where they live, what they do?

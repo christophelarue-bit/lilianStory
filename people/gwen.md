@@ -71,6 +71,11 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - **Thomas.** She meets [Thomas](thomas.md), a petty officer, on a liner in Saint-Nazaire where she works as a waitress. He leads her to leave Aymeric and encourages her to come to Le Havre, where he has been posted.
 - **Eliot.** Aymeric says she abandoned Eliot. A court ruling entrusts Eliot to his father, who raises him. Gwen sees him during the holidays.
 - **Her second family.** With Thomas, who has more financial resources (petty officer on container ships), she has [Alexandre](alexandre.md), [Julia](julia.md) and [Clément](clement.md). They are never married.
+- **Le Havre (Thomas at the naval school).** When Eliot is about 1 year old, Gwen goes to Le Havre to live with Thomas, who is at the naval school (école de la marine), for about a year, while he has one or two years left to study. Eliot stays in Saint-Brevin with Aymeric, whom Gwen leaves. Aymeric at first does not necessarily want custody; [Cécile](cecile.md), his partner, is there for Eliot. About 3 years later Gwen tries to get custody back, but Eliot is well where he is. Meanwhile she gets pregnant with Alexandre in Le Havre.
+- **The move to Luz (Christophe's view, to confirm).** Thomas, pragmatic, waits for the end of his studies, then wants to move to « Luz » (the house of the 2018 reunion, 7 bedrooms, large garden, pool maybe). Gwen could have asked for Saint-Nazaire, a big port near her son, but follows him: Christophe sees it as her second big mistake, the first having been to leave Aymeric and Eliot behind. Thomas is the sole owner of the house, nearly paid off. Gwen invested in it, helping to find it and negotiate the flat.
+- **Resources.** She had the support of her grandparents and of Béatrice. Even when she was with Thomas, Papouche kept sending her money, almost 1000 euros a month at times (Lillian's account), and she asked him at the end of each month, shopping in boutiques (lingerie, bras at nearly 100 euros), while Thomas, who always earned well, found it embarrassing. Lillian thinks Papouche contributed to the problem, without blaming him: he should have stopped the flow at some point.
+- **The shelter.** According to Christophe, the only good choice she made was to leave with the 3 children to a women's shelter, because life with Thomas was untenable: he ran her whole life and imposed everything. She had hit the bottom and decided to take a breath.
+- **2025-2026: loss of custody (Sensitive, draft).** A judge has just decided (recently, after about a year of proceedings) that the three children go to Thomas, so as not to break the siblings. Alexandre, 16, was allowed to stay with his mother if the parents agreed, and chose to stay with Gwen, who is moving to Blois, into a two-room flat. Julia and Clément go to Thomas's house in the mountains (ski). Gwen goes from three children plus her to one plus her. Béatrice has sent Lillian and Xavier forms to fill in to defend Gwen. Lillian had long told Béatrice that Gwen should share housing with another single mother, to help each other, find a bigger flat, and be in a community (church, restaurants).
 - **After Papouche's death (2018).** According to Lillian, Papouche's death was the trigger for Gwen, who then left Thomas with the three children (about a month after the death, so around October 2018, to confirm). Gwen then had a newborn, Clément, born in June 2018.
 - **Her reaction to Papouche's death (September 2018).** When Lillian phones her to announce it, Gwen screams in atrocious pain, as if a part of her had died, unable to speak. About a month later she takes steps to leave Thomas.
 - **The family's strong moments.** She has always been there for the family's strong moments, and she handled the deaths of Papouche and Mamouche.
@@ -89,6 +94,12 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - Around 1995, Gwen and Lillian (16) go on holiday to New York to see their father (when exactly, and was it the city or New York State, are to be clarified).
 
 ## To clarify
+
+- (Draft, rule 6) The custody decision: what exactly did the judge decide, when, and what is next (appeal, visits)? Where is Gwen living and with whom (Blois)?
+- (Draft) The forms from Béatrice: for what procedure, and what are Lillian and Xavier asked to testify?
+- The women's shelter: when (about October 2018), where, how long, and how did she get out? And the years in Vendôme?
+- The money from Papouche: when did it start and stop, how much, and did Béatrice know? Did Mamouche know?
+- Who adopted Eliot (Aymeric, Cécile), and why did she come back for custody about 3 years after leaving? (see [Aymeric](aymeric.md), [Cécile](cecile.md))
 
 - The psychologist's view that Gwen reproduces with her children (Julia, Alexandre) what Béatrice did with Lillian and her: concrete memories of Julia cooking and Alexandre looking after the children?
 

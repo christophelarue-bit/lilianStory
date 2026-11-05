@@ -124,7 +124,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 **Events and stories**
 
 - The birthday money and the EDF bills: how old was Lillian, and how did Béatrice's finances really look then (dental assistant's salary, child support, debts)? How much was Lillian paid for babysitting, and how often?
-- The forms Béatrice sent today for Lillian and Xavier to fill in to defend Gwen: for which procedure (court, children's services)?
+- The forms Béatrice sent for Lillian and Xavier to fill in to defend Gwen: they probably concern the 2025-2026 custody decision about Julia, Clément and Alexandre (see [Gwen](people/gwen.md)): which procedure exactly?
 - Nationality, family of origin, childhood? Did she grow up in Saint-Brevin or elsewhere?
 - Where and with whom was she an au pair in Frankfurt? Why Germany?
 - The 1975-1980 period (to ask Béatrice): meeting, start of life as a couple, married or not, arrival in Heidelberg.
@@ -142,7 +142,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
 - Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
 
-## [Gwen](people/gwen.md) — 25 questions
+## [Gwen](people/gwen.md) — 30 questions
 
 
 **Identity and background**
@@ -162,6 +162,11 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) The custody decision: what exactly did the judge decide, when, and what is next (appeal, visits)? Where is Gwen living and with whom (Blois)?
+- (Draft) The forms from Béatrice: for what procedure, and what are Lillian and Xavier asked to testify?
+- The women's shelter: when (about October 2018), where, how long, and how did she get out? And the years in Vendôme?
+- The money from Papouche: when did it start and stop, how much, and did Béatrice know? Did Mamouche know?
+- Who adopted Eliot (Aymeric, Cécile), and why did she come back for custody about 3 years after leaving? (see [Aymeric](people/aymeric.md), [Cécile](people/cecile.md))
 - The psychologist's view that Gwen reproduces with her children (Julia, Alexandre) what Béatrice did with Lillian and her: concrete memories of Julia cooking and Alexandre looking after the children?
 - (Draft) The story of Clément on the motorway and Julia, and the papers Béatrice sent to defend Gwen: what exactly happened, and when?
 - Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
@@ -185,7 +190,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - The first pregnancy with Aymeric ended in an abortion: how did she experience it, and who knew? (sensitive)
 
-## [Eliot (Gwen's first son)](people/eliot.md) — 6 questions
+## [Eliot (Gwen's first son)](people/eliot.md) — 8 questions
 
 
 **Identity and background**
@@ -198,12 +203,14 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- **Birth date discrepancy**: this file says 13 March 2005, but Christophe says Eliot was born in 2003 (23 in 2026, 24 later). Which is right? (The Greece trip at 16 would be 2019-2021 if born in 2003 or 2005.)
+- After Gwen left, Eliot was raised by Aymeric and [Cécile](people/cecile.md): who adopted him?
 - Year and details of the Greece trip (see [06-03](periods/06-03-greece-with-eliot.md)); has the closeness lasted?
 - How does he see the court ruling and his childhood with his father?
 - Has Lillian seen him grow up? When did they last see each other?
 - Was he aware of the fight in July 2018, and how did he react? Where did he sleep?
 
-## [Alexandre (child of Gwen and Thomas)](people/alexandre.md) — 5 questions
+## [Alexandre (child of Gwen and Thomas)](people/alexandre.md) — 6 questions
 
 
 **Identity and background**
@@ -216,11 +223,12 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) In 2025-2026, Alexandre (16) chose to stay with his mother, moving to Blois, while Julia and Clément go to Thomas. He skipped school for a week at the time. Where does he stand now? See [Gwen](people/gwen.md).
 - Was Alexandre one of the children Gwen asked Lillian to look after in 2021?
 - The towel incident in July 2018: why, was it usual, and how did he live it?
 - What did he do during the two days of hiking with Thomas, and how did he talk about it afterwards?
 
-## [Julia (child of Gwen and Thomas)](people/julia.md) — 5 questions
+## [Julia (child of Gwen and Thomas)](people/julia.md) — 6 questions
 
 
 **Identity and background**
@@ -233,11 +241,12 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) Julia goes to Thomas's house in 2025-2026 by the judge's decision, changing school. Christophe says she was tired of being « Cosette » or « Cendrillon » (cooking, doing the house chores for her siblings); how does she see it? See [Gwen](people/gwen.md).
 - The year of the Corrèze holiday (2022 or 2023?) and Julia's age then (see [07-02](periods/07-02-holidays-in-correze.md)).
 - Was Julia one of the children Gwen asked Lillian to look after in 2021?
 - July 2018: was she at the reunion, and how did she live the fight between her parents?
 
-## [Clément (child of Gwen and Thomas)](people/clement.md) — 5 questions
+## [Clément (child of Gwen and Thomas)](people/clement.md) — 6 questions
 
 
 **Identity and background**
@@ -250,11 +259,12 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) In 2025-2026, Clément (8) goes to Thomas with his sister Julia, leaving his brother Alexandre and his mother: how does he cope, and who explains it to him? See [Gwen](people/gwen.md).
 - Was Clément one of the children Gwen asked Lillian to look after in 2021?
 - Was he at the July 2018 reunion (a newborn, born in June)? Who looked after him during the fight?
 - After his mother left Thomas with the three children (after September 2018, to clarify), with whom did he live?
 
-## [Aymeric (Gwen's first husband)](people/aymeric.md) — 3 questions
+## [Aymeric (Gwen's first husband)](people/aymeric.md) — 4 questions
 
 
 **Identity and background**
@@ -267,9 +277,10 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- His partner [Cécile](people/cecile.md): since when, and who adopted Eliot? Did he want custody of Eliot at the start (Christophe says he did not necessarily want it)?
 - His version of the separation and the ruling; Gwen's version?
 
-## [Thomas (Gwen's partner)](people/thomas.md) — 7 questions
+## [Thomas (Gwen's partner)](people/thomas.md) — 8 questions
 
 
 **Identity and background**
@@ -282,6 +293,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) Where exactly is the house (Luz?) and what does he do now? Did he and Gwen separate in 2018, and is he the one the children now live with?
 - Are he and Gwen still together? If not, when did they separate?
 - What was his financial situation exactly, and did he support the family?
 - The 2018 fight: what was it about, and what did he mean by « une famille de dégénérés »? Where does the family live today (« Luce »/Lucé? Le Havre? Vendôme?), and is his income the 10,000 euros per month said (does Gwen work too)?
@@ -315,7 +327,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Does he know the story of Grandma Lillian's Christmas parcels? (Lillian says the "young one" does not understand it.) What does he know of Mark, and how much contact have they had?
 - Why was the July 2018 reunion hard for him: the fight itself, Gwen and Thomas, Mark, Papouche's death soon after?
 
-## [Papouche (the maternal grandfather)](people/maternal-grandfather.md) — 14 questions
+## [Papouche (the maternal grandfather)](people/maternal-grandfather.md) — 15 questions
 
 
 **Identity and background**
@@ -329,6 +341,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Money to Gwen: Papouche kept sending her money, almost 1000 euros per month at times, even when she lived with Thomas (see [Gwen](people/gwen.md)). How much and for how long, and did Lillian or Xavier receive anything? Did Béatrice or Mamouche know?
 - Lillian believes that Papouche's and Mamouche's energies join the « source » and her own (see [Lillian](people/lillian.md)): how did she live Papouche's death in this light?
 - Where exactly was the family housed, and for how long?
 - Lillian's memories with him: the scenes, places and words that made him an anchor?
@@ -1013,6 +1026,21 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - (Draft, rule 6) Her age, occupation, and where she lives?
 - (Draft) How often do they see each other and by what means?
 - (Draft) Is she the same as the mother in the 2022 holiday story, and what does Lillian call her?
+
+## [Cécile](people/cecile.md) — 3 questions
+
+
+**Identity and background**
+
+- Surname, age, occupation, and how long has she been with Aymeric?
+
+**Relationship with Lillian and with others**
+
+- What is her relationship with Lillian and Gwen?
+
+**Events and stories**
+
+- Who adopted Eliot (Aymeric, Cécile?), when, and was it a legal adoption or a family arrangement?
 
 ## [Mike](people/mike.md) — 4 questions
 

@@ -55,6 +55,8 @@ Lillian knew him little as her nephew from the United States. In about 2021-2022
 
 ## To clarify
 
+- **Birth date discrepancy**: this file says 13 March 2005, but Christophe says Eliot was born in 2003 (23 in 2026, 24 later). Which is right? (The Greece trip at 16 would be 2019-2021 if born in 2003 or 2005.)
+- After Gwen left, Eliot was raised by Aymeric and [Cécile](cecile.md): who adopted him?
 - Year and details of the Greece trip (see [06-03](../periods/06-03-greece-with-eliot.md)); has the closeness lasted?
 
 - Birth year, where he lives, what he does?

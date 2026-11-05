@@ -50,11 +50,16 @@
 
 ## Anecdotes and stories
 
+- **Student at the naval school of Le Havre**: when Gwen met him he was a student, then trained at the naval school (école de la marine) in Le Havre, where they lived for a year. He always earned well afterwards, and was embarrassed that Gwen asked her grandfather for money. He is pragmatic: he waited to finish his studies, then chose where to live (the house in Luz).
+- **Authority (Christophe's view, Sensitive)**: according to Christophe, he ran Gwen's life and imposed everything, which made it untenable; Gwen left for a women's shelter in 2018. In 2025-2026 the judge entrusts Julia and Clément to him (see [Gwen](gwen.md)); Alexandre, 16, chose to stay with his mother. Lillian's account says he is not very tender with Alexandre.
+- He owns the 7-bedroom house in « Luz » (large garden, perhaps a pool) 100%, nearly paid off.
+
 - **The 2018 family reunion (July 2018, Sensitive)**: during a lunch on the terrace of the house, he and Gwen go inside and fight loudly; he shouts and insults the family (« une famille de dégénérés »). He then leaves for two days of hiking in the mountains with Alexandre. At the table, he hits Alexandre with a towel (about his behaviour at table, to clarify). He then sends messages to Béatrice saying that she should manage Gwen and that she will see she cannot manage her money.
 - According to Lillian, he is close with his money and holds somewhat far-right views (to be confirmed with Lillian; her opinion, not a fact).
 
 ## To clarify
 
+- (Draft, rule 6) Where exactly is the house (Luz?) and what does he do now? Did he and Gwen separate in 2018, and is he the one the children now live with?
 - Surname, age, rank, shipping company?
 - Are he and Gwen still together? If not, when did they separate?
 - What was his financial situation exactly, and did he support the family?

@@ -19,6 +19,7 @@
 ## Relationships between people
 
 - [Gwen](gwen.md): his first wife. Gwen fell for his looks while she was a waitress. The marriage was forced by her family because she was pregnant with Eliot. She left him because she was bored with him: according to her, he was always on a screen, playing video games, or at work.
+- [Cécile](cecile.md): his partner
 - [Eliot](eliot.md): his son. He said Gwen had abandoned Eliot, and a court ruling entrusted Eliot to him. He raised him.
 - [Thomas](thomas.md): the man for whom Gwen left him.
 
@@ -53,6 +54,8 @@
 *(to be completed)*
 
 ## To clarify
+
+- His partner [Cécile](cecile.md): since when, and who adopted Eliot? Did he want custody of Eliot at the start (Christophe says he did not necessarily want it)?
 
 - Surname, age, where he lives, is he still a florist?
 - His version of the separation and the ruling; Gwen's version?

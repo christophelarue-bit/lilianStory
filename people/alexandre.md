@@ -53,6 +53,8 @@
 
 ## To clarify
 
+- (Draft, rule 6) In 2025-2026, Alexandre (16) chose to stay with his mother, moving to Blois, while Julia and Clément go to Thomas. He skipped school for a week at the time. Where does he stand now? See [Gwen](gwen.md).
+
 - Birth year, gender and pronouns to use, where they live, what they do?
 - Was Alexandre one of the children Gwen asked Lillian to look after in 2021?
 - What ties with Lillian, Eliot and the other siblings?
