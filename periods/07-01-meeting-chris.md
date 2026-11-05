@@ -27,6 +27,10 @@
 - **Life anecdotes**: *(draft)*
 - **Emotionally strong or deep stories in the relationship**: *(draft)*
 
+### [Charlotte](../people/charlotte.md)
+
+- **Role during this period**: boarding-school friend, who lives 10 minutes' walk from Lillian and Chris in Nantes (shop restoring old furniture)
+
 ### [Louis](../people/louis.md)
 
 - **Role during this period**: Chris's son, who lives in Nice and has lived with Lillian and Chris for a year, one week out of two

@@ -41,9 +41,9 @@
 - **Role during this period**: Chris's father
 - **Life anecdotes**: Julia plays with him without any worry
 
-### Chris's mother
+### [Nicole](../people/nicole.md)
 
-- **Role during this period**: present (first name to ask)
+- **Role during this period**: Chris's mother; puts Lillian, anxious and sick from nerves, at ease and drives her to the pharmacy
 
 ### [Sébastien](../people/sebastien.md) and [Émilie](../people/emilie.md)
 
@@ -55,9 +55,10 @@
 
 ## Stories and small details
 
-- One week of holidays in the family house of Chris, with Lillian, Louis, Julia, Chris's mother and father ([Patrice](../people/patrice.md)), his brother [Sébastien](../people/sebastien.md), his sister-in-law [Émilie](../people/emilie.md) and their three children.
+- One week of holidays in the family house of Chris, with Lillian, Louis, Julia, Chris's mother ([Nicole](../people/nicole.md)) and father ([Patrice](../people/patrice.md)), his brother [Sébastien](../people/sebastien.md), his sister-in-law [Émilie](../people/emilie.md) and their three children.
 - Julia is joyful, lively and curious about everything, always motivated, and hyperactive like Gwen. Although the two boys (Louis and Raphaël) tend to be exclusive, she manages to play with them. She also plays with the adults (Patrice, Chris).
 - Activities: a lot of swimming, walks in the forest, a boat on the pond, the Switch console, board games by the fire.
+- First meeting with Chris's family: Lillian is anxious, then upset in the stomach; [Nicole](../people/nicole.md) takes her to the pharmacy by car and talks all the way, which calms her. The atmosphere with [Patrice](../people/patrice.md) is cooler at first (he intimidates her, he hears poorly); they truly talk 2 years later, when he visits Nice for 2 days.
 - Lillian was a little ill during part of the stay and enjoyed her niece less than she wished. She wants to live holiday moments with her nephews and nieces: Eliot in Greece, Julia in Corrèze, and later [Clément](../people/clement.md) (the youngest) and [Alexandre](../people/alexandre.md) (the eldest of Gwen's children with Thomas).
 - Lillian sees many traits of Gwen in Julia, especially the hyperactivity and the need for stimulation.
 
@@ -68,5 +69,5 @@
 ## To clarify
 
 - Date: the account says 2022 and that Lillian had been Chris's girlfriend for 5 months, but the meeting on Tinder is dated April 2023. Which year (2022 or summer 2023)?
-- Who is Chris's mother (first name), and where is the house in Corrèze?
+- Where is the house in Corrèze?
 - Julia's age at the time, and how did Gwen come to let her go with Lillian?

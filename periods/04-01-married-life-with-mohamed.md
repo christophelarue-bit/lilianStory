@@ -44,6 +44,10 @@
 - **Life anecdotes**: Black woman of about 60 who knew segregation and went back to school for a master's
 - **Emotionally strong or deep stories in the relationship**: a very strong friendship; she helps Lillian understand and take stock of her life
 
+### [Veronica](../people/veronica.md)
+
+- **Role during this period**: friend who goes with Lillian and Kim to Hawaii when Lillian leaves Julien at the hotel
+
 ### [Julien](../people/julien.md)
 
 - **Role during this period**: a married man Lillian dates after the second separation

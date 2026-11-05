@@ -49,6 +49,10 @@
 
 - **Role during this period**: schoolmate to whom Lillian repeats the secret
 
+### [Charlotte](../people/charlotte.md)
+
+- **Role during this period**: boarding-school friend in 1ère and terminale, met at the same time as Sandrine
+
 ### [Xavier](../people/xavier.md)
 
 - **Role during this period**: brother, born shortly after summer 1985 (about 6 years younger than Lillian)
@@ -113,7 +117,7 @@
 - Daily life: school, friends, activities, teenage passions?
 - Mark: besides calls, postcards and birthday gifts (1995-1998), any visits? The ring sold by Gwen: when exactly, and how did Lillian react?
 - Structure: a single period or several (childhood / adolescence)?
-- Charlotte, boarding-school friend (with Sandrine): surname, role?
+- [Charlotte](../people/charlotte.md), boarding-school friend (with Sandrine), in 1ère and terminale at Saint-Nazaire according to Christophe: is it the same school as La Baule / Lycée Grand Air? Surname?
 - Is the Lycée Grand Air the boarding school of La Baule already noted?
 - School: boarding school in La Baule (which years, why?) and the French baccalauréat (when, where?)
 - The trip to New York at 16 with Gwen: when exactly, was it the city or New York State, how did it go?
