@@ -1062,7 +1062,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - The story of the marriage proposal to Adriana (the « swing »)?
 - The abortion after which he let her stay: when, where, and who knew?
 
-## [Kim](people/kim.md) — 8 questions
+## [Kim](people/kim.md) — 9 questions
 
 
 **Identity and background**
@@ -1071,8 +1071,9 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
-- Which flight and which country for the hospital story (Puerto Rico or the Dominican Republic), what was the diagnosis, and how did it end for Kim? What did Lillian say or do the next day (the end was cut)?
-- Kim's son: first name and age? Her lupus: since when?
+- Which flight and country (Puerto Rico or the Dominican Republic, the account leans to the Dominican Republic) and when (2014 or 2015)?
+- Kim's three children: first names and ages? Her aunt in Maui: name and where?
+- Kim's flight attendant career: how long at Omni Air, and why Maui?
 - [Veronica](people/veronica.md): who is she for Kim (another flight attendant)? She went to Hawaii with Lillian and Kim.
 - Which airline was Kim working for? Where was she based?
 - Why did she leave David, and why did she make Lillian's move a condition of their friendship?

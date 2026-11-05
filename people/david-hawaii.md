@@ -48,6 +48,8 @@ His welcome saved her move to Hawaii when, tickets and suitcases ready, she sudd
 
 ## Anecdotes and stories
 
+- **Healer and natural guru**: Kim met him in Maui, where she had gone to stay at her aunt's flat after leaving the airline for health reasons; he had the reputation of a healer, a natural guru. They lived together for about 6 months (not longer, Lillian says).
+
 - 2016: Kim announces at the last minute that she has left David and that, if Lillian goes to live at his place, they are no longer friends. Lillian, with her tickets and her suitcases ready, feels « fucked » [stuck]. David tells her that Kim's departure changes nothing, and she moves in with him in Maui (see [05-02](../periods/05-02-nurse-in-hawaii.md)).
 
 ## To clarify
