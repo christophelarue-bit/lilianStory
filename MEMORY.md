@@ -148,6 +148,7 @@ periods/
   03-01-syracuse-finding-dad.md
   03-02-new-york-city.md
   04-01-married-life-with-mohamed.md
+  04-02-nurse-in-hospices-baltimore.md
   05-01-flight-attendant.md
   05-02-nurse-in-hawaii.md
   05-03-nurse-in-alaska.md
@@ -257,6 +258,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [03-01 — Syracuse: finding Dad](periods/03-01-syracuse-finding-dad.md) | Arrival on 11 September 1998, life with Mark, Clara's ultimatum, leaving Syracuse. |
 | [03-02 — New York City](periods/03-02-new-york-city.md) | David, Walter, meeting Mohamed. |
 | [04-01 — Married life with Mohamed](periods/04-01-married-life-with-mohamed.md) | 15 years of marriage (sensitive). |
+| [04-02 — Nurse in hospices, Baltimore](periods/04-02-nurse-in-hospices-baltimore.md) | 2008-2013, hospices, the office job, the decision to change. |
 | [05-01 — Flight attendant](periods/05-01-flight-attendant.md) | 2014-2016, Omni Air; the call of Hawaii. |
 | [05-02 — Nurse in Hawaii](periods/05-02-nurse-in-hawaii.md) | Maui, from 2016, welcomed by David. |
 | [05-03 — Nurse in Alaska](periods/05-03-nurse-in-alaska.md) | Seward, by the sea: the COVID, nature, Kim and friends. |
