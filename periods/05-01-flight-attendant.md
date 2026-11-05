@@ -47,6 +47,8 @@
 - **The rhythm**: trips of about 21 days, then a week off. As Lillian was separated from Mohamed, going home meant going back to Raleigh, so she often did not go home: she volunteered to work on her days off, paid 200 dollars a day, while the basic pay was almost nothing (minimum wage). She was sometimes away for 3 months. For her, the flight attendant period was the transition of the divorce.
 - **The crew**: mostly under 30, Lillian in between, and many in their forties; among them a Japanese woman of 70, Miske, a flight attendant for ages, and a Vietnamese woman of 50 (who then seemed old).
 - **Trips with Veronica**: a 2-month trip together and 9 days in Kuwait.
+- **The end of the magic**: Lillian was shocked that the airline did not contact Kim's family or her three children, who could have been brought by the many free tickets. At the next flight, a quality-control inspector asked everyone for their feedback; Lillian said she could not accept that a colleague was left in an underdeveloped country without contacting her family. He answered: « the show must go on, business has to go on as usual ». For Lillian, there was nothing human in that, and it was the beginning of the end of her utopia and of the magic of flying: if it happened to her in Kuwait, she would be left to die there. She did not resign yet.
+- **The pilots**: Arrived in Frankfurt, she went to the bar and, « in a French way », gave the pilots a piece of her mind (« cowardice »). They said they agreed with her, and afterwards they became much closer, especially with a Thai pilot (« Thaï », spelling unclear).
 - **Kim's chest pains**: on a flight to Puerto Rico or the Dominican Republic, Lillian takes Kim, who has lupus, to hospital; Lillian stays with her all night in a hospital with a power cut and one nurse for 2 floors; the flight leader orders her back to work and Lillian, furious, calls the captain. See [Kim](../people/kim.md).
 - 2015: a layover in Hawaii. Her friend and colleague [Kim](../people/kim.md), who knows the island and goes out with [David](../people/david-hawaii.md), shows it to her. Lillian has "the call of the island" and from then on wants to come back and live there.
 - 2016: tired of the partying and the constant travel of the job, she feels she must be more in tune with herself, end things with [Mohamed](../people/mohamed.md) and change her life for one with more meaning. She sends her resignation letter.
@@ -56,6 +58,9 @@
 *(to be completed)*
 
 ## To clarify
+
+- The Thai pilot: his name (« T-Y »?), nationality, and how close were they? Which flight and when was the inspector scene?
+- The remark about being dismissed (the flight leader: « you are out of bounds », which Lillian reported as « too much »)? Was Lillian really threatened?
 
 - Airline, dates, bases, routes? Where was she based, and what is the « test de l'air » where she met Veronica?
 - Separated from Mohamed during this time: since when, and did they officially stay married until 2016?
