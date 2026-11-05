@@ -117,6 +117,7 @@ people/
   adriana.md
   jose.md
   mike.md
+  cecile.md
   veronica.md
   charlotte.md
   nicole.md
@@ -225,6 +226,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [veronica](people/veronica.md) | Friend who went to Hawaii with Lillian and Kim. |
 | [charlotte](people/charlotte.md) | Boarding-school friend, restores old furniture in Nantes. |
 | [nicole](people/nicole.md) | Chris's mother; put Lillian at ease in Corrèze. |
+| [cecile](people/cecile.md) | Aymeric's partner, present in Eliot's life. |
 | [mike](people/mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [kim](people/kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [daniel](people/daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |

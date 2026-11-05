@@ -61,6 +61,7 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Veronica](veronica.md) | Friend who went to Hawaii with Lillian and Kim. |
 | [Charlotte](charlotte.md) | Boarding-school friend, restores old furniture in Nantes. |
 | [Nicole](nicole.md) | Chris's mother; put Lillian at ease in Corrèze. |
+| [Cécile](cecile.md) | Aymeric's partner, present in Eliot's life. |
 | [Mike](mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [Kim](kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [Daniel](daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
