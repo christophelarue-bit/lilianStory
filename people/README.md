@@ -52,12 +52,15 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Julie F.](julie-flazon.md) | Middle-school friend; her sister's secret (sensitive). |
 | [Mr Kérezoré](kerezore.md) | Spanish teacher at middle school (sensitive). |
 | [Laura Moreau](laura-moreau.md) | School friend who repeated the secret. |
-| [Patrice](patrice.md) | Chris's father. |
-| [Sébastien](sebastien.md) | Chris's brother. |
-| [Émilie](emilie.md) | Chris's sister-in-law. |
+| [Patrice](patrice.md) | Chris's father; talked with Lillian 2 years after Corrèze, in Nice. |
+| [Sébastien](sebastien.md) | Chris's brother, urologist surgeon in Nantes. |
+| [Émilie](emilie.md) | Chris's sister-in-law, obstetrician. |
 | [Romane](romane.md) | Chris's niece (2010). |
 | [Raphaël](raphael.md) | Chris's nephew (2013). |
 | [Hanae](hanae.md) | Chris's niece (2016). |
+| [Veronica](veronica.md) | Friend who went to Hawaii with Lillian and Kim. |
+| [Charlotte](charlotte.md) | Boarding-school friend, restores old furniture in Nantes. |
+| [Nicole](nicole.md) | Chris's mother; put Lillian at ease in Corrèze. |
 | [Mike](mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [Kim](kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [Daniel](daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |

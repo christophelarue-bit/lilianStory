@@ -117,6 +117,9 @@ people/
   adriana.md
   jose.md
   mike.md
+  veronica.md
+  charlotte.md
+  nicole.md
   patrice.md
   sebastien.md
   emilie.md
@@ -214,11 +217,14 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [kerezore](people/kerezore.md) | Spanish teacher at middle school (sensitive). |
 | [laura-moreau](people/laura-moreau.md) | School friend who repeated the secret. |
 | [patrice](people/patrice.md) | Chris's father. |
-| [sebastien](people/sebastien.md) | Chris's brother. |
-| [emilie](people/emilie.md) | Chris's sister-in-law. |
+| [sebastien](people/sebastien.md) | Chris's brother, urologist surgeon in Nantes. |
+| [emilie](people/emilie.md) | Chris's sister-in-law, obstetrician. |
 | [romane](people/romane.md) | Chris's niece (2010). |
 | [raphael](people/raphael.md) | Chris's nephew (2013). |
 | [hanae](people/hanae.md) | Chris's niece (2016). |
+| [veronica](people/veronica.md) | Friend who went to Hawaii with Lillian and Kim. |
+| [charlotte](people/charlotte.md) | Boarding-school friend, restores old furniture in Nantes. |
+| [nicole](people/nicole.md) | Chris's mother; put Lillian at ease in Corrèze. |
 | [mike](people/mike.md) | Hawaii friend, car dealer; received and sent her French passport in 2020. |
 | [kim](people/kim.md) | Flight attendant friend; introduced Lillian to Hawaii and to David, then broke up with him just before the move. |
 | [daniel](people/daniel.md) | Romantic encounter in 2021 in Rennes (sensitive). |
