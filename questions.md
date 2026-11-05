@@ -989,12 +989,12 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - How did she get along with Lillian?
 
-## [Veronica](people/veronica.md) — 4 questions
+## [Veronica](people/veronica.md) — 7 questions
 
 
 **Identity and background**
 
-- Who is she: a flight attendant colleague of Lillian and Kim, a nurse, or another friend? Surname, origin, where does she live?
+- Surname, where does she live, and is she still in touch with Lillian?
 
 **Dates and chronology**
 
@@ -1002,8 +1002,11 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- What is the « test de l'air » (selection or training at the airline) where they met?
+- Which long trip of 2 months, and the 9 days in Kuwait: which flights and when?
 - Was she close to Lillian at the time, and did she know about Julien and the marriage? Are they still in touch?
 - Does she appear elsewhere in the story (Maui in 2016, Alaska)?
+- Why did Lillian bring Veronica and Kim to Hawaii when leaving Julien: because they were with her on the flights?
 
 ## [Charlotte](people/charlotte.md) — 4 questions
 

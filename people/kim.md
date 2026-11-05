@@ -13,7 +13,7 @@
 - **Role in Lillian's life**: friend, flight attendant colleague
 - **Nationality / origin**: to clarify
 - **Place of residence**: Hawaii (to clarify)
-- **Dates**: to clarify
+- **Dates**: about 10 years older than Lillian (about 46 at the time of the flights); has lupus; has a son
 - **Occupation**: flight attendant
 
 ## Relationships between people
