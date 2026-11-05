@@ -21,6 +21,9 @@ An abortion marks this era: Mohamed prefers to leave her alone. Two separations 
 | Period | Dates | Place |
 |---|---|---|
 | [04-01 — Married life with Mohamed](../periods/04-01-married-life-with-mohamed.md) | 15 years | Albany, Raleigh and other places |
+| [04-02 — Nurse in hospices, Baltimore](../periods/04-02-nurse-in-hospices-baltimore.md) | 2008-2013 | Baltimore |
+
+In the meantime, Lillian studies nursing (2006-2008) and works as a nurse in hospices and nursing homes in Baltimore until 2013, when the death of her American grandmother and an office job in a for-profit hospice agency push her to change her life (see [04-02](../periods/04-02-nurse-in-hospices-baltimore.md)).
 
 ## Common thread and stakes
 
