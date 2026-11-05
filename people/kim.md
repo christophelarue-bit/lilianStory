@@ -49,11 +49,15 @@ She is at the origin of Lillian's wish to live in Hawaii. In 2016 she suggested 
 
 ## Anecdotes and stories
 
+- **The chest pains (Sensitive: health)**: during a flight to Puerto Rico or the Dominican Republic, Kim has chest pains and Lillian insists on going to hospital, which Kim first refuses. On landing they go to the emergency room, where a heart attack is first suspected and the doctor wants to keep her. The country is poor: the power fails, the generator comes on, and there is one nurse for 2 floors, so everything takes a very long time. Lillian spends nearly the whole night with Kim, who holds her hand and says, in tears: « if I die, tell my son ». The flight leader then tells Lillian she must go back to work the next day. Furious, she calls the captain in his room; he tells her to go to bed and sleep because they must leave the next day. She flies furious the next day (the end of the story is missing).
+
 - To confirm, because Kay and Kim are two different women: in Seward, Alaska, she lives in the same building as Lillian, with a gay friend: they often have pyjama parties (see [05-03](../periods/05-03-nurse-in-alaska.md)).
 - 2015: during a layover in Hawaii (Lillian then works for Omni Air), Kim and David show her the island. Lillian wants to come back and live there.
 
 ## To clarify
 
+- Which flight and which country for the hospital story (Puerto Rico or the Dominican Republic), what was the diagnosis, and how did it end for Kim? What did Lillian say or do the next day (the end was cut)?
+- Kim's son: first name and age? Her lupus: since when?
 - [Veronica](veronica.md): who is she for Kim (another flight attendant)? She went to Hawaii with Lillian and Kim.
 
 - Surname, origin, age?

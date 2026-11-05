@@ -76,6 +76,7 @@ Husband for 15 years.
 
 - **To ask Lillian**: in which year did the marriage end, was there an official divorce (date, where), and why at that moment? (Era 05 says 2016; Lillian says « 15 years of marriage » and later « divorced not so long ago » in 2020.)
 
+- Separation during the flight attendant years: Lillian says she was separated from Mohamed then (2014-2016) and that going home meant going back to Raleigh. Is this the second separation, and when did it start?
 - Dates and reasons of the first and the second separation, and how Lillian came back each time?
 - **To ask Lillian**: the meeting in the dart bar (which city, which year), the evening she locked herself in her car, the hospital, and what she saw in him.
 - Origin, family, religion: what place does religion have in their life?

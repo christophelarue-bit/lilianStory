@@ -619,7 +619,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - Sensitive subject (ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.
 
-## [Mohamed](people/mohamed.md) — 19 questions
+## [Mohamed](people/mohamed.md) — 20 questions
 
 
 **Identity and background**
@@ -637,6 +637,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 **Events and stories**
 
 - **To ask Lillian**: in which year did the marriage end, was there an official divorce (date, where), and why at that moment? (Era 05 says 2016; Lillian says « 15 years of marriage » and later « divorced not so long ago » in 2020.)
+- Separation during the flight attendant years: Lillian says she was separated from Mohamed then (2014-2016) and that going home meant going back to Raleigh. Is this the second separation, and when did it start?
 - **To ask Lillian**: the meeting in the dart bar (which city, which year), the evening she locked herself in her car, the hospital, and what she saw in him.
 - Alcohol: confirmed as being Mohamed's (and, in private, with Lillian?). Did Lillian drink too?
 - Marriage: place of the wedding (March 2003), end of the marriage? (2016, near Baltimore, when she leaves for Hawaii: to confirm)
@@ -1061,7 +1062,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - The story of the marriage proposal to Adriana (the « swing »)?
 - The abortion after which he let her stay: when, where, and who knew?
 
-## [Kim](people/kim.md) — 6 questions
+## [Kim](people/kim.md) — 8 questions
 
 
 **Identity and background**
@@ -1070,6 +1071,8 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Which flight and which country for the hospital story (Puerto Rico or the Dominican Republic), what was the diagnosis, and how did it end for Kim? What did Lillian say or do the next day (the end was cut)?
+- Kim's son: first name and age? Her lupus: since when?
 - [Veronica](people/veronica.md): who is she for Kim (another flight attendant)? She went to Hawaii with Lillian and Kim.
 - Which airline was Kim working for? Where was she based?
 - Why did she leave David, and why did she make Lillian's move a condition of their friendship?
