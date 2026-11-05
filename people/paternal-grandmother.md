@@ -7,13 +7,14 @@
 | Period | Era | Place | What was shared |
 |---|---|---|---|
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | United States (parcels sent to France) | Every Christmas she sends the children a huge parcel of gifts |
+| [04-02 — Nurse in hospices, Baltimore](../periods/04-02-nurse-in-hospices-baltimore.md) | [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md) | United States | Her death in 2013 shakes Lillian |
 
 ## Identity
 
 - **Role in Lillian's life**: paternal grandmother, namesake of Lillian
 - **Nationality / origin**: American (to confirm)
 - **Place of residence**: around Syracuse, New York State
-- **Dates**: born around 1924 (widowed at 36, when Mark was 8; to confirm); deceased (date to clarify)
+- **Dates**: born around 1924 (widowed at 36, when Mark was 8; to confirm); died in 2013, at about 88-89 (September or November, to confirm)
 - **Occupation**: accountant's widow, then waitress in diners
 
 ## Relationships between people
@@ -63,6 +64,8 @@ Lillian bears her first name: she was named after her. Throughout Lillian's chil
 - **The family lie**: when Lillian was little, her grandmother told her that Larry's father was ill. Lillian learned the reality after her grandmother's death.
 
 ## To clarify
+
+- Her death in 2013 (September or November): where, how, and where was Lillian? It shook Lillian and contributed to her change of life (see [04-02](../periods/04-02-nurse-in-hospices-baltimore.md)).
 
 - Her surname, birthplace, and exact birth date?
 - Did Lillian meet her again after her visit to France (around 1991-1992), in 1995, in 1998?

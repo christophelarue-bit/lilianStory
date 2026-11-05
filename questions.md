@@ -377,7 +377,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - She took Spanish lessons with [Mr Kérezoré](people/kerezore.md), whom she revered as a respectable Christian without knowing his secret (**Sensitive**). Where and when were the lessons, and did she ever learn the truth?
 
-## [Grandma Lillian (the paternal grandmother)](people/paternal-grandmother.md) — 12 questions
+## [Grandma Lillian (the paternal grandmother)](people/paternal-grandmother.md) — 13 questions
 
 
 **Identity and background**
@@ -391,6 +391,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Her death in 2013 (September or November): where, how, and where was Lillian? It shook Lillian and contributed to her change of life (see [04-02](periods/04-02-nurse-in-hospices-baltimore.md)).
 - Did Lillian meet her again after her visit to France (around 1991-1992), in 1995, in 1998?
 - The circumstances of Larry's birth (told by Lillian as the son of a rape) and of his death at 14: what does the family know and say?
 - How did she raise 7 children alone after 1960, and what became of them? Did Jackie's scoliosis and health problems weigh on her, and is it linked to Peter's death while she was pregnant?
