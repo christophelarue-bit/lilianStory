@@ -4,7 +4,7 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Hawaii (layover), United States | Colleague and friend; introduces Lillian to the island in 2015 |
+| [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Hawaii (layover), United States | Colleague and friend (Omni Air); falls ill with lupus in flight; introduces Lillian to the island in 2015 |
 | [05-02 — Nurse in Hawaii](../periods/05-02-nurse-in-hawaii.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Maui, Hawaii, United States | Proposes the flatshare with David, then breaks up with him just before the move |
 | [05-03 — Nurse in Alaska](../periods/05-03-nurse-in-alaska.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | Seward, Alaska, United States | Lives in the same building as Lillian; pyjama parties |
 
@@ -19,11 +19,13 @@
 ## Relationships between people
 
 - [Lillian](lillian.md): friend and colleague
+- [Veronica](veronica.md): another close colleague and friend of Lillian
+- Her three children (first names to ask) and her aunt in Maui
 - [David (Hawaii)](david-hawaii.md): her boyfriend until 2016, whom she introduced to Lillian
 
 ## Relationship with Lillian
 
-A friend and fellow flight attendant. She knew Hawaii and, with David, showed the island to Lillian during a layover in 2015, which gave Lillian "the call of the island".
+A friend and fellow flight attendant at Omni Air, about 10 years older than Lillian, who has lupus. Lillian saved her in a crisis during a flight and stayed all night at her bedside in a hospital in a poor country, until the airline ordered her back to work. Kim then left the airline for Maui. She knew Hawaii and, with David, showed the island to Lillian during a layover in 2015, which gave Lillian "the call of the island".
 
 ## Impact on Lillian's life
 
