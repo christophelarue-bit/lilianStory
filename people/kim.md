@@ -54,6 +54,8 @@ She is at the origin of Lillian's wish to live in Hawaii. In 2016 she suggested 
 
 ## To clarify
 
+- [Veronica](veronica.md): who is she for Kim (another flight attendant)? She went to Hawaii with Lillian and Kim.
+
 - Surname, origin, age?
 - Which airline was Kim working for? Where was she based?
 - Why did she leave David, and why did she make Lillian's move a condition of their friendship?

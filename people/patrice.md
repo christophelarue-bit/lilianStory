@@ -10,18 +10,18 @@
 
 - **Role in Lillian's life**: Chris's father, host of the family house in Corrèze
 - **Nationality / origin**: French (to confirm)
-- **Place of residence**: Corrèze (family house, to confirm)
+- **Place of residence**: Corrèze (family house, to confirm); has a sister living near Nice
 - **Dates**: to clarify
 
 ## Relationships between people
 
 - [Christophe](christophe.md): his son
 - [Lillian](lillian.md): Chris's partner, met during the Corrèze holiday week
-- Chris's mother (name to ask), [Sébastien](sebastien.md) (Chris's brother), [Émilie](emilie.md) (sister-in-law), and their three children
+- [Nicole](nicole.md) (Chris's mother, his wife), [Sébastien](sebastien.md) (Chris's brother), [Émilie](emilie.md) (sister-in-law), and their three children
 
 ## Relationship with Lillian
 
-He was at the holiday week in Corrèze: he played with Julia, who got along easily with him, as with Chris.
+He was at the holiday week in Corrèze: he played with Julia, who got along easily with him, as with Chris. With Lillian the atmosphere was cooler: he intimidated her, and he has ear problems and hears conversations poorly, so he spoke little. They truly talked 2 years later, when he came to Nice for 2 days for the birthday of his sister, who lives in the region: Lillian and he spent time together and got to know each other.
 
 ## Impact on Lillian's life
 
@@ -47,9 +47,11 @@ He was at the holiday week in Corrèze: he played with Julia, who got along easi
 
 ## Anecdotes and stories
 
+- **The visit to Nice**: about 2 years after Corrèze, he comes for 2 days for his sister's birthday; Lillian and he spend time together and discover each other.
 - Draft (rule 6): Julia played with the adults, including Patrice, without any problem.
 
 ## To clarify
 
-- Is the Corrèze house his, and where exactly is it?
-- Chris's mother: first name?
+- (Draft, rule 6) Is the Corrèze house his, and where exactly is it?
+- (Draft) Which year was the Nice visit, for his sister's birthday?
+- (Draft) His occupation and age?

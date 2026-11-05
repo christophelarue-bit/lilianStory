@@ -16,7 +16,7 @@
 ## Relationships between people
 
 - [Lillian](lillian.md): best friend since the boarding school
-- Charlotte: another boarding-school friend of Lillian, seen less than Sandrine (no file yet)
+- [Charlotte](charlotte.md): another boarding-school friend of Lillian, met at the same time
 - [Christophe](christophe.md): she saw Sandrine when they lived in Nantes
 
 ## Relationship with Lillian
@@ -56,4 +56,4 @@ Described by Christophe as « deserving a chapter of her own » and as one of th
 - Sandrine's mother's death: when, and what role did Lillian play?
 - Why does Lillian not call Sandrine (not to be a burden), and does Sandrine know?
 - How did the two friends connect (the shared relationship with parents)?
-- Is it the Lycée Grand Air of La Baule (the boarding school already noted)? Charlotte, the other boarding-school friend: surname and role?
+- Is it the Lycée Grand Air of La Baule (the boarding school already noted)? Charlotte is the Saint-Nazaire boarding-school friend (see [Charlotte](charlotte.md)): same school?

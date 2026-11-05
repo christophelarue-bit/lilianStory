@@ -20,7 +20,7 @@
 
 - [Lillian](lillian.md): affair near the end of her marriage to [Mohamed](mohamed.md)
 - His wife and their two children: known to Lillian and Mohamed; the two couples knew each other
-- Delphine (friend from Kenya, no file yet) and Veronica: see below
+- Delphine (friend from Kenya, no file yet) and [Veronica](veronica.md): see below
 
 ## Relationship with Lillian
 
@@ -59,7 +59,7 @@ Lillian and Julien were colleagues; he was a nursing aide, and she saw him suffe
 - Surname and age? Where exactly in Raleigh (hospital) did they work?
 - When exactly and for how long? Before or after the second separation (earlier notes said after)?
 - Did he know it was over? Did their wives or Mohamed find out? Did they see each other again?
-- Which trip to Hawaii was it (with Kim and Veronica, the 2015 layover)? Who is Veronica, and Delphine (Kenya)?
+- Which trip to Hawaii was it (with Kim and Veronica, the 2015 layover)? Who is Veronica (see [Veronica](veronica.md)), and Delphine (Kenya)?
 - Mohamed went to Maryland and they were « on a break »: how does this fit with the two separations and the final return?
 - Dates of the first and the second separation, and how did Lillian get back with Mohamed each time?
 - Duration: see the two separations in [Mohamed](mohamed.md).

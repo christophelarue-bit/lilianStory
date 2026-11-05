@@ -10,7 +10,8 @@
 
 - **Role in Lillian's life**: Chris's brother
 - **Nationality / origin**: French (to confirm)
-- **Place of residence**: to clarify
+- **Place of residence**: Nantes
+- **Occupation**: urologist surgeon in Nantes, co-owner of his practice in a private hospital
 - **Dates**: to clarify
 
 ## Relationships between people
@@ -22,7 +23,7 @@
 
 ## Relationship with Lillian
 
-Present at the holiday week in Corrèze with his family.
+Chris's brother, a urologist surgeon in Nantes and a part-owner of his practice in a private hospital. Present at the holiday week in Corrèze with his family.
 
 ## Impact on Lillian's life
 
@@ -52,5 +53,6 @@ Present at the holiday week in Corrèze with his family.
 
 ## To clarify
 
-- Where does he live, and what does he do?
-- How did he and Lillian first meet?
+- (Draft, rule 6) How did he and Lillian get along (Corrèze, then Nantes)?
+- (Draft) His age and the name of his private hospital?
+- (Draft) How often do they meet?

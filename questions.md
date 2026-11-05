@@ -707,7 +707,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 **Events and stories**
 
 - Did he know it was over? Did their wives or Mohamed find out? Did they see each other again?
-- Which trip to Hawaii was it (with Kim and Veronica, the 2015 layover)? Who is Veronica, and Delphine (Kenya)?
+- Which trip to Hawaii was it (with Kim and Veronica, the 2015 layover)? Who is Veronica (see [Veronica](people/veronica.md)), and Delphine (Kenya)?
 - Mohamed went to Maryland and they were « on a break »: how does this fit with the two separations and the final return?
 
 ## [Geaniie](people/geaniie.md) — 6 questions
@@ -861,7 +861,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - Sandrine's mother's death: when, and what role did Lillian play?
 - Why does Lillian not call Sandrine (not to be a burden), and does Sandrine know?
-- Is it the Lycée Grand Air of La Baule (the boarding school already noted)? Charlotte, the other boarding-school friend: surname and role?
+- Is it the Lycée Grand Air of La Baule (the boarding school already noted)? Charlotte is the Saint-Nazaire boarding-school friend (see [Charlotte](people/charlotte.md)): same school?
 
 ## [James](people/james.md) — 3 questions
 
@@ -927,29 +927,32 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Name: Laura Moreau, or Julie Moreau (the primary-school friend)? One or two people?
 - Did Lillian remain friends with her?
 
-## [Patrice](people/patrice.md) — 2 questions
+## [Patrice](people/patrice.md) — 3 questions
 
 
 **Events and stories**
 
-- Is the Corrèze house his, and where exactly is it?
-- Chris's mother: first name?
+- (Draft, rule 6) Is the Corrèze house his, and where exactly is it?
+- (Draft) Which year was the Nice visit, for his sister's birthday?
+- (Draft) His occupation and age?
 
-## [Sébastien](people/sebastien.md) — 2 questions
-
-
-**Events and stories**
-
-- Where does he live, and what does he do?
-- How did he and Lillian first meet?
-
-## [Émilie](people/emilie.md) — 2 questions
+## [Sébastien](people/sebastien.md) — 3 questions
 
 
 **Events and stories**
 
-- Where does she live, and what does she do?
-- How did she and Lillian get along?
+- (Draft, rule 6) How did he and Lillian get along (Corrèze, then Nantes)?
+- (Draft) His age and the name of his private hospital?
+- (Draft) How often do they meet?
+
+## [Émilie](people/emilie.md) — 3 questions
+
+
+**Events and stories**
+
+- (Draft, rule 6) How did she and Lillian get along?
+- (Draft) Her age?
+- (Draft) How often do they meet?
 
 ## [Raphaël](people/raphael.md) — 2 questions
 
@@ -973,6 +976,44 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - How did she get along with Lillian?
 
+## [Veronica](people/veronica.md) — 4 questions
+
+
+**Identity and background**
+
+- Who is she: a flight attendant colleague of Lillian and Kim, a nurse, or another friend? Surname, origin, where does she live?
+
+**Dates and chronology**
+
+- When was the Hawaii trip (during the 2015 layover, or another trip), and how long did it last?
+
+**Events and stories**
+
+- Was she close to Lillian at the time, and did she know about Julien and the marriage? Are they still in touch?
+- Does she appear elsewhere in the story (Maui in 2016, Alaska)?
+
+## [Charlotte](people/charlotte.md) — 4 questions
+
+
+**Identity and background**
+
+- Surname, and what exactly she does (her shop's name)?
+
+**Events and stories**
+
+- Which school: Saint-Nazaire, or La Baule / Lycée Grand Air as noted for Sandrine? Which years?
+- How often do they see each other now that Lillian lives in Nice, and are they still close (draft after 2023: keep it short)?
+- What did Lillian share with her over the years (marriage, return to France)?
+
+## [Nicole](people/nicole.md) — 3 questions
+
+
+**Events and stories**
+
+- (Draft, rule 6) Her age, occupation, and where she lives?
+- (Draft) How often do they see each other and by what means?
+- (Draft) Is she the same as the mother in the 2022 holiday story, and what does Lillian call her?
+
 ## [Mike](people/mike.md) — 4 questions
 
 
@@ -989,7 +1030,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - The story of the marriage proposal to Adriana (the « swing »)?
 - The abortion after which he let her stay: when, where, and who knew?
 
-## [Kim](people/kim.md) — 5 questions
+## [Kim](people/kim.md) — 6 questions
 
 
 **Identity and background**
@@ -998,6 +1039,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- [Veronica](people/veronica.md): who is she for Kim (another flight attendant)? She went to Hawaii with Lillian and Kim.
 - Which airline was Kim working for? Where was she based?
 - Why did she leave David, and why did she make Lillian's move a condition of their friendship?
 - Did they see each other again afterwards?

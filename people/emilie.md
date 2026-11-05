@@ -10,7 +10,8 @@
 
 - **Role in Lillian's life**: Chris's sister-in-law, Sébastien's wife
 - **Nationality / origin**: French (to confirm)
-- **Place of residence**: to clarify
+- **Place of residence**: Nantes, works in Cholet (public hospital)
+- **Occupation**: doctor, obstetrician, in the public sector
 - **Dates**: to clarify
 
 ## Relationships between people
@@ -22,7 +23,7 @@
 
 ## Relationship with Lillian
 
-Present at the holiday week in Corrèze with her family.
+Sébastien's wife for 20 years, a doctor and an obstetrician, who lives in Nantes and works at the public hospital in Cholet. Present at the holiday week in Corrèze with her family.
 
 ## Impact on Lillian's life
 
@@ -52,5 +53,6 @@ Present at the holiday week in Corrèze with her family.
 
 ## To clarify
 
-- Where does she live, and what does she do?
-- How did she and Lillian get along?
+- (Draft, rule 6) How did she and Lillian get along?
+- (Draft) Her age?
+- (Draft) How often do they meet?
