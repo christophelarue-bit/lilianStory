@@ -9,7 +9,7 @@
 ## Identity
 
 - **Role in Lillian's life**: a little flirtation
-- **Nationality / origin**: Chinese. Lillian calls him « David Mao » [surname or nickname, to clarify].
+- **Nationality / origin**: Chinese. Lillian thinks she met him after Job Courts (1999-2000), possibly before Clara's clash, but is not sure. Lillian calls him « David Mao » [surname or nickname, to clarify].
 - **Place of residence**: New York City
 - **Dates**: to clarify
 
