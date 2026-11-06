@@ -1,18 +1,20 @@
-# 03-02 — Job Corps
+# 03-02 — Job Courts
 
 **Era**: [03 — Back to the United States](../eras/03-back-to-the-united-states.md)
 
 *(Developed from one conversation with Lillian. To be continued in a dedicated interview.)*
 
+*Spelling: Lillian says "Job Courts". It looks like the federal Job Corps programme, but this is not confirmed.*
+
 ## Place
 
 - **Country**: United States
-- **City/cities**: a Job Corps centre in New York State, written "Calicut" in the transcript (Cortland? to confirm)
+- **City/cities**: a Job Courts centre in New York State, written "Calicut" in the transcript (Cortland? to confirm)
 
 ## Dates
 
 - **Start**: about 1999 (Lillian: "I think it was in 99")
-- **End**: to clarify
+- **End**: to clarify. It happens well before Clara's ultimatum (Christophe), so while she is still in the Syracuse area
 - **Lillian's age**: about 19-20
 
 ## People around her
@@ -32,15 +34,15 @@
 - **Role during this period**: Lillian's friend, from Ecuador
 - **Life anecdotes**: *(to be completed)*
 
-### [David (Ivan's brother)](../people/david-job-corps.md)
+### [David (Ivan's brother)](../people/david-job-courts.md)
 
 - **Role during this period**: Ivan's brother, also at the centre. Not related to the other Davids in the story
 - **Life anecdotes**: *(to be completed)*
 
 ## Stories and small details
 
-- **How she got there**: after Price Chopper, Lillian looked through the Yellow Pages for schools, because she wanted to go back to school. She found Job Corps, before the hairdressing school.
-- **What Job Corps is**: a fully funded residential programme, created under Bill Clinton (Lillian's words; to check), for the most disadvantaged young people, from poor inner-city backgrounds. Mark had very little money, so Lillian qualified.
+- **How she got there**: after Price Chopper, Lillian looked through the Yellow Pages for schools, because she wanted to go back to school. She found Job Courts, before the hairdressing school.
+- **What Job Courts is**: a fully funded residential programme, created under Bill Clinton (Lillian's words; the federal Job Corps dates from 1964, to check), for the most disadvantaged young people, from poor inner-city backgrounds. Mark had very little money, so Lillian qualified.
 - **Culture shock**: one of the only white girls, among immigrants and kids from the projects, whom Lillian describes in French as « des racailles » and « des wesh ». Many were violent and had very little education. She felt « bourgeoise » in comparison.
 - **Her state of mind before**: rebellious, angry at her mother, playing the "I had no dad" card, in rebellion against society like her communist father (the interviewer's framing).
 - **A wake-up call**: a « social class shock ». She understood she should be grateful for what she had. Still naive and innocent at the time, she listened to them and understood them, « de loin ».
@@ -58,4 +60,5 @@
 - **To ask Lillian**: who was Miss V (full name, age, role), and why did she look after her?
 - **To ask Lillian**: what do Ivan and David become, and are they still in her life?
 - **To ask Lillian**: the name of the Hispanic friend and the story of the photo?
-- Does it fit with the hairdressing school and with leaving Syracuse for New York City (before or after Clara's ultimatum)?
+- Is "Job Courts" really the Job Corps federal programme?
+- Does it fit with the hairdressing school and with the later departure from Syracuse to New York City?
