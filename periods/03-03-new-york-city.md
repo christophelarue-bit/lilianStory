@@ -1,4 +1,4 @@
-# 03-02 — New York City
+# 03-03 — New York City
 
 **Era**: [03 — Back to the United States](../eras/03-back-to-the-united-states.md)
 
