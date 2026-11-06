@@ -85,6 +85,8 @@
 
 ## Stories and small details
 
+- **Aunt Kakinou (Sensitive)**: at 13, on her way to the United States for the first time, Lillian goes to Paris with Papouche and finds her aunt [Kakinou](../people/kakinou.md) completely drunk on the floor of her kitchen, rue de Courcelles. Papouche says nothing, as if it were normal. Kakinou, an alcoholic for 20 years, died in 2017; only Béatrice visited her daily and Papouche once a week. Lillian says it is where she learned to repress things. Her cousin [Gaëlle](../people/gaelle.md) later told her that her mother was ill, and that their grandmother was jealous of the attention given to Lillian and her siblings because they had no father.
+
 - When Lillian is 11, the family moves to an apartment, and Béatrice begins to go out with men; the last one in the story is [Marc Lambert](../people/marc-lambert.md), around 1991-1992 (longer for Lillian). He takes her to boarding school one first day of term, in a leather jacket, and slips her a 50-franc note in front of everyone; he spoils all her birthdays; after the break-up he takes back the bike and the curtains and writes to Papouche to be reimbursed.
 - Around 1991-1992, her American grandmother comes to Saint-Brevin for two weeks, with « Jane » (Joanne?), and stays in a hotel. She understands that Béatrice is seeing someone and tells Mark when she is back.
 - Raised by her French grandparents, Papouche and Mamouche, in a reserved Saint-Brevin family: « ma chérie », four kisses, no hugs and no « je t'aime » said aloud, although she always felt the affection. A contrast with her American grandmother, the "mega hug".
@@ -108,6 +110,8 @@
 *(to be completed)*
 
 ## To clarify
+
+- Kakinou: see her [file](../people/kakinou.md). First trip to the United States at 13 (about 1992-93)? It conflicts with the earlier account (last contact at 6 and then at 16): how many trips before 1998?
 
 - The teacher's secret: see [Julie F.](../people/julie-flazon.md) and [Mr Kérezoré](../people/kerezore.md) (spelling, school, what happened later). Did Lillian ever tell anyone?
 - Aunt Lalou (Béatrice's sister?): first name, relation to Béatrice, why did she call her a « pute », and the family quarrel behind it?
