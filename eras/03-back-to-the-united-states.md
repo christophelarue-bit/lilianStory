@@ -12,6 +12,8 @@ At 18, on 11 September 1998, Lillian goes back to the United States to find her 
 
 She discovers her American family around Syracuse: her grandmother Lillian (her namesake), very affectionate, who cooks for everyone and then sits on the floor, harsh with Mark; uncle John and his big hug; the many uncles and aunts. Lillian, raised by reserved French grandparents, is stoic and frozen by the hugs. At 19 she knits a Doctor Who scarf for her father, who wears it.
 
+After her cashier job at Price Chopper, she finds Job Corps in the Yellow Pages (about 1999): a free residential programme for disadvantaged young people, in New York State. One of the only white students, she gets a social-class shock that she calls a wake-up call. She meets there Miss V, the supervisor, and her friend Ivan from Ecuador and his brother David.
+
 At about 20 she leaves Syracuse and carries on her life in New York City, where she meets David, a brief Chinese boyfriend who lives in the city, Walter, from Bangladesh, and an Indian employer. It is also in New York that she meets Mohamed, her future husband.
 
 ## Periods
@@ -19,7 +21,8 @@ At about 20 she leaves Syracuse and carries on her life in New York City, where 
 | Period | Dates | Place |
 |---|---|---|
 | [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | from 11 September 1998 | Syracuse, United States |
-| [03-02 — New York City](../periods/03-02-new-york-city.md) | to clarify | New York City |
+| [03-02 — Job Corps](../periods/03-02-job-corps.md) | about 1999 | New York State |
+| [03-03 — New York City](../periods/03-03-new-york-city.md) | to clarify | New York City |
 
 ## Common thread and stakes
 
@@ -31,6 +34,7 @@ The desire to get closer to her father, the discovery of a father stuck in the p
 |---|---|
 | Lillian: arrival in 1998, the stopped time (other examples), the high school and supermarket job, Clara's ultimatum, life in Syracuse | to do |
 | Lillian: where she went after leaving Syracuse, and how it leads to New York City and/or Mohamed | to do |
+| Lillian: Job Corps (centre, studies, Miss V, Ivan, David) | to do |
 | Lillian: New York City, David, Walter, meeting Mohamed | to do |
 
 ## To clarify
