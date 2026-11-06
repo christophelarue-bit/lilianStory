@@ -50,6 +50,8 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Sandrine](sandrine.md) | One of Lillian's best friends since the boarding school. |
 | [James](james.md) | Cousin, son of Jackie; « back to your roots ». |
 | [Kay](kay.md) | Lillian's female friend in Alaska. |
+| [Gaëlle](gaelle.md) | Cousin, Kakinou's daughter (to confirm). |
+| [Kakinou](kakinou.md) | Aunt, alcoholic, died in 2017 (sensitive). |
 | [Julie F.](julie-flazon.md) | Middle-school friend; her sister's secret (sensitive). |
 | [Mr Kérezoré](kerezore.md) | Spanish teacher at middle school (sensitive). |
 | [Laura Moreau](laura-moreau.md) | School friend who repeated the secret. |
