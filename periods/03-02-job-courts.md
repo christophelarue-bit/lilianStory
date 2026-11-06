@@ -54,6 +54,13 @@
 - **Programme**: Job Corps, created under Clinton's administration to let disadvantaged youth reach studies or a vocational diploma (CAP-like). Lillian says the other students mostly wanted to validate a CV or a document, while she really wanted to train; an Omar Sy / *Intouchables* comparison from the conversation.
 - **State of mind**: "oblivious, opaque": nothing reached her. She hated her mother, blamed her for everything, and saw herself as the victim, with her father as the ideal. She was so naive that she had no idea what world she was in.
 - **Dormitory life**: two dormitories, one for women, with bunk beds. A roommate wore African-American braids, and Lillian learned about Black hair that evening: when the braids are removed after a month or two, the scalp has not breathed and the smell is « épouvantable »; the next day the braids were redone, even tighter.
+- **Impact (her view)**: the violence, language, fights and gangs affected her little at the time, she says, but being very sensitive she felt the others' pain. She was « dans son monde » and did not see the violence, or did not want to see it. Christophe: she is the most hypersensitive person he has met; like Mark and, in another way, Gwen, she sees things while seeming not to.
+- **Ivan**: a strong friendship with a man from Ecuador, in IT, dramatic; they were very different but connected in this « univers barjo ». It later became problematic because he was engaged (a big drama).
+- **Miss V**: long grey hair; she bought Lillian a French Bible and spoke to her about Jesus. Lillian was too much in her own world to take it in.
+- **Quit smoking**: she stopped smoking during the year at Job Corps.
+- **The lake and Khalil Gibran**: more or less « civilised » compared with the others, she had a pass allowing her to go out. She sat by a lake, reading Khalil Gibran (*The Prophet*, found at the library, and the poem *Tears and Laughter*, still one of her favourites). It was her moment of calm amid the negative energy; the poem sums up for her that life mixes tears and laughter, suffering and happiness, and one would change nothing.
+- **Gratitude**: she realised she had been extremely lucky (Papouche, Mamouche, her mother protecting her). She wrote a letter to her grandparents and her mother afterwards. Her comparison: a Jewish child in 1945 realising how lucky it would have been to be born in 1939. It stopped her feeling like a victim, and she is « eternally grateful » for these encounters.
+- **University semester**: her first semester at Maria College gave her almost a 4.0 GPA (4 out of 4); she was very diligent.
 - **Student origin**: the students came from the Bronx and Queens, not from the suburbs of Syracuse.
 
 ## Landscapes and atmosphere
@@ -67,7 +74,8 @@
 - **To ask Lillian**: the semester at Maria College: was it really Maria College (in Albany)? Which courses, and how did she get there from Callicoon?
 - **To ask Lillian**: was she still in contact with Mark during the boarding (visits, calls)?
 - **To ask Lillian**: who was Miss V (full name, age, role), and why did she look after her?
-- **To ask Lillian**: what do Ivan and David become, and are they still in her life?
+- **To ask Lillian**: what do Ivan and David become, and are they still in her life? What was the drama about Ivan's fiancé(e)?
+- **To ask Lillian**: the letter to her grandparents and her mother: when, what did she say, how did they react? Does she still have it?
 - **To ask Lillian**: the name of the Hispanic friend and the story of the photo?
 - Is "Job Courts" really the Job Corps federal programme?
 - Does it fit with the hairdressing school and with the later departure from Syracuse to New York City? The transcript says she went to New York before Clara's clash and then returned to Syracuse: how many trips, and where was she when she met David (Chinese)?
