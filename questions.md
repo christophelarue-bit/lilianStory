@@ -43,7 +43,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - After Syracuse (about a year), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
-- Job Corps (about 1999): which centre, how long, what did she study, why did she leave? Who are Miss V, Ivan and his brother David, and the Hispanic friend whose photo may be at her uncle Michael's? See [03-02](periods/03-02-job-corps.md).
+- Job Courts (about 1999): which centre, how long, what did she study, why did she leave? Who are Miss V, Ivan and his brother David, and the Hispanic friend whose photo may be at her uncle Michael's? See [03-02](periods/03-02-job-courts.md).
 - The supermarket crush: who was he, what was the misunderstanding? (see [03-01](periods/03-01-syracuse-finding-dad.md))
 - Julien: how did she meet him, and what happened after the missed hotel appointment?
 - Her paternal family: did she meet her grandmother Lillian, her uncles and aunts, her cousins? Is she in touch with them? Whose first name does she bear: is it her grandmother's?
@@ -653,7 +653,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - The green card: when was it obtained, how did the marriage procedure go (interview, conditions), and was it the reason for the March 2003 wedding?
 - The double life: when did Lillian discover it, how did she react, and did his family in Morocco ever find out?
 
-## [David (Ivan's brother)](people/david-job-corps.md) — 1 question
+## [David (Ivan's brother)](people/david-job-courts.md) — 1 question
 
 
 **Relationship with Lillian and with others**

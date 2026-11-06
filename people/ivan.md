@@ -4,22 +4,22 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-02 — Job Corps](../periods/03-02-job-corps.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York State, United States | Lillian's friend |
+| [03-02 — Job Courts](../periods/03-02-job-courts.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York State, United States | Lillian's friend |
 
 ## Identity
 
-- **Role in Lillian's life**: friend at the Job Corps centre
+- **Role in Lillian's life**: friend at the Job Courts centre
 - **Nationality / origin**: Ecuador
 - **Place of residence**: to clarify
 - **Dates**: about 1999
 
 ## Relationships between people
 
-- [Lillian](lillian.md): Friend from Ecuador, met at Job Corps, brother of [David](david-job-corps.md).
+- [Lillian](lillian.md): Friend from Ecuador, met at Job Courts, brother of [David](david-job-courts.md).
 
 ## Relationship with Lillian
 
-Friend from Ecuador, met at Job Corps, brother of [David](david-job-corps.md).
+Friend from Ecuador, met at Job Courts, brother of [David](david-job-courts.md).
 
 ## Impact on Lillian's life
 

@@ -4,11 +4,11 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-02 — Job Corps](../periods/03-02-job-corps.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York State, United States | Supervised the centre where Lillian studied |
+| [03-02 — Job Courts](../periods/03-02-job-courts.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York State, United States | Supervised the centre where Lillian studied |
 
 ## Identity
 
-- **Role in Lillian's life**: supervisor at the Job Corps centre
+- **Role in Lillian's life**: supervisor at the Job Courts centre
 - **Nationality / origin**: to clarify
 - **Place of residence**: to clarify
 - **Dates**: about 1999
