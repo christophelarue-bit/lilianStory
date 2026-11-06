@@ -49,6 +49,8 @@ A calming presence (details to be completed).
 
 ## Anecdotes and stories
 
+- **The three grandchildren and her**: Xavier asked nothing, Lillian asked her emotionally, and Gwen asked for money again after Papouche died (about three years). See [Lillian](lillian.md).
+
 - **Favourite**: Lillian was one of her favourites and very close to her; she often said Lillian was very pretty. Lillian's great-grandmother (no file) said she was the prettiest of her great-grandchildren. This created rivalry and resentment with the cousins and some aunts and uncles, since the grandparents focused on Lillian and her siblings after their arrival in France. See [02-01](../periods/02-01-childhood-and-teens-in-france.md).
 
 - **September 2018**: seated in the house, stoic, waiting with the family for the doctor's death certificate for Papouche. Lillian has never seen her cry in her life. Béatrice tells her "Maman, I will take care of you, you will not be alone". When Didier and the others suggest a nursing home, Béatrice refuses and moves close to her, taking care of her for 3 years.

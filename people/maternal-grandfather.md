@@ -51,6 +51,8 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 
 ## Anecdotes and stories
 
+- **The three grandchildren and him**: Xavier asked nothing, Lillian asked him for reassurance, and Gwen asked for money regularly during his last ten years. See [Lillian](lillian.md).
+
 - **Kakinou**: he visited his daughter weekly (to confirm that she was his daughter). At 13, in Paris, he finds her drunk on the floor and says nothing, very dignified, as if it were normal. See [Kakinou](kakinou.md).
 
 - **Announcement to Gwen (2018)**: Lillian phoned Gwen to tell her of his death, so that Béatrice did not have to; Gwen screamed in pain, as if a part of her had died (see [Gwen](gwen.md)).

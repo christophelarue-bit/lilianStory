@@ -83,6 +83,8 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 ## Anecdotes and stories
 
+- **The money magnet**: she asked Papouche for money regularly during his last ten years (about fifteen years of requests), then asked Mamouche, who lived about three more years. Christophe says she could ask for 5,000 euros for a bar in five minutes and hang up if refused. In his analogy she is the « negative magnet », who draws to herself, against Lillian who gives and Xavier who asks nothing. See [Lillian](lillian.md).
+
 - **Seen by Lillian's psychologist (draft, Sensitive)**: after hearing about Gwen's care of her children (the story of Clément on the motorway, Julia), he judges it negligence and says Gwen is a child, not an adult, and will not change; Béatrice sends Lillian papers to defend Gwen. See [Lillian](lillian.md).
 
 - **Gwen as a child**: the relationship with Lillian was harder: Gwen tended to lie, steal things, fight, a bit of a tomboy, with no shame. It clashed with Lillian's calm, gentle character (« peace and joy »). Xavier, though small, was closer to Lillian than to Gwen, who left them to be with her friends.

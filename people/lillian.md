@@ -61,6 +61,11 @@
 
 How Lillian sees herself, changes, tells her own story.
 
+- **The magnet (Christophe\'s analogy)**: among the three siblings, [Xavier](xavier.md) was « neutral » with the grandparents (he asked nothing of anyone), Lillian a « positive magnet » who gave and spent herself (she asked Mamouche emotionally and Papouche for reassurance), and [Gwen](gwen.md) a « negative magnet » who draws to herself (money). Even her guilt in the United States was already a way of giving: she worried about her sister more than her sister did about her.
+- **Hypersensitive « sponge »**: she feels the pain of others and a person\'s energy in a second, « like a cat or a dog », and hides her own pain for others. Her mother is also very sensitive (a crushed cockroach). Christophe sees it as one of the guiding threads for the book and one of her finest values, but thinks she invests too much in the people she looks after.
+- **Current work (draft, rule 6)**: she works in home care (« aide à domicile »); she mentions « mon petit monsieur », a patient who was unwell, while she herself had back pain and hid it.
+- **Hospice work and « seulement » (draft, rule 6)**: she left nursing partly because she felt she only relieved the pain of the dying. The psychologist stopped on the word « seulement »: what that means for each of those lives. It led to the guilt discussion.
+- **Sensitive: to confirm with Lillian before any use in a book**: she says she would give her life if it could stop people\'s suffering.
 - **Guilt and "we"**: she says « on n'a pas réagi » about her aunt's drinking and the belt blows; Christophe corrects her: she was a child, the adults did not react. She loves her grandparents « de tout mon cœur » but resents that they said nothing, and even Dominique.
 - **Favourite and the weight of rivalry**: favourite of her grandmother and great-grandmother (« the prettiest »), she felt the resentment of cousins, aunts and uncles ([02-01](../periods/02-01-childhood-and-teens-in-france.md)).
 - **Pushing things under the carpet**: at 13, seeing her aunt [Kakinou](kakinou.md) drunk on the floor with Papouche saying nothing, she learned to repress things. Christophe: Lillian, her father and Gwen do not want to see things, but see them anyway.
@@ -141,6 +146,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
 - First trip to the United States at 13 (with a stop in Paris to see Kakinou): which year, how long, and who met her there? It does not fit with the account of 1985-1998.
+- Home care: since when, for whom, what exactly does she do and where? Does she still feel she gives too much, and what does the psychologist say about guilt and giving?
 - Surname: is « scannels » the family name (Scannell?) and how do the Boutroux see the children? Who is Dominique exactly, and who are the aunts and uncles she mentions?
 - Intelligence and effort: which gaps exactly did she have at school in France at 5, and how long did it last? Does she think of herself as less intelligent than Xavier and Gwen, and since when? What does her psychologist say about guilt?
 - Her hypersensitivity and Khalil Gibran: since when does she read him, and what other books or poems matter? Did her letter to her grandparents and mother after Job Courts change their view of her?

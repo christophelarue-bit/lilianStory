@@ -14,7 +14,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
 - [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
 
-## [Lillian](people/lillian.md) — 39 questions
+## [Lillian](people/lillian.md) — 40 questions
 
 
 **Identity and background**
@@ -45,6 +45,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
 - First trip to the United States at 13 (with a stop in Paris to see Kakinou): which year, how long, and who met her there? It does not fit with the account of 1985-1998.
+- Home care: since when, for whom, what exactly does she do and where? Does she still feel she gives too much, and what does the psychologist say about guilt and giving?
 - Intelligence and effort: which gaps exactly did she have at school in France at 5, and how long did it last? Does she think of herself as less intelligent than Xavier and Gwen, and since when? What does her psychologist say about guilt?
 - Her hypersensitivity and Khalil Gibran: since when does she read him, and what other books or poems matter? Did her letter to her grandparents and mother after Job Courts change their view of her?
 - Job Courts (1999-2000, Callicoon): how long did she stay, why did she leave, and did she finish? Did she go to New York City and meet David before Clara's clash, then return to Syracuse? Who are Miss V, Ivan and his brother David, and the Hispanic friend whose photo may be at her uncle Michael's? See [03-02](periods/03-02-job-courts.md).
