@@ -14,7 +14,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
 - [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
 
-## [Lillian](people/lillian.md) — 35 questions
+## [Lillian](people/lillian.md) — 36 questions
 
 
 **Identity and background**
@@ -43,6 +43,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - After Syracuse (about a year), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
+- Her hypersensitivity and Khalil Gibran: since when does she read him, and what other books or poems matter? Did her letter to her grandparents and mother after Job Courts change their view of her?
 - Job Courts (1999-2000, Callicoon): how long did she stay, why did she leave, and did she finish? Did she go to New York City and meet David before Clara's clash, then return to Syracuse? Who are Miss V, Ivan and his brother David, and the Hispanic friend whose photo may be at her uncle Michael's? See [03-02](periods/03-02-job-courts.md).
 - The supermarket crush: who was he, what was the misunderstanding? (see [03-01](periods/03-01-syracuse-finding-dad.md))
 - Julien: how did she meet him, and what happened after the missed hotel appointment?
@@ -999,11 +1000,12 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - How did she get along with Lillian?
 
-## [Ivan](people/ivan.md) — 2 questions
+## [Ivan](people/ivan.md) — 3 questions
 
 
 **Events and stories**
 
+- **To ask Lillian**: what happened with his fiancé(e), and why was the friendship « problematic »?
 - **To ask Lillian**: how did they become friends, and what did they do together?
 - **To ask Lillian**: what became of him?
 
@@ -1012,7 +1014,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
-- **To ask Lillian**: real name, age, origin?
+- **To ask Lillian**: age, origin? Did she insist on Jesus, and did it matter to Lillian later? (Lillian does not remember her real name.)
 - **To ask Lillian**: what did she do for Lillian, and what advice or scene does she remember?
 - **To ask Lillian**: any contact afterwards?
 

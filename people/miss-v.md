@@ -45,10 +45,10 @@ Supervisor of the centre; Lillian, one of the only white and lost students, met 
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- Very long grey hair. She bought Lillian a French Bible and talked to her about Jesus, but Lillian, in her own world, did not really take it in. Lillian does not know her real name: she was always « Miss V ».
 
 ## To clarify
 
-- **To ask Lillian**: real name, age, origin?
+- **To ask Lillian**: age, origin? Did she insist on Jesus, and did it matter to Lillian later? (Lillian does not remember her real name.)
 - **To ask Lillian**: what did she do for Lillian, and what advice or scene does she remember?
 - **To ask Lillian**: any contact afterwards?

@@ -45,9 +45,10 @@ Friend from Ecuador, met at Job Courts, brother of [David](david-job-courts.md).
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- A man, in IT, « dramatique », very different from Lillian, but they connected in the strange world of the centre. The friendship became problematic later because he was engaged: « tout un bide ».
 
 ## To clarify
 
+- **To ask Lillian**: what happened with his fiancé(e), and why was the friendship « problematic »?
 - **To ask Lillian**: how did they become friends, and what did they do together?
 - **To ask Lillian**: what became of him?
