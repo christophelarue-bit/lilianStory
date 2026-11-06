@@ -102,7 +102,7 @@ people/
   joanne.md
   clara.md
   mohamed.md
-  david-job-corps.md
+  david-job-courts.md
   david-ny.md
   david-hawaii.md
   walter.md
@@ -149,7 +149,7 @@ periods/
   01-04-summer-1985-saint-brevin.md
   02-01-childhood-and-teens-in-france.md
   03-01-syracuse-finding-dad.md
-  03-02-job-corps.md
+  03-02-job-courts.md
   03-03-new-york-city.md
   04-01-married-life-with-mohamed.md
   04-02-nurse-in-hospices-baltimore.md
@@ -202,7 +202,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [jerome](people/jerome.md) | Julie's brother, lives in England with his wife and 2 children. |
 | [clara](people/clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [mohamed](people/mohamed.md) | Lillian's husband for 15 years, wedding in March 2003 (sensitive). |
-| [david-job-corps](people/david-job-corps.md) | Ivan's brother at Job Corps. |
+| [david-job-courts](people/david-job-courts.md) | Ivan's brother at Job Courts. |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
 | [david-hawaii](people/david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [walter](people/walter.md) | From Bangladesh, met in New York. |
@@ -229,8 +229,8 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [romane](people/romane.md) | Chris's niece (2010). |
 | [raphael](people/raphael.md) | Chris's nephew (2013). |
 | [hanae](people/hanae.md) | Chris's niece (2016). |
-| [ivan](people/ivan.md) | Friend from Ecuador at Job Corps. |
-| [miss-v](people/miss-v.md) | Supervisor at Job Corps. |
+| [ivan](people/ivan.md) | Friend from Ecuador at Job Courts. |
+| [miss-v](people/miss-v.md) | Supervisor at Job Courts. |
 | [veronica](people/veronica.md) | Friend who went to Hawaii with Lillian and Kim. |
 | [charlotte](people/charlotte.md) | Boarding-school friend, restores old furniture in Nantes. |
 | [nicole](people/nicole.md) | Chris's mother; put Lillian at ease in Corrèze. |
@@ -263,7 +263,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [01-04 — Summer 1985 in Saint-Brevin](periods/01-04-summer-1985-saint-brevin.md) | The holiday that becomes a permanent return to France. |
 | [02-01 — Childhood and adolescence in France](periods/02-01-childhood-and-teens-in-france.md) | Starter: 1985 to September 1998. |
 | [03-01 — Syracuse: finding Dad](periods/03-01-syracuse-finding-dad.md) | Arrival on 11 September 1998, life with Mark, Clara's ultimatum, leaving Syracuse. |
-| [03-02 — Job Corps](periods/03-02-job-corps.md) | Free programme for disadvantaged youth in New York State, social-class shock, Miss V. |
+| [03-02 — Job Courts](periods/03-02-job-courts.md) | Free programme for disadvantaged youth in New York State, social-class shock, Miss V. |
 | [03-03 — New York City](periods/03-03-new-york-city.md) | David, Walter, meeting Mohamed. |
 | [04-01 — Married life with Mohamed](periods/04-01-married-life-with-mohamed.md) | 15 years of marriage (sensitive). |
 | [04-02 — Nurse in hospices, Baltimore](periods/04-02-nurse-in-hospices-baltimore.md) | 2008-2013, hospices, the office job, the decision to change. |

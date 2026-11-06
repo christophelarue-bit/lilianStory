@@ -32,7 +32,7 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Jérôme](jerome.md) | Julie's brother, lives in England with his wife and 2 children. |
 | [Clara](clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [Mohamed](mohamed.md) | Lillian's husband for 15 years (sensitive). |
-| [David (Ivan's brother)](david-job-corps.md) | Ivan's brother at Job Corps. |
+| [David (Ivan's brother)](david-job-courts.md) | Ivan's brother at Job Courts. |
 | [David (New York)](david-ny.md) | Brief Chinese flirt in New York. |
 | [David (Hawaii)](david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [Walter](walter.md) | From Bangladesh, met in New York. |
@@ -59,8 +59,8 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Romane](romane.md) | Chris's niece (2010). |
 | [Raphaël](raphael.md) | Chris's nephew (2013). |
 | [Hanae](hanae.md) | Chris's niece (2016). |
-| [Ivan](ivan.md) | Friend from Ecuador at Job Corps. |
-| [Miss V](miss-v.md) | Supervisor at Job Corps. |
+| [Ivan](ivan.md) | Friend from Ecuador at Job Courts. |
+| [Miss V](miss-v.md) | Supervisor at Job Courts. |
 | [Veronica](veronica.md) | Friend who went to Hawaii with Lillian and Kim. |
 | [Charlotte](charlotte.md) | Boarding-school friend, restores old furniture in Nantes. |
 | [Nicole](nicole.md) | Chris's mother; put Lillian at ease in Corrèze. |
