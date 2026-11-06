@@ -10,7 +10,8 @@ A period is a stretch of Lillian's life with its own place and dates. Each one b
 | [01-04 — Summer 1985 in Saint-Brevin](01-04-summer-1985-saint-brevin.md) | The holiday that becomes a permanent return to France. |
 | [02-01 — Childhood and adolescence in France](02-01-childhood-and-teens-in-france.md) | Starter: 1985 to September 1998. |
 | [03-01 — Syracuse: finding Dad](03-01-syracuse-finding-dad.md) | Arrival on 11 September 1998, life with Mark, Clara's ultimatum, leaving Syracuse. |
-| [03-02 — New York City](03-02-new-york-city.md) | David, Walter, meeting Mohamed. |
+| [03-02 — Job Corps](03-02-job-corps.md) | Free programme for disadvantaged youth in New York State, social-class shock, Miss V. |
+| [03-03 — New York City](03-03-new-york-city.md) | David, Walter, meeting Mohamed. |
 | [04-01 — Married life with Mohamed](04-01-married-life-with-mohamed.md) | 15 years of marriage (sensitive). |
 | [04-02 — Nurse in hospices, Baltimore](04-02-nurse-in-hospices-baltimore.md) | 2008-2013, hospices, the office job, the decision to change. |
 | [05-01 — Flight attendant](05-01-flight-attendant.md) | 2014-2016, Omni Air; the call of Hawaii. |
