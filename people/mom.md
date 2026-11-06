@@ -60,6 +60,8 @@ Lillian says she had « neither mother nor father »: Béatrice, who often talke
 
 ## Anecdotes and stories
 
+- **Criticised by her sisters-in-law/sisters**: Lillian saw that some of her aunts were jealous of Béatrice and criticised her as a bad mother, especially during the school holidays when the Parisian cousins came.
+
 - **Kakinou, her sister (to confirm) (Sensitive)**: Béatrice was the only one who visited her daily during her alcoholism, as the doctors of the family did not have the strength. See [Kakinou](kakinou.md).
 
 - **Two phases**: she returned to Les Tourelles with Lillian and Gwen, pregnant with Xavier, and lived a few years at her parents' with the whole household (clear and logical decisions). She then took her own apartment with her children to breathe as a woman and mother; from then on Lillian became more of a friend than a daughter. Lillian was paid a few times for babysitting, once in the apartment.

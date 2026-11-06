@@ -48,6 +48,9 @@
 
 ## Anecdotes and stories
 
+- **Drinking (Lillian's memory)**: a bottle of gin a day. Lillian does not know when it started (to ask Béatrice). In her memory it happened while the family still lived at Les Tourelles, when Béatrice had returned there and Lillian was under 11.
+- **Belt blows (Sensitive, child abuse)**: Kakinou hit her daughters with a belt. At 13 Lillian saw the scars. Nobody reacted: not the grandparents, not even Dominique, whom Lillian respects. Lillian, a child, could do nothing; Christophe insists that it is not her responsibility, that « they did not react, the adults of the time », and that she should not say « we ».
+
 **Sensitive: to confirm with Lillian before any use in a book**
 
 - **Alcoholism**: for more than 20 years she drank, notably a bottle of gin mixed in a water bottle. Lillian says she was not dying, she was « full alcoolique » and self-destroying. Everyone pretended not to know, even the two doctors of the family (Dominique and Bruno, relations to clarify). Nobody had the strength to go and see her.
@@ -57,6 +60,7 @@
 ## To clarify
 
 - **To ask Lillian**: is Kakinou Béatrice's sister, and is it a nickname? Is it the same person as [Lou](lou.md)? Real first name and maiden name (Boutroux?), husband and children?
+- **To ask Lillian**: when did the drinking start (ask Béatrice)? Were the belt blows regular, who were the daughters (Gaëlle and?), and did anyone intervene?
 - **To ask Lillian**: how did she die in 2017, and was Lillian present in France or at the funeral?
 - **To ask Lillian**: who are Dominique and Bruno (the doctors), and why could they not go?
 - **To ask Lillian**: what did Béatrice say or feel about the situation?

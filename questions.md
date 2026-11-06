@@ -14,13 +14,14 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
 - [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
 
-## [Lillian](people/lillian.md) — 38 questions
+## [Lillian](people/lillian.md) — 39 questions
 
 
 **Identity and background**
 
 - Exact date of birth (1979)?
 - Full name, any nicknames?
+- Surname: is « scannels » the family name (Scannell?) and how do the Boutroux see the children? Who is Dominique exactly, and who are the aunts and uncles she mentions?
 
 **Dates and chronology**
 
@@ -921,7 +922,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - **To ask Lillian**: is Gaëlle Kakinou's daughter, how old, where does she live, are they in touch? Is she the cousin from [Julie](people/julie.md)'s family or a different one?
 - **To ask Lillian**: when did this conversation take place, and what was the word (« scannels »)?
 
-## [Kakinou](people/kakinou.md) — 4 questions
+## [Kakinou](people/kakinou.md) — 5 questions
 
 
 **Identity and background**
@@ -930,6 +931,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- **To ask Lillian**: when did the drinking start (ask Béatrice)? Were the belt blows regular, who were the daughters (Gaëlle and?), and did anyone intervene?
 - **To ask Lillian**: how did she die in 2017, and was Lillian present in France or at the funeral?
 - **To ask Lillian**: who are Dominique and Bruno (the doctors), and why could they not go?
 - **To ask Lillian**: what did Béatrice say or feel about the situation?

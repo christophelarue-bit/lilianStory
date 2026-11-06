@@ -8,7 +8,7 @@
 
 ## Identity
 
-- **Role in Lillian's life**: cousin, one of the « cousines parisiennes » (probably Kakinou's daughter)
+- **Role in Lillian's life**: cousin, one of the « cousines parisiennes » (Kakinou's eldest daughter)
 - **Nationality / origin**: French, Parisian
 - **Place of residence**: Paris, rue de Courcelles (at the time of the story)
 - **Dates**: to clarify
@@ -45,6 +45,8 @@
 
 ## Anecdotes and stories
 
+- She is the eldest daughter of [Kakinou](kakinou.md) (confirmed by Lillian).
+- **Boarding school (La Baule)**: when Lillian was at the internat paid by Papouche, Gaëlle told her she prayed Lillian would pass her bac, because she herself was under heavy pressure: « on sait tous que c'est Papouche qui paye pour toi ». The jealousy was real, though Lillian had asked for none of it.
 - She told Lillian that her mother was ill, that their grandmother did not care, and that she was jealous because Papouche and Mamouche gave more attention to Lillian and her siblings (« les scannels », unclear word) because they had no father, while her own mother was an alcoholic.
 
 ## To clarify

@@ -61,6 +61,8 @@
 
 How Lillian sees herself, changes, tells her own story.
 
+- **Guilt and "we"**: she says « on n'a pas réagi » about her aunt's drinking and the belt blows; Christophe corrects her: she was a child, the adults did not react. She loves her grandparents « de tout mon cœur » but resents that they said nothing, and even Dominique.
+- **Favourite and the weight of rivalry**: favourite of her grandmother and great-grandmother (« the prettiest »), she felt the resentment of cousins, aunts and uncles ([02-01](../periods/02-01-childhood-and-teens-in-france.md)).
 - **Pushing things under the carpet**: at 13, seeing her aunt [Kakinou](kakinou.md) drunk on the floor with Papouche saying nothing, she learned to repress things. Christophe: Lillian, her father and Gwen do not want to see things, but see them anyway.
 
 - **Learning and intelligence**: before about 5 and a half, in the United States, she had no gaps: her father taught her the alphabet and she was very dynamic. On arriving in France at 5 she had gaps at school. She has always worked hard, but it takes her much more effort than others: she envies [Xavier](xavier.md)'s intelligence (he grasps in 2 seconds what takes her 3 hours) and thinks she is « beaucoup moins intelligente ». She feels it is « pas juste » that he is the brightest of the three siblings, and says she would give him her blood.
@@ -139,6 +141,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
 - First trip to the United States at 13 (with a stop in Paris to see Kakinou): which year, how long, and who met her there? It does not fit with the account of 1985-1998.
+- Surname: is « scannels » the family name (Scannell?) and how do the Boutroux see the children? Who is Dominique exactly, and who are the aunts and uncles she mentions?
 - Intelligence and effort: which gaps exactly did she have at school in France at 5, and how long did it last? Does she think of herself as less intelligent than Xavier and Gwen, and since when? What does her psychologist say about guilt?
 - Her hypersensitivity and Khalil Gibran: since when does she read him, and what other books or poems matter? Did her letter to her grandparents and mother after Job Courts change their view of her?
 - Job Courts (1999-2000, Callicoon): how long did she stay, why did she leave, and did she finish? Did she go to New York City and meet David before Clara's clash, then return to Syracuse? Who are Miss V, Ivan and his brother David, and the Hispanic friend whose photo may be at her uncle Michael's? See [03-02](../periods/03-02-job-courts.md).
