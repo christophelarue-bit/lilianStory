@@ -51,7 +51,7 @@ A younger brother she is proud of since his birth (details to be completed).
 
 ## Anecdotes and stories
 
-- **The neutral one (Christophe\'s analogy)**: with Papouche and Mamouche he asked nothing, ever, unlike Lillian (emotional) and Gwen (money). Now he needs to receive and moves closer to Gwen\'s side, but he asks for time (long calls), not money. See [Lillian](lillian.md).
+- **The neutral one (Christophe's analogy)**: with Papouche and Mamouche he asked nothing, ever, unlike Lillian (emotional) and Gwen (money). Now he needs to receive and moves closer to Gwen's side, but he asks for time (long calls), not money. See [Lillian](lillian.md).
 - **The intelligent one**: Lillian sees Xavier as the most intelligent of the three siblings (he understands in 2 seconds what takes her 3 hours) and envies him. Christophe thinks he used his intelligence badly, stayed purely technical, and « missed his life » compared with Lillian. See [Lillian](lillian.md).
 
 - **Daily calls (draft, Sensitive)**: Xavier calls Lillian every day, for up to 2 to 4 hours, and texts her to ask why if she does not answer. He has threatened to commit suicide; her psychologist calls it manipulation and says she must set limits and boundaries. Christophe points out that for Xavier she has been a mother since the beginning (already at 12). See [Lillian](lillian.md).
