@@ -10,7 +10,8 @@
 | [01-04 — Summer 1985 in Saint-Brevin](../periods/01-04-summer-1985-saint-brevin.md) | [01 — Origins and early childhood](../eras/01-origins-and-early-childhood.md) | France | A holiday that turns into a permanent return |
 | [02-01 — Childhood and adolescence in France](../periods/02-01-childhood-and-teens-in-france.md) | [02 — Childhood and adolescence in France](../eras/02-childhood-and-teens-in-france.md) | France | 1985-September 1998 |
 | [03-01 — Syracuse: finding Dad](../periods/03-01-syracuse-finding-dad.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | Syracuse, United States | From 11 September 1998, at 18; lives at her father's in North Syracuse, leaves after Clara's ultimatum |
-| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | To clarify |
+| [03-02 — Job Corps](../periods/03-02-job-corps.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York State, United States | About 1999; free programme for disadvantaged youth, social-class shock |
+| [03-03 — New York City](../periods/03-03-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | To clarify |
 | [04-01 — Married life with Mohamed](../periods/04-01-married-life-with-mohamed.md) | [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md) | Albany, Raleigh and elsewhere, United States | 15 years of marriage |
 | [04-02 — Nurse in hospices, Baltimore](../periods/04-02-nurse-in-hospices-baltimore.md) | [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md) | Baltimore, United States | Nursing studies 2006-2008, hospice nurse until 2013 |
 | [05-01 — Flight attendant](../periods/05-01-flight-attendant.md) | [05 — Flight attendant, Hawaii, Alaska](../eras/05-flight-attendant-hawaii-alaska.md) | to clarify | To clarify |
@@ -100,6 +101,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - At 19, she knits a Doctor Who scarf for her father, a fan of the series. Mamouche had taught her to knit between 7 and 10, and Mark wore the scarf (see [03-01](../periods/03-01-syracuse-finding-dad.md)).
 - The only one of the siblings to have spoken English before French, she has kept a slight American accent, which people find charming.
 - Around 1995, at 16, she goes on holiday to New York with Gwen to see their father.
+- About 1999, after the Price Chopper cashier job in Syracuse, she looks for schools in the Yellow Pages and enters Job Corps, a free programme created under Clinton for very disadvantaged youth. Being one of the only white students, she gets a « social class shock » and a wake-up call: she realises she should be grateful for her upbringing, and stops playing the "no dad" card. Her friends there: Ivan from Ecuador and his brother David; the supervisor was Miss V ([period 03-02](../periods/03-02-job-corps.md)).
 - On 11 September 1998, at 18, she goes back to the United States to be closer to her father ([period 03-01](../periods/03-01-syracuse-finding-dad.md)). He is not at the airport because he went to the wrong one. She finds him full of remorse, stuck in the past and in love with her mother, with a simple routine of films and books. For her, time stopped when she was little. She wants to make up for the lost time and plays along, being still a little girl in her head, but never told herself that time could be made up. She encourages him to place a personal ad, and he meets Clara.
 - She has her French baccalauréat but tries high school in the United States at her father's suggestion; she lasts 2 weeks (shock after her boarding school in La Baule and the French system). She then works as a cashier at a supermarket 20 minutes' walk away, where she has a crush on a coworker, one of her first crushes. She resigns after a misunderstanding and has avoided that store ever since.
 
@@ -128,6 +130,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - After Syracuse (about a year), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
+- Job Corps (about 1999): which centre, how long, what did she study, why did she leave? Who are Miss V, Ivan and his brother David, and the Hispanic friend whose photo may be at her uncle Michael's? See [03-02](../periods/03-02-job-corps.md).
 - The supermarket crush: who was he, what was the misunderstanding? (see [03-01](../periods/03-01-syracuse-finding-dad.md))
 - Dates: the account says about 15 years apart from her father, but 1985 to 1998 is 13 years, and she saw him at 16. Where does "15" come from?
 - Sensitive subject (Clara's ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.

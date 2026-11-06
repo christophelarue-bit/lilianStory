@@ -4,7 +4,7 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| No period yet | | | Not linked to a period of Lillian's life for now |
+| [03-02 — Job Corps](../periods/03-02-job-corps.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York State, United States | Possibly keeps a photo of a Hispanic friend of Lillian's from Job Corps (to confirm) |
 
 ## Identity
 

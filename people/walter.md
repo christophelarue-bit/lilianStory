@@ -4,7 +4,7 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | Met in New York |
+| [03-03 — New York City](../periods/03-03-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | Met in New York |
 
 ## Identity
 

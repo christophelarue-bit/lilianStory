@@ -6,7 +6,7 @@
 
 | Period | Era | Place | What was shared |
 |---|---|---|---|
-| [03-02 — New York City](../periods/03-02-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | Meets Lillian (the place of the meeting is to clarify) |
+| [03-03 — New York City](../periods/03-03-new-york-city.md) | [03 — Back to the United States](../eras/03-back-to-the-united-states.md) | New York City, United States | Meets Lillian (the place of the meeting is to clarify) |
 | [04-01 — Married life with Mohamed](../periods/04-01-married-life-with-mohamed.md) | [04 — Marriage to Mohamed](../eras/04-marriage-to-mohamed.md) | Albany, Raleigh and elsewhere, United States | 15 years of life together and marriage |
 
 ## Identity
