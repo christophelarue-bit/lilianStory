@@ -60,6 +60,8 @@ Lillian says she had « neither mother nor father »: Béatrice, who often talke
 
 ## Anecdotes and stories
 
+- **Kakinou, her sister (to confirm) (Sensitive)**: Béatrice was the only one who visited her daily during her alcoholism, as the doctors of the family did not have the strength. See [Kakinou](kakinou.md).
+
 - **Two phases**: she returned to Les Tourelles with Lillian and Gwen, pregnant with Xavier, and lived a few years at her parents' with the whole household (clear and logical decisions). She then took her own apartment with her children to breathe as a woman and mother; from then on Lillian became more of a friend than a daughter. Lillian was paid a few times for babysitting, once in the apartment.
 - **Absent mother in the apartment years**: at 11, Lillian looked after Gwen and Xavier while Béatrice went out to walk the dog at 19:30-20:00, then more often at night, with several men. Lillian has almost no memory of doing anything together with her mother, only of her confiding her problems. Birthday money from Mark was kept to pay the EDF bills. See [02-01](../periods/02-01-childhood-and-teens-in-france.md).
 - **Today (draft, Sensitive)**: Béatrice calls Lillian often and speaks about the same family problems about 95% of the time, like a best friend, which spoiled Lillian's birthday. Lillian's psychologist said that she shielded her children and treats Lillian like a friend, which is hurtful for Lillian. See [Lillian](lillian.md).

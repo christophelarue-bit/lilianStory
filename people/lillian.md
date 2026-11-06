@@ -61,6 +61,8 @@
 
 How Lillian sees herself, changes, tells her own story.
 
+- **Pushing things under the carpet**: at 13, seeing her aunt [Kakinou](kakinou.md) drunk on the floor with Papouche saying nothing, she learned to repress things. Christophe: Lillian, her father and Gwen do not want to see things, but see them anyway.
+
 - **Learning and intelligence**: before about 5 and a half, in the United States, she had no gaps: her father taught her the alphabet and she was very dynamic. On arriving in France at 5 she had gaps at school. She has always worked hard, but it takes her much more effort than others: she envies [Xavier](xavier.md)'s intelligence (he grasps in 2 seconds what takes her 3 hours) and thinks she is « beaucoup moins intelligente ». She feels it is « pas juste » that he is the brightest of the three siblings, and says she would give him her blood.
 - **Christophe's view**: intelligence is not only theoretical: emotional intelligence and social ties count, and her life has been fuller and more balanced than Xavier's. She has mastered 5 or 6 trades at a high level (flight attendant, nurse, hairdresser…), has had two abortions, and about six loves that count. He tells her to stop feeling guilty (a theme raised by her psychologist).
 - **Flight attendant test**: she had to act out an emergency landing, shouting the commands; at first she was blocked by shyness and doubted she would pass, but succeeded (see [05-01](../periods/05-01-flight-attendant.md)).
@@ -136,6 +138,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - After Syracuse (about a year), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
+- First trip to the United States at 13 (with a stop in Paris to see Kakinou): which year, how long, and who met her there? It does not fit with the account of 1985-1998.
 - Intelligence and effort: which gaps exactly did she have at school in France at 5, and how long did it last? Does she think of herself as less intelligent than Xavier and Gwen, and since when? What does her psychologist say about guilt?
 - Her hypersensitivity and Khalil Gibran: since when does she read him, and what other books or poems matter? Did her letter to her grandparents and mother after Job Courts change their view of her?
 - Job Courts (1999-2000, Callicoon): how long did she stay, why did she leave, and did she finish? Did she go to New York City and meet David before Clara's clash, then return to Syracuse? Who are Miss V, Ivan and his brother David, and the Hispanic friend whose photo may be at her uncle Michael's? See [03-02](../periods/03-02-job-courts.md).

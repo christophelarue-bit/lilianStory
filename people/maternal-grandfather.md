@@ -51,6 +51,8 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 
 ## Anecdotes and stories
 
+- **Kakinou**: he visited his daughter weekly (to confirm that she was his daughter). At 13, in Paris, he finds her drunk on the floor and says nothing, very dignified, as if it were normal. See [Kakinou](kakinou.md).
+
 - **Announcement to Gwen (2018)**: Lillian phoned Gwen to tell her of his death, so that Béatrice did not have to; Gwen screamed in pain, as if a part of her had died (see [Gwen](gwen.md)).
 - **His death (September 2018, Sensitive)**: a throat cancer, which came back. Béatrice took him to the doctor, the prognosis was bad, and he died a day or two later. Lillian, who was walking in the street, was called by Béatrice from her car, in tears, who told her that his cancer was back. The next day, Lillian and Béatrice quarrelled at the café « 7 Beaufort » in Saint-Brevin. Half an hour later, [Lou](lou.md) phoned Lillian: Papouche was dead. The death certificate was awaited from the doctor. See [Lillian](lillian.md).
 - **Tears**: according to Lillian, he cried only at the death of his own grandmother (Lillian's great-grandmother, to clarify).

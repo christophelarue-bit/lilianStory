@@ -14,7 +14,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
 - [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
 
-## [Lillian](people/lillian.md) — 37 questions
+## [Lillian](people/lillian.md) — 38 questions
 
 
 **Identity and background**
@@ -43,6 +43,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - After Syracuse (about a year), she lives in New York City until Mohamed: dates, where did she live and what jobs (Indian employer)?
 - Concrete examples of how Gwen's chaotic life has affected her, and the family?
 - Her boarding school in La Baule: which years, why was she there? And the trip to New York at 16 with Gwen: was it the city or New York State?
+- First trip to the United States at 13 (with a stop in Paris to see Kakinou): which year, how long, and who met her there? It does not fit with the account of 1985-1998.
 - Intelligence and effort: which gaps exactly did she have at school in France at 5, and how long did it last? Does she think of herself as less intelligent than Xavier and Gwen, and since when? What does her psychologist say about guilt?
 - Her hypersensitivity and Khalil Gibran: since when does she read him, and what other books or poems matter? Did her letter to her grandparents and mother after Job Courts change their view of her?
 - Job Courts (1999-2000, Callicoon): how long did she stay, why did she leave, and did she finish? Did she go to New York City and meet David before Clara's clash, then return to Syracuse? Who are Miss V, Ivan and his brother David, and the Hispanic friend whose photo may be at her uncle Michael's? See [03-02](periods/03-02-job-courts.md).
@@ -911,6 +912,27 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - Was she the one in the same building with the pyjama parties?
 - Is she still in touch with Lillian?
+
+## [Gaëlle](people/gaelle.md) — 2 questions
+
+
+**Events and stories**
+
+- **To ask Lillian**: is Gaëlle Kakinou's daughter, how old, where does she live, are they in touch? Is she the cousin from [Julie](people/julie.md)'s family or a different one?
+- **To ask Lillian**: when did this conversation take place, and what was the word (« scannels »)?
+
+## [Kakinou](people/kakinou.md) — 4 questions
+
+
+**Identity and background**
+
+- **To ask Lillian**: is Kakinou Béatrice's sister, and is it a nickname? Is it the same person as [Lou](people/lou.md)? Real first name and maiden name (Boutroux?), husband and children?
+
+**Events and stories**
+
+- **To ask Lillian**: how did she die in 2017, and was Lillian present in France or at the funeral?
+- **To ask Lillian**: who are Dominique and Bruno (the doctors), and why could they not go?
+- **To ask Lillian**: what did Béatrice say or feel about the situation?
 
 ## [Julie F.](people/julie-flazon.md) — 4 questions
 
