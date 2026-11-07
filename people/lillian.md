@@ -161,6 +161,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - Her paternal family: did she meet her grandmother Lillian, her uncles and aunts, her cousins? Is she in touch with them? Whose first name does she bear: is it her grandmother's?
 - The scene of her grandmother belittling Mark: when and where (she was very small), and how did she feel? What link does she make with her father's passivity?
 - The culture gap in affection: how did it shape her way of loving and of being loved?
+- Question 3 to ask: what made her stay about 13 years with Mohamed, and what made her leave? Question 5 to ask: what is different with Chris compared with previous relationships?
 - Marc Lambert (dates, birthdays, break-up, letter to Papouche), the visit of Grandma Lillian and the Switzerland trip to her cousins [Julie](julie.md) and [Jérôme](jerome.md): details? See [Marc Lambert](marc-lambert.md).
 - The move to the apartment at 11, the trip to Switzerland to her cousins [Julie](julie.md) and [Jérôme](jerome.md) (when?), and the boarding-school day with Marc Lambert (which year, which school, about 15?).
 - The July 2018 reunion at Gwen and Thomas's: where exactly (« Luce »/Lucé?), how did she come from Maui (United States)? How did she live the scene, and the Croatia trip afterwards?

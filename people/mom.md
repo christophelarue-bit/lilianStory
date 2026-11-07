@@ -60,6 +60,9 @@ Lillian says she had « neither mother nor father »: Béatrice, who often talke
 
 ## Anecdotes and stories
 
+- **1985, holidays turned into staying (Christophe's account)**: Béatrice, pregnant with Xavier, was meant to go back to Syracuse in September. Her parents questioned her until she admitted the financial situation, and decided she should stay in France. See [01-03](../periods/01-03-early-childhood-with-family.md).
+- Lillian resented her for going out with other men (Marc), then understood she had made the right choices.
+
 - **Criticised by her sisters-in-law/sisters**: Lillian saw that some of her aunts were jealous of Béatrice and criticised her as a bad mother, especially during the school holidays when the Parisian cousins came.
 
 - **Kakinou, her sister (to confirm) (Sensitive)**: Béatrice was the only one who visited her daily during her alcoholism, as the doctors of the family did not have the strength. See [Kakinou](kakinou.md).

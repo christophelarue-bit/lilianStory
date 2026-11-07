@@ -16,8 +16,10 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Job Courts](periods/03-02-job-courts.md): how long did she stay at Callicoon, did she finish, why did she leave, and where did she go next (Syracuse or New York City)?
 - [New York City](periods/03-03-new-york-city.md): when and where was the hairdressing school, where did she live and what jobs (Indian employer) until Mohamed?
 - [Mohamed](people/mohamed.md): what attracted her, what did she want then, and how did she go from the meeting to the March 2003 wedding?
+- [Mohamed](people/mohamed.md): what made her stay about 13 years, and what made her leave?
+- [Chris](people/christophe.md): what is different with Chris compared with her previous relationships?
 
-## [Lillian](people/lillian.md) — 40 questions
+## [Lillian](people/lillian.md) — 41 questions
 
 
 **Identity and background**
@@ -57,6 +59,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Her paternal family: did she meet her grandmother Lillian, her uncles and aunts, her cousins? Is she in touch with them? Whose first name does she bear: is it her grandmother's?
 - The scene of her grandmother belittling Mark: when and where (she was very small), and how did she feel? What link does she make with her father's passivity?
 - The culture gap in affection: how did it shape her way of loving and of being loved?
+- Question 3 to ask: what made her stay about 13 years with Mohamed, and what made her leave? Question 5 to ask: what is different with Chris compared with previous relationships?
 - Marc Lambert (dates, birthdays, break-up, letter to Papouche), the visit of Grandma Lillian and the Switzerland trip to her cousins [Julie](people/julie.md) and [Jérôme](people/jerome.md): details? See [Marc Lambert](people/marc-lambert.md).
 - The move to the apartment at 11, the trip to Switzerland to her cousins [Julie](people/julie.md) and [Jérôme](people/jerome.md) (when?), and the boarding-school day with Marc Lambert (which year, which school, about 15?).
 - The July 2018 reunion at Gwen and Thomas's: where exactly (« Luce »/Lucé?), how did she come from Maui (United States)? How did she live the scene, and the Croatia trip afterwards?

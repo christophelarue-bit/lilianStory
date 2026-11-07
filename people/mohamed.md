@@ -68,6 +68,7 @@ Husband for 15 years.
 - Wedding in March 2003.
 - 2006: Mohamed leaves her alone to handle the abortion, its risks and its consequences. About two weeks later his sister [Zouria](zouria.md), 6 months pregnant, comes to visit, and Lillian has to pretend to be happy for the coming birth.
 - Near the end of the marriage (Mohamed drinking, porn sites, no more intimacy), Lillian has an affair with her colleague [Julien](julien.md), a friend of the couple (**Sensitive**). She ends it, goes to Hawaii with Kim and Veronica, and returns to Mohamed, who had gone to Maryland during a break. About a year later the final separation occurs (to confirm).
+- The flight attendant years served as a gentle transition: they were in Raleigh, and she came back only every 2 weeks to 3 months, taking the long missions to avoid returning and to save money (see [05-01](../periods/05-01-flight-attendant.md)).
 - There are two separations: during the first, Lillian shares a flat for 6 months with [Geaniie](geaniie.md); after the second, she goes out with [Julien](julien.md). Dates to clarify.
 - In 2016, Lillian wants to end the marriage and leave for Hawaii (see [05-02](../periods/05-02-nurse-in-hawaii.md)). They then live near Baltimore, where she keeps working as a nurse for her former boss.
 - **The Alaska dream**: during the marriage Lillian always dreamed of living in Alaska; Mohamed was not interested at all (see [05-03](../periods/05-03-nurse-in-alaska.md)).

@@ -76,6 +76,9 @@
 
 ## Anecdotes and stories
 
+- **The stay in France in 1985 (Christophe's account)**: the family trip to France was meant as holidays with a return to Syracuse in September; Papouche and Mamouche, learning of the couple's financial situation, kept Béatrice and the children in France and asked Mark to sort out his finances and be ready to welcome 3 children and his wife. Whether he did is to clarify. See [01-03](../periods/01-03-early-childhood-with-family.md).
+- **Clara and the ultimatum**: it was Lillian who pushed him to meet women again; Clara's « Lillian or me » met his non-reaction.
+
 - Christophe sees Mark as hypersensitive: when scenes are problematic, he takes refuge behind the language or the situation, but understands very well (Lillian: « un peu lunaire », like Gwen).
 
 - **His career path**: military in Germany; on returning to Syracuse (1980) with his wife and first child, he resumes his studies, then gives them up; his wife and children (Lillian, Gwen, and Xavier to come) leave in 1985. Depression, then work as a librarian (Christophe's recollection, to verify with Lillian), then the army again (Iraq). Probably no other activity since (to ask Lillian).

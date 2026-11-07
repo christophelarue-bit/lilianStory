@@ -51,6 +51,8 @@ A symbol of fatherhood in Lillian's story (details to be completed).
 
 ## Anecdotes and stories
 
+- **1985, the decision (Christophe's account)**: with Mamouche, he questioned Béatrice until she revealed the couple's finances, then decided she should stay in France with the children (enrolled in Saint-Brevin), and asked Mark to sort out his finances. Old-fashioned: the man pays, the woman manages the home. See [01-03](../periods/01-03-early-childhood-with-family.md). He and Mamouche become Lillian's « anchors ».
+
 - **The three grandchildren and him**: Xavier asked nothing, Lillian asked him for reassurance, and Gwen asked for money regularly during his last ten years. See [Lillian](lillian.md).
 
 - **Kakinou**: he visited his daughter weekly (to confirm that she was his daughter). At 13, in Paris, he finds her drunk on the floor and says nothing, very dignified, as if it were normal. See [Kakinou](kakinou.md).
