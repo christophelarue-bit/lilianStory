@@ -43,6 +43,8 @@
 
 ## Stories and small details
 
+- **What the years gave her (Christophe's account, to confirm)**: travel and discovery of the world, including secret US military bases in Europe, in the Middle East and even in Afghanistan. It also let her make a soft transition and a calm separation from Mohamed. They lived in Raleigh, but she came home only every 2 weeks to 3 months depending on the missions; she took all the long missions to avoid going back and to save money.
+
 - Flight attendant from 2014 to 2016, working for Omni Air.
 - **Why**: coming out of the hospice job and the death of her grandmother, she wants to travel and lists jobs that would allow it (podcasts, a sheet of paper); flight attendant is one of them (see [04-02](04-02-nurse-in-hospices-baltimore.md)).
 - **Selection**: she was meant to go to an Emirates interview but was late; she then found another recruitment, for an airline she did not know (Omni Air), and went on the spur of the moment. About 100 candidates came for the day. First round: stand up in front of everyone and say for 2 minutes why you want to be a flight attendant; the selected names are posted on the wall after half an hour. Second round: role plays on solving conflicts with passengers. About 20 were selected. Lillian remembers it as almost an actor's job: simulate an emergency landing, sit on a seat, shout the commands. At first she could not, being shy and stiff, and was not sure she would pass; she succeeded all the same.

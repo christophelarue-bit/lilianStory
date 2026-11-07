@@ -42,6 +42,7 @@
 - After Lillian's birth in Heidelberg, the family leaves for the United States and settles in Syracuse, where Gwen is born (1982). Mark cannot handle the family and his debts become untenable.
 - Lillian speaks English before French: she is the only one of the siblings with this background, hence her slight American accent.
 - The bedtime nursery rhymes, sung and read by her father.
+- **Why the family stayed in France (as told by Christophe, to confirm with Lillian)**: the trip to France was meant as holidays only, with a return to Syracuse in September, for Béatrice, the children and Mark. Papouche and Mamouche questioned Béatrice until she admitted the couple's financial situation. Finding out, they decided that Béatrice, pregnant with Xavier and with Gwen and Lillian, had better stay in France, enrol the children in school in Saint-Brevin, and that Mark should sort out his finances and be ready to welcome his wife and three children. They were old-fashioned: the man was to ensure the financial health of the home, the woman its mental health and daily management. Christophe adds that it may have been a more stable balance than in 2026 for the post-68 generations in France.
 - Mark's financial difficulties worsen until family life becomes impossible to sustain.
 
 ## Landscapes and atmosphere

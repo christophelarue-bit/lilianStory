@@ -59,6 +59,7 @@
 - **The non-answer**: Mark tells Lillian about the ultimatum. When she asks what he has decided, he hesitates and does not say. Lillian decides to leave Syracuse on that non-answer.
 - Life in Syracuse comes before New York City.
 
+- **Why she went back (Christophe's account, to confirm)**: Lillian was nostalgic for her father and resented her mother for going out with other men, among them Marc in Saint-Brevin, as a kind of betrayal of her father's love. In the United States Mark was not what she hoped for: she tried to put him back on the rails of life. She then understood that her mother had made the right choices, and that Papouche and Mamouche were her anchors. She encouraged him to meet women, which brought Clara, whose ultimatum « c'est Lillian ou moi » met his non-reaction; Lillian decided to leave.
 - **Back to your roots**: a cousin ([James](../people/james.md)) tells her that she is making a « 360 »: she goes back to her roots, like salmon.
 - She could have built a life in the United States (nurse, good earnings); her reaction to problems is usually flight.
 
@@ -71,7 +72,7 @@
 - Timeline: Lillian says she went to New York City and met David (Chinese) before the Clara clash, then returned to Syracuse. This conflicts with leaving Syracuse for New York after the clash: which is right?
 - Lillian leaves Syracuse at about 20 and lives in [New York City](03-03-new-york-city.md) until she meets [Mohamed](../people/mohamed.md). Did she leave immediately after Mark's non-answer, and was it at 20?
 - Dates: when did Mark place the ad and meet Clara? When did Lillian leave (about a year and a half after Clara's arrival)? The account says about 15 years apart, but 1985 to 1998 is 13 years, and Lillian had seen her father at 16: where does "15" come from?
-- Departure: why did she go back to the United States, and why then? What triggered it?
+- Departure: the reasons are now given (nostalgia, resentment of Béatrice's partners, then disillusion); what triggered the timing in September 1998?
 - The supermarket: who was the guy, what was the misunderstanding that made her resign, and why has she avoided the store ever since? Price Chopper is the likely name
 - The high school: which school, what shocked her the most, how did Mark react when she left after 2 weeks? Did she try other studies?
 - Mark's days: what did he do for a living at 46? Did Lillian see him doing anything else than watching films and reading?
