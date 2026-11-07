@@ -13,6 +13,9 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Kim and Kay](periods/05-03-nurse-in-alaska.md): was Kim also in Alaska, or only Kay and Keith?
 - [Mohamed](people/mohamed.md): year the marriage ended, official divorce and reason.
 - [Alaska to France](periods/05-03-nurse-in-alaska.md): date of departure, first landing place, did she see José again?
+- [Job Courts](periods/03-02-job-courts.md): how long did she stay at Callicoon, did she finish, why did she leave, and where did she go next (Syracuse or New York City)?
+- [New York City](periods/03-03-new-york-city.md): when and where was the hairdressing school, where did she live and what jobs (Indian employer) until Mohamed?
+- [Mohamed](people/mohamed.md): what attracted her, what did she want then, and how did she go from the meeting to the March 2003 wedding?
 
 ## [Lillian](people/lillian.md) — 40 questions
 
