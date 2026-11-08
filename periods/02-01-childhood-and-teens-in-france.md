@@ -109,6 +109,8 @@
 - **Class and social background**: Lillian says her family was not bourgeois, fatherless, « a bit of social cases »; her aunt Lalou said Béatrice was a « pute » (**Sensitive**), which Christophe attributes to jealousy. The film « La vie est un long fleuve tranquille » resonates with her.
 - Lillian attends a boarding school in La Baule (years to clarify) and passes her French baccalauréat.
 
+- **Style and identity at school (Lillian)**: an anticonformist, anti-brand teenager (army surplus, Kickers, purple hair, hippie, pareo) in an art class where everyone was excentric; a friend, Alexandrine; never interested in being cool or in a gang. Gwen, the opposite: brands, Banana Moon, miniskirts. See [Lillian](../people/lillian.md) and [Gwen](../people/gwen.md).
+
 ## Landscapes and atmosphere
 
 *(to be completed)*
