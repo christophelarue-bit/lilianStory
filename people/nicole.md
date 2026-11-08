@@ -48,6 +48,8 @@ Lillian was anxious about meeting Christophe's family, and Nicole put her at eas
 
 ## Anecdotes and stories
 
+- Her dominant sense, according to Christophe: perhaps the ear, or smell (to confirm).
+
 - **The pharmacy**: Lillian, unwell in Corrèze from nerves, is driven by Nicole to the pharmacy; Nicole talks all along the way and calms her.
 
 ## To clarify

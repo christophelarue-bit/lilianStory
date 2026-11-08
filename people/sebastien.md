@@ -49,6 +49,8 @@ Chris's brother, a urologist surgeon in Nantes and a part-owner of his practice 
 
 ## Anecdotes and stories
 
+- His dominant sense, according to Christophe: touch (tactile).
+
 *(draft)*
 
 ## To clarify

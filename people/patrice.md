@@ -47,6 +47,8 @@ He was at the holiday week in Corrèze: he played with Julia, who got along easi
 
 ## Anecdotes and stories
 
+- His dominant sense, according to Christophe: the eye (a visual gift, though he is also tactile).
+
 - **The visit to Nice**: about 2 years after Corrèze, he comes for 2 days for his sister's birthday; Lillian and he spend time together and discover each other.
 - Draft (rule 6): Julia played with the adults, including Patrice, without any problem.
 

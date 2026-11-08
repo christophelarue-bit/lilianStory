@@ -49,6 +49,8 @@ Sébastien's wife for 20 years, a doctor and an obstetrician, who lives in Nante
 
 ## Anecdotes and stories
 
+- Her dominant sense, perhaps touch too (Christophe is not sure).
+
 *(draft)*
 
 ## To clarify

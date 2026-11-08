@@ -48,6 +48,8 @@ His welcome saved her move to Hawaii when, tickets and suitcases ready, she sudd
 
 ## Anecdotes and stories
 
+- **Lillian's portrait of him**: « une des plus belles personnes » she has met. He gives although he has little: his house is open and he has helped many people, which she finds incredible. He sometimes puts himself down. He works in construction (BTP) but is an artist with a creative vision: mosaics, painting, jewellery made from shells. His dominant sense is touch (tactile), according to the conversation with Christophe.
+
 - **José's trip**: when Lillian went to meet José (a Tinder match) in California, David, a bit paternalistic, told Adriana to let her live, talked to her about self-defence and wanted to feel his energy. Her loft at his house stayed empty during her summer 2018 in France, while others used it with her belongings still inside. See [05-02](../periods/05-02-nurse-in-hawaii.md).
 
 - **His landlord, also called David**: [David Williams](david-williams.md), a friendly emergency-room doctor who rented him the apartment and allowed him to do Airbnb, often came by in the evening for a drink. Lillian counts several Davids in the story (New York, Hawaii, the landlord, Ivan's brother).
