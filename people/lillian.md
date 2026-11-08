@@ -30,6 +30,7 @@
 - **Generation**: late Generation X
 - **Birth**: 1979, military hospital in Heidelberg, Germany (see [01-02 — Birth in Heidelberg](../periods/01-02-birth-in-heidelberg.md))
 - **Names**: « Anne » is a nickname of Lillian's. In the stories, "Anne" is replaced by Lillian.
+- **Maui moves (Hawaii years)**: first at David's house (a year of parties), then a yurt in the jungle at Haiku for 3 to 4 months (mould, fungus on her abdomen, doctor says move), then a room in a house with Kisha and another woman (rent raised, parking quarrels, deposit slow to return), then back to David's for about 600 to 800 dollars a month. She also visited Oahu, Kauai and another island by boat (see [05-02](../periods/05-02-nurse-in-hawaii.md)).
 - **In 2018**: she lives in Maui, Hawaii, and works over 40 hours a week (as a nurse, to confirm)
 - **Current place of residence**: Nice, France, since October 2025 (moved in with Chris in Nantes in July 2023)
 - **Other places of residence**: many, to be added as conversations go on
@@ -168,6 +169,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - July 2018: why did the fight between Gwen and Thomas break out, and what did Thomas mean by « une famille de dégénérés »? Why did he hit Alexandre with a towel, and was it usual?
 - July 2018: was Papouche present or ill at the reunion, and was she there at his death in September 2018? Who came with Mark and did he see Béatrice? How did the Croatia trip go?
 - Her presence in France from July to September 2018: how long did she stay, before returning to Hawaii? What did she feel at Papouche's death, and about Béatrice's reaction (« on n'a pas le temps pour les émotions »)?
+- Maui years: order and dates of the moves (David, yurt, Kisha, David again); her work shifts; the Kauai trip with a pilot.
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?
 - Her time with Mark: about a year in Syracuse (she first said from 18 to 20): which exact dates? How did the regular contact work during the marriage to Mohamed?
 - Where in Syracuse did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?

@@ -19,7 +19,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): what made her stay about 13 years, and what made her leave?
 - [Chris](people/christophe.md): what is different with Chris compared with her previous relationships?
 
-## [Lillian](people/lillian.md) — 41 questions
+## [Lillian](people/lillian.md) — 42 questions
 
 
 **Identity and background**
@@ -66,6 +66,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did the fight between Gwen and Thomas break out, and what did Thomas mean by « une famille de dégénérés »? Why did he hit Alexandre with a towel, and was it usual?
 - July 2018: was Papouche present or ill at the reunion, and was she there at his death in September 2018? Who came with Mark and did he see Béatrice? How did the Croatia trip go?
 - Her presence in France from July to September 2018: how long did she stay, before returning to Hawaii? What did she feel at Papouche's death, and about Béatrice's reaction (« on n'a pas le temps pour les émotions »)?
+- Maui years: order and dates of the moves (David, yurt, Kisha, David again); her work shifts; the Kauai trip with a pilot.
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?
 - Her time with Mark: about a year in Syracuse (she first said from 18 to 20): which exact dates? How did the regular contact work during the marriage to Mohamed?
 - Where in Syracuse did the family live from 1980 to 1985? Her memories of the announcement of Xavier's arrival there?
@@ -724,6 +725,17 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Which of Mohamed's sisters did he go out with, and when?
 - Where and when did Lillian meet him, and how did the friendship with her develop?
 - Which of his sisters did Yacine go out with?
+
+## [Kisha](people/kisha.md) — 2 questions
+
+
+**Identity and background**
+
+- **To ask Lillian**: the spelling (Kisha/Keisha), age, origin, and the second woman in the house?
+
+**Events and stories**
+
+- **To ask Lillian**: did she confront her or settle the deposit, and did she see her again?
 
 ## [Julien](people/julien.md) — 7 questions
 

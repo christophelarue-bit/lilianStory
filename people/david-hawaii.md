@@ -48,6 +48,8 @@ His welcome saved her move to Hawaii when, tickets and suitcases ready, she sudd
 
 ## Anecdotes and stories
 
+- **Parties and personality**: very extroverted. The first year at his house: parties and people all the time, with music. Lillian, an introvert, finally wanted her own space, which led to the yurt in Haiku, then a house with Kisha (a friend of his); she came back and rented a room at his place for about 600 to 800 dollars a month. See [05-02](../periods/05-02-nurse-in-hawaii.md).
+
 - **Healer and natural guru**: Kim met him in Maui, where she had gone to stay at her aunt's flat after leaving the airline for health reasons; he had the reputation of a healer, a natural guru. They lived together for about 6 months (not longer, Lillian says).
 
 - 2016: Kim announces at the last minute that she has left David and that, if Lillian goes to live at his place, they are no longer friends. Lillian, with her tickets and her suitcases ready, feels « fucked » [stuck]. David tells her that Kim's departure changes nothing, and she moves in with him in Maui (see [05-02](../periods/05-02-nurse-in-hawaii.md)).
