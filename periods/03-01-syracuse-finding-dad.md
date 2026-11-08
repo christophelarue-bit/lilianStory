@@ -62,6 +62,7 @@
 - **Why she went back (Christophe's account, to confirm)**: Lillian was nostalgic for her father and resented her mother for going out with other men, among them Marc in Saint-Brevin, as a kind of betrayal of her father's love. In the United States Mark was not what she hoped for: she tried to put him back on the rails of life. She then understood that her mother had made the right choices, and that Papouche and Mamouche were her anchors. She encouraged him to meet women, which brought Clara, whose ultimatum « c'est Lillian ou moi » met his non-reaction; Lillian decided to leave.
 - **Back to your roots**: a cousin ([James](../people/james.md)) tells her that she is making a « 360 »: she goes back to her roots, like salmon.
 - She could have built a life in the United States (nurse, good earnings); her reaction to problems is usually flight.
+- **Visits to Grandma (1998-1999)**: each time Lillian saw her father, she went to see her grandmother afterwards, welcomed with open arms. She asked many questions, and found her full of energy and love, but heard her belittle Mark. See [Grandma Lillian](../people/paternal-grandmother.md).
 
 ## Landscapes and atmosphere
 
