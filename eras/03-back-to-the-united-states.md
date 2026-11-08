@@ -39,6 +39,7 @@ The desire to get closer to her father, the discovery of a father stuck in the p
 
 ## To clarify
 
+- Herkimer (studio, Walmart cashier, one or two semesters) and the move to New York City in about January 2002 to meet David (met on Yahoo Chat): where does it fit between Job Courts, Clara's ultimatum and Mohamed? See [03-03](../periods/03-03-new-york-city.md).
 - What are the dates of each period?
 - Dates: when did Mark meet Clara, and when did Lillian leave Syracuse? The account says about 15 years apart, but 1985 to 1998 is 13 years, and she saw her father at 16: where does "15" come from?
 - Lillian stays about a year with Mark, then lives in New York City until she meets Mohamed: exact dates, and when did she meet him?
