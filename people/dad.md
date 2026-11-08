@@ -97,6 +97,7 @@ Lillian says, in contrast with Gwen's openness to other cultures, that her fathe
 - **His mother's gifts**: Grandma sent Christmas parcels to Lillian, Gwen and Xavier throughout their childhood in France, something Mark never did (see [Grandma Lillian](paternal-grandmother.md)).
 - **The Doctor Who scarf**: at 19, Lillian knits him a Doctor Who scarf, as he has been a fan of the series since the very beginning; he wore the scarf (see [03-01](../periods/03-01-syracuse-finding-dad.md)).
 - **The nursery rhymes**: he read her stories and sang nursery rhymes to put her to sleep. Which ones? In which language? To ask.
+- His mother belittled him in front of Lillian, as she did his brothers Michael and Jackie: a failure, his fault, a tramp. Mark and Michael were both divorced; Grandma preferred children with money and status (a doctor rather than a computer scientist). See [Grandma Lillian](paternal-grandmother.md).
 
 ## To clarify
 

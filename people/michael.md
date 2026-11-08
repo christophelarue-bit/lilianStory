@@ -50,6 +50,7 @@
 ## Anecdotes and stories
 
 *(to be completed)*
+- His mother belittled him, saying he had failed and looked like a tramp (he was divorced, like Mark), as she did Mark and Jackie. See [Grandma Lillian](paternal-grandmother.md).
 
 ## To clarify
 

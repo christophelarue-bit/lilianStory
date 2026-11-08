@@ -64,9 +64,17 @@ Lillian bears her first name: she was named after her. Throughout Lillian's chil
 - **The dishes**: when Lillian offered to help with the dishes, Grandma got angry: did she think she was too old and needed assistance? She refused any help.
 - **Her treatment of Mark** (according to Lillian): she kept belittling her son, in front of Lillian when she was very small. She told him he had failed at everything, that it was his fault, that he did not have his children since he was no longer with Béatrice, and that he looked like a wreck: « Regarde-toi, Mark, tu ressembles à rien, t'as tout raté » [Look at yourself, Mark, you look like nothing, you failed at everything]. How Mark reacted is to be clarified.
 - **The family lie**: when Lillian was little, her grandmother told her that Larry's father was ill. Lillian learned the reality after her grandmother's death.
+- **Her spirit (Lillian, interview)**: despite everything that happened to her, she woke up in a good mood, with the same joie de vivre as Gwen and an abundance of love to give. She could be very blunt (« cash »), but Lillian never doubted that she loved her. Her life was very hard, so she may have had less compassion for those who let themselves go, « les faibles ». Lillian adores her and feels deep gratitude for the time spent with her.
+- **Visits (Lillian)**: each time she saw Mark while living in New York State (1998-1999), she went to see Grandma afterwards. She was welcomed with open arms, asked her many questions, and found her full of energy at 60-70 and more.
+- **Hyperactive and a gardener**: like Gwen, hyperactive almost until the end, with a lot of gardening and volunteering in nursing homes. At about 13, Lillian was woken at 6 a.m. to do aerobics in front of a Jane Fonda film (« c'est quoi cette génération feignante ? ») and had no wish to. She says a lot of Gwen is her: a bit « fofolle », funny.
+- **Her mentality**: blue collar, « straight to the point » (« let's go »): « Ok, you're hurting? Whatever. Let's go. »; one dries one's tears for half a day and carries on. She never took time to pity herself. Lillian contrasts this with her French grandmother, white collar and bourgeois, whom she also admires, differently. Widowed at 36, pregnant with her 7th child.
+- **Her values and the belittling**: she valued material and financial success: a doctor son was better than a computer-science son. She belittled not only Mark but also Michael and Jackie, saying they had failed (Michael, divorced, « raté », looked like a tramp) and that it was their fault; Lillian heard it many times. Mark and Michael were both divorced.
+- **Her background (Lillian, Christophe)**: born in 1925 (about 4 at the 1929 Great Depression), from a not rich family; she is said to have had 14 siblings, and her mother was about 20-25 years younger than her father. Lillian says she herself had 8 children (earlier notes: 7). The family was Catholic. A long digression on contraception and poor versus bourgeois families is not recorded.
 
 ## To clarify
 
+- Number of children: 7 (earlier notes) or 8 (Lillian this time)? And her number of siblings (14)?
+- The aerobics at 13: which year, which house, and did Mark or others join? Which volunteering in nursing homes, and until when?
 - Her death in 2013 (September or November): where, how, and where was Lillian? It shook Lillian and contributed to her change of life (see [04-02](../periods/04-02-nurse-in-hospices-baltimore.md)).
 
 - Her surname, birthplace, and exact birth date?

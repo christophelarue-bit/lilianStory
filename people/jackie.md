@@ -51,6 +51,7 @@
 ## Anecdotes and stories
 
 - She was born with scoliosis and has had many health problems; her mother was pregnant with her when Peter died, and Lillian wonders whether the two are linked.
+- According to Lillian, their mother belittled her too, as she did Mark and Michael. See [Grandma Lillian](paternal-grandmother.md).
 
 ## To clarify
 
