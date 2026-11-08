@@ -101,6 +101,7 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 - **Seen by Lillian's psychologist (draft, Sensitive)**: after hearing about Gwen's care of her children (the story of Clément on the motorway, Julia), he judges it negligence and says Gwen is a child, not an adult, and will not change; Béatrice sends Lillian papers to defend Gwen. See [Lillian](lillian.md).
 
+- **Gwen's style as a teenager (contrast with Lillian)**: Gwen was in hyperconsumption: brands and boutiques, Banana Moon, miniskirts and tight clothes, a worked look, and a change of clothes every 3 or 6 months, while Lillian was anti-brand, recycling and hippie. Described as « deux opposés » by Christophe and Lillian, pushed to the extreme. See [Lillian](lillian.md).
 - **Gwen as a child**: the relationship with Lillian was harder: Gwen tended to lie, steal things, fight, a bit of a tomboy, with no shame. It clashed with Lillian's calm, gentle character (« peace and joy »). Xavier, though small, was closer to Lillian than to Gwen, who left them to be with her friends.
 - **Funny since she was little (Lillian's positive memory)**: Gwen was hyperactive and always tried to make people laugh, already as a very small child. Christophe notes that being hyperactive and being funny are not the same, and that it can also annoy people. A precise scene is still to collect.
 - **Positive memories from Lillian (interview)**:

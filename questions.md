@@ -19,7 +19,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): what made her stay about 13 years, and what made her leave?
 - [Chris](people/christophe.md): what is different with Chris compared with her previous relationships?
 
-## [Lillian](people/lillian.md) — 46 questions
+## [Lillian](people/lillian.md) — 48 questions
 
 
 **Identity and background**
@@ -41,6 +41,8 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Herkimer, January 2002) Is Herkimer the same place as the Maria College semester said for Job Courts? Order of Syracuse, Job Courts, Herkimer and New York City, and how long in Herkimer.
+- Style: whose is the army backpack, and which friends or places shaped her teenage style (Alexandrine, the art class)?
 - Therapy: she only briefly told the psychologist about Papouche and Mamouche, her anchor (he noted positive waves); he may come back to it next time. Béatrice has just sent forms to fill in, for Lillian and Xavier, to defend Gwen (what for?).
 - (Draft, rule 6) Therapy: when did she start the sessions, and what did she decide to do after the psychologist's advice (message to the three, limits on calls)?
 - (Draft) Xavier's daily calls (2 to 4 hours) and texts: since when, and what is behind the suicide threats?
@@ -693,7 +695,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - **To ask Lillian**: when (year), did she tell anyone, and what happened to him afterwards?
 - **To ask Lillian**: was it the week he was off work? Does she know his first name spelling and age?
 
-## [David (New York)](people/david-ny.md) — 3 questions
+## [David (New York)](people/david-ny.md) — 6 questions
 
 
 **Identity and background**
@@ -701,8 +703,14 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Surname or nickname to distinguish him from the other David?
 - His surname or nickname (« David Mao »)? When was the car episode, and what kind of relationship were they in?
 
+**Dates and chronology**
+
+- When did they meet in person in New York (January 2002), how long did the relationship last, and where did she live?
+
 **Events and stories**
 
+- Yahoo Chat: how did they start, when, and what did they talk about? What was his surname (« Wadsworth »? a street or a surname?) and Chinese name?
+- The 2018 meeting: where, and who travelled? Is he the same David as in Lillian's current contacts?
 - How did she meet him, how long did it last?
 
 ## [Cathy Williams](people/cathy-williams.md) — 1 question
