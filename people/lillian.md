@@ -33,6 +33,7 @@
 - **Maui moves (Hawaii years)**: first at David's house (a year of parties), then a yurt in the jungle at Haiku for 3 to 4 months (mould, fungus on her abdomen, doctor says move), then a room in a house with Kisha and another woman (rent raised, parking quarrels, deposit slow to return), then back to David's for about 600 to 800 dollars a month. She also visited Oahu, Kauai and another island by boat (see [05-02](../periods/05-02-nurse-in-hawaii.md)).
 - **Flatmates in Maui**: at David's with [Adriana](adriana.md) (Venezuelan, vegan) and [Danielle](danielle.md) (Californian) for 2 to 3 months, then with Adriana in a semi-detached house next to [Steve](steve.md) and [Karen](karen.md). Lillian found most people in Maui « space » but inoffensive, and says she could write a book about them.
 - **Maui (Sensitive)**: she listened to her friend and David's landlord [David Williams](david-williams.md), a doctor in crisis who took cocaine at 7 a.m.; it was the first time she saw cocaine.
+- **Summer 2018 and José**: she did not renew her 3-month agency-nurse contract in Maui, spent July to early September in France (Luz, Papouche's death, Croatia), then came back. At the end of 2018 she met [José](jose.md) on Tinder and flew to California for a week of national parks. She says she often takes risks (José, the pilot in Kauai) and has been lucky.
 - **In 2018**: she lives in Maui, Hawaii, and works over 40 hours a week (as a nurse, to confirm)
 - **Current place of residence**: Nice, France, since October 2025 (moved in with Chris in Nantes in July 2023)
 - **Other places of residence**: many, to be added as conversations go on
@@ -171,6 +172,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - July 2018: why did the fight between Gwen and Thomas break out, and what did Thomas mean by « une famille de dégénérés »? Why did he hit Alexandre with a towel, and was it usual?
 - July 2018: was Papouche present or ill at the reunion, and was she there at his death in September 2018? Who came with Mark and did he see Béatrice? How did the Croatia trip go?
 - Her presence in France from July to September 2018: how long did she stay, before returning to Hawaii? What did she feel at Papouche's death, and about Béatrice's reaction (« on n'a pas le temps pour les émotions »)?
+- Hawaii dates: arrival in September 2017 or 2016, total time (a year and a half?), and when she left for José in January 2020.
 - Maui years: order and dates of the moves (David, yurt, Kisha, David again); her work shifts; the Kauai trip with a pilot.
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?
 - Her time with Mark: about a year in Syracuse (she first said from 18 to 20): which exact dates? How did the regular contact work during the marriage to Mohamed?

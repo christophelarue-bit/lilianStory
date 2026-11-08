@@ -13,7 +13,7 @@
 - **Role in Lillian's life**: love
 - **Nationality / origin**: Spanish (he returns to Spain; to confirm)
 - **Place of residence**: Gillette, Wyoming, United States (2020), then Spain
-- **Dates**: together 2019–2020; lived together about 5 months in Gillette (January 2020 to roughly June 2020, to confirm)
+- **Dates**: met end of 2018 on Tinder (he was in Maui, from Wyoming), a week in California (Sequoia, Yosemite), together 2019–2020; lived together about 5 months in Gillette (January 2020 to roughly June 2020, to confirm)
 - **Occupation**: teacher in a high school in Gillette, on a work visa; animal photographer, dreams of working for National Geographic
 - **Name**: transcribed « Rosé » in the interview; assumed to be José (to confirm spelling)
 
@@ -48,6 +48,8 @@ Lillian was happy with him and loved him. They connected over nature and animals
 -
 
 ## Anecdotes and stories
+
+- **The meeting (end of 2018)**: they matched on Tinder because he was on Maui with his roommate, just before he left for Wyoming. After several weeks of chat, Lillian flew four hours to California to meet him and spend a week in Sequoia and Yosemite. He had understood that she arrived at noon rather than midnight, did not answer, and only wrote around 6 a.m. to apologise and pick her up. See [05-02](../periods/05-02-nurse-in-hawaii.md).
 
 - **Gillette, Wyoming**: they lived in a flat with 2 bedrooms, a gym and a pool, rent about 800 dollars. He liked the place, the pay was good and life cheap; she hated it (« rednecks », guns, oil drills, a moody boss, the Republican mentality), a shock after Maui.
 - **The question**: one month into living together, he asked whether she could stay a year. She said she did not know, so he did not renew his contract.

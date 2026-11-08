@@ -54,6 +54,7 @@
 - **Her arrival in Maui**: she was cleaning at David's (the transcript first says « Léana »: probably Adriana, to confirm), and had just broken up with her English boyfriend. David helped her as he helped Lillian: she slept in the loft upstairs, probably without rent for the first two months. The house then had four people: David, Adriana, [Danielle](danielle.md) (from California) and Lillian, for 2 to 3 months.
 - **The cottage across the road**: Adriana and Danielle, very close, left to rent a cottage across from David's. Since they paid no rent, David had to find other tenants. When Danielle left to live in her van in the jungle, Adriana was stuck with a rent that was too high; Lillian offered to share, so they lived together, sharing food and costs.
 - **Living with Lillian**: strictly vegan (no leather, no sugar or milk at home) and the coffee was cultural; Lillian had to go to Starbucks every morning. She adapted to the vegan food. In the morning Adriana watched Spanish telenovelas, which amused Lillian.
+- **José**: she told Lillian she was crazy to fly to California to meet a Tinder match, and said « I told you so » in advance if he did not show.
 - **Neighbours**: [Steve](steve.md) and [Karen](karen.md), next door in a semi-detached house.
 - **Today**: Lillian admires her: a dentist in Venezuela, strong and resilient, who rebuilt her life, with her own cleaning company and yoga classes. « Une belle personne ».
 

@@ -48,6 +48,8 @@ His welcome saved her move to Hawaii when, tickets and suitcases ready, she sudd
 
 ## Anecdotes and stories
 
+- **José's trip**: when Lillian went to meet José (a Tinder match) in California, David, a bit paternalistic, told Adriana to let her live, talked to her about self-defence and wanted to feel his energy. Her loft at his house stayed empty during her summer 2018 in France, while others used it with her belongings still inside. See [05-02](../periods/05-02-nurse-in-hawaii.md).
+
 - **His landlord, also called David**: [David Williams](david-williams.md), a friendly emergency-room doctor who rented him the apartment and allowed him to do Airbnb, often came by in the evening for a drink. Lillian counts several Davids in the story (New York, Hawaii, the landlord, Ivan's brother).
 
 - **Parties and personality**: very extroverted. The first year at his house: parties and people all the time, with music. Lillian, an introvert, finally wanted her own space, which led to the yurt in Haiku, then a house with Kisha (a friend of his); she came back and rented a room at his place for about 600 to 800 dollars a month. See [05-02](../periods/05-02-nurse-in-hawaii.md).
