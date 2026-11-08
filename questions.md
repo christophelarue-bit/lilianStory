@@ -684,6 +684,13 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - How did she meet him, how long did it last?
 
+## [Danielle](people/danielle.md) — 1 question
+
+
+**Identity and background**
+
+- **To ask Lillian**: spelling (the transcript wrote « Daniel »), surname, what became of her?
+
 ## [David (Hawaii)](people/david-hawaii.md) — 6 questions
 
 
@@ -698,6 +705,13 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - First meeting with Lillian: 2015? (the account said "2025", probably a slip)
 - How did Kim and David's break-up happen, and what became of Kim and Lillian's friendship afterwards?
 - Is he still in Lillian's life today?
+
+## [Steve](people/steve.md) — 1 question
+
+
+**Identity and background**
+
+- **To ask Lillian**: surname, how long were they neighbours, and did Lillian speak to them?
 
 ## [Walter](people/walter.md) — 3 questions
 
@@ -725,6 +739,13 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Which of Mohamed's sisters did he go out with, and when?
 - Where and when did Lillian meet him, and how did the friendship with her develop?
 - Which of his sisters did Yacine go out with?
+
+## [Karen](people/karen.md) — 1 question
+
+
+**Events and stories**
+
+- **To ask Lillian**: is Karen Steve's partner, or ex-partner at that time (« il se séparait de sa copine »)?
 
 ## [Kisha](people/kisha.md) — 2 questions
 
@@ -865,7 +886,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Identity and background**
 
-- Who is Adriana: surname, origin, exact connection with Lillian?
+- Adriana: surname, where she lives today, how did she meet David, and is the « Léana » of the transcript the same person?
 
 **Events and stories**
 
