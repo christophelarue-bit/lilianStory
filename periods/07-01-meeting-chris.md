@@ -41,6 +41,8 @@
 
 - **The meeting (April 2023)**: they meet on Tinder, Lillian having lived in Rennes for two months and Chris in Nantes for 12 years. After one evening of messages, he proposes to see her the next day, with the false pretext of helping her collect a television. It works: he comes to Rennes to carry the TV and above all to meet her. They go to a crêperie (obligatory) and arrange to meet the following week in Carnac, a great moment with many anecdotes and their first time going out together.
 - **Nantes (July 2023 to October 2025)**: Lillian moves in with Chris in July 2023, two months after they met, because she finds a massage school in Nantes. It is an important period for her.
+- **Work and training in France (Draft, rule 6)**: a training course (massage/aesthetics school, about 5 to 6 months, 2023-2024) with internships, including one at Nocibé to validate it and another, where she hardly worked; then a job at Caliceo (a spa chain), 2 to 3 months, about 8 massages a day, 35 hours a week, which ended with a sick leave for a knee injury (a sports session at Basic Fit). The transcript wrote "end of 2020" for finding Caliceo, which cannot be right (probably 2025, before Nice).
+- **Back pain (Draft, rule 6; Sensitive: to confirm with Lillian before any use in a book)**: a lumbago during the Nocibé internship (the second one; the first dates from carrying a heavy load in Alaska), then pain moving up from the knee to the back in the 2 to 3 months after the move to Nice. An MRI shows an inflammation that has been there for a while. The aim now is to find the cause and treat it.
 - **Nice (since October 2025)**: they leave for Nice because Chris's son [Louis](../people/louis.md) lives there; Lillian suggested it and accompanied Chris. Louis has since asked to live with them and has flourished for a year, one week out of two at his mother's.
 - Chris is her partner, her pal, her friend and above all the one who loves her. Their common project is to come to Nice; they see themselves finishing their lives together, though not necessarily in Nice until 80.
 
@@ -50,5 +52,6 @@
 
 ## To clarify
 
+- Work in France (draft): the course (name, place, diploma?), the Nocibé internship, dates of Caliceo (2025?) and what happened with the knee and the back; what is her work now (home care)?
 - Chris's divorce, another story to dig into?
 - Where will they live afterwards?
