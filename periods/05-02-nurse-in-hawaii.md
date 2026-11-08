@@ -9,8 +9,8 @@
 
 ## Dates
 
-- **Start**: 2016 (month to clarify)
-- **End**: to clarify
+- **Start**: Lillian now says she arrived in Maui at the end of September 2017, a few weeks before David's birthday (earlier accounts said 2016; to resolve)
+- **End**: January 2020, when she leaves for José in Gillette. Total time in Hawaii: "a year and a half" according to Lillian (which does not fit Sept 2017 to Jan 2020)
 - **Lillian's age**: to clarify
 
 ## People around her
@@ -66,6 +66,8 @@
 - **Two housemates (Kisha and another woman)**: women her age, one a friend of David's, into spirituality, a bit of a guru. The deal was 1,000 dollars for a room in a 3-bedroom house, then 1,200, plus 200 dollars added for cable TV that Lillian did not watch. Lillian worked varying shifts (14h to 23h, sometimes 23h to 7h or from 16h); the garage had one space, and Kisha woke her two hours after she parked in front of it to move the car. Lillian felt cheated and the vibe was wrong. After one or two months she gave one month's notice; her deposit took months to be returned although she damaged nothing.
 - **Four at David's, then the cottage**: after the Kisha house, Lillian returns to David's, where the house holds David, [Adriana](../people/adriana.md) (Venezuelan, cleaning, just left her English boyfriend; slept in the loft, free for two months), [Danielle](../people/danielle.md) (Californian, 23-24) and Lillian, for 2 to 3 months. Adriana and Danielle then rent a cottage across the road; when Danielle leaves to live in her van, Lillian joins Adriana. David finds other flatmates easily.
 - **With Adriana**: a vegan flatmate (coffee and sugar rules, telenovelas), a semi-detached house with two sides: on the other side, [Steve](../people/steve.md) and [Karen](../people/karen.md), a toxic on-off couple (Steve with a sex swing, sensitive), who gave her fits of laughter but also sleepless nights. Most people Lillian met in Maui were « space », inoffensive and in their bubble: she could write a book on them (David: « wide open »).
+- **Summer 2018 in France**: she was an agency nurse on a 3-month contract in Maui and did not renew it, telling them she would be back (there are always needs). She stayed in France about two months, from July to the first week of September 2018: the family scene in Luz, Papouche's death, the Croatia trip with Béatrice. Her loft at David's stayed empty and other people used it while her belongings were still there. She returned to Maui in September 2018.
+- **Meeting José (end of 2018)**: on Tinder. He was on Maui, with his roommate, about to leave, and lived in Wyoming. They chatted for several weeks and after a time agreed to meet. She flew four hours to California, where he was staying at a hotel, and they spent a week of her holiday in Sequoia and Yosemite national parks (« either it works or it works »). She arrived at midnight but he thought noon (AM/PM confusion); he did not answer, she thought he had stood her up and planned to take a flight back six hours later and tell nobody; at about 6 a.m. he apologised and came for her at the airport. [Adriana](../people/adriana.md) called her crazy; David, a bit paternalistic, told her to let her live, talked about self-defence and wanted to feel his energy. Lillian often took risks like this: also in Kauai with the pilot she did not know. « J'ai eu du bol ».
 - **Another David**: David's landlord, [David Williams](../people/david-williams.md), is an emergency-room doctor at the Maui hospital, married to [Cathy Williams](../people/cathy-williams.md) (yoga, energy healing, a book, a podcast, week seminars at 1,500 dollars). He often came for a drink and let David do Airbnb. One weekend morning around 6 to 7 a.m. he came to Lillian after his wife asked for a divorce, with two lines of cocaine already taken, the first time Lillian saw cocaine (Sensitive: to confirm with Lillian before any use in a book). She suggested he not drive; he did. His wife left him and soon was with someone else.
 - **Back at David's**: she rents a room there for about 600 to 800 dollars a month, less than the 1,000 elsewhere, with a better vibe. Rent in the United States is very expensive: an apartment would have been more than 2,000 dollars.
 
@@ -74,6 +76,8 @@
 *(to be completed)*
 
 ## To clarify
+
+- Dates: Lillian says she arrived at the end of September 2017 and stayed "a year and a half", while earlier accounts said 2016 and she left in January 2020. Which is right? And does the Kim story (flatshare, Kim leaving David in 2016) happen before the move in 2017?
 
 - **To ask Lillian**: the order and dates of the moves in Maui: David's house, the yurt in Haiku (3 to 4 months), Kisha's house (1 to 2 months plus notice), back to David's. In which year(s)?
 - **To ask Lillian**: Kisha or Keisha (spelling), the second housemate's name, and who was the surfer landlord?
