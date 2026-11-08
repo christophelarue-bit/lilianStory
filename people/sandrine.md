@@ -47,6 +47,8 @@ Described by Christophe as « deserving a chapter of her own » and as one of th
 
 ## Anecdotes and stories
 
+- Christophe's reading: Lillian was friends with Sandrine (and [Charlotte](charlotte.md)) rather than with the group of mean girls of the time, because they were consistent with who she fundamentally is. See [Lillian](lillian.md).
+
 - Sandrine's mother died (details to ask; Lillian says « it is a book »).
 - Lillian does not call her at the moment, and has not for a long time about her problems.
 

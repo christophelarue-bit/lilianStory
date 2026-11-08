@@ -47,6 +47,8 @@ She was a boarder at the boarding school of Saint-Nazaire (in 1ère and terminal
 
 ## Anecdotes and stories
 
+- Christophe's reading: Lillian was close to Charlotte (and [Sandrine](sandrine.md)) rather than to the mean girls of the time, because they matched her nature. See [Lillian](lillian.md).
+
 - She runs a shop that restores old furniture in Nantes.
 
 ## To clarify

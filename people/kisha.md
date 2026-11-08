@@ -46,6 +46,8 @@ Brief, negative.
 
 ## Anecdotes and stories
 
+- David presented her as a nice person, but he did not know her well (Christophe: David tends to be too kind). Lillian fled after about two months because the vibe was wrong. Lillian does not remember her job. See [05-02](../periods/05-02-nurse-in-hawaii.md).
+
 See [05-02](../periods/05-02-nurse-in-hawaii.md).
 
 ## To clarify

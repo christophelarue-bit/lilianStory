@@ -61,6 +61,8 @@ Husband for 15 years.
 
 ## Anecdotes and stories
 
+- **Why she trusted him (Christophe's reading)**: he was her first real love, and despite many flaws his values reassured her then, so she preferred to confide in him rather than anyone else. Lillian says it was « ma faute »: she should have left long before, but she was afraid. To confirm with her.
+
 - **The meeting**: they met in a bar with a dartboard. They met again in a bar, but Lillian had drunk too much and locked herself in her car and fell asleep, almost in an alcoholic coma. Mohamed was attentive and followed her to the hospital, and later came back to ask for news (to ask Lillian for more details). She was drawn to his values and his closeness to his grandparents, a source of stability in France that she had not found in the United States.
 - **Context of the meeting**: after the Clara episode and Mark's refusal to choose between Lillian and Clara for who lived in the flat, Lillian had left his home (see [03-01](../periods/03-01-syracuse-finding-dad.md)).
 - **The mosque**: Mohamed was very religious and went often to the mosque (period to clarify). Many friends came with their wives to the house; Lillian was the only unveiled woman who could go into the men's room, and some of the other women, who stayed in the kitchen, were sometimes jealous because of that.

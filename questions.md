@@ -19,7 +19,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): what made her stay about 13 years, and what made her leave?
 - [Chris](people/christophe.md): what is different with Chris compared with her previous relationships?
 
-## [Lillian](people/lillian.md) — 43 questions
+## [Lillian](people/lillian.md) — 44 questions
 
 
 **Identity and background**
@@ -34,6 +34,10 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Duration: March 2003 to 2016 is about 13 years, whereas the account says 15 years of marriage. Do the 15 years include living together before the wedding?
 - Dates of the first and the second separation, and how did Lillian get back with Mohamed each time?
 - Delay: Mohamed left her alone "about 10 days" before Zouria's visit, and the visit took place "2 weeks" after the abortion. Which is right?
+
+**Relationship with Lillian and with others**
+
+- Choosing relationships: what does she look for in a friend or partner, and what are her warning signs? What would she have done differently with Mohamed, and what was she afraid of when she did not leave?
 
 **Events and stories**
 
