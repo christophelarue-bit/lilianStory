@@ -954,7 +954,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
-- The lie of 6 months: what was it about, when did she find out, and was she in Spain with him (when, how long) before returning to France? Does this answer the open question about seeing José again after Alaska?
+- The break-up: what date exactly (the transcript says he began looking in October and had been away more than a year; so about winter 2021-2022?), and did she see José again after Alaska (apparently not: they broke up before she returned)?
 - Exact dates in Gillette: January to June 2020 (about 5 months), or other?
 - In which period does he belong: end of 05-02 (Hawaii) or a Gillette period of its own?
 
