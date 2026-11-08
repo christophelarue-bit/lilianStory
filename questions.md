@@ -284,7 +284,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Was he at the July 2018 reunion (a newborn, born in June)? Who looked after him during the fight?
 - After his mother left Thomas with the three children (after September 2018, to clarify), with whom did he live?
 
-## [Aymeric (Gwen's first husband)](people/aymeric.md) — 4 questions
+## [Aymeric (Gwen's first husband)](people/aymeric.md) — 5 questions
 
 
 **Identity and background**
@@ -297,6 +297,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- **To ask Lillian**: the break-up threat (car, speed, suicide attempt): when, where, who told her, and what did Gwen say herself? Which years was Gwen with him? Who stayed in Béatrice's dining room, and for how long?
 - His partner [Cécile](people/cecile.md): since when, and who adopted Eliot? Did he want custody of Eliot at the start (Christophe says he did not necessarily want it)?
 - His version of the separation and the ruling; Gwen's version?
 

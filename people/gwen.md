@@ -85,6 +85,10 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 - **Sensitive: to confirm with Lillian before any use in a book**
 
+**Leaving Aymeric (second-hand)**: when she wanted to leave him, he reportedly threatened to kill them both with a huge speeding episode and later made a suicide attempt, so that she feared dying that day. Lillian was told this and is unsure of the details. See [Aymeric](aymeric.md).
+
+- **Sensitive: to confirm with Lillian before any use in a book**
+
 **Christmas Day, about 2008**: crouched on the ground in tears at Béatrice's house, saying Thomas had taken her baby Alexandre (6 months). He had hidden in the garden bushes. See [04-01](../periods/04-01-married-life-with-mohamed.md).
 - **Sensitive: to confirm with Lillian before any use in a book**
 

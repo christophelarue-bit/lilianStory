@@ -53,11 +53,17 @@
 
 - **Sensitive: to confirm with Lillian before any use in a book**
 
+**The break-up (second-hand account, Lillian was told it)**: when Gwen wanted to leave him, he threatened to kill them both, driving at a huge speed (first said in the car, then Lillian is not sure it was in the car) so that Gwen feared for her life. He then reportedly made a suicide attempt, to frighten Gwen. Lillian is unsure of the details and of the place. At some point Gwen and (someone: the sentence is cut) stayed in the dining room at Béatrice's for a while.
+
+- **Sensitive: to confirm with Lillian before any use in a book**
+
 **The quarrels (Lillian's memory)**: he threw a huge pile of rubbish bags in Béatrice's garden saying « voilà les affaires de votre connasse de fille ». He cut the electric wires as revenge (« le coupeur de fil »), and then accused Béatrice of making advances to him, which Gwen believed. His parents, shopkeepers, told everyone in Saint-Brevin what happened, so Papouche, a good customer of the flower shop, stopped going there.
 
 *(to be completed)*
 
 ## To clarify
+
+- **To ask Lillian**: the break-up threat (car, speed, suicide attempt): when, where, who told her, and what did Gwen say herself? Which years was Gwen with him? Who stayed in Béatrice's dining room, and for how long?
 
 - His partner [Cécile](cecile.md): since when, and who adopted Eliot? Did he want custody of Eliot at the start (Christophe says he did not necessarily want it)?
 
