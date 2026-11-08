@@ -67,6 +67,7 @@ How Lillian sees herself, changes, tells her own story.
 
 - **The magnet (Christophe's analogy)**: among the three siblings, [Xavier](xavier.md) was « neutral » with the grandparents (he asked nothing of anyone), Lillian a « positive magnet » who gave and spent herself (she asked Mamouche emotionally and Papouche for reassurance), and [Gwen](gwen.md) a « negative magnet » who draws to herself (money). Even her guilt in the United States was already a way of giving: she worried about her sister more than her sister did about her.
 - **Hypersensitive « sponge »**: she feels the pain of others and a person's energy in a second, « like a cat or a dog », and hides her own pain for others. Her mother is also very sensitive (a crushed cockroach). Christophe sees it as one of the guiding threads for the book and one of her finest values, but thinks she invests too much in the people she looks after.
+- **Training and back pain (draft, rule 6)**: after a massage/aesthetics course in Nantes (2023-2024) and internships (Nocibé), she worked 2 to 3 months at Caliceo (8 massages a day), stopped by a knee injury; after the move to Nice the pain went up to her back (an old problem since a lumbago in Alaska; the MRI shows long-standing inflammation). See [07-01](../periods/07-01-meeting-chris.md).
 - **Current work (draft, rule 6)**: she works in home care (« aide à domicile »); she mentions « mon petit monsieur », a patient who was unwell, while she herself had back pain and hid it.
 - **Hospice work and « seulement » (draft, rule 6)**: she left nursing partly because she felt she only relieved the pain of the dying. The psychologist stopped on the word « seulement »: what that means for each of those lives. It led to the guilt discussion.
 - **Sensitive: to confirm with Lillian before any use in a book**: she says she would give her life if it could stop people's suffering.
@@ -176,6 +177,7 @@ The character traits, values, wounds and strengths that emerge from her life pat
 - July 2018: was Papouche present or ill at the reunion, and was she there at his death in September 2018? Who came with Mark and did he see Béatrice? How did the Croatia trip go?
 - Her presence in France from July to September 2018: how long did she stay, before returning to Hawaii? What did she feel at Papouche's death, and about Béatrice's reaction (« on n'a pas le temps pour les émotions »)?
 - 2026 family (draft): when she feels better, would she like a family event (a Christmas), with whom and where? What would "a family balance" look like for her?
+- Back and knee (draft): the cause of the chronic back pain, the follow-up, and whether the work (massage, home care) is compatible with it.
 - Choosing relationships: what does she look for in a friend or partner, and what are her warning signs? What would she have done differently with Mohamed, and what was she afraid of when she did not leave?
 - Hawaii dates: arrival in September 2017 or 2016, total time (a year and a half?), and when she left for José in January 2020.
 - Maui years: order and dates of the moves (David, yurt, Kisha, David again); her work shifts; the Kauai trip with a pilot.
