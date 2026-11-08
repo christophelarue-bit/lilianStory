@@ -19,7 +19,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - [Mohamed](people/mohamed.md): what made her stay about 13 years, and what made her leave?
 - [Chris](people/christophe.md): what is different with Chris compared with her previous relationships?
 
-## [Lillian](people/lillian.md) — 44 questions
+## [Lillian](people/lillian.md) — 45 questions
 
 
 **Identity and background**
@@ -70,6 +70,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did the fight between Gwen and Thomas break out, and what did Thomas mean by « une famille de dégénérés »? Why did he hit Alexandre with a towel, and was it usual?
 - July 2018: was Papouche present or ill at the reunion, and was she there at his death in September 2018? Who came with Mark and did he see Béatrice? How did the Croatia trip go?
 - Her presence in France from July to September 2018: how long did she stay, before returning to Hawaii? What did she feel at Papouche's death, and about Béatrice's reaction (« on n'a pas le temps pour les émotions »)?
+- 2026 family (draft): when she feels better, would she like a family event (a Christmas), with whom and where? What would "a family balance" look like for her?
 - Hawaii dates: arrival in September 2017 or 2016, total time (a year and a half?), and when she left for José in January 2020.
 - Maui years: order and dates of the moves (David, yurt, Kisha, David again); her work shifts; the Kauai trip with a pilot.
 - Her life in Maui in 2018: where did she live (still at David's?), what job, and how did she cope with Papouche's death after returning? Was there any other help than the psychiatrist?

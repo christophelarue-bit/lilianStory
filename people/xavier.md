@@ -51,6 +51,8 @@ A younger brother she is proud of since his birth (details to be completed).
 
 ## Anecdotes and stories
 
+- (Draft, rule 6; Sensitive: to confirm with Lillian before any use in a book) **Daily calls and exhaustion**: since returning to France, Lillian feels responsible for Xavier, Gwen and her mother, and Xavier's calls of an hour a day weigh on her far more than his calls when she lived in the United States. Her psychologist tells her to detach and think of herself: she cannot do anything for him, he has to help himself. What would please her is for him to say he has started to be helped. She says both Gwen and Xavier have exhausted her: « ils me font couler ».
+
 - **The neutral one (Christophe's analogy)**: with Papouche and Mamouche he asked nothing, ever, unlike Lillian (emotional) and Gwen (money). Now he needs to receive and moves closer to Gwen's side, but he asks for time (long calls), not money. See [Lillian](lillian.md).
 - **The intelligent one**: Lillian sees Xavier as the most intelligent of the three siblings (he understands in 2 seconds what takes her 3 hours) and envies him. Christophe thinks he used his intelligence badly, stayed purely technical, and « missed his life » compared with Lillian. See [Lillian](lillian.md).
 

@@ -50,6 +50,8 @@
 
 ## Anecdotes and stories
 
+- At sea six months of the year during his time with Gwen, who then called Lillian almost every weekend. He said that the family was « complètement explosée » (a remark Lillian now agrees with). See [Gwen](gwen.md).
+
 - **Student at the naval school of Le Havre**: when Gwen met him he was a student, then trained at the naval school (école de la marine) in Le Havre, where they lived for a year. He always earned well afterwards, and was embarrassed that Gwen asked her grandfather for money. He is pragmatic: he waited to finish his studies, then chose where to live (the house in Luz).
 - **Authority (Christophe's view, Sensitive)**: according to Christophe, he ran Gwen's life and imposed everything, which made it untenable; Gwen left for a women's shelter in 2018. In 2025-2026 the judge entrusts Julia and Clément to him (see [Gwen](gwen.md)); Alexandre, 16, chose to stay with his mother. Lillian's account says he is not very tender with Alexandre.
 - He owns the 7-bedroom house in « Luz » (large garden, perhaps a pool) 100%, nearly paid off.

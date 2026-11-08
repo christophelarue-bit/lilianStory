@@ -48,6 +48,8 @@ Her partner, her pal, her friend and above all the one who loves her. They see t
 
 ## Anecdotes and stories
 
+- He is the link between his friends Eric (met at lycée), Seb (first year of business school) and Max (second year), whom he introduced to each other; he likes mixing family and friends, unlike Gwen's silos (see [Gwen](gwen.md)). He proposed a Christmas with his family or an Airbnb to Lillian's family; Lillian preferred to wait until she feels better (Draft, rule 6).
+
 *(draft)*
 
 ## To clarify
