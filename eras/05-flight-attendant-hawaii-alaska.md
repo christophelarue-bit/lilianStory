@@ -10,7 +10,9 @@
 
 Lillian becomes a flight attendant, then a nurse in Hawaii, then in Alaska. Three very different periods. In Alaska, she is a nurse in Seward, by the sea: the COVID, but also the nature (a bear met in the wild, road trips to Fairbanks, a flight over the mountains, fishing boats at sunset) and friends in the same building ([Kim](../people/kim.md) and a gay friend) with their pyjama parties.
 
-It is during this era that she meets Adriana, [Kim](../people/kim.md) and [David (Hawaii)](../people/david-hawaii.md), friends, and José, a love.
+It is during this era that she meets [Adriana](../people/adriana.md), [Kim](../people/kim.md) and [David (Hawaii)](../people/david-hawaii.md), friends, and José, a love.
+
+In Maui (05-02) she lives in four places: David's house with its parties, a yurt in the jungle at Haiku (3 to 4 months, mould and fungus, so she has to leave), a house with two women including [Kisha](../people/kisha.md) (rent raised, deposit slow to return), then David's again, with flatmates Adriana (Venezuelan, vegan, former dentist) and Danielle (Californian), before a cottage and a semi-detached house with Adriana next to the neighbours [Steve](../people/steve.md) and [Karen](../people/karen.md) (sensitive). She also visits Oahu, Kauai and another island. Most people she meets in Maui are « space » but inoffensive; among them David's landlord [David Williams](../people/david-williams.md), an emergency doctor in crisis (cocaine at 7 a.m., sensitive), and his wife [Cathy Williams](../people/cathy-williams.md), a yoga teacher and energy healer.
 
 She comes to this era after hospice nursing in Baltimore and an office job that makes her feel like « the agent of death » ([04-02](../periods/04-02-nurse-in-hospices-baltimore.md)). Flight attendant from 2014 to 2016 (Omni Air), a civilian airline carrying US troops, with last-minute schedules and long layovers (Japan, Kuwait, Ireland, Germany, Poland, Romania): trips of about 21 days, often extended by volunteering on her days off (200 dollars a day) because, separated from Mohamed, she did not want to go home to Raleigh. It is the transition of her divorce. Her close colleagues are [Veronica](../people/veronica.md) and [Kim](../people/kim.md), who has lupus: when Kim has a crisis in flight and is left in a hospital in the Dominican Republic without the airline calling her family, Lillian is shocked by the answer of a quality inspector (« the show must go on »), which ends the magic of flying for her. Kim then leaves the airline for Maui, where she meets David. In 2015,  she discovers Hawaii during a layover and wants to live there. In 2016, tired of partying and travelling, she ends her marriage to Mohamed and moves to Maui, welcomed by David after Kim's last-minute break-up with him.
 
@@ -35,10 +37,12 @@ At least 1 interview for each of the 3 periods.
 | Theme | Status |
 |---|---|
 | Lillian: flight attendant | to do |
-| Lillian: nurse in Hawaii | to do |
+| Lillian: nurse in Hawaii (order and dates of the four lodgings, work shifts, the neighbours, the landlord) | to do |
 | Lillian: nurse in Alaska | to do |
 
 ## To clarify
+
+- Maui (05-02): the order and years of the four lodgings (David, yurt in Haiku, Kisha, David again, cottage with Adriana) and how long each lasted.
 
 - Airline years in detail: base, dates, Kim's crisis (which year), the Thai pilot, and the real reason for the resignation (disillusion, partying, Mohamed)? See [05-01](../periods/05-01-flight-attendant.md).
 
