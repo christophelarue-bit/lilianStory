@@ -16,7 +16,7 @@ In Maui (05-02) she lives in four places: David's house with its parties, a yurt
 
 She comes to this era after hospice nursing in Baltimore and an office job that makes her feel like « the agent of death » ([04-02](../periods/04-02-nurse-in-hospices-baltimore.md)). Flight attendant from 2014 to 2016 (Omni Air), a civilian airline carrying US troops, with last-minute schedules and long layovers (Japan, Kuwait, Ireland, Germany, Poland, Romania): trips of about 21 days, often extended by volunteering on her days off (200 dollars a day) because, separated from Mohamed, she did not want to go home to Raleigh. It is the transition of her divorce. Her close colleagues are [Veronica](../people/veronica.md) and [Kim](../people/kim.md), who has lupus: when Kim has a crisis in flight and is left in a hospital in the Dominican Republic without the airline calling her family, Lillian is shocked by the answer of a quality inspector (« the show must go on »), which ends the magic of flying for her. Kim then leaves the airline for Maui, where she meets David. In 2015,  she discovers Hawaii during a layover and wants to live there. In 2016, tired of partying and travelling, she ends her marriage to Mohamed and moves to Maui, welcomed by David after Kim's last-minute break-up with him.
 
-In January 2020 she leaves Maui to join José, a Spanish teacher, in Gillette, Wyoming (about 5 months, hated by Lillian). He returns to Spain; the COVID closes the borders, and Lillian, obsessed for years with living in Alaska, goes there as an agency nurse.
+In the summer of 2018 she spends two months in France (Luz, Papouche's death, Croatia), and meets José on Tinder at the end of 2018, in California. In January 2020 she leaves Maui to join José, a Spanish teacher, in Gillette, Wyoming (about 5 months, hated by Lillian). He returns to Spain; the COVID closes the borders, and Lillian, obsessed for years with living in Alaska, goes there as an agency nurse.
 
 ## Periods
 
@@ -42,6 +42,7 @@ At least 1 interview for each of the 3 periods.
 
 ## To clarify
 
+- Hawaii dates: Lillian now says she arrived in Maui at the end of September 2017 and stayed a year and a half, while earlier accounts said 2016 and she leaves in January 2020. Which is right?
 - Maui (05-02): the order and years of the four lodgings (David, yurt in Haiku, Kisha, David again, cottage with Adriana) and how long each lasted.
 
 - Airline years in detail: base, dates, Kim's crisis (which year), the Thai pilot, and the real reason for the resignation (disillusion, partying, Mohamed)? See [05-01](../periods/05-01-flight-attendant.md).
