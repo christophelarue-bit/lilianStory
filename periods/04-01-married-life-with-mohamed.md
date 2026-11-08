@@ -77,6 +77,8 @@
 
 ## Stories and small details
 
+- **Christmas 2008 in Saint-Brevin (Sensitive: to confirm with Lillian before any use in a book)**: Lillian remembers a Christmas Day when [Alexandre](../people/alexandre.md) was a baby of 6 months (so around 2008, under 2 years in any case). At [Béatrice](../people/mom.md)'s house, near the flower shop of Eliot's father, she hears a moan she takes for a dog hit by a car: it is [Gwen](../people/gwen.md), crouched on the ground in tears, saying that [Thomas](../people/thomas.md) has taken her baby. He was hiding in the bushes of the garden. They go to Les Tourelles; Thomas contacts Gwen to say he is outside, and Alexandre ends up back with Gwen, after which Thomas leaves. The scene takes place with Papouche, Mamouche and the family present, a shame and a very sad Christmas (Mamouche: « le pire Noël de ma vie »). [Kakinou](../people/kakinou.md) then arrives, completely drunk, in a flashing Santa hat, shouting « Joyeux Noël ! » unaware of what has just happened; a surreal scene (like *Le Père Noël est une ordure*). She stays half an hour, then Lillian and Gwen take her home before she falls. Lillian is not sure whether it was before or after she went to the United States in 2008, and whether she was in France for Christmas.
+
 - Wedding in March 2003.
 - Near the end of the marriage, affair with [Julien](../people/julien.md), a colleague in Raleigh and a friend of the couple (**Sensitive**), ended by a missed hotel appointment and a trip to Hawaii with Kim and Veronica. Raleigh, North Carolina, is mentioned as the place.
 - Two separations: the first with Geaniie as flatmate, the second followed by the relationship with Julien.
@@ -93,6 +95,8 @@
 *(to be completed)*
 
 ## To clarify
+
+- Christmas 2008 in Saint-Brevin: was Lillian in France at that Christmas (she thinks she went to the United States in 2008)? Alexandre would be 18 in 2026 if born in 2008, whereas Lillian first says 16: which year was he born?
 
 - The meeting with Mohamed: a bar with darts, a second encounter where Lillian, very drunk, locked herself in her car (Mohamed followed her to hospital). Ask Lillian for more detail, and the date.
 - Mohamed's job (nurse and/or ambulance driver, to validate) and his mosque life: when did it start, and the friends who came with their wives (Lillian the only unveiled woman allowed in the men's room, causing jealousy in the kitchen).
