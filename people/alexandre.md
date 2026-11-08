@@ -49,6 +49,8 @@
 
 ## Anecdotes and stories
 
+- With Gwen: many hikes in the Pyrenees, always outdoors; he can cook and do many useful things. He mocked Julia at one point and Gwen told him to stop. See [Gwen](gwen.md).
+
 - **Sensitive: to confirm with Lillian before any use in a book**
 
 **Christmas as a baby (about 2008)**: aged 6 months, he is taken away by his father Thomas on Christmas Day, who hides with him in the garden bushes at Béatrice's in Saint-Brevin while Gwen cries on the ground. See [04-01](../periods/04-01-married-life-with-mohamed.md).

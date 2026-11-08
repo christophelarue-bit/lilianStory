@@ -49,6 +49,8 @@
 
 ## Anecdotes and stories
 
+- As a little boy, clinging to his mother's leg and blowing raspberries on it, both of them laughing (Lillian). See [Gwen](gwen.md).
+
 - July 2018: Mark comes to France to meet him, his last grandson, during the family reunion (see [Lillian](lillian.md)).
 
 ## To clarify

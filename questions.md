@@ -162,7 +162,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
 - Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
 
-## [Gwen](people/gwen.md) — 31 questions
+## [Gwen](people/gwen.md) — 32 questions
 
 
 **Identity and background**
@@ -189,6 +189,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Who adopted Eliot (Aymeric, Cécile), and why did she come back for custody about 3 years after leaving? (see [Aymeric](people/aymeric.md), [Cécile](people/cecile.md))
 - The psychologist's view that Gwen reproduces with her children (Julia, Alexandre) what Béatrice did with Lillian and her: concrete memories of Julia cooking and Alexandre looking after the children?
 - (Draft) The story of Clément on the motorway and Julia, and the papers Béatrice sent to defend Gwen: what exactly happened, and when?
+- **To ask Lillian (positive side, next)**: since when do the children cook and how did Gwen teach them; the Pyrenees hikes (which year, who was there); Eliot's games (2004? which year was Eliot born); and the « vieille croûte » scene (which month of 2018, who else heard)?
 - **To ask Lillian (positive side)**: a precise scene from Les Tourelles beyond the tree and the tombola; a moment as a teen; why « filleul » for Eliot; when did Eliot drift away (14-15) and how did Gwen win him back, step by step? Where did she work as a waitress (La Duchesse Anne?) and how did she meet Aymeric there?
 - Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
 - Where was she born (hospital, town)?

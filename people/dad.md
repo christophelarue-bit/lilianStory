@@ -76,6 +76,10 @@
 
 ## Anecdotes and stories
 
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+Lillian says, in contrast with Gwen's openness to other cultures, that her father is racist (to confirm and develop).
+
 - **The stay in France in 1985 (Christophe's account)**: the family trip to France was meant as holidays with a return to Syracuse in September; Papouche and Mamouche, learning of the couple's financial situation, kept Béatrice and the children in France and asked Mark to sort out his finances and be ready to welcome 3 children and his wife. Whether he did is to clarify. See [01-03](../periods/01-03-early-childhood-with-family.md).
 - **Clara and the ultimatum**: it was Lillian who pushed him to meet women again; Clara's « Lillian or me » met his non-reaction.
 

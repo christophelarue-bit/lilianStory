@@ -49,7 +49,7 @@ On holiday in Corrèze for a week (summer 2022 or 2023), Julia is joyful, lively
 
 ## Anecdotes and stories
 
-*(to be completed)*
+- At Luz she explained to Lillian each plant of the garden, and looked after the hens. Gwen defended her against Alexandre's mockery, telling her she is beautiful and intelligent. She can cook. See [Gwen](gwen.md).
 
 ## To clarify
 

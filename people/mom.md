@@ -60,6 +60,8 @@ Lillian says she had « neither mother nor father »: Béatrice, who often talke
 
 ## Anecdotes and stories
 
+- At Kakinou's death (2017) she fell to the floor, hysterical and full of guilt for not having been there enough; Gwen held her. She often tells Lillian « heureusement que ta sœur était là ». See [Kakinou](kakinou.md).
+
 - At Mamouche's death and at Kakinou's (2017), Béatrice was with Gwen, who took care of the body and comforted her (Lillian's account). Gwen is much more tactile with her than Lillian. See [Gwen](gwen.md).
 
 - **Her house in Saint-Brevin**: at that time she still had a house near the flower shop of Eliot's father, where Gwen's scenes with Aymeric (rubbish bags in the garden) and with Thomas (the Christmas of about 2008) took place. Aymeric also accused her of making advances to him, which Gwen believed (Sensitive: to confirm with Lillian before any use in a book).

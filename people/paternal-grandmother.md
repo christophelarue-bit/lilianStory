@@ -52,6 +52,8 @@ Lillian bears her first name: she was named after her. Throughout Lillian's chil
 
 ## Anecdotes and stories
 
+- Lillian says Gwen reminds her of this grandmother (dynamism, vitality, joy). See [Gwen](gwen.md).
+
 - Widowed at 36, pregnant with Jackie and already mother of 6, she raised her 7 children alone and worked as a waitress in diners.
 - Lillian was named after her.
 - **The Christmas parcels**: every Christmas she sent the children in France a huge parcel of gifts, from Lillian's 6 years onward (see [02-01](../periods/02-01-childhood-and-teens-in-france.md)). She earned very little ("like Mom today", says Lillian) and bought the gifts from January, with the sales.

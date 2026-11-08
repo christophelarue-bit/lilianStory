@@ -52,6 +52,10 @@
 
 - **Sensitive: to confirm with Lillian before any use in a book**
 
+**The « vieille croûte » remark (2018)**: in front of Lillian, with Clément in Gwen's arms and Alexandre near, he said that Gwen was an old model and that he needed a more recent one. Gwen was in tears and said she could do nothing. See [Gwen](gwen.md).
+
+- **Sensitive: to confirm with Lillian before any use in a book**
+
 **Christmas Day, about 2008**: he took baby Alexandre (6 months) and hid in the bushes of Béatrice's garden in Saint-Brevin after a quarrel with Gwen, leaving her in tears on the ground. He later contacted Gwen from outside and handed the child back. Lillian calls the relationship with him « another level » compared with Aymeric. See [04-01](../periods/04-01-married-life-with-mohamed.md).
 
 - At sea six months of the year during his time with Gwen, who then called Lillian almost every weekend. He said that the family was « complètement explosée » (a remark Lillian now agrees with). See [Gwen](gwen.md).
