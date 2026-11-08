@@ -49,6 +49,8 @@ A calming presence (details to be completed).
 
 ## Anecdotes and stories
 
+- At her death, Gwen was there, took care of the body and comforted Béatrice (Lillian: « heureusement »). See [Gwen](gwen.md).
+
 - **Christmas Day, about 2008**: after the scene with Gwen and Thomas, she was « blasée » and said it was the worst Christmas of her life. See [04-01](../periods/04-01-married-life-with-mohamed.md).
 
 - **The three grandchildren and her**: Xavier asked nothing, Lillian asked her emotionally, and Gwen asked for money again after Papouche died (about three years). See [Lillian](lillian.md).

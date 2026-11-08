@@ -79,7 +79,7 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - **After Papouche's death (2018).** According to Lillian, Papouche's death was the trigger for Gwen, who then left Thomas with the three children (about a month after the death, so around October 2018, to confirm). Gwen then had a newborn, Clément, born in June 2018.
 - **Her reaction to Papouche's death (September 2018).** When Lillian phones her to announce it, Gwen screams in atrocious pain, as if a part of her had died, unable to speak. About a month later she takes steps to leave Thomas.
 - **The family's strong moments.** She has always been there for the family's strong moments, and she handled the deaths of Papouche and Mamouche.
-- **Her character, according to Lillian.** Rather nonchalant, a liar, close to the people around her more out of interest.
+- **Her character, according to Lillian.** Rather nonchalant, a liar, close to the people around her more out of interest. On the positive side (interview): funny, tactile, compassionate, at ease with children, and persistent with Eliot (see "Anecdotes and stories").
 
 ## Anecdotes and stories
 
@@ -103,6 +103,14 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 - **Gwen as a child**: the relationship with Lillian was harder: Gwen tended to lie, steal things, fight, a bit of a tomboy, with no shame. It clashed with Lillian's calm, gentle character (« peace and joy »). Xavier, though small, was closer to Lillian than to Gwen, who left them to be with her friends.
 - **Funny since she was little (Lillian's positive memory)**: Gwen was hyperactive and always tried to make people laugh, already as a very small child. Christophe notes that being hyperactive and being funny are not the same, and that it can also annoy people. A precise scene is still to collect.
+- **Positive memories from Lillian (interview)**:
+  - *As a child, at Les Tourelles*: Lillian stayed a lot with her grandmother while Gwen played outside in the garden; they perhaps played Barbies when very small, but Lillian has few memories with her (she was closer to Xavier). Gwen, « un peu Tom Sawyer », did pranks and hid them badly: she showed her bottom through the grandparents' gate with a friend, and once, about to be given a smack for wetting herself, she ran up to the top of a tree while Béatrice waited at the bottom.
+  - *The tombola tickets*: at primary school, Lillian, too shy to sell the tickets, gave them to Gwen, who sold them all within an hour: « impressionnant ».
+  - *In hard moments*: when [Kakinou](kakinou.md) died in 2017, Béatrice was at Gwen's when Dominique phoned. When Mamouche died, Gwen was there, took care of the body and comforted Béatrice. « Heureusement ».
+  - *Her warmth*: much more tactile than Lillian with Béatrice (hugs), and with everyone; Lillian thinks she has compassion for others.
+  - *With children*: she has always been at ease with children and made them laugh; as a babysitter they adored her.
+  - *As a waitress*: customers liked her, smiling, full of life and funny; this is how she met (Aymeric? the name is garbled in the transcript) while working at « La Duchesse Anne » (to confirm). Lillian adds that it is not everything.
+  - *With Eliot*: Lillian is touched to see their bond today. When Eliot was 14-15 he no longer wanted to see her; Gwen took the initiative for years, driving 300 to 400 km each time, phoning, trying to make up and talk, and rebuilt a very strong relationship. At every holiday she dropped the three children with Thomas and then went to Saint-Brevin, sleeping in her car when she had no money, to see her « filleul » (her nickname for Eliot, to clarify). Lillian: « c'est à son crédit ».
 - **Julia, her mini-me**: Lillian sees many of Gwen's traits in her daughter Julia (hyperactive, needs stimulation). See [07-02](../periods/07-02-holidays-in-correze.md).
 
 - **The ring**: when Gwen was about 14 (around 1996), she stole from Lillian a ring that their father had given Lillian (it came from Mark's own father), and sold it to get money. See [Dad](dad.md).
@@ -122,7 +130,7 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 - (Draft) The story of Clément on the motorway and Julia, and the papers Béatrice sent to defend Gwen: what exactly happened, and when?
 
-- **To ask Lillian (positive side)**: a precise scene of Gwen making people laugh as a child; a moment when Gwen took care of Lillian or Xavier; what made her endearing or brave as a teen?
+- **To ask Lillian (positive side)**: a precise scene from Les Tourelles beyond the tree and the tombola; a moment as a teen; why « filleul » for Eliot; when did Eliot drift away (14-15) and how did Gwen win him back, step by step? Where did she work as a waitress (La Duchesse Anne?) and how did she meet Aymeric there?
 - Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
 
 - Where was she born (hospital, town)?

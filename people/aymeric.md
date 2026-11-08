@@ -63,6 +63,8 @@
 
 ## To clarify
 
+- Lillian says Gwen was a waitress at « La Duchesse Anne » and met someone there (the name is garbled in the transcript): was it Aymeric?
+
 - **To ask Lillian**: the break-up threat (car, speed, suicide attempt): when, where, who told her, and what did Gwen say herself? Which years was Gwen with him? Who stayed in Béatrice's dining room, and for how long?
 
 - His partner [Cécile](cecile.md): since when, and who adopted Eliot? Did he want custody of Eliot at the start (Christophe says he did not necessarily want it)?

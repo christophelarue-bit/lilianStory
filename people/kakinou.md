@@ -65,6 +65,7 @@
 
 - **To ask Lillian**: is Kakinou Béatrice's sister, and is it a nickname? Is it the same person as [Lou](lou.md)? Real first name and maiden name (Boutroux?), husband and children?
 - **To ask Lillian**: when did the drinking start (ask Béatrice)? Were the belt blows regular, who were the daughters (Gaëlle and?), and did anyone intervene?
+- At her death in 2017, Béatrice was at Gwen's when Dominique phoned her (Lillian).
 - **To ask Lillian**: how did she die in 2017, and was Lillian present in France or at the funeral?
 - **To ask Lillian**: who are Dominique and Bruno (the doctors), and why could they not go?
 - **To ask Lillian**: what did Béatrice say or feel about the situation?

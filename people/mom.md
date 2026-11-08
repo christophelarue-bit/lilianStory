@@ -60,6 +60,8 @@ Lillian says she had « neither mother nor father »: Béatrice, who often talke
 
 ## Anecdotes and stories
 
+- At Mamouche's death and at Kakinou's (2017), Béatrice was with Gwen, who took care of the body and comforted her (Lillian's account). Gwen is much more tactile with her than Lillian. See [Gwen](gwen.md).
+
 - **Her house in Saint-Brevin**: at that time she still had a house near the flower shop of Eliot's father, where Gwen's scenes with Aymeric (rubbish bags in the garden) and with Thomas (the Christmas of about 2008) took place. Aymeric also accused her of making advances to him, which Gwen believed (Sensitive: to confirm with Lillian before any use in a book).
 
 - **1985, holidays turned into staying (Christophe's account)**: Béatrice, pregnant with Xavier, was meant to go back to Syracuse in September. Her parents questioned her until she admitted the financial situation, and decided she should stay in France. See [01-03](../periods/01-03-early-childhood-with-family.md).
