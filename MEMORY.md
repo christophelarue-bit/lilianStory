@@ -108,6 +108,7 @@ people/
   walter.md
   yacine.md
   julien.md
+  kisha.md
   geaniie.md
   april.md
   brahim.md
@@ -209,6 +210,7 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [david-hawaii](people/david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [walter](people/walter.md) | From Bangladesh, met in New York. |
 | [yacine](people/yacine.md) | Mohamed's childhood friend who became Lillian's friend; now in Japan. |
+| [kisha](people/kisha.md) | Short-time landlady in Maui, a friend of David (Hawaii). |
 | [julien](people/julien.md) | Married man Lillian dated after the second separation from Mohamed (sensitive). |
 | [geaniie](people/geaniie.md) | Flatmate for 6 months during the first separation; a Black woman of about 60 who became a close friend. |
 | [april](people/april.md) | Met at the hairdressing school in Albany. |

@@ -37,6 +37,7 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [David (Hawaii)](david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [Walter](walter.md) | From Bangladesh, met in New York. |
 | [Yacine](yacine.md) | Mohamed's childhood friend who became Lillian's friend; now in Japan. |
+| [Kisha](kisha.md) | Short-time landlady in Maui, a friend of David (Hawaii). |
 | [Julien](julien.md) | Married man Lillian dated after the second separation from Mohamed (sensitive). |
 | [Geaniie](geaniie.md) | Flatmate for 6 months during the first separation; a Black woman of about 60 who became a close friend. |
 | [April](april.md) | Met at the hairdressing school in Albany. |
