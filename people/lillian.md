@@ -32,6 +32,7 @@
 - **Names**: « Anne » is a nickname of Lillian's. In the stories, "Anne" is replaced by Lillian.
 - **Maui moves (Hawaii years)**: first at David's house (a year of parties), then a yurt in the jungle at Haiku for 3 to 4 months (mould, fungus on her abdomen, doctor says move), then a room in a house with Kisha and another woman (rent raised, parking quarrels, deposit slow to return), then back to David's for about 600 to 800 dollars a month. She also visited Oahu, Kauai and another island by boat (see [05-02](../periods/05-02-nurse-in-hawaii.md)).
 - **Flatmates in Maui**: at David's with [Adriana](adriana.md) (Venezuelan, vegan) and [Danielle](danielle.md) (Californian) for 2 to 3 months, then with Adriana in a semi-detached house next to [Steve](steve.md) and [Karen](karen.md). Lillian found most people in Maui « space » but inoffensive, and says she could write a book about them.
+- **Maui (Sensitive)**: she listened to her friend and David's landlord [David Williams](david-williams.md), a doctor in crisis who took cocaine at 7 a.m.; it was the first time she saw cocaine.
 - **In 2018**: she lives in Maui, Hawaii, and works over 40 hours a week (as a nurse, to confirm)
 - **Current place of residence**: Nice, France, since October 2025 (moved in with Chris in Nantes in July 2023)
 - **Other places of residence**: many, to be added as conversations go on

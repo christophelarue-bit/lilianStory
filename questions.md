@@ -672,6 +672,14 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - **To ask Lillian**: what was he like, and did they stay in touch?
 
+## [David Williams](people/david-williams.md) — 2 questions
+
+
+**Events and stories**
+
+- **To ask Lillian**: when (year), did she tell anyone, and what happened to him afterwards?
+- **To ask Lillian**: was it the week he was off work? Does she know his first name spelling and age?
+
 ## [David (New York)](people/david-ny.md) — 3 questions
 
 
@@ -683,6 +691,13 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 **Events and stories**
 
 - How did she meet him, how long did it last?
+
+## [Cathy Williams](people/cathy-williams.md) — 1 question
+
+
+**Events and stories**
+
+- **To ask Lillian**: the exact name of her practice and the title of her book, and did Lillian attend a session?
 
 ## [Danielle](people/danielle.md) — 1 question
 
