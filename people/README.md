@@ -34,9 +34,12 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Mohamed](mohamed.md) | Lillian's husband for 15 years (sensitive). |
 | [David (Ivan's brother)](david-job-courts.md) | Ivan's brother at Job Courts. |
 | [David (New York)](david-ny.md) | Brief Chinese flirt in New York. |
+| [Danielle](danielle.md) | Californian housemate at David's house in Maui. |
 | [David (Hawaii)](david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
+| [Steve](steve.md) | Neighbour in Maui (sensitive). |
 | [Walter](walter.md) | From Bangladesh, met in New York. |
 | [Yacine](yacine.md) | Mohamed's childhood friend who became Lillian's friend; now in Japan. |
+| [Karen](karen.md) | Steve's partner, neighbour in Maui (sensitive). |
 | [Kisha](kisha.md) | Short-time landlady in Maui, a friend of David (Hawaii). |
 | [Julien](julien.md) | Married man Lillian dated after the second separation from Mohamed (sensitive). |
 | [Geaniie](geaniie.md) | Flatmate for 6 months during the first separation; a Black woman of about 60 who became a close friend. |

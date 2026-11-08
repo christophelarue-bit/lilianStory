@@ -104,10 +104,13 @@ people/
   mohamed.md
   david-job-courts.md
   david-ny.md
+  danielle.md
   david-hawaii.md
+  steve.md
   walter.md
   yacine.md
   julien.md
+  karen.md
   kisha.md
   geaniie.md
   april.md
@@ -207,9 +210,12 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [mohamed](people/mohamed.md) | Lillian's husband for 15 years, wedding in March 2003 (sensitive). |
 | [david-job-courts](people/david-job-courts.md) | Ivan's brother at Job Courts. |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
+| [danielle](people/danielle.md) | Californian housemate at David's house in Maui. |
 | [david-hawaii](people/david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
+| [steve](people/steve.md) | Neighbour in Maui (sensitive). |
 | [walter](people/walter.md) | From Bangladesh, met in New York. |
 | [yacine](people/yacine.md) | Mohamed's childhood friend who became Lillian's friend; now in Japan. |
+| [karen](people/karen.md) | Steve's partner, neighbour in Maui (sensitive). |
 | [kisha](people/kisha.md) | Short-time landlady in Maui, a friend of David (Hawaii). |
 | [julien](people/julien.md) | Married man Lillian dated after the second separation from Mohamed (sensitive). |
 | [geaniie](people/geaniie.md) | Flatmate for 6 months during the first separation; a Black woman of about 60 who became a close friend. |
