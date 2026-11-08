@@ -67,12 +67,15 @@
 - A flight over the mountains by plane.
 - Fishing boats and sunsets over the ocean.
 - Her friends, her gay friend Keith and [Kay](../people/kay.md) (and [Kim](../people/kim.md), to confirm), live in the same building, and they often have pyjama parties.
+- **The end with José and the return (to complete)**: while in Alaska, with 2 weeks of work left and her return to France announced to her colleagues and to Béatrice, José, back in Spain, told her he had chosen another woman after months of hiding it. The last two weeks at work were terrible (shame, shock). Gwen cried on the phone for her. She came back to France « la queue entre les jambes ». See [José](../people/jose.md).
 
 ## Landscapes and atmosphere
 
 The sea at Seward, the mountains seen from a plane, the road to Fairbanks, fishing boats and sunsets over the ocean, the wildlife (a bear met in the wild).
 
 ## To clarify
+
+- The break-up with José and the return: dates (about winter 2021-2022?), and how the return to France was organised after the break-up.
 
 - **Return to France**: Lillian does not remember when she left Alaska and where she landed first (to ask again later, perhaps with her mother or flight records).
 
