@@ -83,6 +83,13 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 ## Anecdotes and stories
 
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**Christmas Day, about 2008**: crouched on the ground in tears at Béatrice's house, saying Thomas had taken her baby Alexandre (6 months). He had hidden in the garden bushes. See [04-01](../periods/04-01-married-life-with-mohamed.md).
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**The fights with Aymeric**: Lillian remembers him throwing about 24 rubbish bags in Béatrice's garden with « the things of your bitch of a daughter », and Gwen arriving in tears after one more break-up. Her fights with Aymeric were already dysfunctional, but Thomas is « another level ». Lillian thinks Gwen never chose her men well (one man she met seemed too gentle, too « soft » for Gwen).
+
 - **Calls to the United States**: while Lillian was in the United States, Gwen called her almost every weekend (about once a week) when Thomas was at sea, which was six months of the year; the talks were light, about other things than her problems. Christophe had understood it was once every 3 to 6 months: Lillian corrects him. Today the calls are almost always requests for help.
 - (Draft, rule 6; Sensitive: to confirm with Lillian before any use in a book) **Silos and lies (Christophe's reading)**: Gwen isolated herself on purpose and has few friends. She keeps her family, her friends from Vendôme and her ex-family apart, so that what she tells one group is not heard by another; Christophe thinks that this allows her to lie less in her own eyes (lying being a trait since youth). He contrasts it with his own habit of bringing friends and family together. He thinks she made bad choices of people around her, starting with Thomas, with whom she had three children.
 

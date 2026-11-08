@@ -11,7 +11,7 @@
 - **Role in Lillian's life**: child of Gwen and Thomas, Lillian's niece or nephew
 - **Nationality / origin**: to clarify
 - **Place of residence**: to clarify
-- **Dates**: born in May (year to clarify)
+- **Dates**: born in May (year to clarify: 2008 would make him 18 in 2026, but Lillian first said 16)
 
 ## Relationships between people
 
@@ -48,6 +48,10 @@
 -
 
 ## Anecdotes and stories
+
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**Christmas as a baby (about 2008)**: aged 6 months, he is taken away by his father Thomas on Christmas Day, who hides with him in the garden bushes at Béatrice's in Saint-Brevin while Gwen cries on the ground. See [04-01](../periods/04-01-married-life-with-mohamed.md).
 
 - **July 2018 (Sensitive)**: his father Thomas hits him with a towel at the table of the family reunion (about his behaviour), then leaves with him for two days of hiking in the mountains, after the fight with Gwen. See [Lillian](lillian.md).
 

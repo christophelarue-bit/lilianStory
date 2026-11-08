@@ -50,6 +50,10 @@
 
 ## Anecdotes and stories
 
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**Christmas Day, about 2008**: he took baby Alexandre (6 months) and hid in the bushes of Béatrice's garden in Saint-Brevin after a quarrel with Gwen, leaving her in tears on the ground. He later contacted Gwen from outside and handed the child back. Lillian calls the relationship with him « another level » compared with Aymeric. See [04-01](../periods/04-01-married-life-with-mohamed.md).
+
 - At sea six months of the year during his time with Gwen, who then called Lillian almost every weekend. He said that the family was « complètement explosée » (a remark Lillian now agrees with). See [Gwen](gwen.md).
 
 - **Student at the naval school of Le Havre**: when Gwen met him he was a student, then trained at the naval school (école de la marine) in Le Havre, where they lived for a year. He always earned well afterwards, and was embarrassed that Gwen asked her grandfather for money. He is pragmatic: he waited to finish his studies, then chose where to live (the house in Luz).

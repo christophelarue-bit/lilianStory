@@ -49,6 +49,8 @@ A calming presence (details to be completed).
 
 ## Anecdotes and stories
 
+- **Christmas Day, about 2008**: after the scene with Gwen and Thomas, she was « blasée » and said it was the worst Christmas of her life. See [04-01](../periods/04-01-married-life-with-mohamed.md).
+
 - **The three grandchildren and her**: Xavier asked nothing, Lillian asked her emotionally, and Gwen asked for money again after Papouche died (about three years). See [Lillian](lillian.md).
 
 - **Favourite**: Lillian was one of her favourites and very close to her; she often said Lillian was very pretty. Lillian's great-grandmother (no file) said she was the prettiest of her great-grandchildren. This created rivalry and resentment with the cousins and some aunts and uncles, since the grandparents focused on Lillian and her siblings after their arrival in France. See [02-01](../periods/02-01-childhood-and-teens-in-france.md).

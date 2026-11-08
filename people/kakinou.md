@@ -48,6 +48,10 @@
 
 ## Anecdotes and stories
 
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**Christmas Day, about 2008**: arriving at Papouche and Mamouche's right after the scene with Gwen and Thomas, completely drunk, with a flashing Santa hat, shouting « Joyeux Noël ! » without knowing anything; she could not walk. She stayed half an hour, and Lillian and Gwen took her home before she fell. See [04-01](../periods/04-01-married-life-with-mohamed.md).
+
 - **Drinking (Lillian's memory)**: a bottle of gin a day. Lillian does not know when it started (to ask Béatrice). In her memory it happened while the family still lived at Les Tourelles, when Béatrice had returned there and Lillian was under 11.
 - **Belt blows (Sensitive, child abuse)**: Kakinou hit her daughters with a belt. At 13 Lillian saw the scars. Nobody reacted: not the grandparents, not even Dominique, whom Lillian respects. Lillian, a child, could do nothing; Christophe insists that it is not her responsibility, that « they did not react, the adults of the time », and that she should not say « we ».
 

@@ -51,6 +51,10 @@
 
 ## Anecdotes and stories
 
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**The quarrels (Lillian's memory)**: he threw a huge pile of rubbish bags in Béatrice's garden saying « voilà les affaires de votre connasse de fille ». He cut the electric wires as revenge (« le coupeur de fil »), and then accused Béatrice of making advances to him, which Gwen believed. His parents, shopkeepers, told everyone in Saint-Brevin what happened, so Papouche, a good customer of the flower shop, stopped going there.
+
 *(to be completed)*
 
 ## To clarify
