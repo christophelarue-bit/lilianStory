@@ -102,6 +102,7 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - **Seen by Lillian's psychologist (draft, Sensitive)**: after hearing about Gwen's care of her children (the story of Clément on the motorway, Julia), he judges it negligence and says Gwen is a child, not an adult, and will not change; Béatrice sends Lillian papers to defend Gwen. See [Lillian](lillian.md).
 
 - **Gwen as a child**: the relationship with Lillian was harder: Gwen tended to lie, steal things, fight, a bit of a tomboy, with no shame. It clashed with Lillian's calm, gentle character (« peace and joy »). Xavier, though small, was closer to Lillian than to Gwen, who left them to be with her friends.
+- **Funny since she was little (Lillian's positive memory)**: Gwen was hyperactive and always tried to make people laugh, already as a very small child. Christophe notes that being hyperactive and being funny are not the same, and that it can also annoy people. A precise scene is still to collect.
 - **Julia, her mini-me**: Lillian sees many of Gwen's traits in her daughter Julia (hyperactive, needs stimulation). See [07-02](../periods/07-02-holidays-in-correze.md).
 
 - **The ring**: when Gwen was about 14 (around 1996), she stole from Lillian a ring that their father had given Lillian (it came from Mark's own father), and sold it to get money. See [Dad](dad.md).
@@ -121,6 +122,7 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 - (Draft) The story of Clément on the motorway and Julia, and the papers Béatrice sent to defend Gwen: what exactly happened, and when?
 
+- **To ask Lillian (positive side)**: a precise scene of Gwen making people laugh as a child; a moment when Gwen took care of Lillian or Xavier; what made her endearing or brave as a teen?
 - Lillian and Gwen as children (3 years apart): concrete memories of the lies, thefts and fights, and how did their parents react?
 
 - Where was she born (hospital, town)?
