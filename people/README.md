@@ -33,7 +33,9 @@ One file per person who is part of Lillian's life. Each file lists the periods w
 | [Clara](clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [Mohamed](mohamed.md) | Lillian's husband for 15 years (sensitive). |
 | [David (Ivan's brother)](david-job-courts.md) | Ivan's brother at Job Courts. |
+| [David Williams](david-williams.md) | David's landlord, emergency doctor in Maui (sensitive). |
 | [David (New York)](david-ny.md) | Brief Chinese flirt in New York. |
+| [Cathy Williams](cathy-williams.md) | Wife of David's landlord, yoga and energy healer. |
 | [Danielle](danielle.md) | Californian housemate at David's house in Maui. |
 | [David (Hawaii)](david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [Steve](steve.md) | Neighbour in Maui (sensitive). |

@@ -102,8 +102,10 @@ people/
   joanne.md
   clara.md
   mohamed.md
+  cathy-williams.md
   david-job-courts.md
   david-ny.md
+  david-williams.md
   danielle.md
   david-hawaii.md
   steve.md
@@ -209,7 +211,9 @@ Convention: file names in English, lowercase, no accents, hyphens instead of spa
 | [clara](people/clara.md) | Puerto Rican teacher born in 1950, Mark's partner in Syracuse; her ultimatum led Lillian to leave. |
 | [mohamed](people/mohamed.md) | Lillian's husband for 15 years, wedding in March 2003 (sensitive). |
 | [david-job-courts](people/david-job-courts.md) | Ivan's brother at Job Courts. |
+| [david-williams](people/david-williams.md) | David's landlord, emergency doctor in Maui (sensitive). |
 | [david-ny](people/david-ny.md) | Brief Chinese flirt in New York. |
+| [cathy-williams](people/cathy-williams.md) | Wife of David's landlord, yoga and energy healer. |
 | [danielle](people/danielle.md) | Californian housemate at David's house in Maui. |
 | [david-hawaii](people/david-hawaii.md) | Lillian's host in Maui from 2016, met through Kim; took her in at the last minute. |
 | [steve](people/steve.md) | Neighbour in Maui (sensitive). |
