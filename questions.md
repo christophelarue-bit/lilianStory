@@ -164,7 +164,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
 - Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
 
-## [Gwen](people/gwen.md) — 33 questions
+## [Gwen](people/gwen.md) — 34 questions
 
 
 **Identity and background**
@@ -184,6 +184,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) The social inquiry and the child found by the gendarmes: which child, which year, why was the family not told, and when did Lillian learn it?
 - (Draft, rule 6) Attestations: which facts did Lillian witness herself (dates and places of her visits), was she present at Christmas about 2008, and which third parties (school, doctor, shelter) could also testify?
 - (Draft, rule 6) The custody decision: what exactly did the judge decide, when, and what is next (appeal, visits)? Where is Gwen living and with whom (Blois)?
 - (Draft) The forms from Béatrice: for what procedure, and what are Lillian and Xavier asked to testify?
@@ -935,7 +936,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - In which of the three periods (flight attendant, Hawaii, Alaska) did she meet Adriana?
 
-## [José](people/jose.md) — 6 questions
+## [José](people/jose.md) — 7 questions
 
 
 **Identity and background**
@@ -953,6 +954,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- The lie of 6 months: what was it about, when did she find out, and was she in Spain with him (when, how long) before returning to France? Does this answer the open question about seeing José again after Alaska?
 - Exact dates in Gillette: January to June 2020 (about 5 months), or other?
 - In which period does he belong: end of 05-02 (Hawaii) or a Gillette period of its own?
 
@@ -1249,7 +1251,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - His mother's name and her place in the story (Chris's divorce)?
 
-## [Christophe (Chris)](people/christophe.md) — 4 questions
+## [Christophe (Chris)](people/christophe.md) — 5 questions
 
 
 **Identity and background**
@@ -1262,5 +1264,6 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) The betrayal Christophe mentions: what it was, when, and how did they move on? (Only if he and Lillian wish to record it.)
 - His divorce, another story to dig into?
 - Where will they live afterwards?

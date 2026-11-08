@@ -55,9 +55,11 @@ Lillian was happy with him and loved him. They connected over nature and animals
 - **The question**: one month into living together, he asked whether she could stay a year. She said she did not know, so he did not renew his contract.
 - **The plan**: she would go to Alaska, then join him in Spain about 6 months later, but the COVID closed the borders.
 - **Wildlife photographer**: his dream was to be a photographer for National Geographic, which attracted her.
+- **The lie (Lillian, Sensitive: to confirm with Lillian before any use in a book)**: José lied to her for 6 months, which she calls worse than other betrayals and « un poignard dans mon cœur ». She was in Spain, rebuilding her life there, and about 2 weeks before coming back to France she went through the « 5 stages of grief ». What he lied about is not said.
 
 ## To clarify
 
+- The lie of 6 months: what was it about, when did she find out, and was she in Spain with him (when, how long) before returning to France? Does this answer the open question about seeing José again after Alaska?
 - Spelling of his name (« Rosé » in the transcript), surname and city in Spain?
 - When and where did they meet (2019 on Maui?), and how did the relationship start before Gillette?
 - Exact dates in Gillette: January to June 2020 (about 5 months), or other?

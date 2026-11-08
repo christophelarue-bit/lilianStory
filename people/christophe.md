@@ -51,9 +51,11 @@ Her partner, her pal, her friend and above all the one who loves her. They see t
 - He is the link between his friends Eric (met at lycée), Seb (first year of business school) and Max (second year), whom he introduced to each other; he likes mixing family and friends, unlike Gwen's silos (see [Gwen](gwen.md)). He proposed a Christmas with his family or an Airbnb to Lillian's family; Lillian preferred to wait until she feels better (Draft, rule 6).
 
 *(draft)*
+- **A betrayal (draft, Sensitive: to confirm with Christophe and Lillian before any use in a book)**: while discussing Mohamed's and José's lies, Christophe says he also « stabbed » Lillian (« moi aussi, je t'ai poignardé ») and asks where she places his betrayal beside theirs. Lillian answers that she was in shock too, but felt stuck because she had not finished her training and did not know what to do. The nature and date of what he did are not stated here.
 
 ## To clarify
 
+- (Draft, rule 6) The betrayal Christophe mentions: what it was, when, and how did they move on? (Only if he and Lillian wish to record it.)
 - Date: Lillian was already his girlfriend for 5 months at the Corrèze holiday (2022 per the account), but the Tinder meeting is dated April 2023: which is right? See [07-02](../periods/07-02-holidays-in-correze.md).
 
 - Age, occupation?

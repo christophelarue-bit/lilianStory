@@ -129,10 +129,15 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 
 - **Sensitive: to confirm with Lillian before any use in a book**
 
+**The social inquiry and the child found by the gendarmes (Christophe's account)**: Gwen did not tell the family for about 4 years that there had been an « enquête sociale » and that one of her children had been found in the street by the gendarmes; Lillian learned it 3 to 4 years later. Christophe uses it, with Mohamed's hidden family, as an example of silos (see below); he also says he used to compare Gwen to Lillian's father (Dad) rather than to Mohamed. Lillian does not want to judge Gwen. Which child, which year, and what the inquiry was are to ask.
+
+- **Sensitive: to confirm with Lillian before any use in a book**
+
 **Attestations for the custody case (draft, 2026)**: two draft witness statements were prepared for Lillian to sign if she agrees: one on Gwen as a loving mother (hikes, garden and hens, cooking, protecting Julia, persistence with Eliot, support in family deaths), one on Thomas (July 2018 lunch, « vieille croûte » remark, Christmas about 2008, long absences at sea). Only facts Lillian saw herself are used; Christophe's opinions are left out. A lawyer should review them. See [Thomas](thomas.md).
 
 ## To clarify
 
+- (Draft, rule 6) The social inquiry and the child found by the gendarmes: which child, which year, why was the family not told, and when did Lillian learn it?
 - (Draft, rule 6) Attestations: which facts did Lillian witness herself (dates and places of her visits), was she present at Christmas about 2008, and which third parties (school, doctor, shelter) could also testify?
 - (Draft, rule 6) The custody decision: what exactly did the judge decide, when, and what is next (appeal, visits)? Where is Gwen living and with whom (Blois)?
 - (Draft) The forms from Béatrice: for what procedure, and what are Lillian and Xavier asked to testify?
