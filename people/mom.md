@@ -83,6 +83,7 @@ Lillian says she had « neither mother nor father »: Béatrice, who often talke
 - **The 2018 family reunion (July 2018, Sensitive)**: she attends the family reunion at Gwen and Thomas's. She weeps throughout the fight, and Thomas then sends her messages saying she should manage Gwen and that she cannot manage her money. She leaves earlier with Lillian for about ten days in Croatia, ruined by the scene.
 - After Lillian hugged Papouche goodbye (about 15 years before his death), she told her daughter: "You can't do that to Papouche, it's not our culture here" (see [Papouche](maternal-grandfather.md)).
 - **The Frankfurt bar (1976)**: Béatrice, a young au pair, meets Mark. She wanted a love story with a GI. Details to ask.
+- Today Béatrice phones Lillian about every 3 days, which Christophe says is when she needs something (his reading; Lillian agrees on the need).
 
 ## To clarify
 

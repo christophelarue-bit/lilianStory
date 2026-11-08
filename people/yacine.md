@@ -50,9 +50,11 @@ He became a friend of Lillian although he was first Mohamed's childhood friend. 
 ## Anecdotes and stories
 
 - In Morocco, the country of origin of both friends, he went out with Mohamed's sister (which one, to clarify).
+- **The hidden family (Christophe's reading, Sensitive: to confirm with Lillian before any use in a book)**: Yacine, in Japan, knew that Mohamed had a wife and two children, but Mohamed, his childhood friend, asked him not to tell Lillian. Christophe thinks he was in an ambiguous position, lying by omission as long as Lillian did not ask. Lillian says she never asked him, that he is very transparent, and that he might have told her before.
 
 ## To clarify
 
+- Did Yacine know about Mohamed's wife and children, since when, and what does Lillian think of his silence?
 - Spelling of the name: Yacine or Yassine?
 - Which of Mohamed's sisters did he go out with, and when?
 - Where and when did Lillian meet him, and how did the friendship with her develop?

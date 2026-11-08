@@ -648,7 +648,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 - Sensitive subject (ultimatum, Mark's silence): validate with Lillian the wording and any use in a book.
 
-## [Mohamed](people/mohamed.md) — 20 questions
+## [Mohamed](people/mohamed.md) — 22 questions
 
 
 **Identity and background**
@@ -663,8 +663,13 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - Delay: Mohamed left her alone "about 10 days" before Zouria's visit, and the visit took place "2 weeks" after the abortion. Which is right?
 - When did the marriage really end (year), and was there a divorce?
 
+**Relationship with Lillian and with others**
+
+- The 15 years: about 9 years in New York State, then which cities in which order (Baltimore, Raleigh, Maryland, « Huckamer »)? Where was she when she became a flight attendant (Maryland or Raleigh)?
+
 **Events and stories**
 
+- Contact since 2022: when did he last phone, when did she learn about his wife and two children (2025?), and from whom? Did he ever know about the Rennes man?
 - **To ask Lillian**: in which year did the marriage end, was there an official divorce (date, where), and why at that moment? (Era 05 says 2016; Lillian says « 15 years of marriage » and later « divorced not so long ago » in 2020.)
 - Separation during the flight attendant years: Lillian says she was separated from Mohamed then (2014-2016) and that going home meant going back to Raleigh. Is this the second separation, and when did it start?
 - **To ask Lillian**: the meeting in the dart bar (which city, which year), the evening she locked herself in her car, the hospital, and what she saw in him.
@@ -695,7 +700,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - **To ask Lillian**: when (year), did she tell anyone, and what happened to him afterwards?
 - **To ask Lillian**: was it the week he was off work? Does she know his first name spelling and age?
 
-## [David (New York)](people/david-ny.md) — 6 questions
+## [David (New York)](people/david-ny.md) — 7 questions
 
 
 **Identity and background**
@@ -709,6 +714,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Which in-person meeting is the scene with his father (2002 in New York or about 2018), and what had happened with his father?
 - Yahoo Chat: how did they start, when, and what did they talk about? What was his surname (« Wadsworth »? a street or a surname?) and Chinese name?
 - The 2018 meeting: where, and who travelled? Is he the same David as in Lillian's current contacts?
 - How did she meet him, how long did it last?
@@ -758,7 +764,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - What connection with Lillian: friend, lover, other?
 - How and where did she meet him?
 
-## [Yacine](people/yacine.md) — 6 questions
+## [Yacine](people/yacine.md) — 7 questions
 
 
 **Identity and background**
@@ -772,6 +778,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- Did Yacine know about Mohamed's wife and children, since when, and what does Lillian think of his silence?
 - Which of Mohamed's sisters did he go out with, and when?
 - Where and when did Lillian meet him, and how did the friendship with her develop?
 - Which of his sisters did Yacine go out with?

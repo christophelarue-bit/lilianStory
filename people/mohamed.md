@@ -74,9 +74,17 @@ Husband for 15 years.
 - There are two separations: during the first, Lillian shares a flat for 6 months with [Geaniie](geaniie.md); after the second, she goes out with [Julien](julien.md). Dates to clarify.
 - In 2016, Lillian wants to end the marriage and leave for Hawaii (see [05-02](../periods/05-02-nurse-in-hawaii.md)). They then live near Baltimore, where she keeps working as a nurse for her former boss.
 - **The Alaska dream**: during the marriage Lillian always dreamed of living in Alaska; Mohamed was not interested at all (see [05-03](../periods/05-03-nurse-in-alaska.md)).
+- **What he gave her at the start (Lillian)**: when she met him, he inspired her; at first he was a source of stability, « un second Papouche » and her first real love (Christophe's words). Lillian: « il avait quand même plein de belles qualités », with pros and cons.
+- **Structure of the 15 years (Lillian)**: on paper 15 years together, but about ten in practice. About 9 years in New York State, then 2-3 other cities (Baltimore, Raleigh, and « Huckamer », probably Herkimer, to clarify). In North Carolina they separated for 6 months. Then, in Maryland, she became a flight attendant and was almost never there; between 2014 and 2016 she was hardly ever home, and the last year they were almost flatmates.
+- **Contact since France (2022-2026)**: when she arrived in France in 2022 he still phoned her, even during the time of the Rennes man, but they did not talk about their lives and she never mentioned the Rennes man. She stopped talking to him last winter (2025-2026). She had learned the year before that he had a wife and two children, which Christophe says she experienced as a small betrayal; she says it was progressive and that she is happy for him: « la vie est trop courte pour être malheureux ».
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**Compartmentalising (Christophe's reading)**: he compares Mohamed's double life with Gwen's silos and lies (see [Gwen](gwen.md)): people who split, isolate and sell a presentation, unlike Lillian and Christophe who cannot lie about their feelings. Lillian does not fully agree: Mohamed presented himself as virtuous, whereas Gwen never claimed to be perfect (and Christophe replies that Gwen has 3 or 4 personalities, family, friends, etc.). Lillian does not want to judge Gwen.
 
 ## To clarify
 
+- Contact since 2022: when did he last phone, when did she learn about his wife and two children (2025?), and from whom? Did he ever know about the Rennes man?
+- The 15 years: about 9 years in New York State, then which cities in which order (Baltimore, Raleigh, Maryland, « Huckamer »)? Where was she when she became a flight attendant (Maryland or Raleigh)?
 - **To ask Lillian**: in which year did the marriage end, was there an official divorce (date, where), and why at that moment? (Era 05 says 2016; Lillian says « 15 years of marriage » and later « divorced not so long ago » in 2020.)
 
 - Separation during the flight attendant years: Lillian says she was separated from Mohamed then (2014-2016) and that going home meant going back to Raleigh. Is this the second separation, and when did it start?

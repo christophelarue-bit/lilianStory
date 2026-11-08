@@ -53,9 +53,12 @@
 - **His family**: his mother spoke only Chinese; his family did not accept her, judging her too bohemian, a bit lost, without a life plan, « pas très stable ». Lillian says they were right: she was lost in New York. For him it was almost a pride that a white girl was interested in him; he felt part of a minority, like Filipinos and Mexicans, uprooted.
 - **Since**: they met again in person in about 2018 (Lillian was already in Maui, to clarify: he came, or she?), well after Mohamed. They stayed in contact on Facebook, then WhatsApp, even during the marriage.
 - Lillian calls him her first boyfriend (« mon premier petit ami était chinois »), whereas the files said « a little flirtation » (to clarify).
+- **First love, and the break-up of the in-person meeting**: Lillian calls him her first love (« mon premier amour »), a rather childish one, about a year and a half long (the chat or the whole story? to clarify). She had drawn his portrait. She idealised him from Syracuse (at 18-19, the « amour de 14 ans » of Christophe's words), and he was « mon escape »: both were dreamers. They never lived together: he always lived with his parents. When they met in person, she was shocked by the way he spoke to his father (cynical, no respect); she told him that the exchange was not pleasant and that she would go home. He was offended: « comment t'oses me juger alors que tu sais pas ce que ça a été de m'occuper de mon père ces dernières années ? ». Lillian concedes he was right that she did not know how hard it had been, but says « tu ne parles pas comme ça à tes parents ». They were no longer on the same wavelength. Which meeting this is (2002 or 2018) is to clarify.
+- Christophe: this was an « amourette », he was too young; Mohamed was her first real love. Lillian's own word « first love » for David is kept as she said it.
 
 ## To clarify
 
+- Which in-person meeting is the scene with his father (2002 in New York or about 2018), and what had happened with his father?
 - Yahoo Chat: how did they start, when, and what did they talk about? What was his surname (« Wadsworth »? a street or a surname?) and Chinese name?
 - When did they meet in person in New York (January 2002), how long did the relationship last, and where did she live?
 - The 2018 meeting: where, and who travelled? Is he the same David as in Lillian's current contacts?
