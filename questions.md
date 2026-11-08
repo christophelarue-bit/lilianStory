@@ -162,7 +162,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - July 2018: why did she go to Croatia with Lillian just after the reunion, and how did Thomas's messages affect her?
 - Where did she live before and after her move to care for Mamouche (2018-2021)? Why does she say that she does not need big trips (mass tourism), and how does she see Lillian's way of life?
 
-## [Gwen](people/gwen.md) — 32 questions
+## [Gwen](people/gwen.md) — 33 questions
 
 
 **Identity and background**
@@ -182,6 +182,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) Attestations: which facts did Lillian witness herself (dates and places of her visits), was she present at Christmas about 2008, and which third parties (school, doctor, shelter) could also testify?
 - (Draft, rule 6) The custody decision: what exactly did the judge decide, when, and what is next (appeal, visits)? Where is Gwen living and with whom (Blois)?
 - (Draft) The forms from Béatrice: for what procedure, and what are Lillian and Xavier asked to testify?
 - The women's shelter: when (about October 2018), where, how long, and how did she get out? And the years in Vendôme?
@@ -304,7 +305,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 - His partner [Cécile](people/cecile.md): since when, and who adopted Eliot? Did he want custody of Eliot at the start (Christophe says he did not necessarily want it)?
 - His version of the separation and the ruling; Gwen's version?
 
-## [Thomas (Gwen's partner)](people/thomas.md) — 8 questions
+## [Thomas (Gwen's partner)](people/thomas.md) — 9 questions
 
 
 **Identity and background**
@@ -317,6 +318,7 @@ Asked to Lillian, not yet answered. The answers go into the people, period and e
 
 **Events and stories**
 
+- (Draft, rule 6) Attestation: was Lillian present at Christmas about 2008, and what exactly were the towel incident and its reason?
 - (Draft, rule 6) Where exactly is the house (Luz?) and what does he do now? Did he and Gwen separate in 2018, and is he the one the children now live with?
 - Are he and Gwen still together? If not, when did they separate?
 - What was his financial situation exactly, and did he support the family?

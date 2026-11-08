@@ -67,8 +67,13 @@
 - **The 2018 family reunion (July 2018, Sensitive)**: during a lunch on the terrace of the house, he and Gwen go inside and fight loudly; he shouts and insults the family (« une famille de dégénérés »). He then leaves for two days of hiking in the mountains with Alexandre. At the table, he hits Alexandre with a towel (about his behaviour at table, to clarify). He then sends messages to Béatrice saying that she should manage Gwen and that she will see she cannot manage her money.
 - According to Lillian, he is close with his money and holds somewhat far-right views (to be confirmed with Lillian; her opinion, not a fact).
 
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**Attestation (draft, 2026)**: a draft witness statement by Lillian lists only what she saw herself (July 2018 lunch and insults, towel blow, « vieille croûte » remark, Christmas about 2008 if present, absences at sea). His political views and money habits are left out. See [Gwen](gwen.md).
+
 ## To clarify
 
+- (Draft, rule 6) Attestation: was Lillian present at Christmas about 2008, and what exactly were the towel incident and its reason?
 - (Draft, rule 6) Where exactly is the house (Luz?) and what does he do now? Did he and Gwen separate in 2018, and is he the one the children now live with?
 - Surname, age, rank, shipping company?
 - Are he and Gwen still together? If not, when did they separate?

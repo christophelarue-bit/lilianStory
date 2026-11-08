@@ -126,8 +126,13 @@ Her chaotic life has always affected Lillian and the family (details to be compl
 - **The 2018 family reunion (July 2018, Sensitive)**: she brings the whole family together (Béatrice, Lillian, Xavier, Mark) in July 2018, for the birth of Clément. A big couple fight with Thomas breaks out during the lunch: she cries, as does Béatrice. See [Lillian](lillian.md).
 - Around 1995, Gwen and Lillian (16) go on holiday to New York to see their father (when exactly, and was it the city or New York State, are to be clarified).
 
+- **Sensitive: to confirm with Lillian before any use in a book**
+
+**Attestations for the custody case (draft, 2026)**: two draft witness statements were prepared for Lillian to sign if she agrees: one on Gwen as a loving mother (hikes, garden and hens, cooking, protecting Julia, persistence with Eliot, support in family deaths), one on Thomas (July 2018 lunch, « vieille croûte » remark, Christmas about 2008, long absences at sea). Only facts Lillian saw herself are used; Christophe's opinions are left out. A lawyer should review them. See [Thomas](thomas.md).
+
 ## To clarify
 
+- (Draft, rule 6) Attestations: which facts did Lillian witness herself (dates and places of her visits), was she present at Christmas about 2008, and which third parties (school, doctor, shelter) could also testify?
 - (Draft, rule 6) The custody decision: what exactly did the judge decide, when, and what is next (appeal, visits)? Where is Gwen living and with whom (Blois)?
 - (Draft) The forms from Béatrice: for what procedure, and what are Lillian and Xavier asked to testify?
 - The women's shelter: when (about October 2018), where, how long, and how did she get out? And the years in Vendôme?
