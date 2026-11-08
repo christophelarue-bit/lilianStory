@@ -40,12 +40,17 @@
 - The Brittany Ferries experience (to clarify).
 - Lillian hides her suffering from her family.
 - Gwen's children (first names to ask) need looking after right after the abortion.
+- **Lillian's state (Lillian, Sensitive)**: living in Dinan, Lillian says this second abortion (« avec Lorena », the name is unclear, probably Gwen's 2021 one) almost broke her. Her mother did not realise, nor anyone else: she was not well, and her sister asked her to look after the children and went to the abortion. She talked to a psychologist online, based in England (she wanted to speak English), paid by the hour, but it did not help and she felt stuck.
+- **Tunisia**: a trip to Tunisia, paid by herself, « m'a ramenée à la vie » (a pilgrimage in Christophe's word); she does not regret it. Then Greece with [Eliot](../people/eliot.md) to get over José (see [06-03](06-03-greece-with-eliot.md)).
 
 ## Landscapes and atmosphere
 
 *(to be completed)*
 
 ## To clarify
+
+- Tunisia: when, how long, with whom, and where? And the online psychologist: for how long, and which year in Dinan?
+- « Lorena »: who is she (Gwen's abortion?) and is the « second abortion » that almost broke Lillian Gwen's?
 
 - Lillian does not remember exactly when she returned to France from Alaska or where she landed first: to ask again later (see [05-03](05-03-nurse-in-alaska.md)).
 

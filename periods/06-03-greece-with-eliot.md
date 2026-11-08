@@ -35,6 +35,7 @@
 
 - Since 2018, Lillian takes a trip to Greece with her nephew [Eliot](../people/eliot.md). She needs to leave after the separation from [José](../people/jose.md) and suggests that Eliot, still young (16), come with her.
 - It is Eliot's first trip outside France and his first flight. Lillian wants to digest the separation; Eliot wants to enjoy a trip and discover his aunt from the United States, whom he hardly knew.
+- **Why Greece (Lillian)**: to get away from the pain of José. She listened to the same sad love songs in a loop. Eliot, 16, reassured her (« t'inquiète, ça va passer »), seeing her pain; Christophe calls him hypersensitive. Christophe once mentioned Egypt; Lillian says Greece (to clarify).
 - They share a good moment of complicity, which brings them closer. Lillian likes to live holidays with her nephews and nieces (Eliot in Greece, [Julia](../people/julia.md) in Corrèze, and later [Clément](../people/clement.md) and [Alexandre](../people/alexandre.md)).
 
 ## Landscapes and atmosphere
