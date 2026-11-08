@@ -56,6 +56,7 @@ Lillian knew him little as her nephew from the United States. In about 2021-2022
 - **Reconnecting with Gwen (Lillian's view)**: around 14-15 he no longer wanted to see his mother. Gwen took the initiative for years: driving 300 to 400 km, phoning, trying to make up and talk. Today their relationship is « very, very strong », and Lillian is touched by it. At every holiday Gwen dropped the three younger children at Thomas's and went to Saint-Brevin, sleeping in her car when she had no money, to see him; she calls him her « filleul ». See [Gwen](gwen.md).
 
 - July 2018: he is present at the family reunion at his mother's, aged about 13 (see [Lillian](lillian.md)). Was it with Aymeric's agreement?
+- On the Greece trip, when Lillian was in pain over José and played the same sad songs in a loop, Eliot (16) reassured her that it would pass (Lillian and Christophe; Christophe calls him hypersensitive). See [06-03](../periods/06-03-greece-with-eliot.md).
 
 ## To clarify
 

@@ -51,6 +51,7 @@ He became a friend of Lillian although he was first Mohamed's childhood friend. 
 
 - In Morocco, the country of origin of both friends, he went out with Mohamed's sister (which one, to clarify).
 - **The hidden family (Christophe's reading, Sensitive: to confirm with Lillian before any use in a book)**: Yacine, in Japan, knew that Mohamed had a wife and two children, but Mohamed, his childhood friend, asked him not to tell Lillian. Christophe thinks he was in an ambiguous position, lying by omission as long as Lillian did not ask. Lillian says she never asked him, that he is very transparent, and that he might have told her before.
+- **Japan (2014-2016, Lillian's account)**: Lillian saw him again about 10 years after the 2006 abortion, in Japan, while she was a flight attendant. He was very angry at how Mohamed had behaved during the abortion and said he would have punched him if Mohamed had been there. See [Mohamed](mohamed.md).
 
 ## To clarify
 
