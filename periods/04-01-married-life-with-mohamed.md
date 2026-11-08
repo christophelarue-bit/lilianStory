@@ -89,12 +89,15 @@
 - There are « plein d'histoires » [lots of stories] in these 15 years: 1 to 2 interviews are needed.
 
 - **The mosque and the guests**: Mohamed is very religious and goes often to the mosque. Friends come to the house with their wives; Lillian is the only unveiled woman allowed in the men's room, which makes some of the others, who stay in the kitchen, jealous.
+- **Shape of the 15 years (Lillian)**: about 9 years in New York State, then Baltimore and Raleigh (and « Huckamer », probably Herkimer: to clarify). A 6-month separation in North Carolina, then a Maryland period as flight attendant (2014-2016) when she is almost never there; the last year they are almost flatmates. So 15 years on paper, about ten in reality. See [Mohamed](../people/mohamed.md).
 
 ## Landscapes and atmosphere
 
 *(to be completed)*
 
 ## To clarify
+
+- Lillian says about 9 years in New York State, whereas earlier notes put the first years in Syracuse and Albany and then Raleigh: where and when exactly, and where was she when she became a flight attendant (Maryland or Raleigh)?
 
 - Christmas 2008 in Saint-Brevin: was Lillian in France at that Christmas (she thinks she went to the United States in 2008)? Alexandre would be 18 in 2026 if born in 2008, whereas Lillian first says 16: which year was he born?
 
